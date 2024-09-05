@@ -5,7 +5,7 @@ import json
 with open('sites.tsv', 'r') as file:
     reader = csv.DictReader(file, delimiter='\t')
 
-    cookies_total = dict[tuple, set]
+    cookies_total = {}
     for row in reader:
         domain = row['domain']
 
