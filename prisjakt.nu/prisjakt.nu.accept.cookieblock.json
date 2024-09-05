@@ -1,0 +1,930 @@
+{
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475917764,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733251917.763064,
+                        "expiry": 7776000.763063908,
+                        "value": "GygsPZdyKXlhThEE5FMrxopmuZTnwanZvOPZ3U8BKpXAOp5YbhS5XduV6vhIfISyeh5UJyU_LWCs0EdqmSrdC0nI973vUeiuThmgy6-sq0E.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475917763
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.055140018,
+                        "value": "BwbRzyhb_KxjHirmLZ0voAMfNj7BUJKp5KdAt89a8W-3ZIlC78_RwFX-RkfQOfBqpn7Pr4m9cKdDNzq68iQICplRIobgrniM3FNffbcvJCg.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475918056
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.056579113,
+                        "value": "GygsPZdyKXlhThEE5FMrxopmuZTnwanZvOPZ3U8BKpXAOp5YbhS5XduV6vhIfISyeh5UJyU_LWCs0EdqmSrdC0nI973vUeiuThmgy6-sq0E.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475918063
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475918058,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733251918.055259,
+                        "expiry": 7776000.055258989,
+                        "value": "ChkIwcqKARAKGAEgASgBMM3Y4rYGOAFAAUgBEM3Y4rYGGAA.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475918057
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475917765,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035917.763116,
+                        "expiry": 34560000.76311588,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475917765
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.05529404,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475918059
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.05671096,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475918064
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475917766,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733251917.763146,
+                        "expiry": 7776000.763145924,
+                        "value": "5988736055044790319",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475917765
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.055342913,
+                        "value": "8448400388353043719",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475918059
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.056803942,
+                        "value": "5988736055044790319",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475918064
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475917178,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725476817.173427,
+                        "expiry": 900.17342710495,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475917177
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.1769979000092,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475917181
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.4584019184113,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475917459
+                    }
+                ]
+            }
+        }
+    },
+    "pji.nu": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".pji.nu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475906065,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725477706.065001,
+                        "expiry": 1800.0650010108948,
+                        "value": "uZfvgLnv0BgoCovMirEGh2iZavXQFWs2rBlbm9YZSgQ-1725475906-1.0.1.1-rPESQBIdseZdqqiOE9xE4XXBa4IRrlBcbplLlQGnV08GUJEBFQ6y0AFIXwJw46DOWdh5aZELAYGHgoG64rwF0A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475906065
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.0675361156464,
+                        "value": "nDHRIpBsAFH97lkIlq66Pyq22FcR4ZAOdRRMPCEegNM-1725475906-1.0.1.1-K46Bc3_D9cPa8u_r.kbnmzFRY77ZP_YYJzBd439SN9lGEgZPbgIjeSPE6xImzaVtPZ0rmHivrFG5.rjJb6wwXQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475906068
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.1984989643097,
+                        "value": "1_NHF4jmfz6l3zjS63LOpg3YwtlyjvP4MVOua_q7RHY-1725475906-1.0.1.1-PaNRXl2OA1OkEW0ECGJM4J4gc08lr1UFyhMT8TwMEv7dF9DEHL_SPwmL0bWxfUEyuQf.mpP4nj9THnJRQ0cnzg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475906198
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.210998058319,
+                        "value": "HqAd2Q8bngJRo_YjtzvnBOdj_nZQtUYq5xQoWEj7c9Y-1725475906-1.0.1.1-l1Y2ffHMjPkA605Iz9Xr9.YpH0DCJYGMFGxGhE.dgXiRDIGQ.S132c.jGPASA62axtxnTmOe3LymzrjBlwIQ_Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475906211
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.211333990097,
+                        "value": "eOdBbMr5z7vExfZd7ElR2c2a3bKBqdbpaF3sVwYwnuk-1725475906-1.0.1.1-SFi_F6jk.wKu2T05doDDOY8FP0hrekMC6tAisvEknivKhy.bZQFjp4MC14uLez2SHf8nU8qMshFS35sxiJppSg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475906211
+                    }
+                ]
+            }
+        }
+    },
+    "prisjakt.nu": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475903101,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725477703.078856,
+                        "expiry": 1800.0788559913635,
+                        "value": "qY4Bd8NeUjft6A.jIUD3Mq7zK4jRKyNZ_hh_B0OxhWs-1725475903-1.0.1.1-ZIOubDoWCn.TSPchPdAP9N6StLqxBkNFbFZvwRBSyuEjKDvV_4nLJ0gslENl9lBh5_adrk4Vck7_Gxo2x3raUQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475903101
+                    }
+                ]
+            },
+            "_cmp_advertising": {
+                "name": "_cmp_advertising",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475916522,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027916.519461,
+                        "expiry": 15552000.519460917,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475916521
+                    }
+                ]
+            },
+            "_cmp_analytics": {
+                "name": "_cmp_analytics",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475916520,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027916.519276,
+                        "expiry": 15552000.519275904,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475916519
+                    }
+                ]
+            },
+            "_cmp_marketing": {
+                "name": "_cmp_marketing",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475916511,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027916.509344,
+                        "expiry": 15552000.509344101,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475916510
+                    }
+                ]
+            },
+            "_cmp_personalisation": {
+                "name": "_cmp_personalisation",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475916523,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027916.5196,
+                        "expiry": 15552000.519599915,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475916522
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475916513,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760035916.510691,
+                        "expiry": 34560000.51069093,
+                        "value": "GA1.1.191199138.1725475909",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475916512
+                    }
+                ]
+            },
+            "_ga_LB08D4LREX": {
+                "name": "_ga_LB08D4LREX",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475916515,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.53951502,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475916539
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.53983998,
+                        "value": "GS1.1.1725475908.1.1.1725475916.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475916540
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.12027192,
+                        "value": "GS1.1.1725475908.1.1.1725475918.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475918120
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.13875198,
+                        "value": "GS1.1.1725475908.1.1.1725475918.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475918139
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.144556046,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475918144
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.14475298,
+                        "value": "GS1.1.1725475908.1.1.1725475918.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475918145
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.16071892,
+                        "value": "GS1.1.1725475908.1.1.1725475918.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475918161
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.16953111,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475918170
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.16998291,
+                        "value": "GS1.1.1725475908.1.1.1725475918.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475918171
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.173504114,
+                        "value": "GS1.1.1725475908.1.1.1725475918.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475918173
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475916532,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733251916,
+                        "expiry": 7776000,
+                        "value": "1.1.2070380832.1725475917",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475916531
+                    }
+                ]
+            },
+            "_pulse2data": {
+                "name": "_pulse2data",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475911004,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035911.000608,
+                        "expiry": 34560000.00060797,
+                        "value": "%2Cv%2C%2C1725476810999%2C%2C%2C0%2C%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475911003
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.08882189,
+                        "value": "32e41c02-355e-49ad-ba93-061ce437ffe4%2Cv%2C%2C1726685513000%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDktMDRUMTg6NTE6NTNaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA0VDE4OjUxOjUzWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..Ccmk5w6CFR_Ed5e3m_WLSw.ikNl3gnAdXG7lPgbX3JPhInf5pc3AT3ae-jU674nK0_sch-FOEfQulZ1MWrO-ZLIdrXFLQFjphu1buUHvHshESPbQAlKoGuYzH77tebdr2h8-qOa5eBGFzKiQjLX3Bk4oT4HckHuRHzcRwf1YvdkETXldzdQGUa8kxEEoXQxXbL9HwD0S9J2FT4I4bzTArmDDmW-3_DqFZcYJfpE1AMqyv79tL2ikWJhOuSqYKGyQUU.6ZZp_UOIscK4q2opwXoFZA%2C%2C0%2Ctrue%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475913092
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.56605792,
+                        "value": "32e41c02-355e-49ad-ba93-061ce437ffe4%2Cv%2C%2C1725475916565%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDktMDRUMTg6NTE6NTNaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA0VDE4OjUxOjUzWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..Ccmk5w6CFR_Ed5e3m_WLSw.ikNl3gnAdXG7lPgbX3JPhInf5pc3AT3ae-jU674nK0_sch-FOEfQulZ1MWrO-ZLIdrXFLQFjphu1buUHvHshESPbQAlKoGuYzH77tebdr2h8-qOa5eBGFzKiQjLX3Bk4oT4HckHuRHzcRwf1YvdkETXldzdQGUa8kxEEoXQxXbL9HwD0S9J2FT4I4bzTArmDDmW-3_DqFZcYJfpE1AMqyv79tL2ikWJhOuSqYKGyQUU.6ZZp_UOIscK4q2opwXoFZA%2C%2C0%2Ctrue%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475916567
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.89820695,
+                        "value": "32e41c02-355e-49ad-ba93-061ce437ffe4%2Cv%2C%2C1726685516000%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDktMDRUMTg6NTE6NTNaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA0VDE4OjUxOjU2WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..jiqgJtRHBVfWxpdffshO3Q.bSIwnfbyeRC6L0-1Cyh9HCZVPJ99J-k30J57IYEwz8i35gjZI_8I9-fm3n3AsErVevLrBT39M_0ou1zcFEXBUJk6lLZLsbEz_dZJmksOHB2sUkz5Y4nlypOtVgUbyqLSAycLCHksf67-xJ1l3RGumS6l5L8ss_8tOT_bgVUpaKZrBWc5JXOdedQiSKyVtrM8OYF4ZDPLoLrDMfw3w770hATtaS_DZWkT3YDY8sfRHTqbMtPeNLsqMUwN-RsSUlkLc92ysINzdx9SnDddvKor1gJAOxCVRO4XzfwtrpIP2nu6Kio2PdB1Jb0T40I4b1SB6Vj3_A-KD757p2-0SAYlgw.8EehR43TXybKJiNxi8jjOw%2C%2C0%2Ctrue%2C%2CeyJraWQiOiIyIiwiYWxnIjoiSFMyNTYifQ..v_bM_FamZFcz-I9qxJsfzGfdRq8UtwOSRPtKjm9IL24",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475916899
+                    }
+                ]
+            },
+            "_pulse2test": {
+                "name": "_pulse2test",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475911002,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725562311,
+                        "expiry": 86400,
+                        "value": "SQDqs09OViChjDes",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475911000
+                    }
+                ]
+            },
+            "_pulsesession": {
+                "name": "_pulsesession",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725475913095,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725477713,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3Adf7f33ec-a75d-47fd-b445-072d3abc90a9%22%2C1725475913091%2C1725475913091%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475913092
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3Adf7f33ec-a75d-47fd-b445-072d3abc90a9%22%2C1725475913091%2C1725475913092%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475913097
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3Adf7f33ec-a75d-47fd-b445-072d3abc90a9%22%2C1725475913091%2C1725475916902%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475916903
+                    }
+                ]
+            },
+            "cf_clearance": {
+                "name": "cf_clearance",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475907499,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757011907.498903,
+                        "expiry": 31536000.498903036,
+                        "value": "25VcsxdcLvPHsYqexoU.NkUE8pdUk2N6vYWxZYdBPfQ-1725475907-1.2.1.1-ti45VC_PlYeR7V8vS3SVzYLK88nqnKAXozgNvc9wBniHhYz8XiRmrg3rHuwSVCO2NJQkGf9Jkaej1EfdGj.oyNJZAYK_1GPJ3cdu3PQ_dIKjr_1Xy1jJQm6iJ77fdaOCmzVQ8.84yR8GvmPVj.g3qsOnyHJTBJJmypVzIrP8ioNewqByYoj8aYK.a4BXCjdVC03gEffgqxmkVEhgx1mOsUJr_MlNeKaLzoDYCWnVxRsVJyTOH4Cel2bG8CQiCL1QSx8TmUaLQ4zIlyqz6z3sio0GEz0ew8q.btiAnl8qhOGGQccEe8.czEc2mCCNLkmxwcMcGzLL6_YU65y3uCCc1J3vIpsZe8swapBTzFn.30cTjQhNooq5o4IF4mLHW1XQunoPfQrSk8dQYa3oIa8C2Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475907499
+                    }
+                ]
+            },
+            "consentDate": {
+                "name": "consentDate",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475916523,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741027916.520161,
+                        "expiry": 15552000.520160913,
+                        "value": "2024-09-04T18:51:56.510Z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475916523
+                    }
+                ]
+            },
+            "consentUUID": {
+                "name": "consentUUID",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475911680,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741027911.679486,
+                        "expiry": 15552000.679486036,
+                        "value": "2087246e-9915-4b25-ab77-21f7baedb192",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475911679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.520076036,
+                        "value": "2087246e-9915-4b25-ab77-21f7baedb192_35",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475916523
+                    }
+                ]
+            },
+            "cto_tld_test": {
+                "name": "cto_tld_test",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475917786,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725479517,
+                        "expiry": 3600,
+                        "value": "woot",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475917785
+                    }
+                ]
+            },
+            "pj:session.sig": {
+                "name": "pj:session.sig",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475903101,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035903.078765,
+                        "expiry": 34560000.078764915,
+                        "value": "jg6oBrzYDZmW7nXpAvCumG7t_24",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475903092
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.193711996,
+                        "value": "iAT1uvPrcvzmfpqpPwg-AjiVWj8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475906194
+                    }
+                ]
+            },
+            "pj:session": {
+                "name": "pj:session",
+                "domain": ".prisjakt.nu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475903091,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035903.07791,
+                        "expiry": 34560000.07790995,
+                        "value": "eyJpZCI6IjBmNjdkYWNiLTdmN2ItNDE4Yy1hMzU2LTk4MWZhZWQ4NGVkMiIsIl9leHBpcmUiOjIwNDA4MzU5MDMwODMsIl9tYXhBZ2UiOjMxNTM2MDAwMDAwMH0=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475903081
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.193636894,
+                        "value": "eyJpZCI6IjBmNjdkYWNiLTdmN2ItNDE4Yy1hMzU2LTk4MWZhZWQ4NGVkMiIsInZpZXdlZEV4cGVyaW1lbnRzIjp7Im1vYmlsZS1jb250cmFjdHMiOnsidmFyaWFudCI6InNob3cifSwic3BvbnNvcmVkLWluLXByb2R1Y3QtcGFnZSI6eyJ2YXJpYW50IjoiYmFzZWxpbmUifSwibGFuZGluZy1wYWdlLXNwcmluZy1iYW5uZXIiOnsidmFyaWFudCI6InNob3cifSwiYXJ0aWNsZXMtZnJvbS1zYW5pdHkiOnsidmFyaWFudCI6InNob3cifSwibW9iaWxlLWNvbnRyYWN0cy1taW5pLW9mZmVybGlzdCI6eyJ2YXJpYW50Ijoic2hvdyJ9LCJ1c2UtbmV4dGpzLXByb3h5Ijp7InZhcmlhbnQiOiJlbmFibGVkIn19LCJfZXhwaXJlIjoyMDQwODM1OTA2MTUwLCJfbWF4QWdlIjozMTUzNjAwMDAwMDB9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475906194
+                    }
+                ]
+            },
+            "__rtbh.lid": {
+                "name": "__rtbh.lid",
+                "domain": "www.prisjakt.nu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475917510,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757019117,
+                        "expiry": 31543200,
+                        "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22pl9v2S98EDnLrj6ShmHR%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475917508
+                    }
+                ]
+            },
+            "__rtbh.sid": {
+                "name": "__rtbh.sid",
+                "domain": "www.prisjakt.nu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475917512,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757019117,
+                        "expiry": 31543200,
+                        "value": "%7B%22eventType%22%3A%22sid%22%2C%22id%22%3A%220f67dacb-7f7b-418c-a356-981faed84ed2%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475917511
+                    }
+                ]
+            },
+            "criteo_write_test": {
+                "name": "criteo_write_test",
+                "domain": "www.prisjakt.nu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475917786,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725475927,
+                        "expiry": 10,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475917786
+                    }
+                ]
+            },
+            "pj:cfexpuid": {
+                "name": "pj:cfexpuid",
+                "domain": "www.prisjakt.nu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475905127,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730659903.124505,
+                        "expiry": 5183998.124505043,
+                        "value": "ed438e8e-81d5-4bdf-a3e4-7ff6850cbeda",
+                        "same_site": "lax",
+                        "timestamp": 1725475905125
+                    }
+                ]
+            },
+            "pj_sid": {
+                "name": "pj_sid",
+                "domain": "www.prisjakt.nu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475912964,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725477712.961442,
+                        "expiry": 1800.9614419937134,
+                        "value": "fb2f9a07-a3a3-4443-a626-760deba88fae",
+                        "same_site": "lax",
+                        "timestamp": 1725475912962
+                    }
+                ]
+            }
+        }
+    },
+    "schibsted.com": {
+        "/": {
+            "cis-jwe": {
+                "name": "cis-jwe",
+                "domain": ".schibsted.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475913091,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757011913.08762,
+                        "expiry": 31536000.08762002,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDRUMTg6NTE6NTNaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA0VDE4OjUxOjUzWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..IVideYKPUVfeY2tzZEz5yw.q3hlnP05qQRDxnR13KcGSPlBZnMYdxc8gBDEyRgM_jN8SkFxLJewZ_hRHU2lPZ5i6nZkQipeN7bVl7UFT7ZIOg.jPz7-cWC3BRZohRAp4AjQg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475913088
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.895350933,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDRUMTg6NTE6NTNaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA0VDE4OjUxOjU2WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..Rji2WngWO59BA1Amj9Uv9w.sH6vYIqqptn0VLIWTKP3_pZ_SBUB7vtJ3sGo6CusYG1ofGtrOaRGkmx-SMAzSsM6lrxROlu6LNPkh5YY9gxl_g.KB96mv8StwAbn6zjUrmwnw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475916897
+                    }
+                ]
+            }
+        }
+    }
+}

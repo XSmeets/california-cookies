@@ -1,0 +1,780 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481558562,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725482458.558236,
+                        "expiry": 900.5582358837128,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481558559
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.5615971088409,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481558570
+                    }
+                ]
+            }
+        }
+    },
+    "tiktok.com": {
+        "/": {
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".tiktok.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481558504,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759177558.501616,
+                        "expiry": 33696000.501616,
+                        "value": "2lcZvuACZAzmyMSV2tWdAMsvcal",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481558502
+                    }
+                ]
+            }
+        }
+    },
+    "waitrose.com": {
+        "/": {
+            "IR_12163": {
+                "name": "IR_12163",
+                "domain": ".waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481557208,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725481557202%7C0%7C1725481557202%7C%7C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481557206
+                    }
+                ]
+            },
+            "IR_gbd": {
+                "name": "IR_gbd",
+                "domain": ".waitrose.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481557206,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "waitrose.com",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481557206
+                    }
+                ]
+            },
+            "_abck": {
+                "name": "_abck",
+                "domain": ".waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481552454,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017552.435279,
+                        "expiry": 31536000.435278893,
+                        "value": "FE85D959874446D50A180F4B3EFC5401~-1~YAAQnLvOFwaCB6SRAQAAmgm3vgztrPzrQ7suJlHJOepfczdRGsCjeBgFRFKg4AWNbfPOGFxCX6tYK5Csd7/0I+hJEaL99dXUfqeZw61m3Bo0EAFkHid2F9UN5L9IR4aZlcqxplgzD5WuHFPLizYKXGYoHOsSLsiJFUTO5ro3GKuT+e6qhhJtu7XDJLkJ7eaKbV5HlKphykREII9Og+tNOLmdSVDpXHhIbuNvnt1/cezYBmbLZtzznKLxpPhkguQPVJ3rSO4U6YJ20Pjg4jwrdqGinbizpPAwR/sRp/ku9DKBaYOggITVNDs7EBviAt7VwQwIO0ajvGcoPDe2nMfuituZtmgxnNkB09KrUh8obhG0bfXk68jLASRznDuhT8L8r9PI5tSTvWylEL+IACJQqCJ9jxnMrV/ovUbmHeYIZw==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481552452
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.287576914,
+                        "value": "FE85D959874446D50A180F4B3EFC5401~-1~YAAQnLvOFy+CB6SRAQAAvQy3vgyNFIlNNDrRKLfx216avvAobTeg4AwO4efTyFIG71eTvS+LY49USozEn3OM1dZUbDOwK5BPEYlVeaqXw13kkvokurnzV8FtWh1ciLdf/AMrwgvTD+96n2KkvMcg0oBIlU3ujF3g1iowbMTmHTk7MHbmsn8smh559gZdNb3vW12jc3fVriJycivqT7tOOOqRXdxMi1xbpI2Ij7VKJRDYag6NW+UPx0s3EQKS5J2+sh9gkiHFdjfNgsc7lFQoiPV3Jtsa4bvJNnjfsTSiDeLySWQ3Q8LJYDVY654PNXpMN+/4yKGWFzbU0svpe+OKed7LUgYqGSBmNrSQ+XPd/vCIGK+Er0Bv2LkTAoySnp+2ua331cKrcqktNpClbIo3oEgGYnzYHzg77RK90sgiiqkIFUvvfoTko6l0YwVa~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481553288
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.203965902,
+                        "value": "FE85D959874446D50A180F4B3EFC5401~0~YAAQnLvOF1yCB6SRAQAAhRC3vgyV6MRhI2gjc70UDy4NAWk81ibFGIecm8dRxicEr0UuHVhV0lqfmsWQcLQdnD7YBkhnOc9wRpcqvRjZ4r+P5GDr4NzqMQ6yFE1gIaiakBGTcbVW4LqRZvuUKoWyF5/mERE2xAnxSFXqLHWIYpCSRaYZ1uy4DFGtRc1cyjUfstNWgR4V3a0c1GUnEyo7XG7cUQIWYO6RUb08j+wM2c/wq4NnU+BKf0f4JrHB+RPQfNagEhn5vE/zGz4FuvhCP6hBPX8AwetS6flFdaqQ6q3YL4FLvghAD4rdZTWV9D/JmBAwFYo+5pzG3PMjAPA1CtzRbnNEsRL/Is4oC1Ta4FvH0QWbfGZcbA1xAkjcNCzYHUFXx6nutOx5fhKTXgTyNkp97s5R/s0rpv+NNZAYyhBIjhw9fc9S5UOrgVEwzqlhT/5yuofYqxxUwEE=~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481554205
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.2840209,
+                        "value": "FE85D959874446D50A180F4B3EFC5401~0~YAAQnLvOF16CB6SRAQAA1RC3vgwWhOEpXY772Z6+wWzzP8VZQD+DZmW6r3/tUvwyGtK4h0rK86e5OtwEdAYp5/ziDE+yJff2/2G/uwc5ecLtmkt0ViEdVzaXLudy2LCR2UaSnivyXmHLHSJ2/1YZejx8QwVO9LONbyr4wQh130G1pHvydyDtTzaDlgjH6Lj38UhEfQTHwcbyA6a1BQ0AP/0kAcyNcMceprfw9zHlAcRUyz2iUNfWUjG6G9Oi8/piCMxB1xTnbHJbYAMwxMpMCGtXhRRsuNqXp/TIvAE3zyWBaC8Z6LBhuUnLLo67vOa2GUbVtm052iAS6gs7ec4bbN+n2vw7IAc+z0YwIYAY3BzntsRlbv8SkV5rysLI7u2rZhhS+rSIkz4ZoV/u04kdOqbAmHcgxLny/nIbKY24Xy9asclFXfdnhgQ6nwidh1NjozCiCEAfiyww0eI=~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481554285
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".waitrose.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481557934,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041557.93165,
+                        "expiry": 34560000.93164992,
+                        "value": "GA1.1.1952300127.1725481558",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481557933
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.98764801,
+                        "value": "GA1.1.1952300127.1725481558",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481557989
+                    }
+                ]
+            },
+            "_ga_8YN3DG5SKT": {
+                "name": "_ga_8YN3DG5SKT",
+                "domain": ".waitrose.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481557988,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041557.987367,
+                        "expiry": 34560000.987366915,
+                        "value": "GS1.1.1725481557.1.0.1725481557.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481557988
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.00146389,
+                        "value": "GS1.1.1725481557.1.0.1725481557.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481558001
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.00501108,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481558005
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.0051949,
+                        "value": "GS1.1.1725481557.1.0.1725481558.59.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481558005
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.009078026,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481558009
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.009283066,
+                        "value": "GS1.1.1725481557.1.0.1725481558.59.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481558009
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.01344395,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481558013
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.01364493,
+                        "value": "GS1.1.1725481557.1.0.1725481558.59.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481558014
+                    }
+                ]
+            },
+            "_ga_CBFP917FW0": {
+                "name": "_ga_CBFP917FW0",
+                "domain": ".waitrose.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481557933,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041557.931384,
+                        "expiry": 34560000.93138409,
+                        "value": "GS1.1.1725481557.1.0.1725481557.0.0.1353179149",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481557932
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.10365605,
+                        "value": "GS1.1.1725481557.1.0.1725481559.0.0.1353179149",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481559104
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".waitrose.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481557609,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733257557,
+                        "expiry": 7776000,
+                        "value": "1.1.2121398845.1725481558",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481557609
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776001,
+                        "value": "1.1.2121398845.1725481558",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481557946
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481552456,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725488751.435307,
+                        "expiry": 7199.435307025909,
+                        "value": "4EA28DEB22429A0A2AD26E45BC54C422~000000000000000000000000000000~YAAQnLvOFweCB6SRAQAAmgm3vhllUBgQZsbQucFCg7PDhCKkr0JfXdwNjyhE4isHWffJrta+3UNFRiv8ZBunRD+QMQky3e7GSf/DWMWeEZtvHFl58QLd5igunJVPVVcCRsRXtXFO0mpO1XatCd6OzMNFCG4R7lsHPt2NcQobCU4d1tg2zf/Vh0jGVT90caZmohZ6r/xjQxkd1UBizqLIKbsQ/u55IPUSH7DV58Fn5Fg7KhZaWJ+wj3pRn8Zr8Yo7mZw91SsaemHY/tRY6oapFjymllX07j5nqz5DYpSSMvZRmhff/6+0nHSGdchsk4Rjs+SRztwus6xlGfNPxnX/f2cQEKCts5WvqHyoDCCFwtwyTZ6yufEmt4o0g1lY1GAlItRA8H5msXin08/0/A==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481552454
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.352536916733,
+                        "value": "C35400D93D0F750FA9B2FE7B75CB4AFC~000000000000000000000000000000~YAAQnLvOF2CCB6SRAQAAGhG3vhmIdHcIzKx00un12XSG+tPn9NTeJKapa6MKUCGZR8njHnt6BwoEirGrESOUaFE9xJ76qnjuzKNCBAGLmxf/NnrRZ10JAqv2yHBfupbM0LypvD8BBm5ouch6Q87yJJPk0mIHR+9CAGw/55Xc2muhTYfvR6EnCci8XEjv+r/Hoi5gXOHJm3akf763wnTiXXTfQkczo4f62b2LgrRKWihK2f0znb+dHGhg3JnbydjqH4OIp6+Q57isdhuAbGIZufwphcnn6HhMUGFKRnDP+pPWaD1KAtVYsDcSNMtIFyflJHMsFSAH6/Q2Pftjcj7oAepC86K9AcmO7qdflffRst4SmWuD0uba1AlGrCbL6wBCJnOd4FxCEcGSO4xNMfr8kZz7vsSwOr3VKZGegvr4ne1sYkHvUZGS6JM=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481554353
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.035904884338,
+                        "value": "C35400D93D0F750FA9B2FE7B75CB4AFC~000000000000000000000000000000~YAAQnLvOF5iCB6SRAQAArBO3vhlJE+UUHBBq1AYFufMbQAPjfWcqWmdgCmckdrZyLuSyR449OoxVWblyPoQaEszRClObUXbDgjyvV628c14R4hdhMD0G4TprmSyvPf/o5c5divVdF6XZ7R0tzjZpFzEr4uv/MLrlTOasrowy5ByIj/TX2yybupim8uSQUK30bp+s7Ht95CxhUmyW71LpxCRW7QRbDdwKItWLGbRasVU0cBFvKdxWwwM2Iryyl0fyhu72GtpfTjyVYBvaE2686/R/4s58475cuDkfuDjt5oYzcCLXauBlUCozsWN0WRlPR0+lEbVz0KKkWbSAQPeBhTOWedaB894oZ25Nu4dz0PpEaLZYCepWCQfqXsv7zoB+C3+bAZC9jj3EbHoRg1OZbabCK0q1xqKYntmeCTDSYJCVZBWKD/mfF34bP5drzVe8eozwIA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481555036
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.039875030518,
+                        "value": "C35400D93D0F750FA9B2FE7B75CB4AFC~000000000000000000000000000000~YAAQnLvOF5eCB6SRAQAApBO3vhlgKzob6W/ty7KjdglvuQXhBSiYtZaisGSF7vJ83d/Gfl4PtQiPVnvDT4EgUW8u6Brci0cjCcHZGqy3e5Pv0iyB2ohyRASfBlhPfoUXK+FIxRHlNQFRZMBr72s3CWS2K8MH4Z9dGiM9c+p9j/A0kcS14sy88knF0DJ3JEsMbQuVeKkr40t5Ci/o87rab0Z06HlxqRKe54j2d7LNC845VbWfwXAK4wtgJmtnNjA5bGa58Ismp9y2nuGI66mpQyo2/I4cYFCFTNriIMoeyoty5sb9e/uydzULYxaSUSbj9QdJYSx1kBOQ93P/zD7BG62jkFOwGkrkkrP7UupfXj0fMShWivk/rfKoR7LTI3cK3wUUeP8F+Vcqp/qDln8oQoEvt2pPwxAdu3nsQaZBrAOcNrec7yi0u/7w91gErCE98j0c+Q==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481555040
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.040668010712,
+                        "value": "C35400D93D0F750FA9B2FE7B75CB4AFC~000000000000000000000000000000~YAAQnLvOF5aCB6SRAQAAoRO3vhlcn3H9rtIv3RXKLllD39NpRYUa+FXHw94xe46TY18xojqx8P8ZvyzrcX1A/Ur8+WxafB9tbx+6RPgrQEcTp0e48zBNIUgRer9Aui1OZsAqP/IxXDORwjVfXWwmqSI8wNzSVXJSI4Sg9WfKoO2UUI/fqJzgZMzLzXsnp21R8Xh5PE2SYvnuV7KCL0TuWyuDJM+MxCx7xeE5zHTK/IFRRNWD5TQ/qcwHclSsb3OlSOlNgnvWlrAmVwvl1T1nMmij277oyV0Vhw1Ou+jMw5/6RhEeTS13YZRoTR/m/Fow3OPRsRBeENXtDRKS7nFEfcP/VsYcIJ/4hCiyYYLqnMgfZgMfoL2FOoi7mx6S2aFA77g5oBFPw6JD4MDzaSQYPcvkdsDLrOPDJTdWtP7mhDWgWnUf6hwzRE7BeflURHaDBOJ7Zw==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481555042
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.053947925568,
+                        "value": "C35400D93D0F750FA9B2FE7B75CB4AFC~000000000000000000000000000000~YAAQnLvOF52CB6SRAQAA1xO3vhnF1skhH+6gcn3Iog15l+bOy1OSCHrIkLOzOt34W+C91mdCsyWnC1hGEiH9j66VdJxxnAqlgqPAGZbXfgEjM2RAprBI2u1CaWDDAPWCFQagjTicEEe1hg3i4Jp+mEtyoifJ+iHoP5VyC4tTVqMfinP+vdeOeZYHC88ctOT/8sCIp6ukTlSM6P2LQJI+bUoqaK0za1dmtaYkVXj8lnuC57qtPTCZ9BC/GPW4OdD1Dtf0M6I/n6s/hbQLJTmfaIRtG/gYoe222jbzz6H3q5UPvN47SbKcQ9CINQb9I3vsqgh43L7ENofCq1AoqCnNoXkrdmntRUfAOXKJnpfez0EkdsXaFkwBHBI7Jp6KUzI3GN6gMR0hUtKB9s/kS5S685lBvh4mEtYiKRcdkN6pm3+dloUU5Hn6KOZ4tpBz9htEv2th6tMO1rrjEpjduQT2Fw==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481555054
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.056759119034,
+                        "value": "C35400D93D0F750FA9B2FE7B75CB4AFC~000000000000000000000000000000~YAAQnLvOF6OCB6SRAQAA2hO3vhlP2bgC0jalpXg5MjdCtArLvPtz3R44Irl/2LW4+qEnoeD3m/ofJ1Lr8xZVwhoL61DMtFx2N6Up30m695hoE6tV5y8GICJN27l43agY9igwqQLCzY6XsR+FZ31yJQYz+hsArbGSvxZ0evUzXNpj/6QVDw6d2evTvdebf+CWpm4cgZX/QuuVXZqp9GYcM16RRyEIEVCE4o1tZqlz7+bF4Yw5mcfke0rNsAaRSA5MU9Z36plyXFed62n0mZg0jTh6j17Imps4PBmOhbizSlGHGY78krj8BcQwN4blNvLrK5h7PAxV4RxIGU8KJ7XEXb28xqTpGWuAPKUs7D69XBBR/3Z9lybMRrII0TGTBhW898AkABK5QgvJTvdXSpgsaHUjpRIZp1Gi5+QAyypBn0m5Tp0ZFmWznk4ehbEC7cXZafCPzg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481555057
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.057279109955,
+                        "value": "C35400D93D0F750FA9B2FE7B75CB4AFC~000000000000000000000000000000~YAAQnLvOF6KCB6SRAQAA2hO3vhkHPpoJNgXmXRioGi689TKQ/9GQmFIcE/G1PcTKZIhTvrxPH8V/jJGv5ZqgyFAxFID5h/QjwPsqjjexRLveE50aJLOULYbZY6F75wxwHK87OtMOyqQrZp5wzwTIbo4Gr621gf2jmsWt7IdIFKsofP+bmDc81sit28GQEs7fgN7Ox/H30F1pZoZe66pLzA0giSIj3i07n8H0xm1RDEnNrLUJ5BykOO/HPEC8nxTYNRolRf1dDg3MnwS5NcrGG312vMBFKxGoxgF94PkfoU/BzyNP8iwttLfLPZAXMVL1rfwUNfKSpDZDpq/lN1M52vvljHKXGVHMCPOGpg/a5EY5xvxrpD5Pi/Mw+HVw4HY92+EUOhzhSXs24OZGJ4AeILwzofnWSn1SKOzoMzoy+IMHlOb0B3gXilVqFhEGrvC3uEwpLQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481555058
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.057890892029,
+                        "value": "C35400D93D0F750FA9B2FE7B75CB4AFC~000000000000000000000000000000~YAAQnLvOF6GCB6SRAQAA2hO3vhk4dwgUmSsgweenJyfdJZKGVAcR5Df2mUciY4N7oc3TegkMDqjfYWHS1+crccdmCaTVsyZP3u7avwl7tN3yPKeRsdzZgAJPpzSMX2TpFg3W3/9ZK1Yg8YlYtnsW3Eu+2n2HMl6XGCDtAPnGwD7H3Enbf/O79U6tz07NXYWpjNlxWNpanFa1SB2vQTYNkTtbEHmk3+jHlEDCaWl6ocgsa0ghNGTzbqnyXMZX9SyS1BBcFOGLxT/16qxqCmPwC7r/nIBx9uQTfjLNkMUzEIrzS7YjTMEqGZHME6NogEti1mj7WdOZ5/dtT1vuP2b+Gtj3w7mvK5bwiwDg3dqrMUfb+Qvpe9ZGXHsyaIoguDf8tmpH11XFM4JWh9mSGxmoLlt0lvvLRH8+Arhe1KAgt4fHhHeVtNgXnYsTiBf5Q8oCsfgDQw==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481555058
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481552457,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725495951.435351,
+                        "expiry": 14399.435350894928,
+                        "value": "2FAA1F7FFFDD158EDBD2E1F7D2A1EC14~YAAQnLvOFwmCB6SRAQAAmgm3vhkqtvvfPSM/seZJBNPL+EYdn7V7U36IzoAbDbWTBNcezSTSgFIuu84rS1TzMEWrInVuik208IY+EmHFw60CBdTfb0Zs26Mbc8iZYinau4QwS6Kr2Ebu/5LETuxwYT+dcdPlhZZmdXqm47Ktn/LAIHlTFA44ArXSK9n/TSLWqlyUeEllAoJx/D+193SlNL299PnP5MT2wde40NRajfwPDAZao3h0r/BsTl0JFdtOb0aEIjJZgZ/wYcZBlkJ7fBKTnTPbTJty1O/N1bTLM4M1d5a6Y7zjhoyeAECvxY7UIRHa9oXGHJyoruLRtmScMeawdqXtqtWQh7YbgBD2WwjpVEN0peEtaqArEqhE5HfEHrmvWbwdkhiisNVxSo/5gSw=~3552565~3687219",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481552456
+                    }
+                ]
+            },
+            "monetate_fired": {
+                "name": "monetate_fired",
+                "domain": ".waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481557604,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481557603
+                    }
+                ]
+            },
+            "mt.sc": {
+                "name": "mt.sc",
+                "domain": ".waitrose.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481555089,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725483355,
+                        "expiry": 1800,
+                        "value": "%7B%22i%22%3A1725481555088%2C%22d%22%3A%5B%5D%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725481555088
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%7B%22i%22%3A1725481555088%2C%22d%22%3A%5B%22cs%3Bdirect%22%5D%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725481555090
+                    }
+                ]
+            },
+            "mt.v": {
+                "name": "mt.v",
+                "domain": ".waitrose.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481552446,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017551.434535,
+                        "expiry": 31535999.434535027,
+                        "value": "5.1734036022.1725481551480",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481552438
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.094108105,
+                        "value": "5.1734036022.1725481551480",
+                        "same_site": "lax",
+                        "timestamp": 1725481555094
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.297781944,
+                        "value": "5.1734036022.1725481551480",
+                        "same_site": "lax",
+                        "timestamp": 1725481555298
+                    }
+                ]
+            },
+            "ecos.dt": {
+                "name": "ecos.dt",
+                "domain": ".www.waitrose.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481558887,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725481558885",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481558886
+                    }
+                ]
+            },
+            "akacd_mfe_phased_release_prod": {
+                "name": "akacd_mfe_phased_release_prod",
+                "domain": "www.waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481552452,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "3902934350~rv=49~id=99eeed7e05f6395d08003c705a51861f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481552447
+                    }
+                ]
+            },
+            "edr_sc_tst": {
+                "name": "edr_sc_tst",
+                "domain": "www.waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481558898,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567958,
+                        "expiry": 86400,
+                        "value": "tst_val",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481558896
+                    }
+                ]
+            },
+            "website_csat_session": {
+                "name": "website_csat_session",
+                "domain": "www.waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481557602,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725483357,
+                        "expiry": 1800,
+                        "value": "2024-09-04:6031249945",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481557601
+                    }
+                ]
+            },
+            "wtr_cookie_consent": {
+                "name": "wtr_cookie_consent",
+                "domain": "www.waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481556415,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017556,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481556414
+                    }
+                ]
+            },
+            "wtr_cookies_advertising": {
+                "name": "wtr_cookies_advertising",
+                "domain": "www.waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481556416,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017556,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481556415
+                    }
+                ]
+            },
+            "wtr_cookies_analytics": {
+                "name": "wtr_cookies_analytics",
+                "domain": "www.waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481556417,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017556,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481556416
+                    }
+                ]
+            },
+            "wtr_cookies_functional": {
+                "name": "wtr_cookies_functional",
+                "domain": "www.waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481556418,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017556,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481556417
+                    }
+                ]
+            }
+        }
+    },
+    "ecom.waitrose.com": {
+        "/": {
+            "akacd_mfe_phased_release_prod": {
+                "name": "akacd_mfe_phased_release_prod",
+                "domain": "ecom.waitrose.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481553287,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "3902934351~rv=68~id=386c32220c651a08043873a044cd0c3f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481553286
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "3902934351~rv=67~id=1536de1658e954119b6ec236210e4898",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481553288
+                    }
+                ]
+            }
+        }
+    },
+    "public.edigitalresearch.com": {
+        "/": {
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "public.edigitalresearch.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481558793,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726086358.786753,
+                        "expiry": 604800.7867529392,
+                        "value": "0WYHLkyrlA9VifwNbxCgu8c8KiFVDUXcYXB7McAJUmQgBOS1gxmUZGAYZdqYT8sd7BTu2guaasQDx51B/lzrid3cBmm5GnsjOAoSVJMUuUDwMjCzcd5usPjoGfgR",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481558787
+                    }
+                ]
+            }
+        }
+    }
+}

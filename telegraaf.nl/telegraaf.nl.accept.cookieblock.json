@@ -1,0 +1,698 @@
+{
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479250311,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015250.311016,
+                        "expiry": 31536000.311016083,
+                        "value": "320l20koyjm4k2bpfvg3z45w3u",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479250311
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479247110,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725480147.109051,
+                        "expiry": 900.109050989151,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479247109
+                    }
+                ]
+            }
+        }
+    },
+    "scorecardresearch.com": {
+        "/": {
+            "UID": {
+                "name": "UID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479249231,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759175249.229491,
+                        "expiry": 33696000.229490995,
+                        "value": "1B1dfdbc6570a98043d918a1725479249",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479249230
+                    }
+                ]
+            },
+            "XID": {
+                "name": "XID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479249231,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759175249.229526,
+                        "expiry": 33696000.22952604,
+                        "value": "1B1dfdbc6570a98043d918a1725479249",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479249231
+                    }
+                ]
+            }
+        }
+    },
+    "telegraaf.nl": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479242059,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481042.055745,
+                        "expiry": 1800.0557448863983,
+                        "value": "CzbayEznVGFlJTVKQQj3EAnbCB2Lk4LvE__5nO30kCk-1725479241-1.0.1.1-3fMCU3nRFvGPzkMI61zHxuiYstYSXmndIbAdIqK1fdvjvqmD4OtoghBBdGyIOV9t2dZqKbGy168DCDvFvzlmjw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479242058
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479249498,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725479279,
+                        "expiry": 30,
+                        "value": "m0o9slsoriuoq9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479249497
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9slstlvzm1n",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479249501
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9sltmvgkn8c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479249531
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9sltnoyilaq",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479249532
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479249075,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733255249,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725479249074.827332221663842859",
+                        "same_site": "lax",
+                        "timestamp": 1725479249075
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479248655,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039248.652186,
+                        "expiry": 34560000.65218592,
+                        "value": "GA1.1.B085LcferV7aC0INAnpWowoh",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479248654
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.33960199,
+                        "value": "GA1.1.B085LcferV7aC0INAnpWowoh",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479249341
+                    }
+                ]
+            },
+            "_ga_5144S92E3M": {
+                "name": "_ga_5144S92E3M",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479248654,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039248.65195,
+                        "expiry": 34560000.65194988,
+                        "value": "GS1.1.1725479248.1.0.1725479248.0.0.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479248653
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.65744305,
+                        "value": "GS1.1.1725479248.1.0.1725479248.0.0.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479248657
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.91086292,
+                        "value": "deleted",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479250911
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.91108394,
+                        "value": "GS1.1.1725479248.1.0.1725479250.0.0.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479250911
+                    }
+                ]
+            },
+            "_ga_9TEZE7VVJQ": {
+                "name": "_ga_9TEZE7VVJQ",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479249340,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039249.339371,
+                        "expiry": 34560000.339370966,
+                        "value": "GS1.1.1725479249.1.0.1725479249.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479249340
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479245553,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733255245,
+                        "expiry": 7776000,
+                        "value": "1.1.405590241.1725479246",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479245552
+                    }
+                ]
+            },
+            "_mhtc_cId": {
+                "name": "_mhtc_cId",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479248785,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728157648,
+                        "expiry": 2678400,
+                        "value": "5c56331d-20d1-48c7-90ec-079559ea3eac",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479248783
+                    }
+                ]
+            },
+            "_mhtc_sId": {
+                "name": "_mhtc_sId",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479248786,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481048,
+                        "expiry": 1800,
+                        "value": "2280e71f-f3a2-4e17-ab35-4f6e4e3837bb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479248785
+                    }
+                ]
+            },
+            "_mhtrdisableshortname": {
+                "name": "_mhtrdisableshortname",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479244555,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728071244,
+                        "expiry": 2592000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479244554
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479249531,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607249,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0o9slsuheof91j3%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725479249530
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479249504,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607249,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1725479249504
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOBmAFgAZ%2BADm5CAbGICs3AJxT%2BMgEwgAvkA",
+                        "same_site": "lax",
+                        "timestamp": 1725479249530
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479249531,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607249,
+                        "expiry": 34128000,
+                        "value": "m0o9slsuheof91j3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479249531
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0o9slsuheof91j3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479249532
+                    }
+                ]
+            },
+            "cf_clearance": {
+                "name": "cf_clearance",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479245680,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015245.680122,
+                        "expiry": 31536000.6801219,
+                        "value": "7Z9wYMfVnEuKPodtvuH48byH4TuxEZyhWJpQdxaan5E-1725479245-1.2.1.1-kW3A_ZUSDUKThP7wiz4OZJpmf8Q.Ee_4QInOdC_wXNBG3Iy_wYmj7iZinnMn6PKvC3JqKuTduHhejcrOv91u.WYyaDCPOMO8jPXfep.mHE3HuIbJl4rJow_Z.W7Mxc3emZgLJSZnSolBZ07Qsl5uktB6FHPvTWMrJfskKhUQIknYkU1zDvzQZAsnNAKVDKBsWeVQjQ2l3riGCmfkLq40lsEmMOLAN.asbngfEMkTqn1YMt_uHVu.Keg.hCp57CdcEXL92mdl_gNRE9nSMiu.9GaKTScQ_66fNLq3FTtjHdwwL3yhYD4iWP92t3jKyBpYo_P0Ye4G.REK2x5EndLH_TY_vlAPew9R7fuenSApqJdQGjH45R2kCrkdWXtqBlBmQuGYE3WCa6JtXDnqpl5ttg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479245680
+                    }
+                ]
+            },
+            "clientid": {
+                "name": "clientid",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479248000,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015247,
+                        "expiry": 31536000,
+                        "value": "B085LcferV7aC0INAnpWowoh",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479247998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "B085LcferV7aC0INAnpWowoh",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479248004
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479245546,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757101645,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU5M2QtNmU3My02NTE1LThhMWMtYWVkYjNhMGZmYTc2IiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTk6NDc6MjUuNTQzWiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE5OjQ3OjI1LjU0M1oiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725479245544
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU5M2QtNmU3My02NTE1LThhMWMtYWVkYjNhMGZmYTc2IiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTk6NDc6MjUuNTQzWiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE5OjQ3OjI3LjkxN1oiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwidHdpdHRlciIsImM6aW8tdGVjaG5vbG9neS16aW1tbyIsImM6Z2V0c2l0ZWNvbi1TNGpFbUJVViIsImM6eW91dHViZSIsImM6b21uaXR1cmUtYWRvYmUtYW5hbHl0aWNzIiwiYzplYmF5LXBhcnRuZXItbmV0d29yayIsImM6Ymx1ZWNvbmljLXBsdWdpbiIsImM6ZmFicmljY3JhLUxFTXRqcmJjIiwiYzpmcm9vbWxlLTROejJYRHdOIiwiYzp0aWt0b2stbXpWZkMzTnQiLCJjOmdvb2dsZWZpci1HWmROZVpoaSIsImM6YXBwc2ZseWVyLXFnN3RVeFZhIiwiYzphaXJzaGlwLTluS2c4ankyIiwiYzpnb29nbGVhbmEtNFRYbkppZ1IiLCJjOnNvY2lvbWFudGktbU1URzh4ZzQiLCJjOm9tbmljb21tZS15UGlqN2dZWiIsImM6aW50ZXJwdWJsaS04SFo4UGZHMyIsImM6Z3NraW5uZXItblVFMzRQMkgiLCJjOmRtYWluc3RpdC1melE4eUFpciIsImM6dHdpcGUtQ2tpdE56WEQiLCJjOm1lZGlhaHVpcy16WmhBRUZwUCIsImM6aW5zdGFncmFtIiwiYzpnYW1ibGluZ2EtSGZSazNROXgiLCJjOmJlYWNoZnJvbnQtWFlkQUx5OXkiXX0sInB1cnBvc2VzIjp7ImVuYWJsZWQiOlsic29jaWFsX21lZGlhIiwiZ2VvX2FkcyIsImdlemFtZW5saWotSlY2WHhUYlkiLCJnb2thZHZlcnRlLVZBZWlwOWtpIiwiZ2VvbG9jYXRpb25fZGF0YSJdfSwidmVyc2lvbiI6MiwiYWMiOiJCTC1BR0FFWUFMSUV2d0FBLkFBQUEifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725479247933
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".telegraaf.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479247936,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757101647,
+                        "expiry": 31622400,
+                        "value": "CQEbF4AQEbF4AAHABBENBFFoAP_gAAAAAAAAIzIBhC4MQUFCMGBwQJoAGIAW4EAAIEABABABAQABhAAAIAQAkAEAEACAgAACAAAAAAIBAABAEAAABAAAQAABAAAAQAAAAAIAIAAAgAIBAAAIAAAAAAAAAAAAAAACAAAg0AAAAIIAQAgABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAABAAAAOSgAwABBTUpABgACCmo6ADAAEFNSEAGAAIKahIAMAAQU1GAAC0AGAAIKag.f_wAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725479247933
+                    }
+                ]
+            },
+            "_sotmpid": {
+                "name": "_sotmpid",
+                "domain": "www.telegraaf.nl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479249265,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039249.2636,
+                        "expiry": 34560000.26360011,
+                        "value": "0:m0o9slm5:XEywpptoR9UWcLjD0l8VRzSCUtBuGlPy",
+                        "same_site": "strict",
+                        "timestamp": 1725479249264
+                    }
+                ]
+            },
+            "_sotmsid": {
+                "name": "_sotmsid",
+                "domain": "www.telegraaf.nl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479249264,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481049.263438,
+                        "expiry": 1800.263437986374,
+                        "value": "0:m0o9slm5:2~RCqpKrl0eajVpqdn~KCEexzGRred3a",
+                        "same_site": "strict",
+                        "timestamp": 1725479249263
+                    }
+                ]
+            },
+            "cs-variant": {
+                "name": "cs-variant",
+                "domain": "www.telegraaf.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479248002,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728071248,
+                        "expiry": 2592000,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479248001
+                    }
+                ]
+            },
+            "tlgClientId": {
+                "name": "tlgClientId",
+                "domain": "www.telegraaf.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479243456,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015243,
+                        "expiry": 31536000,
+                        "value": "B085LcferV7aC0INAnpWowoh",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479243451
+                    }
+                ]
+            },
+            "tlgLastAuth": {
+                "name": "tlgLastAuth",
+                "domain": "www.telegraaf.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479243461,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725479243452",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479243456
+                    }
+                ]
+            }
+        }
+    },
+    "login.mediahuis.com": {
+        "/": {
+            "did": {
+                "name": "did",
+                "domain": "login.mediahuis.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479244691,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757036844.689713,
+                        "expiry": 31557600.689713,
+                        "value": "s%3Av0%3A41eb1d7e-09ad-4019-a76c-e22b0649b296.K8YRTjxdcUKjBmAwGotBF0FX%2FWNSuN1VlBilr93Doz8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479244690
+                    }
+                ]
+            }
+        }
+    }
+}

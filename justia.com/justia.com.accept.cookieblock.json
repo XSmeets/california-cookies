@@ -1,0 +1,236 @@
+{
+    "justia.com": {
+        "/": {
+            "SESSJUSTIA": {
+                "name": "SESSJUSTIA",
+                "domain": ".justia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533098801,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1727533098.798012,
+                        "expiry": 2000000.7980120182,
+                        "value": "ert92487oi4b1jrj7af4j3h1n5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533098799
+                    }
+                ]
+            },
+            "XSRF-TOKEN": {
+                "name": "XSRF-TOKEN",
+                "domain": ".justia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533097176,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725561897.164359,
+                        "expiry": 28800.164359092712,
+                        "value": "eyJpdiI6IkhWTDFzRjFoTDJOVzVTU0FcL2E4QklRPT0iLCJ2YWx1ZSI6ImNGQWdXRFFhdnBsS2d0eGdZblwvdUF3TWt6SWYzWXkrdDRtNUlCOEl3OTY4bUhnZzZDbEw2OXVBUVZEUGM1dmFiNTZQOUNpSHk0UndCRlFtNVNUTjlhZz09IiwibWFjIjoiMDI0ZjZlOTQ5MmE5YzQwMDZjNTNlMGE2YzU2NjY3NmExMDUxMTMzZWVlN2MyYzU2M2QyY2E5YTRhMjJkYWI0ZSJ9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533097170
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".justia.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725533099565,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760093099.562797,
+                        "expiry": 34560000.56279707,
+                        "value": "GA1.1.1200784239.1725533100",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533099565
+                    }
+                ]
+            },
+            "_ga_XMKHC12ZFL": {
+                "name": "_ga_XMKHC12ZFL",
+                "domain": ".justia.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725533099564,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760093099.562484,
+                        "expiry": 34560000.562484026,
+                        "value": "GS1.1.1725533099.1.0.1725533099.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533099564
+                    }
+                ]
+            },
+            "cornell_lead": {
+                "name": "cornell_lead",
+                "domain": ".justia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533098960,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728125098,
+                        "expiry": 2592000,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533098958
+                    }
+                ]
+            },
+            "jlisting_location": {
+                "name": "jlisting_location",
+                "domain": ".justia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533098812,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1730717098.798141,
+                        "expiry": 5184000.798141003,
+                        "value": "a%3A19%3A%7Bs%3A8%3A%22latitude%22%3Bs%3A11%3A%2234.02735100%22%3Bs%3A9%3A%22longitude%22%3Bs%3A13%3A%22-118.31976200%22%3Bs%3A4%3A%22city%22%3Bs%3A11%3A%22Los+Angeles%22%3Bs%3A5%3A%22state%22%3Bs%3A2%3A%22CA%22%3Bs%3A9%3A%22statefull%22%3Bs%3A10%3A%22California%22%3Bs%3A6%3A%22noloid%22%3BN%3Bs%3A7%3A%22city_id%22%3Bs%3A1%3A%224%22%3Bs%3A13%3A%22city_friendly%22%3Bs%3A11%3A%22los-angeles%22%3Bs%3A6%3A%22county%22%3Bs%3A11%3A%22Los+Angeles%22%3Bs%3A9%3A%22county_id%22%3Bs%3A1%3A%221%22%3Bs%3A15%3A%22county_friendly%22%3Bs%3A11%3A%22los-angeles%22%3Bs%3A5%3A%22metro%22%3Bs%3A35%3A%22Los+Angeles-Long+Beach-Glendale%2C+CA%22%3Bs%3A14%3A%22metro_friendly%22%3Bs%3A34%3A%22los-angeles-long-beach-glendale-ca%22%3Bs%3A8%3A%22metro_id%22%3Bs%3A4%3A%222050%22%3Bs%3A8%3A%22state_id%22%3Bs%3A1%3A%225%22%3Bs%3A9%3A%22cbsa_type%22%3Bs%3A5%3A%22Divis%22%3Bs%3A15%3A%22max_radius_full%22%3Bs%3A11%3A%2210.47190525%22%3Bs%3A9%3A%22mapstring%22%3Bs%3A15%3A%22Los+Angeles%2C+CA%22%3Bs%3A14%3A%22state_friendly%22%3Bs%3A10%3A%22california%22%3B%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533098804
+                    }
+                ]
+            },
+            "jll_history": {
+                "name": "jll_history",
+                "domain": ".justia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533098804,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728125098.798109,
+                        "expiry": 2592000.7981090546,
+                        "value": "%7B%22ts%22%3A1725533098%2C%22cnt%22%3A1%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533098802
+                    }
+                ]
+            },
+            "marketing_sess": {
+                "name": "marketing_sess",
+                "domain": ".justia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533097182,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJpdiI6ImFpXC9CTnlqZkE4M25MZHZBVmoxejFBPT0iLCJ2YWx1ZSI6Im1WazloNVVrczR6VFZpaTRZdlRteG1JXC9UWFFXMVNLRnU2ZW1YbVwvOHZCWkg5a3k0R2xkbnREMXIxaEV4Y1A5NitwYVpPQWF1eHpwZ05oaUw2VmYxZ3c9PSIsIm1hYyI6IjdiYTEwM2Y2NjQ1NDA5NWFhNGExYjEwMjIwMmY3M2YzOGRlMDg0NjViNzEwNmU3ZWZiNDkyMDA4ZjUxMWE4ODgifQ%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533097176
+                    }
+                ]
+            },
+            "referrer": {
+                "name": "referrer",
+                "domain": ".justia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533098289,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728125098,
+                        "expiry": 2592000,
+                        "value": "https://www.justia.com/",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533098288
+                    }
+                ]
+            },
+            "f-jtime": {
+                "name": "f-jtime",
+                "domain": ".www.justia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725533098816,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725619498.798335,
+                        "expiry": 86400.79833507538,
+                        "value": "111",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533098815
+                    }
+                ]
+            },
+            "jtime": {
+                "name": "jtime",
+                "domain": ".www.justia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533098814,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725619498.798307,
+                        "expiry": 86400.79830694199,
+                        "value": "1725533098",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533098813
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,911 @@
+{
+    "bat.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".bat.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481117103,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726085917.101894,
+                        "expiry": 604800.1018939018,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117102
+                    }
+                ]
+            }
+        }
+    },
+    "bing.com": {
+        "/": {
+            "MSPTC": {
+                "name": "MSPTC",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481117837,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759177117.83623,
+                        "expiry": 33696000.83623004,
+                        "value": "yZId1t5wUB6xuz9y2GMdxQ1tY2-Iislc4rWG4k8x7qg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117836
+                    }
+                ]
+            },
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481117102,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759177117.10184,
+                        "expiry": 33696000.10184002,
+                        "value": "1097BB9D7506602619D9AF6D746C61E1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117102
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696001.03941798,
+                        "value": "1097BB9D7506602619D9AF6D746C61E1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481119041
+                    }
+                ]
+            }
+        }
+    },
+    "c.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".c.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481119042,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726085920.039492,
+                        "expiry": 604801.0394918919,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481119041
+                    }
+                ]
+            },
+            "SRM_B": {
+                "name": "SRM_B",
+                "domain": ".c.bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481119043,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759177120.039557,
+                        "expiry": 33696001.03955698,
+                        "value": "1097BB9D7506602619D9AF6D746C61E1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481119042
+                    }
+                ]
+            }
+        }
+    },
+    "c.clarity.ms": {
+        "/": {
+            "ANONCHK": {
+                "name": "ANONCHK",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481119225,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481720.221881,
+                        "expiry": 601.2218809127808,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481119224
+                    }
+                ]
+            },
+            "MR": {
+                "name": "MR",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481119224,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726085920.22184,
+                        "expiry": 604801.2218399048,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481119222
+                    }
+                ]
+            },
+            "SM": {
+                "name": "SM",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481118278,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "T",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481118277
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481119222
+                    }
+                ]
+            }
+        }
+    },
+    "clarity.ms": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481118278,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759177119.276577,
+                        "expiry": 33696001.276576996,
+                        "value": "21EBA9C402EE665F39C6BD3406EE68D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481118278
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696001.221771955,
+                        "value": "1097BB9D7506602619D9AF6D746C61E1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481119222
+                    }
+                ]
+            },
+            "CLID": {
+                "name": "CLID",
+                "domain": "www.clarity.ms",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481117590,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017117.588597,
+                        "expiry": 31536000.58859706,
+                        "value": "8b8bd315492540d785bfb2bdc0ca18ee.20240904.20250904",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117589
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481117401,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041117.399802,
+                        "expiry": 34560000.39980197,
+                        "value": "AHWqTUlWV5Fit_OstKH-Dd376KrcP0EOdTGt_oGoCMXAA9yyDtpfRHAPD6QfsNg8e0k",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117400
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.40320802,
+                        "value": "AHWqTUmw8IFUBKI7rBVOE-8_0L1t67IsrMryBGwc5FjG7fP4jn9P_eCdxlwkMT9vLo4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117405
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.68737602,
+                        "value": "AHWqTUlwnEjkr-bBaDnJ0XWiE1ztiJ4N9p-C3OdCpu8rO5czMDtzw9achTn9CEEK",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117688
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.68860197,
+                        "value": "AHWqTUkoKFNCrz29PB1pTi9Z7CR99zZiUp09pmqtM-yrjnQrL5ylw51-nB9Lsunb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117691
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.69006705,
+                        "value": "AHWqTUkFnPud-POWx3xbGuMGoyJZcEyOMxVmarkwhuQ7dWjrg_utxJyjvrPj_NzgzDo",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117694
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481117689,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728073117.68812,
+                        "expiry": 2592000.6881198883,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117689
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.6884748936,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117691
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481117047,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741033117.044776,
+                        "expiry": 15552000.044775963,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117047
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.399903059,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117403
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.403318882,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117405
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481117046,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725482017.044734,
+                        "expiry": 900.0447340011597,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481117045
+                    }
+                ]
+            }
+        }
+    },
+    "pinterest.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".pinterest.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481118227,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017117.226116,
+                        "expiry": 31535999.226115942,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481118226
+                    }
+                ]
+            }
+        }
+    },
+    "saveonfoods.com": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481113242,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725482913.228938,
+                        "expiry": 1800.2289381027222,
+                        "value": "BVIfYbl1ZsyyjJ3qb2a9idFeTPrBrW18pslOCO2JC9Y-1725481113-1.0.1.1-j.g9IJfFx9PK9UP8OhjbqKqAPO90IDVZIauZ81i0_bWRbfAFvQXsA8qmd_yqxTEnGwxvE57hIXXPTk7MYmF6IkKMbah_K8MiHR8djVecLdk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481113242
+                    }
+                ]
+            },
+            "__exponea_etc__": {
+                "name": "__exponea_etc__",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481118860,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041118.857063,
+                        "expiry": 34560000.857063055,
+                        "value": "1c6dc22d-eba1-42ed-b99c-acc106d16064",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481118859
+                    }
+                ]
+            },
+            "__exponea_time2__": {
+                "name": "__exponea_time2__",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481119373,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725484719,
+                        "expiry": 3600,
+                        "value": "0.043201446533203125",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481119372
+                    }
+                ]
+            },
+            "_clck": {
+                "name": "_clck",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481117883,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017117,
+                        "expiry": 31536000,
+                        "value": "13okven%7C2%7Cfow%7C0%7C1708",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481117882
+                    }
+                ]
+            },
+            "_clsk": {
+                "name": "_clsk",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481119178,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567519,
+                        "expiry": 86400,
+                        "value": "satdz7%7C1725481119175%7C1%7C1%7Cu.clarity.ms%2Fcollect",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481119176
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481117772,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733257117,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725481117771.507023969983757072",
+                        "same_site": "lax",
+                        "timestamp": 1725481117772
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481117099,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041117.096309,
+                        "expiry": 34560000.09630895,
+                        "value": "GA1.1.980454566.1725481117",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481117098
+                    }
+                ]
+            },
+            "_ga_ZM4WBLPQ9B": {
+                "name": "_ga_ZM4WBLPQ9B",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481117098,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041117.096073,
+                        "expiry": 34560000.09607291,
+                        "value": "GS1.1.1725481117.1.0.1725481117.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481117097
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.11375904,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481117114
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.1140089,
+                        "value": "GS1.1.1725481117.1.1.1725481117.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481117114
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.11643791,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481117116
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.11674094,
+                        "value": "GS1.1.1725481117.1.1.1725481117.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481117117
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481116718,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733257116,
+                        "expiry": 7776000,
+                        "value": "1.1.1010074259.1725481117",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481116717
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.1010074259.1725481117",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481117067
+                    }
+                ]
+            },
+            "_pin_unauth": {
+                "name": "_pin_unauth",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481118293,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017118,
+                        "expiry": 31536000,
+                        "value": "dWlkPVpUTTBOemszTm1RdE1qQTROeTAwWmpsaExXRXhPREF0T0RrMU1qVTRPR014TjJFMQ",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481118292
+                    }
+                ]
+            },
+            "_uetsid": {
+                "name": "_uetsid",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481117659,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567517,
+                        "expiry": 86400,
+                        "value": "de59f7706afa11ef8e29bbbf6ef6cf89",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481117659
+                    }
+                ]
+            },
+            "_uetvid": {
+                "name": "_uetvid",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481117661,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759177117,
+                        "expiry": 33696000,
+                        "value": "de5a06a06afa11efa8d5d5acf23ff691",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481117660
+                    }
+                ]
+            },
+            "cf_clearance": {
+                "name": "cf_clearance",
+                "domain": ".saveonfoods.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481115354,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017115.35439,
+                        "expiry": 31536000.354389906,
+                        "value": "iFT4MShUd90DZaC6xxE48DExUa82R.jY0Qhcb3eY_7Q-1725481115-1.2.1.1-9KhQ7qOx1HYBNSHCJOHARYDjR5bpeO1iQP9F.el81WtbKUEvGNbXl2lpoMuta7JqHSmr8A2BBi0fKdzKVC70RaiLvNZbvx4NVTRWAor23doHtNU7Roo1lJIBW7KnbvdYc5rUsfeyJUSlMXDGRYSrkhtFw2HLzksEQLWdM3i5A834NDFzqr.lOoyU6yPONfHggZ9titrKDYSHjZg2jq2_2q6r1E6b4_tLEE6.1PfA.hmMMSmOWL4hXAdh_RhPfYsmTy1e0jTZHMnxCF4Iug37_Lf5oueEWiBn5vF1TFj.FNkuCZksHG5FtJQs2MXWv1Pz2qYSVsD8NiJmtc53qrwKxZBCGbesHcbK9g9RRd0Ds7AaFCrEe6Oq80LCJ6XzhUzKU2HLZHLnp4dbsqgbBj5SbQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481115354
+                    }
+                ]
+            },
+            "CUSTOMER_SESSION_ID_COOKIE": {
+                "name": "CUSTOMER_SESSION_ID_COOKIE",
+                "domain": "www.saveonfoods.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481113240,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728073113.228479,
+                        "expiry": 2592000.2284789085,
+                        "value": "https://www.saveonfoods.com|38d46f50-8c55-4964-9895-b5156093fc2f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481113230
+                    }
+                ]
+            },
+            "MI9_RSID": {
+                "name": "MI9_RSID",
+                "domain": "www.saveonfoods.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481114429,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728073114,
+                        "expiry": 2592000,
+                        "value": "1982",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481114429
+                    }
+                ]
+            },
+            "MI9_SHOPPING_MODE": {
+                "name": "MI9_SHOPPING_MODE",
+                "domain": "www.saveonfoods.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481114429,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728073114,
+                        "expiry": 2592000,
+                        "value": "planning",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481114425
+                    }
+                ]
+            },
+            "SHOW_PLACEHOLDER_NOTIFICATIONS": {
+                "name": "SHOW_PLACEHOLDER_NOTIFICATIONS",
+                "domain": "www.saveonfoods.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481115509,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728073115,
+                        "expiry": 2592000,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481115509
+                    }
+                ]
+            },
+            "TIMEOFFSET_COOKIE_NAME": {
+                "name": "TIMEOFFSET_COOKIE_NAME",
+                "domain": "www.saveonfoods.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481114430,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728073114,
+                        "expiry": 2592000,
+                        "value": "120",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481114430
+                    }
+                ]
+            }
+        }
+    },
+    "api.e-pfg.ca": {
+        "/": {
+            "xnpe_ecf2cc1a-d52a-11ec-b527-f68f21de567f": {
+                "name": "xnpe_ecf2cc1a-d52a-11ec-b527-f68f21de567f",
+                "domain": "api.e-pfg.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481118858,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041118.854103,
+                        "expiry": 34560000.85410309,
+                        "value": "1c6dc22d-eba1-42ed-b99c-acc106d16064",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481118856
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.22623992,
+                        "value": "1c6dc22d-eba1-42ed-b99c-acc106d16064",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481120228
+                    }
+                ]
+            }
+        }
+    }
+}

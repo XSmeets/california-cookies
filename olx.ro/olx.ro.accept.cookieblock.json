@@ -1,0 +1,2125 @@
+{
+    "adnxs.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474343708,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760034343.705319,
+                        "expiry": 34560000.70531893,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343706
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474343779,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010343.777819,
+                        "expiry": 31536000.77781892,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343778
+                    }
+                ]
+            }
+        }
+    },
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474345810,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010345.80929,
+                        "expiry": 31536000.809289932,
+                        "value": "cx:3hlwix4v8wj9voedynptb913t:1ohelqh35thu8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474345809
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.809803963,
+                        "value": "917dopdd71zpulnge8m4txzk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474345810
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474345003,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760034345.002905,
+                        "expiry": 34560000.00290489,
+                        "value": "AHWqTUnuAom2eXXKSdIc5dyUWJcjESfT-Tv3qbbOwtgIUggfK-e2IF7DHaKfLgZMYcA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474345003
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474317964,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725475217.963687,
+                        "expiry": 900.9636869430542,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474317964
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.4429779052734,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474318446
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.6631178855896,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344664
+                    }
+                ]
+            }
+        }
+    },
+    "emag.ro": {
+        "/": {
+            "EMAGROSESSID": {
+                "name": "EMAGROSESSID",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474305192,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725517505.175994,
+                        "expiry": 43200.17599391937,
+                        "value": "f47eu3s851u03laojf1jre53tj",
+                        "same_site": "lax",
+                        "timestamp": 1725474305188
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 43200.946158885956,
+                        "value": "4rpjtf8kp01foso7cp8fv6h235",
+                        "same_site": "lax",
+                        "timestamp": 1725474312946
+                    }
+                ]
+            },
+            "EMAGUUID": {
+                "name": "EMAGUUID",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474305194,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034305.176461,
+                        "expiry": 34560000.17646098,
+                        "value": "1725474305-22968467080-30112.061",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305193
+                    }
+                ]
+            },
+            "EMAGVISITOR": {
+                "name": "EMAGVISITOR",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474305187,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034305.17587,
+                        "expiry": 34560000.17586994,
+                        "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2424777104388728115%3B%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305177
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474317136,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250317,
+                        "expiry": 7776000,
+                        "value": "1.1.813427790.1725474317",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474317135
+                    }
+                ]
+            },
+            "_pdr_internal": {
+                "name": "_pdr_internal",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474305195,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034305.176554,
+                        "expiry": 34560000.176553965,
+                        "value": "GA1.2.2682211613.1725474305",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305194
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.98607993,
+                        "value": "GA1.2.2682211613.1725474305",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474306986
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.02512789,
+                        "value": "GA1.2.2682211613.1725474305",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474307025
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.157744884,
+                        "value": "GA1.2.5965664056.1725474307",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474307158
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.328826904,
+                        "value": "GA1.2.5102319669.1725474307",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474307329
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.946208954,
+                        "value": "GA1.2.6207419510.1725474313",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474312947
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.12186289,
+                        "value": "GA1.2.7112576045.1725474317",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474317123
+                    }
+                ]
+            },
+            "_pdr_session_id": {
+                "name": "_pdr_session_id",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474317824,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725487200,
+                        "expiry": 12883,
+                        "value": "1725474317",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474317823
+                    }
+                ]
+            },
+            "_pdr_view_id": {
+                "name": "_pdr_view_id",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474305196,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725492305.17663,
+                        "expiry": 18000.17663002014,
+                        "value": "1725474305-81764.257-22968467080",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305195
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 18000.328867912292,
+                        "value": "1725474307-46261.637-22988134173",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474307329
+                    }
+                ]
+            },
+            "eab1213": {
+                "name": "eab1213",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474305197,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250305.176782,
+                        "expiry": 7776000.176781893,
+                        "value": "a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305196
+                    }
+                ]
+            },
+            "eab1333": {
+                "name": "eab1333",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474305197,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250305.176862,
+                        "expiry": 7776000.176862001,
+                        "value": "b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305197
+                    }
+                ]
+            },
+            "eab1334": {
+                "name": "eab1334",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474305198,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250305.177034,
+                        "expiry": 7776000.177033901,
+                        "value": "c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305198
+                    }
+                ]
+            },
+            "eab1336": {
+                "name": "eab1336",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474305198,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250305.17709,
+                        "expiry": 7776000.17708993,
+                        "value": "b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305198
+                    }
+                ]
+            },
+            "eab1344": {
+                "name": "eab1344",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474305199,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250305.177162,
+                        "expiry": 7776000.177161932,
+                        "value": "b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305199
+                    }
+                ]
+            },
+            "eab1346": {
+                "name": "eab1346",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474305200,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250305.17722,
+                        "expiry": 7776000.177220106,
+                        "value": "b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305199
+                    }
+                ]
+            },
+            "eab_allocation": {
+                "name": "eab_allocation",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474305201,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725474365.177862,
+                        "expiry": 60.17786192893982,
+                        "value": "eab1213=a&eab1333=b&eab1334=c&eab1336=b&eab1344=b&eab1346=b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305200
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.51882290840149,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305519
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.986249923706055,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474306986
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.025249004364014,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474307025
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.15796089172363,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474307158
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.32901191711426,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474307329
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.251718044281006,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474308253
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.94662594795227,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474312947
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.12311005592346,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474317126
+                    }
+                ]
+            },
+            "gdpr_consent_type": {
+                "name": "gdpr_consent_type",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474317131,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474317131
+                    }
+                ]
+            },
+            "gdpr_consent_version": {
+                "name": "gdpr_consent_version",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474317132,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728066317,
+                        "expiry": 2592000,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474317131
+                    }
+                ]
+            },
+            "loginTooltipShown": {
+                "name": "loginTooltipShown",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474306666,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010306,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474306665
+                    }
+                ]
+            },
+            "ltuid": {
+                "name": "ltuid",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474305193,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034305.176025,
+                        "expiry": 34560000.176024914,
+                        "value": "2424766304472314604",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305193
+                    }
+                ]
+            },
+            "site_version_11": {
+                "name": "site_version_11",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474305196,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728066305.17671,
+                        "expiry": 2592000.1767098904,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474305196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.986143112,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474306986
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.0251710415,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474307025
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.1578290462,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474307158
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.3288939,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474307329
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.9462480545,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474312947
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.121963024,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474317123
+                    }
+                ]
+            },
+            "sr": {
+                "name": "sr",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474306555,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010306,
+                        "expiry": 31536000,
+                        "value": "1920x979",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474306555
+                    }
+                ]
+            },
+            "vp": {
+                "name": "vp",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474306556,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010306,
+                        "expiry": 31536000,
+                        "value": "1920x890",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474306556
+                    }
+                ]
+            },
+            "web4_ga": {
+                "name": "web4_ga",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474317797,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034317.796375,
+                        "expiry": 34560000.796375036,
+                        "value": "GA1.1.1260641969.1725474318",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474317796
+                    }
+                ]
+            },
+            "web4_ga_JJCSV4C7C3": {
+                "name": "web4_ga_JJCSV4C7C3",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474317799,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034317.796702,
+                        "expiry": 34560000.79670191,
+                        "value": "GS1.1.1725474317.1.0.1725474317.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474317798
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.798751116,
+                        "value": "GS1.1.1725474317.1.0.1725474317.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474317800
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.8470521,
+                        "value": "GS1.1.1725474317.1.0.1725474317.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474317847
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.72761893,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474319728
+                    }
+                ]
+            },
+            "AID": {
+                "name": "AID",
+                "domain": "www.emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474306560,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725487200,
+                        "expiry": 12894,
+                        "value": "12571aac67f786c756dfe1843b12a5264b6ea00fce7e73aaff5407361618256e",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474306559
+                    }
+                ]
+            }
+        }
+    },
+    "olx.ro": {
+        "/": {
+            "OTAdditionalConsentString": {
+                "name": "OTAdditionalConsentString",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474342859,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010342,
+                        "expiry": 31536000,
+                        "value": "1~89.318.320.1421.1423.1659.1985.1987.2008.2072.2135.2322.2465.2501.2958.2999.3028.3225.3226.3231.3234.3235.3236.3237.3238.3240.3244.3245.3250.3251.3253.3257.3260.3270.3272.3281.3288.3290.3292.3293.3296.3299.3300.3306.3307.3309.3314.3315.3316.3318.3324.3328.3330.3331.3531.3731.3831.4131.4531.4631.4731.4831.5231.6931.7235.7831.7931.8931.9731.10231.10631.10831.11031.11531.12831.13632.13731.14237.14332.15731.16831.16931.21233.23031.25731.25931.26031.26831.27731.27831.28031.28731.28831.29631.31631.32531.33631",
+                        "same_site": "lax",
+                        "timestamp": 1725474342858
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474342825,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010342,
+                        "expiry": 31536000,
+                        "value": "2024-09-04T18:25:42.822Z",
+                        "same_site": "lax",
+                        "timestamp": 1725474342823
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474339839,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A25%3A39+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=16c990a0-16d0-47e8-8225-64853b4481b4&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1725474339869
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A25%3A39+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=16c990a0-16d0-47e8-8225-64853b4481b4&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725474339870
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A25%3A40+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=16c990a0-16d0-47e8-8225-64853b4481b4&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725474340037
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A25%3A40+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=16c990a0-16d0-47e8-8225-64853b4481b4&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725474340038
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A25%3A40+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=16c990a0-16d0-47e8-8225-64853b4481b4&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725474340039
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A25%3A40+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=16c990a0-16d0-47e8-8225-64853b4481b4&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725474340041
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A25%3A40+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=16c990a0-16d0-47e8-8225-64853b4481b4&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.ro%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2Cgad%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725474340043
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A25%3A40+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=16c990a0-16d0-47e8-8225-64853b4481b4&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.ro%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2Cgad%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725474340044
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A25%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=16c990a0-16d0-47e8-8225-64853b4481b4&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2Cgad%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725474342826
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A25%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=16c990a0-16d0-47e8-8225-64853b4481b4&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2Cgad%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725474342860
+                    }
+                ]
+            },
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474342303,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725477942.296706,
+                        "expiry": 3600.2967059612274,
+                        "value": "0p1ffa9io3dkf5he0sim84qpj8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474342297
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474344680,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741026344,
+                        "expiry": 15552000,
+                        "value": "ID=e14f185b2db17a39:T=1725474344:RT=1725474344:S=AA-AfjYgD7m3i82geOXmDVmiOHV7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "ID=e14f185b2db17a39:T=1725474344:RT=1725474344:S=AA-AfjYgD7m3i82geOXmDVmiOHV7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344828
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "ID=e14f185b2db17a39:T=1725474344:RT=1725474344:S=AA-AfjYgD7m3i82geOXmDVmiOHV7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344830
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474344673,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759170344,
+                        "expiry": 33696000,
+                        "value": "ID=6397978576257431:T=1725474344:RT=1725474344:S=ALNI_Ma0UE2d5KoujlUH7vHHh92mPWhXkg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344671
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "ID=6397978576257431:T=1725474344:RT=1725474344:S=ALNI_Ma0UE2d5KoujlUH7vHHh92mPWhXkg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344675
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "ID=6397978576257431:T=1725474344:RT=1725474344:S=ALNI_Ma0UE2d5KoujlUH7vHHh92mPWhXkg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344818
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474344676,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759170344,
+                        "expiry": 33696000,
+                        "value": "UID=00000eebc18000a6:T=1725474344:RT=1725474344:S=ALNI_MaLT86AmuMNzJBfjiuR-kM0Tic13w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344675
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "UID=00000eebc18000a6:T=1725474344:RT=1725474344:S=ALNI_MaLT86AmuMNzJBfjiuR-kM0Tic13w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344819
+                    }
+                ]
+            },
+            "__user_id_P&S": {
+                "name": "__user_id_P&S",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474343053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034343.052026,
+                        "expiry": 34560000.05202603,
+                        "value": "1168499323",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474343053
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474344919,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474374,
+                        "expiry": 30,
+                        "value": "m0o6vheduw7efo",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474344918
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6vhelbkst3t",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474344926
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6vhfjqsa0xy",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474344960
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6vhfm1lxkjx",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474344964
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6vhfqsdgjn6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474344967
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6vifap1tztv",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474346247
+                    }
+                ]
+            },
+            "_hjSessionUser_2218929": {
+                "name": "_hjSessionUser_2218929",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474345992,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010345,
+                        "expiry": 31536000,
+                        "value": "eyJpZCI6IjAzMTA1MjY5LWJkOTUtNTUwYy1iNjFjLWUyNTI1NjFiODQ5ZiIsImNyZWF0ZWQiOjE3MjU0NzQzNDU5OTEsImV4aXN0aW5nIjpmYWxzZX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474345991
+                    }
+                ]
+            },
+            "_hjSession_2218929": {
+                "name": "_hjSession_2218929",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474345994,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725476145,
+                        "expiry": 1800,
+                        "value": "eyJpZCI6ImFkZjZjMGI0LWUwMGYtNGYwMy1hMDZiLTU3ODAyY2MwODRjYyIsImMiOjE3MjU0NzQzNDU5OTEsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474345993
+                    }
+                ]
+            },
+            "_hjTLDTest": {
+                "name": "_hjTLDTest",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474345986,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": ".olx.ro",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474345985
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474344960,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602344,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0o6vhen5ldmfz1t%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725474344959
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474344932,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602344,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1725474344931
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOBmAVg4AMAJgEA2IQE5RAgBwCA7PP4gAvkA",
+                        "same_site": "lax",
+                        "timestamp": 1725474344958
+                    }
+                ]
+            },
+            "a_access_token": {
+                "name": "a_access_token",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474342305,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034342.298434,
+                        "expiry": 34560000.29843402,
+                        "value": "9ed6d7ea7c5a09035cd663aa761ce19e9be84e76",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474342304
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.31642389,
+                        "value": "9ed6d7ea7c5a09035cd663aa761ce19e9be84e76",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474342316
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.317536116,
+                        "value": "9ed6d7ea7c5a09035cd663aa761ce19e9be84e76",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474342318
+                    }
+                ]
+            },
+            "a_grant_type": {
+                "name": "a_grant_type",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474342306,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034342.298655,
+                        "expiry": 34560000.29865503,
+                        "value": "device",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474342305
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.31672311,
+                        "value": "device",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474342317
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.31781912,
+                        "value": "device",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474342318
+                    }
+                ]
+            },
+            "a_refresh_token": {
+                "name": "a_refresh_token",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474342305,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034342.298523,
+                        "expiry": 34560000.29852295,
+                        "value": "06e0b1846b217c1787d6eca2a17702273b3334eb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474342305
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.31652498,
+                        "value": "06e0b1846b217c1787d6eca2a17702273b3334eb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474342317
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.31765103,
+                        "value": "06e0b1846b217c1787d6eca2a17702273b3334eb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474342318
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474344961,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602344,
+                        "expiry": 34128000,
+                        "value": "m0o6vhen5ldmfz1t",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474344960
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0o6vhen5ldmfz1t",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474344964
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0o6vhen5ldmfz1t",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474344967
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0o6vhen5ldmfz1t",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474346248
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474346041,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725477946,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474346040
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474346040,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725477946,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474346039
+                    }
+                ]
+            },
+            "deviceGUID": {
+                "name": "deviceGUID",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474340674,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034340.670068,
+                        "expiry": 34560000.670068026,
+                        "value": "0b1f9d1a-cf16-4093-b142-a5ae41473e9e",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474340670
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474342857,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010342,
+                        "expiry": 31536000,
+                        "value": "CQEa0TAQEa0TAAcABBENBFF8AP_gAAAAAAYgJ9NV_G_fbXlj8Xp0aftkeY1f99h7rsQxBhfJk-4FyLuW_JwX32EzNA16pqYKmRIAu3bBIQFlGIDUDUCgaogVrTDMakWMgTNKJ6BEiFMRe2dYCF5vmQFD-QKY5tptd1d52Ret7dr83dzyz4Vnn3Kp_2a1WJCdA5cgAAAAAAAAAAAAAAAQAAAAAAAAAQAIAAAAAAAAAAAAAAAAAAAAF_cAAAMAAABQSB-AAgABcAFAAVAA4AB4AEEALwA1AB4AEQAJgAVQA3gB6AD8AISAQwBEgCOAEsAJoAYAAw4BlAGWANkAc8A7gDvgHsAfEA-wD9gH-AgABFICLgIwARoAksBPwFBgKgAq4BcwC9AGKANEAbQA3ABxIEegSIAnYBQ4CjwFIgLYAXIAu8BeYDDYGRgZIAycBlwDMwGcwNXA1kBsYDbwG6gOCAcmA5cIAWAAcACQAI4BBwCOAE0AL6AlYBNoCkAFcgLCAWIAvIBiADFgGQgNGAamA2gBtwDdBwCoABEADgAPAAuACQAH4ARwAoABoAEcAOQAgEBBwEIAIiARwAmgBUADpAIQASsAmIBMoCbQFJwK5ArsBYgC1AF0AMEAYgAxYBkIDJgGjANTAa8A2gBtgDbgG6AOPActA50Dnx0EkABcAFAAVAA4ACCAFwAagA8ACIAEwAKsAXABdADEAG8APQAfoBDAESAJYATQAowBgADDAGUANEAbIA54B3AHeAPaAfYB-gD_gIoAjEBHQElgJ-AoMBUQFXALEAXOAvIC9AGKANoAbgA4gB1AD7AIvgR6BIgCZAE7AKHgUeBSACmgFWALFAWwAt0BcAC5AF2gLvAXmAvoBhoDHoGRgZIAycBlUDLAMuAZmAzkBpsDVwNYAbeA3UBxYDkwHLkACoACAAHgBoAHIARwAsQBfQE2gKTAVyAsQBeQDBAGeANGAamA2wBtwDdAHLAOfIQIAAFgAUABcADUAKoAXAAxABvAD0AI4AYAA54B3AHeAP8AigBKQCgwFRAVcAuYBigDaAHUAR6ApoBVgCxQFogLgAXIAyMBk4DOSUCEABAACwAKAAcAB4AEQAJgAVQAuABigEMARIAjgBRgDAAGyAO8AfkBUQFXALmAYoA6gCJgEXwI9AkQBR4CxQFsALzgZGBkgDJwGcgNYAbeSAIgAXACOAO4AgABBwCOAFQASsAmIBNoCkwGLAMsAZ4A3IBugDlikDkABcAFAAVAA4ACAAGgAPAAiABMACqAGIAP0AhgCJAFGAMAAZQA0QBsgDnAHfAPwA_QCLAEYgI6AkoBQYCogKuAXMAvIBigDaAG4AOoAe0A-wCJgEXwI9AkQBOwChwFIAKsAWKAtgBcAC5AF2gLzAX0Aw2BkYGSAMngZYBlwDOYGsAayA28BuoDggHJlAD4AFwASAAuABkAEcARwA5AB3AD7AIAAQcAsQBdQDXgHbAP-AmIBNoCpAFdgLoAXkAwQBiwDJgGeANGAamA14BugDlg.f_wAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725474342851
+                    }
+                ]
+            },
+            "ldTd": {
+                "name": "ldTd",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474346104,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474406,
+                        "expiry": 60,
+                        "value": "true",
+                        "same_site": "lax",
+                        "timestamp": 1725474346104
+                    }
+                ]
+            },
+            "observed_aui": {
+                "name": "observed_aui",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474343011,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741026343.009693,
+                        "expiry": 15552000.009692907,
+                        "value": "81cc45b24c3f46f1900c53f90463e271",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474343010
+                    }
+                ]
+            },
+            "onap": {
+                "name": "onap",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474346103,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1756578346,
+                        "expiry": 31104000,
+                        "value": "191be491476x557def80-1-191be491476x557def80-1-1725476146",
+                        "same_site": "lax",
+                        "timestamp": 1725474346102
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "191be491476x557def80-1-191be491476x557def80-2-1725476146",
+                        "same_site": "lax",
+                        "timestamp": 1725474346107
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "191be491476x557def80-1-191be491476x557def80-3-1725476146",
+                        "same_site": "lax",
+                        "timestamp": 1725474346110
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "191be491476x557def80-1-191be491476x557def80-4-1725476146",
+                        "same_site": "lax",
+                        "timestamp": 1725474346110
+                    }
+                ]
+            },
+            "user_business_status": {
+                "name": "user_business_status",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474343054,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034343.052167,
+                        "expiry": 34560000.05216694,
+                        "value": "private",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474343054
+                    }
+                ]
+            },
+            "user_id": {
+                "name": "user_id",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474343053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034343.051955,
+                        "expiry": 34560000.051954985,
+                        "value": "1168499323",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474343052
+                    }
+                ]
+            },
+            "user_uuid": {
+                "name": "user_uuid",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474343054,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034343.052075,
+                        "expiry": 34560000.05207491,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474343053
+                    }
+                ]
+            }
+        }
+    },
+    "openx.net": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".openx.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474343898,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010343.895581,
+                        "expiry": 31536000.895581007,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343896
+                    }
+                ]
+            }
+        }
+    },
+    "smartadserver.com": {
+        "/": {
+            "TestIfCookieP": {
+                "name": "TestIfCookieP",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474343916,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010344.914196,
+                        "expiry": 31536001.914196014,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343915
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.91897893,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343922
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.080266953,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344081
+                    }
+                ]
+            },
+            "pbw": {
+                "name": "pbw",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474343915,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010344.914115,
+                        "expiry": 31536001.914114952,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343914
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.918921947,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343922
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.079998016,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344081
+                    }
+                ]
+            },
+            "pid": {
+                "name": "pid",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474343916,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010344.914215,
+                        "expiry": 31536001.914215088,
+                        "value": "1459473915520471390",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343916
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.919024944,
+                        "value": "8666626288876507552",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343922
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.08030796,
+                        "value": "4624325820046627151",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344082
+                    }
+                ]
+            },
+            "sasd2": {
+                "name": "sasd2",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474343917,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560744.914234,
+                        "expiry": 86401.91423392296,
+                        "value": "q=%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6&c=1&l&lo&lt=638610711440408801&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343916
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.91907310486,
+                        "value": "q=%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6&c=1&l&lo&lt=638610711440410646&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343922
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.08037495613,
+                        "value": "q=%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6&c=1&l&lo&lt=638610711442051045&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344082
+                    }
+                ]
+            },
+            "sasd": {
+                "name": "sasd",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474343918,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560744.914253,
+                        "expiry": 86401.91425299644,
+                        "value": "%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343917
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.91918992996,
+                        "value": "%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343922
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.08047795296,
+                        "value": "%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474344082
+                    }
+                ]
+            }
+        }
+    },
+    "teads.tv": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".teads.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474343734,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1756923943.731919,
+                        "expiry": 31449600.73191905,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343733
+                    }
+                ]
+            },
+            "tt_viewer": {
+                "name": "tt_viewer",
+                "domain": ".teads.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474343733,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1756923943.73184,
+                        "expiry": 31449600.731839895,
+                        "value": "66679401-92d7-46e4-9dce-5284179fddc3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474343732
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/recaptcha": {
+            "_GRECAPTCHA": {
+                "name": "_GRECAPTCHA",
+                "domain": "www.google.com",
+                "path": "/recaptcha",
+                "current_label": 0,
+                "label_ts": 1725474312871,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741026312.870978,
+                        "expiry": 15552000.870978117,
+                        "value": "09ACY6sGxCptGUIV6mfIHHk5w2PRADqx63UQjrVMjkdyKVysJwq2xMHmCKO0Gy-GSvvWgMlT15anXojGTra33EDIg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474312871
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,890 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530104880,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760090104.875618,
+                        "expiry": 34560000.87561798,
+                        "value": "AHWqTUnHqTgQ40tmsCrQKSXE73fDKPOkl9Ow9YrL-QUYCvUjM5BBAHUKIH_bmFP7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530104878
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.899949074,
+                        "value": "AHWqTUkUiGoOc9o3CLE5qu3GKsM8X6KyDYch7BYq_E8NUUskWhQDYZKwSfZ4luDWHi0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530104901
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530105635,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728122105.627843,
+                        "expiry": 2592000.627842903,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530105634
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530105553,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741082105.550417,
+                        "expiry": 15552000.550416946,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530105551
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530104047,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725531004.044757,
+                        "expiry": 900.0447568893433,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530104045
+                    }
+                ]
+            }
+        }
+    },
+    "fce2b75e-f11a-48ad-a60f-7e004eb1d340.prmutv.co": {
+        "/": {
+            "pxid": {
+                "name": "pxid",
+                "domain": ".fce2b75e-f11a-48ad-a60f-7e004eb1d340.prmutv.co",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530103524,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733392503.523666,
+                        "expiry": 7862400.523665905,
+                        "value": "b9a594f3-6828-4179-b2b7-0e5b1715964c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530103523
+                    }
+                ]
+            }
+        }
+    },
+    "irishtimes.com": {
+        "/": {
+            "OTAdditionalConsentString": {
+                "name": "OTAdditionalConsentString",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530102773,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741082102,
+                        "expiry": 15552000,
+                        "value": "1~318.1097.1659.2072.2918.3100.3309.14332.16931.23031.25731.25931.26031.26831.27731.27831.28031.28731.28831.29631.31631.32531.33631",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530102772
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530102748,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741082102,
+                        "expiry": 15552000,
+                        "value": "2024-09-05T09:55:02.746Z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530102747
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530095747,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+11%3A54%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=4d49dfdc-08ca-41c7-b981-8ffc55fd1ca3&interactionCount=0&landingPath=https%3A%2F%2Fwww.irishtimes.com%2F",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530095787
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+11%3A54%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=4d49dfdc-08ca-41c7-b981-8ffc55fd1ca3&interactionCount=0&landingPath=https%3A%2F%2Fwww.irishtimes.com%2F",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530095961
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+11%3A54%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=4d49dfdc-08ca-41c7-b981-8ffc55fd1ca3&interactionCount=0&landingPath=https%3A%2F%2Fwww.irishtimes.com%2F",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530095963
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+11%3A54%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=4d49dfdc-08ca-41c7-b981-8ffc55fd1ca3&interactionCount=0&landingPath=https%3A%2F%2Fwww.irishtimes.com%2F",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530095966
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+11%3A54%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=4d49dfdc-08ca-41c7-b981-8ffc55fd1ca3&interactionCount=0&landingPath=https%3A%2F%2Fwww.irishtimes.com%2F&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0005%3A0%2CC0015%3A1%2CC0016%3A1%2CV2STACK42%3A0&hosts=H310%3A1%2CH20%3A0%2CH62%3A0%2CH17%3A0%2CH612%3A0%2CH81%3A0%2CH694%3A0%2CH552%3A0%2CH104%3A0%2CH544%3A0%2CH620%3A0%2CH320%3A0%2CH13%3A0%2CH670%3A0%2CH149%3A0%2CH482%3A0%2CH237%3A0%2CH553%3A0%2CH572%3A0%2CH19%3A0%2CH573%3A0%2CH119%3A0%2CH523%3A0%2CH349%3A0%2CH30%3A0%2CH31%3A0%2CH474%3A0%2CH40%3A0%2CH706%3A0%2CH559%3A0%2CH668%3A0%2CH600%3A0%2CH51%3A0%2CH484%3A0%2CH716%3A0%2CH52%3A0%2CH53%3A0%2CH54%3A0%2CH485%3A0%2CH510%3A0%2CH424%3A0%2CH709%3A0%2CH687%3A0%2CH58%3A0%2CH722%3A0%2CH602%3A0%2CH59%3A0%2CH594%3A0%2CH541%3A0%2CH629%3A0%2CH74%3A0%2CH487%3A0%2CH80%3A0%2CH564%3A0%2CH503%3A0%2CH294%3A0%2CH21%3A0%2CH197%3A0%2CH497%3A0%2CH501%3A0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530095983
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+11%3A54%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=4d49dfdc-08ca-41c7-b981-8ffc55fd1ca3&interactionCount=0&landingPath=https%3A%2F%2Fwww.irishtimes.com%2F&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0005%3A0%2CC0015%3A1%2CC0016%3A1%2CV2STACK42%3A0&hosts=H310%3A1%2CH20%3A0%2CH62%3A0%2CH17%3A0%2CH612%3A0%2CH81%3A0%2CH694%3A0%2CH552%3A0%2CH104%3A0%2CH544%3A0%2CH620%3A0%2CH320%3A0%2CH13%3A0%2CH670%3A0%2CH149%3A0%2CH482%3A0%2CH237%3A0%2CH553%3A0%2CH572%3A0%2CH19%3A0%2CH573%3A0%2CH119%3A0%2CH523%3A0%2CH349%3A0%2CH30%3A0%2CH31%3A0%2CH474%3A0%2CH40%3A0%2CH706%3A0%2CH559%3A0%2CH668%3A0%2CH600%3A0%2CH51%3A0%2CH484%3A0%2CH716%3A0%2CH52%3A0%2CH53%3A0%2CH54%3A0%2CH485%3A0%2CH510%3A0%2CH424%3A0%2CH709%3A0%2CH687%3A0%2CH58%3A0%2CH722%3A0%2CH602%3A0%2CH59%3A0%2CH594%3A0%2CH541%3A0%2CH629%3A0%2CH74%3A0%2CH487%3A0%2CH80%3A0%2CH564%3A0%2CH503%3A0%2CH294%3A0%2CH21%3A0%2CH197%3A0%2CH497%3A0%2CH501%3A0&genVendors=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530095984
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+11%3A55%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=4d49dfdc-08ca-41c7-b981-8ffc55fd1ca3&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0005%3A0%2CC0015%3A1%2CC0016%3A1%2CV2STACK42%3A0&hosts=H310%3A1%2CH20%3A0%2CH62%3A0%2CH17%3A0%2CH612%3A0%2CH81%3A0%2CH694%3A0%2CH552%3A0%2CH104%3A0%2CH544%3A0%2CH620%3A0%2CH320%3A0%2CH13%3A0%2CH670%3A0%2CH149%3A0%2CH482%3A0%2CH237%3A0%2CH553%3A0%2CH572%3A0%2CH19%3A0%2CH573%3A0%2CH119%3A0%2CH523%3A0%2CH349%3A0%2CH30%3A0%2CH31%3A0%2CH474%3A0%2CH40%3A0%2CH706%3A0%2CH559%3A0%2CH668%3A0%2CH600%3A0%2CH51%3A0%2CH484%3A0%2CH716%3A0%2CH52%3A0%2CH53%3A0%2CH54%3A0%2CH485%3A0%2CH510%3A0%2CH424%3A0%2CH709%3A0%2CH687%3A0%2CH58%3A0%2CH722%3A0%2CH602%3A0%2CH59%3A0%2CH594%3A0%2CH541%3A0%2CH629%3A0%2CH74%3A0%2CH487%3A0%2CH80%3A0%2CH564%3A0%2CH503%3A0%2CH294%3A0%2CH21%3A0%2CH197%3A0%2CH497%3A0%2CH501%3A0&genVendors=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530102749
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+11%3A55%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=4d49dfdc-08ca-41c7-b981-8ffc55fd1ca3&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0005%3A1%2CC0015%3A1%2CC0016%3A1%2CV2STACK42%3A1&hosts=H310%3A1%2CH20%3A0%2CH62%3A0%2CH17%3A0%2CH612%3A0%2CH81%3A0%2CH694%3A0%2CH552%3A0%2CH104%3A0%2CH544%3A0%2CH620%3A0%2CH320%3A0%2CH13%3A0%2CH670%3A0%2CH149%3A0%2CH482%3A0%2CH237%3A0%2CH553%3A0%2CH572%3A0%2CH19%3A0%2CH573%3A0%2CH119%3A0%2CH523%3A0%2CH349%3A0%2CH30%3A0%2CH31%3A0%2CH474%3A0%2CH40%3A0%2CH706%3A0%2CH559%3A0%2CH668%3A0%2CH600%3A0%2CH51%3A0%2CH484%3A0%2CH716%3A0%2CH52%3A0%2CH53%3A0%2CH54%3A0%2CH485%3A0%2CH510%3A0%2CH424%3A0%2CH709%3A0%2CH687%3A0%2CH58%3A0%2CH722%3A0%2CH602%3A0%2CH59%3A0%2CH594%3A0%2CH541%3A0%2CH629%3A0%2CH74%3A0%2CH487%3A0%2CH80%3A0%2CH564%3A0%2CH503%3A0%2CH294%3A0%2CH21%3A0%2CH197%3A0%2CH497%3A0%2CH501%3A0&genVendors=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530102750
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+11%3A55%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=4d49dfdc-08ca-41c7-b981-8ffc55fd1ca3&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0005%3A1%2CC0015%3A1%2CC0016%3A1%2CV2STACK42%3A1&hosts=H310%3A1%2CH20%3A1%2CH62%3A1%2CH17%3A1%2CH612%3A1%2CH81%3A1%2CH694%3A1%2CH552%3A1%2CH104%3A1%2CH544%3A1%2CH620%3A1%2CH320%3A1%2CH13%3A1%2CH670%3A1%2CH149%3A1%2CH482%3A1%2CH237%3A1%2CH553%3A1%2CH572%3A1%2CH19%3A1%2CH573%3A1%2CH119%3A1%2CH523%3A1%2CH349%3A1%2CH30%3A1%2CH31%3A1%2CH474%3A1%2CH40%3A1%2CH706%3A1%2CH559%3A1%2CH668%3A1%2CH600%3A1%2CH51%3A1%2CH484%3A1%2CH716%3A1%2CH52%3A1%2CH53%3A1%2CH54%3A1%2CH485%3A1%2CH510%3A1%2CH424%3A1%2CH709%3A1%2CH687%3A1%2CH58%3A1%2CH722%3A1%2CH602%3A1%2CH59%3A1%2CH594%3A1%2CH541%3A1%2CH629%3A1%2CH74%3A1%2CH487%3A1%2CH80%3A1%2CH564%3A1%2CH503%3A1%2CH294%3A1%2CH21%3A1%2CH197%3A1%2CH497%3A1%2CH501%3A1&genVendors=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530102774
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+11%3A55%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=4d49dfdc-08ca-41c7-b981-8ffc55fd1ca3&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0005%3A1%2CC0015%3A1%2CC0016%3A1%2CV2STACK42%3A1&hosts=H310%3A1%2CH20%3A1%2CH62%3A1%2CH17%3A1%2CH612%3A1%2CH81%3A1%2CH694%3A1%2CH552%3A1%2CH104%3A1%2CH544%3A1%2CH620%3A1%2CH320%3A1%2CH13%3A1%2CH670%3A1%2CH149%3A1%2CH482%3A1%2CH237%3A1%2CH553%3A1%2CH572%3A1%2CH19%3A1%2CH573%3A1%2CH119%3A1%2CH523%3A1%2CH349%3A1%2CH30%3A1%2CH31%3A1%2CH474%3A1%2CH40%3A1%2CH706%3A1%2CH559%3A1%2CH668%3A1%2CH600%3A1%2CH51%3A1%2CH484%3A1%2CH716%3A1%2CH52%3A1%2CH53%3A1%2CH54%3A1%2CH485%3A1%2CH510%3A1%2CH424%3A1%2CH709%3A1%2CH687%3A1%2CH58%3A1%2CH722%3A1%2CH602%3A1%2CH59%3A1%2CH594%3A1%2CH541%3A1%2CH629%3A1%2CH74%3A1%2CH487%3A1%2CH80%3A1%2CH564%3A1%2CH503%3A1%2CH294%3A1%2CH21%3A1%2CH197%3A1%2CH497%3A1%2CH501%3A1&genVendors=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530102780
+                    }
+                ]
+            },
+            "_cb": {
+                "name": "_cb",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530103527,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759658103,
+                        "expiry": 34128000,
+                        "value": "gczZPCik67BDJUfgp",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103527
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530103529,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725531903,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103529
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103530
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725530103523,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103522
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103523
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103525
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103529
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530103528,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759658103,
+                        "expiry": 34128000,
+                        "value": ".1725530103526.1725530103526.1.BLu6x5DUtwxeC2r299BKW9UqCzbvE6.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103527
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530105246,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733306105,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725530105244.442167843239558231",
+                        "same_site": "lax",
+                        "timestamp": 1725530105245
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530103441,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760090103.438598,
+                        "expiry": 34560000.43859792,
+                        "value": "GA1.1.1916742033.1725530103",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103439
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.53561497,
+                        "value": "GA1.2.1916742033.1725530103",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103535
+                    }
+                ]
+            },
+            "_ga_YJ6L8N9LXB": {
+                "name": "_ga_YJ6L8N9LXB",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530103439,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760090103.437954,
+                        "expiry": 34560000.43795395,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103438
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.438210964,
+                        "value": "GS1.1.1725530103.1.0.1725530103.60.0.670630289",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103439
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.66171789,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530105662
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.662070036,
+                        "value": "GS1.1.1725530103.1.0.1725530105.58.0.670630289",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530105662
+                    }
+                ]
+            },
+            "_gat_UA-850873-29": {
+                "name": "_gat_UA-850873-29",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530103537,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725530163,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103537
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530102775,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733306102,
+                        "expiry": 7776000,
+                        "value": "1.1.1432669877.1725530103",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530102774
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775999,
+                        "value": "1.1.1432669877.1725530103",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530104693
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775999,
+                        "value": "1.1.1432669877.1725530103",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530104724
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530103537,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725616503,
+                        "expiry": 86400,
+                        "value": "GA1.2.148780750.1725530104",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103536
+                    }
+                ]
+            },
+            "_t_tests": {
+                "name": "_t_tests",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530104231,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725533704,
+                        "expiry": 3600,
+                        "value": "eyIyWHhKY0IzaEFDSFZrIjp7ImNob3NlblZhcmlhbnQiOiJCIiwic3BlY2lmaWNMb2NhdGlvbiI6WyJEVDNRRFQiLCJKMkdnQyJdfSwiUTl1RW10RkZvTmE3ZCI6eyJjaG9zZW5WYXJpYW50IjoiQiIsInNwZWNpZmljTG9jYXRpb24iOlsiRDdYSnA1IiwiQ29EX0EtIiwiQnVaYm1MIl19LCJSdzVGS0RYTngxVkFDIjp7ImNob3NlblZhcmlhbnQiOiJDIiwic3BlY2lmaWNMb2NhdGlvbiI6WyJEcFFKQ3ciLCJDcGNLTHoiXX0sIkl1Zm1nREVMaVlxVTEiOnsiY2hvc2VuVmFyaWFudCI6IkEiLCJzcGVjaWZpY0xvY2F0aW9uIjpbIl9rM21WIiwiRGxieE11Il19LCJQNmhOVGZyb2xkOVFGIjp7ImNob3NlblZhcmlhbnQiOiJDIiwic3BlY2lmaWNMb2NhdGlvbiI6WyJEUmhGQ2UiLCJCRjVubnAiLCJDSEhGS08iXX0sIlRxcXhKTm0zT2ZFck8iOnsiY2hvc2VuVmFyaWFudCI6IkEiLCJzcGVjaWZpY0xvY2F0aW9uIjpbIkQ1cW4tbyIsIkNRNjJheCJdfSwiMlE1dVYwSkkzWlluTiI6eyJjaG9zZW5WYXJpYW50IjoiQiIsInNwZWNpZmljTG9jYXRpb24iOlsiQnJwN0ciLCJDQUZwMHgiXX0sInh1WTNva2QwYURkNFIiOnsiY2hvc2VuVmFyaWFudCI6IkEiLCJzcGVjaWZpY0xvY2F0aW9uIjpbIkJidmlyZyJdfSwib0hNcUNxdzlvZFNVbyI6eyJjaG9zZW5WYXJpYW50IjoiQiIsInNwZWNpZmljTG9jYXRpb24iOlsiQ1dqenBVIiwidkFWclciXX0sIkEyQ3RTTmtOMU1tQXIiOnsiY2hvc2VuVmFyaWFudCI6IkEiLCJzcGVjaWZpY0xvY2F0aW9uIjpbIjdSQV9NIl19LCJYcWJMVUJEV20xUkNmIjp7ImNob3NlblZhcmlhbnQiOiJBIiwic3BlY2lmaWNMb2NhdGlvbiI6WyJDUlZzekEiXX0sIjl5NEdYbWprQlVyRk8iOnsiY2hvc2VuVmFyaWFudCI6IkEiLCJzcGVjaWZpY0xvY2F0aW9uIjpbIkJuTWNFZSJdfSwieFRWVU43ekdpRU1vcSI6eyJjaG9zZW5WYXJpYW50IjoiQiIsInNwZWNpZmljTG9jYXRpb24iOlsiRG52eERtIl19LCJsaWZ0X2V4cCI6Im0ifQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530104228
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530102771,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741082102,
+                        "expiry": 15552000,
+                        "value": "CQEeHPAQEeHPAAcABBENBFF8AP_gAEPgABAgKKwOIAAgAEAAQAAwACIAFAAWAA2AB4AIAAVgAuADIAHAASgAqABYADIAGkAOwA8gCIAIoATAAnABiADlAHcAeIBAgEEAIQASwAwwBqgDiAHwAP0AjMBHAEdAKQAWkAvoBgQDQAGnAOEAgwBC4CLwElgJUATuAqwBX4CwwF5gL3AlXBOIE5IJzAnVBOwE7wKJgUVBRWBAAAgABYADwAKgAXAA4ADIAGgAPAAiABMADEAH4AQgAlgBhgD4AH6ARaAjgCOgF9AM-Aa8BF4CrAF5gMEgnKCcwE6QJ1wTtBO6CigKKgAA.f_wACHwAAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530102768
+                    }
+                ]
+            },
+            "permutive-id": {
+                "name": "permutive-id",
+                "domain": ".irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530102786,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741172092,
+                        "expiry": 15641990,
+                        "value": "7ceb1f0c-2920-450f-baf0-875b2ff3973d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530102785
+                    }
+                ]
+            },
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "www.irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530094426,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726134894.407442,
+                        "expiry": 604800.4074420929,
+                        "value": "woso+RcZEBrpL+IwOdcJ18G92au1ubIAfNAYSUqu/SNmEDhWiRjFX7JYWEt5gGa658zxQKLCLME6v+APOu3npZhJuokmX0bvPHDu7XU5JBA4X1FFjH4ppI4PLhPr",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530094424
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604799.1166129112,
+                        "value": "KE3+T0zaqFkD1IQ/HXoCGvtYJJitd9UXzpFvPeBWhFsF7Frv1ryCXSvHiKBYzIqvi7VqtY/jCN9VE5p2bvft7grvQJZMx/gAraml/zynSMGiHYP6jq4FvCGGjfEl",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103118
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "www.irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530094427,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726134894.40748,
+                        "expiry": 604800.4074800014,
+                        "value": "woso+RcZEBrpL+IwOdcJ18G92au1ubIAfNAYSUqu/SNmEDhWiRjFX7JYWEt5gGa658zxQKLCLME6v+APOu3npZhJuokmX0bvPHDu7XU5JBA4X1FFjH4ppI4PLhPr",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530094426
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604799.1168060303,
+                        "value": "KE3+T0zaqFkD1IQ/HXoCGvtYJJitd9UXzpFvPeBWhFsF7Frv1ryCXSvHiKBYzIqvi7VqtY/jCN9VE5p2bvft7grvQJZMx/gAraml/zynSMGiHYP6jq4FvCGGjfEl",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530103118
+                    }
+                ]
+            },
+            "AWSALBTG": {
+                "name": "AWSALBTG",
+                "domain": "www.irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530094419,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726134894.407134,
+                        "expiry": 604800.4071340561,
+                        "value": "9kIUQ5UUzT9Tymwcah76KhdcvFjEs3aX44aR7jBMpKAzxbhXNCrgBd6T5dNcLqxbk6zJ8afFbevF4PD4ANoIOtlN1bznnyapssN72rDe8KS0lPVHcLGd+nzJcy+oIVdt5161L3VZBTxm4rjUv2ul/y6YmvKcXSPQLFxpoVHAF4Sz+Mk+ckU=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530094410
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604799.1163420677,
+                        "value": "Ju4toyDRbhMmNm1x1noPRh4qa64b9GkuLGPcO7vT7RcHlax4FrC/UowtWlWHKmpTGlvNXUlYLR6X0H8kUqboqis0nXWSvwPI1jrPmCOd2vajSdsigetIQcl62Qg2C1BDtk9j8IAGVXTwvo2XmWs0+7ilUSyJr9uupJvQedLOUemqe/Pz3yQ=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530103117
+                    }
+                ]
+            },
+            "AWSALBTGCORS": {
+                "name": "AWSALBTGCORS",
+                "domain": "www.irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530094424,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726134894.407379,
+                        "expiry": 604800.407378912,
+                        "value": "9kIUQ5UUzT9Tymwcah76KhdcvFjEs3aX44aR7jBMpKAzxbhXNCrgBd6T5dNcLqxbk6zJ8afFbevF4PD4ANoIOtlN1bznnyapssN72rDe8KS0lPVHcLGd+nzJcy+oIVdt5161L3VZBTxm4rjUv2ul/y6YmvKcXSPQLFxpoVHAF4Sz+Mk+ckU=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530094419
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604799.1164588928,
+                        "value": "Ju4toyDRbhMmNm1x1noPRh4qa64b9GkuLGPcO7vT7RcHlax4FrC/UowtWlWHKmpTGlvNXUlYLR6X0H8kUqboqis0nXWSvwPI1jrPmCOd2vajSdsigetIQcl62Qg2C1BDtk9j8IAGVXTwvo2XmWs0+7ilUSyJr9uupJvQedLOUemqe/Pz3yQ=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530103118
+                    }
+                ]
+            },
+            "blaize_session": {
+                "name": "blaize_session",
+                "domain": "www.irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530094428,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1737626094.407513,
+                        "expiry": 12096000.407512903,
+                        "value": "81ea4946-4d0b-4f8b-8c03-e09f9fe06dc8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530094427
+                    }
+                ]
+            },
+            "blaize_tracking_id": {
+                "name": "blaize_tracking_id",
+                "domain": "www.irishtimes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530094429,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760090094.407552,
+                        "expiry": 34560000.407552004,
+                        "value": "e882722d-40a8-4a85-bbfb-42a9f9d54cca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530094428
+                    }
+                ]
+            }
+        }
+    },
+    "postrelease.com": {
+        "/": {
+            "status": {
+                "name": "status",
+                "domain": ".postrelease.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530105344,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757066105.341328,
+                        "expiry": 31536000.341327906,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530105343
+                    }
+                ]
+            },
+            "visitor": {
+                "name": "visitor",
+                "domain": ".postrelease.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530105343,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757066105.341241,
+                        "expiry": 31536000.341240883,
+                        "value": "fe0a4ab5-f812-440b-a6db-f55c7eb7dc73",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530105341
+                    }
+                ]
+            }
+        }
+    },
+    "api.xtremepush.com": {
+        "/": {
+            "_xpid_2752": {
+                "name": "_xpid_2752",
+                "domain": "api.xtremepush.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530096888,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741082096.885156,
+                        "expiry": 15552000.885155916,
+                        "value": "4770613512",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530096886
+                    }
+                ]
+            }
+        }
+    }
+}

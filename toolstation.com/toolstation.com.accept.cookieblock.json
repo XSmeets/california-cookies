@@ -1,0 +1,827 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481446570,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725482346.567093,
+                        "expiry": 900.5670928955078,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481446568
+                    }
+                ]
+            }
+        }
+    },
+    "toolstation.com": {
+        "/": {
+            "BVBRANDID": {
+                "name": "BVBRANDID",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481441516,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017441,
+                        "expiry": 31536000,
+                        "value": "ebc65f82-c3e0-4875-86c1-6c77dba0d869",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481441516
+                    }
+                ]
+            },
+            "BVBRANDSID": {
+                "name": "BVBRANDSID",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481441517,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725483241,
+                        "expiry": 1800,
+                        "value": "c961edcf-faa4-460a-a2e4-e2a4bc2825d1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481441516
+                    }
+                ]
+            },
+            "ConstructorioID_client_id": {
+                "name": "ConstructorioID_client_id",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481442591,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017442,
+                        "expiry": 31536000,
+                        "value": "8705c9ec-a6fa-477b-bc93-4d7887318903",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481442590
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "8705c9ec-a6fa-477b-bc93-4d7887318903",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481442592
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481444403,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017444,
+                        "expiry": 31536000,
+                        "value": "2024-09-04T20:24:04.399Z",
+                        "same_site": "lax",
+                        "timestamp": 1725481444400
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481441504,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017441,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A24%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=6.18.0",
+                        "same_site": "lax",
+                        "timestamp": 1725481441504
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A24%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=6.18.0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1725481441504
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A24%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=6.18.0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725481441505
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A24%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=6.18.0&isIABGlobal=false&hosts=&consentId=e8de3882-f620-495a-91dc-93700b86c71b&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1725481441505
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A24%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=6.18.0&isIABGlobal=false&hosts=&consentId=e8de3882-f620-495a-91dc-93700b86c71b&interactionCount=0&landingPath=https%3A%2F%2Fwww.toolstation.com%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725481441506
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A24%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=6.18.0&isIABGlobal=false&hosts=&consentId=e8de3882-f620-495a-91dc-93700b86c71b&interactionCount=0&landingPath=https%3A%2F%2Fwww.toolstation.com%2F&groups=C0001%3A1%2CC0002%3A0%2CC0004%3A0%2CC0003%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725481441688
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A24%3A04+GMT%2B0200+(Central+European+Summer+Time)&version=6.18.0&isIABGlobal=false&hosts=&consentId=e8de3882-f620-495a-91dc-93700b86c71b&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1%2CC0003%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725481444403
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A24%3A04+GMT%2B0200+(Central+European+Summer+Time)&version=6.18.0&isIABGlobal=false&hosts=&consentId=e8de3882-f620-495a-91dc-93700b86c71b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1%2CC0003%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725481444412
+                    }
+                ]
+            },
+            "__exponea_etc__": {
+                "name": "__exponea_etc__",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481444840,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041444.839309,
+                        "expiry": 34560000.83930898,
+                        "value": "a4fe4d5a-04a0-4d26-8c63-3d31afe96e6b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481444839
+                    }
+                ]
+            },
+            "__exponea_time2__": {
+                "name": "__exponea_time2__",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481445152,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725485045,
+                        "expiry": 3600,
+                        "value": "-0.07262849807739258",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481445151
+                    }
+                ]
+            },
+            "_cs_c": {
+                "name": "_cs_c",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481446895,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759645446,
+                        "expiry": 34164000,
+                        "value": "0",
+                        "same_site": "lax",
+                        "timestamp": 1725481446894
+                    }
+                ]
+            },
+            "_cs_id": {
+                "name": "_cs_id",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481446899,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759645446,
+                        "expiry": 34164000,
+                        "value": "cc380198-2e7f-a844-d01f-db4ec0b49dba.1725481446.1.1725481446.1725481446.1.1759645446898.1",
+                        "same_site": "lax",
+                        "timestamp": 1725481446898
+                    }
+                ]
+            },
+            "_cs_mk_ga": {
+                "name": "_cs_mk_ga",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481441541,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725483241,
+                        "expiry": 1800,
+                        "value": "0.7165578933944199_1725481441538",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481441540
+                    }
+                ]
+            },
+            "_cs_root-domain": {
+                "name": "_cs_root-domain",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481446891,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "toolstation.com",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481446890
+                    }
+                ]
+            },
+            "_cs_s": {
+                "name": "_cs_s",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481446899,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725483246,
+                        "expiry": 1800,
+                        "value": "1.T.0.1725483246898",
+                        "same_site": "lax",
+                        "timestamp": 1725481446899
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1.T.0.1725483246903",
+                        "same_site": "lax",
+                        "timestamp": 1725481446904
+                    }
+                ]
+            },
+            "_cs_tld1725481441538": {
+                "name": "_cs_tld1725481441538",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481441540,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cs_tld1725481441538",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481441539
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481445949,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041445.947443,
+                        "expiry": 34560000.94744301,
+                        "value": "GA1.2.638273169.1725481442",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481445948
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.9522779,
+                        "value": "GA1.2.638273169.1725481442",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481445953
+                    }
+                ]
+            },
+            "_ga_9X4LTNFM3F": {
+                "name": "_ga_9X4LTNFM3F",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481445956,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041445.954607,
+                        "expiry": 34560000.95460701,
+                        "value": "GS1.1.1725481441.1.0.1725481441.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481445955
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.96082401,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481445961
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.96106291,
+                        "value": "GS1.1.1725481441.1.0.1725481445.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481445961
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.160554886,
+                        "value": "GS1.1.1725481441.1.0.1725481447.58.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481447161
+                    }
+                ]
+            },
+            "_gat_UA-2247774-4": {
+                "name": "_gat_UA-2247774-4",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481445952,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481505,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481445952
+                    }
+                ]
+            },
+            "_gd1725481441514": {
+                "name": "_gd1725481441514",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481441515,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_gd1725481441514",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481441514
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_gd1725481441514",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481441516
+                    }
+                ]
+            },
+            "_gd1725481441515": {
+                "name": "_gd1725481441515",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481441518,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_gd1725481441515",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481441517
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".toolstation.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481445951,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567845,
+                        "expiry": 86400,
+                        "value": "GA1.2.518871373.1725481446",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481445950
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.518871373.1725481446",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481445954
+                    }
+                ]
+            },
+            "_cs_same_site": {
+                "name": "_cs_same_site",
+                "domain": "www.toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481446890,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Test%20same%20site",
+                        "same_site": "lax",
+                        "timestamp": 1725481446889
+                    }
+                ]
+            },
+            "_dd_s": {
+                "name": "_dd_s",
+                "domain": "www.toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481444426,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482344,
+                        "expiry": 900,
+                        "value": "lock=2dd4fa27-f051-4047-94ba-6f74f62c4edc",
+                        "same_site": "strict",
+                        "timestamp": 1725481444425
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=2&id=ac5245a2-22aa-41b3-83a8-76b2c1c2e63a&created=1725481444425&expire=1725482344425",
+                        "same_site": "strict",
+                        "timestamp": 1725481444427
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=2&id=ac5245a2-22aa-41b3-83a8-76b2c1c2e63a&created=1725481444425&expire=1725482344425",
+                        "same_site": "strict",
+                        "timestamp": 1725481445428
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=2&id=ac5245a2-22aa-41b3-83a8-76b2c1c2e63a&created=1725481444425&expire=1725482344425",
+                        "same_site": "strict",
+                        "timestamp": 1725481446428
+                    }
+                ]
+            },
+            "_mibhv": {
+                "name": "_mibhv",
+                "domain": "www.toolstation.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481445177,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017445,
+                        "expiry": 31536000,
+                        "value": "anon-1725481445174-8428952163_8830",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481445176
+                    }
+                ]
+            },
+            "dd_cookie_test_934ed933-10d2-487b-be4f-95d36eec53bf": {
+                "name": "dd_cookie_test_934ed933-10d2-487b-be4f-95d36eec53bf",
+                "domain": "www.toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481441414,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481501,
+                        "expiry": 60,
+                        "value": "test",
+                        "same_site": "strict",
+                        "timestamp": 1725481441412
+                    }
+                ]
+            },
+            "ecomApiAccessToken": {
+                "name": "ecomApiAccessToken",
+                "domain": "www.toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481438682,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22accessToken%22%3A%22WGM2YuyVjXNAvpFaKkMDcKoWdpEd%22%2C%22expiresIn%22%3A%223599%22%2C%22applicationName%22%3A%22a09b7c4e-03ec-4d56-83e4-9f4659981b1b%22%2C%22tokenType%22%3A%22BearerToken%22%2C%22issuedAt%22%3A%221725481438250%22%2C%22generated%22%3A1725481438.254%2C%22expiresTime%22%3A1725485037.254%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481438680
+                    }
+                ]
+            },
+            "mt.v": {
+                "name": "mt.v",
+                "domain": "www.toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481438679,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017438.660655,
+                        "expiry": 31536000.66065502,
+                        "value": "5.1218200696.1725481438908",
+                        "same_site": "lax",
+                        "timestamp": 1725481438675
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.86638188,
+                        "value": "5.1218200696.1725481438908",
+                        "same_site": "lax",
+                        "timestamp": 1725481440866
+                    }
+                ]
+            },
+            "toolstation-locale": {
+                "name": "toolstation-locale",
+                "domain": "www.toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481438674,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017438.66051,
+                        "expiry": 31536000.660510063,
+                        "value": "en-GB",
+                        "same_site": "lax",
+                        "timestamp": 1725481438663
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "en-GB",
+                        "same_site": "lax",
+                        "timestamp": 1725481441264
+                    }
+                ]
+            },
+            "ts-session-id": {
+                "name": "ts-session-id",
+                "domain": "www.toolstation.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481438683,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041438.661213,
+                        "expiry": 34560000.66121292,
+                        "value": "8b7f5dd3-a0e1-4efb-b230-3bf7ee8e41f1",
+                        "same_site": "lax",
+                        "timestamp": 1725481438682
+                    }
+                ]
+            }
+        }
+    },
+    "api.uk.exponea.com": {
+        "/": {
+            "xnpe_6b9d6396-8d08-11ed-af8e-e299581ce95e": {
+                "name": "xnpe_6b9d6396-8d08-11ed-af8e-e299581ce95e",
+                "domain": "api.uk.exponea.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481444838,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041444.835098,
+                        "expiry": 34560000.83509803,
+                        "value": "a4fe4d5a-04a0-4d26-8c63-3d31afe96e6b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481444836
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.597528934,
+                        "value": "a4fe4d5a-04a0-4d26-8c63-3d31afe96e6b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481445598
+                    }
+                ]
+            }
+        }
+    }
+}

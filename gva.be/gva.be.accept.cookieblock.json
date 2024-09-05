@@ -1,0 +1,589 @@
+{
+    "gva.be": {
+        "/": {
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".gva.be",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479112357,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759607112,
+                        "expiry": 34128000,
+                        "value": "ooOMCNjWt9jNj3Ge57bAWTlhOjN47IOevjlPDDJzO2z.27|1725479112|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479112355
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".gva.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479111843,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039111.842582,
+                        "expiry": 34560000.84258199,
+                        "value": "GA1.2.1037660701.1725479112",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479111843
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.84609389,
+                        "value": "GA1.2.1037660701.1725479112",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479111846
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.278503895,
+                        "value": "GA1.1.1037660701.1725479112",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479112280
+                    }
+                ]
+            },
+            "_ga_D47LF9JRVJ": {
+                "name": "_ga_D47LF9JRVJ",
+                "domain": ".gva.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479112279,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039112.278234,
+                        "expiry": 34560000.278234005,
+                        "value": "GS1.1.1725479112.1.0.1725479112.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479112279
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68988609,
+                        "value": "GS1.1.1725479112.1.0.1725479115.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479115690
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".gva.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479111845,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725565511,
+                        "expiry": 86400,
+                        "value": "GA1.2.88883672.1725479112",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479111844
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.88883672.1725479112",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479111847
+                    }
+                ]
+            },
+            "_mhtc_cId": {
+                "name": "_mhtc_cId",
+                "domain": ".gva.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479109069,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728071109,
+                        "expiry": 2592000,
+                        "value": "bee6ff9a-1b7b-4a7e-a4de-4c81706d934a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479109068
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2678400,
+                        "value": "bee6ff9a-1b7b-4a7e-a4de-4c81706d934a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479113254
+                    }
+                ]
+            },
+            "_mhtc_sId": {
+                "name": "_mhtc_sId",
+                "domain": ".gva.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479113255,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725480913,
+                        "expiry": 1800,
+                        "value": "70d2d829-8c5b-47b9-b5c3-880c284ee683",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479113254
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".gva.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479109243,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757101509,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU5MWMtMWYyNS02ODBmLWJkZTItZTY1ZTc0ZmViODZiIiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTk6NDU6MDkuMTA2WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE5OjQ1OjA5LjEwN1oiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725479109242
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU5MWMtMWYyNS02ODBmLWJkZTItZTY1ZTc0ZmViODZiIiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTk6NDU6MDkuMTA2WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE5OjQ1OjExLjg2MloiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzphZG9iZS10YWdtYW5hZ2VyIiwiYzphZ25vcGxheS1NelljRjRIRiIsImM6cHVic3RhY2staVloZlEzaFEiLCJjOmZhY2Vib29rLWJqNEZKRkhXIiwiYzpvbW5pdHVyZS1hZG9iZS1hbmFseXRpY3MiLCJjOnJlZC1ieS1zZnIiLCJjOmludGVsbGlhZCIsImM6aW1wYWN0LXJhZGl1cyIsImM6c2hhcnBzcHJpbmciLCJjOmJhdGNoLWpYUHhNTUxOIiwiYzpnb29nbGVhbmEtbjZVTWhKN2UiLCJjOmZhY2Vib29rcC1VRFU4WUtOZiIsImM6Z2V0c2l0ZWNvbi05Q3F6RzdaNiIsImM6ZnJvb21sZS00TnoyWER3TiIsImM6b3B0aW1pemVseS1Zd1ZxOU1XYiIsImM6dndvLWlDZTYyeGQ3IiwiYzptYXRoZXItZWNvbm9taWNzIiwiYzpob3RqYXIteW5GOG1hVVIiLCJjOmlvdGVjaG5vbC15WXBjZnRkeiIsImM6dHdpdHRlci0zdzMzOWNMNiIsImM6ZmFjZWJvb2stY29ubmVjdC16aW1tbyIsImM6Z29vZ2xlYW5hLTRUWG5KaWdSIiwiYzppbnN0YWdyYW0tZmhtcnhLTVciLCJjOm5leHRyb2xsLUdEbnBBREdiIiwiYzp6YWxhbmRvLXBUS1lWTWFiIiwiYzp2aXJ0dWFsbW4tRU1Bek1MRFciLCJjOnBtZy1aRTJDeUNGayIsImM6b21uaWNvbW1lLXlQaWo3Z1laIiwiYzppbnRlcnB1YmxpLThIWjhQZkczIiwiYzpnc2tpbm5lci1uVUUzNFAySCIsImM6dHdpcGUtQ2tpdE56WEQiLCJjOnplYmVzdG9mLWNkN05ZRUxMIiwiYzphZHNhbmRkYS16R1RHUlZIdyIsImM6Ymx1ZWNvbmljLW1mY2VQVVo5IiwiYzppbnN0YWdyYW0iLCJjOmZyYWN0aW9uYWwtbjJqWURGUE4iLCJjOmlnbml0aW9uby1MVkFNWmRuaiIsImM6eW91dHViZS1wcGRZd0RLcCJdfSwicHVycG9zZXMiOnsiZW5hYmxlZCI6WyJzb2NpYWxfbWVkaWEiLCJ1aXRnZWJyZWlkLUFNTjJjaGV0Il19LCJ2ZXJzaW9uIjoyLCJhYyI6IkNnLUJDQUVZQUxvQWVnQktnQ2ZBR0lBVGNBdVlCbndEekFIdkFSOEE5VUNEWUVTUUphZ1Q4QW9VQlJVQ3c0R053TTVnYTVBNmNCMVlEc0lJUFFSQWdqTkJKcUNkNEZCQUtEd0EuQUFBQSJ9",
+                        "same_site": "lax",
+                        "timestamp": 1725479111878
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".gva.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479111880,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757101511,
+                        "expiry": 31622400,
+                        "value": "CQEbF4AQEbF4AAHABBENBFFgAP_gAAAAAAAAIzJF7GzVLWFC8G53YLsAMIxW5OAIAsQAAgaAA-ABiDKQMAQGkmAgNATgBAACABAAIDZBIAJFGAAQCUAAYIABAAAIQAQAAAJIICAAgAIACEAAAAAKAgAAQAAIgEAAEAAAmQgAAJIAWFAAggAAIAAAAAAAAIAAAgAAAAAAAAAAAAAAACgAAAAAAAAAAAAAABAAAAMUgAwABBTUdABgACCmpCADAAEFNQkAGAAIKaloAMAAQU1JQAYAAgpq.f_wAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725479111878
+                    }
+                ]
+            },
+            "utag_main": {
+                "name": "utag_main",
+                "domain": ".gva.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479110271,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015110,
+                        "expiry": 31536000,
+                        "value": "v_id:0191be91c67800126bd5fd09c12d05075001306d00bd0$_sn:1$_ss:1$_pn:1%3Bexp-session$_st:1725480910264$ses_id:1725479110264%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479110266
+                    }
+                ]
+            },
+            "auth0_sfojkfLFe88FUuOMxKEtdSiDArlOC5yh__state": {
+                "name": "auth0_sfojkfLFe88FUuOMxKEtdSiDArlOC5yh__state",
+                "domain": ".www.gva.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479104035,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJyZXR1cm5UbyI6Imh0dHBzOi8vd3d3Lmd2YS5iZS8iLCJpc1NpbGVudCI6dHJ1ZX0",
+                        "same_site": "lax",
+                        "timestamp": 1725479104027
+                    }
+                ]
+            },
+            "auth0_sfojkfLFe88FUuOMxKEtdSiDArlOC5yh_config": {
+                "name": "auth0_sfojkfLFe88FUuOMxKEtdSiDArlOC5yh_config",
+                "domain": ".www.gva.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479104026,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "env=production&brand=gva&version=v1",
+                        "same_site": "lax",
+                        "timestamp": 1725479104015
+                    }
+                ]
+            },
+            "auth0_sfojkfLFe88FUuOMxKEtdSiDArlOC5yh_silent_auth": {
+                "name": "auth0_sfojkfLFe88FUuOMxKEtdSiDArlOC5yh_silent_auth",
+                "domain": ".www.gva.be",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479105054,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725480905.051766,
+                        "expiry": 1800.0517659187317,
+                        "value": "1725479104965",
+                        "same_site": "lax",
+                        "timestamp": 1725479105053
+                    }
+                ]
+            },
+            "_segmentgroup": {
+                "name": "_segmentgroup",
+                "domain": "www.gva.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479108696,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1756583108,
+                        "expiry": 31104000,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479108694
+                    }
+                ]
+            },
+            "sc": {
+                "name": "sc",
+                "domain": "www.gva.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479109068,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725480909,
+                        "expiry": 1800,
+                        "value": "70d2d829-8c5b-47b9-b5c3-880c284ee683.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479109067
+                    }
+                ]
+            }
+        }
+    },
+    "hit.gemius.pl": {
+        "/": {
+            "Gdyn": {
+                "name": "Gdyn",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479113603,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607113.600152,
+                        "expiry": 34128000.600152016,
+                        "value": "KlQYJRXGQMGGW0RcZRA1QT9UssGMXP8c25nSGuAsuSQQueMUGsRPIQlGvGGpGRT8SLL8RLcGsy8Pge9iaQG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479113602
+                    }
+                ]
+            },
+            "Gdynp": {
+                "name": "Gdynp",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479113289,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607113.286373,
+                        "expiry": 34128000.2863729,
+                        "value": "BX8aD3c1oo.SFUE8TtwLeO9FGGh7jeQkMAuW_GYRsyb.n7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479113288
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.600231886,
+                        "value": "eoNlTYrQUgc8nHZPYKAc5FyzKoqri3DMD4HaBV_OAFj.67",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479113604
+                    }
+                ]
+            },
+            "Gtest": {
+                "name": "Gtest",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479113288,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726083913.286341,
+                        "expiry": 604800.2863409519,
+                        "value": "KlSHzMGGQMGGW0RcZRA1QT9UssGMXP8c25nSGuAsuSQQue1UsG..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479113287
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479113287,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607113.286222,
+                        "expiry": 34128000.28622198,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479113286
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.5998919,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479113601
+                    }
+                ]
+            }
+        }
+    },
+    "zimmo.be": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".zimmo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479107404,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725480907.402063,
+                        "expiry": 1800.4020628929138,
+                        "value": "ilMbEYrRjdGLfkEQo_b21xx51QAUgOAA9LmOXUc5IC0-1725479107-1.0.1.1-dOXhBAQA7VqwNERcEXRYbbEMeWsr8lOLo1pjkrW5W7_5oDWcb8PVyQzDpMOP2F0aHf09VlAqT.cnTVzMf.OayA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479107404
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.9257640838623,
+                        "value": "vWXLo3cp6ppRZLeOgjVCPJ.y17dR7Q5w3Nuqs2W5k2g-1725479107-1.0.1.1-CByc7qxAaX5cjffIdFW8maEQzOr3AAkwQSYQTgbWkrlaPL3aQd1idUUFhmsKJsabWRER8nC9swPmUA8EsYAFsA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479107926
+                    }
+                ]
+            },
+            "cf_clearance": {
+                "name": "cf_clearance",
+                "domain": ".zimmo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479109420,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015109.419822,
+                        "expiry": 31536000.419821978,
+                        "value": "Hf.n9mrAbYA4qQTzcocOZnC4UaLgker2bnWl9Rd5la4-1725479109-1.2.1.1-QjnELt5BQIZmcj2YfM8HssVNRvbg_GF6DRRsMOgOS32mFg7nuDyhSe88ubKJNhNPaas4gMOwCwFodDJQM98G2.nU7U6xqFaLY1pYcjDWFqARSvdUZlaDzVDMTxIU8zq6.R.Egru6BgI.WmfgImvBlwLcS_xy9xWGM5B2TbwytKb.NxZLr4vZonvcq3_hxqBD1W7l1.JdeZw41S_eXu.HoMOQHwqRKHtCi8c5KPibUo_bivqMTnYK0CHO6yATDdlfn.KKfNp9Cr1m8Mw3g7WcDbBhrRDRzwbyFGSoKpuDxC_csrImlyEfwTJ2CVgpjh_jsOzv4xS3bhforGEuQAlGn8PZWhf0Z9Fcr1oA6pIQD2xcfhpe9IUnjJ2yxt6TfgtLOWJYJ3hzmdDkgq5buoP84w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479109420
+                    }
+                ]
+            },
+            "zimmo-id": {
+                "name": "zimmo-id",
+                "domain": ".zimmo.be",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479107403,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015107.401995,
+                        "expiry": 31536000.401994944,
+                        "value": "f68702df-5261-472b-ac46-45d8f9d35b73",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479107402
+                    }
+                ]
+            }
+        }
+    },
+    "login.mediahuis.com": {
+        "/": {
+            "did": {
+                "name": "did",
+                "domain": "login.mediahuis.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479104870,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757036704.866815,
+                        "expiry": 31557600.86681509,
+                        "value": "s%3Av0%3Ad8c0aa42-cbe8-4af6-8469-af40e820cc16.esZ7NicRK7wObmLj8Gdd084UJuoe1lwAWMYgl3a1wJY",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479104867
+                    }
+                ]
+            },
+            "did_compat": {
+                "name": "did_compat",
+                "domain": "login.mediahuis.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479104872,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757036704.866984,
+                        "expiry": 31557600.86698389,
+                        "value": "s%3Av0%3Ad8c0aa42-cbe8-4af6-8469-af40e820cc16.esZ7NicRK7wObmLj8Gdd084UJuoe1lwAWMYgl3a1wJY",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479104871
+                    }
+                ]
+            }
+        }
+    }
+}

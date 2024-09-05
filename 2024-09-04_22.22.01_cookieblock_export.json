@@ -1,0 +1,1311 @@
+{
+    "aldi.co.uk": {
+        "/": {
+            "AMCVS_95446750574EBBDF7F000101%40AdobeOrg": {
+                "name": "AMCVS_95446750574EBBDF7F000101%40AdobeOrg",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481262765,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481262764
+                    }
+                ]
+            },
+            "AMCV_95446750574EBBDF7F000101%40AdobeOrg": {
+                "name": "AMCV_95446750574EBBDF7F000101%40AdobeOrg",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481257839,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041257.83781,
+                        "expiry": 34560000.83781004,
+                        "value": "T",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481257838
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.75836706,
+                        "value": "179643557%7CMCMID%7C85647165436805707322908307880925232018%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481262759
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.75941992,
+                        "value": "179643557%7CMCMID%7C85647165436805707322908307880925232018%7CMCAAMLH-1726086062%7C9%7CMCAAMB-1726086062%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481262760
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.75991893,
+                        "value": "179643557%7CMCMID%7C85647165436805707322908307880925232018%7CMCAAMLH-1726086062%7C9%7CMCAAMB-1726086062%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCCIDH%7C-442711653%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481262762
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.76507211,
+                        "value": "179643557%7CMCMID%7C85647165436805707322908307880925232018%7CMCAAMLH-1726086062%7C9%7CMCAAMB-1726086062%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCCIDH%7C-442711653%7CMCOPTOUT-1725488462s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481262765
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.350596905,
+                        "value": "179643557%7CMCMID%7C85647165436805707322908307880925232018%7CMCAAMLH-1726086062%7C9%7CMCAAMB-1726086062%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCCIDH%7C-442711653%7CMCOPTOUT-1725488462s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264351
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.35166407,
+                        "value": "179643557%7CMCMID%7C85647165436805707322908307880925232018%7CMCAAMLH-1726086062%7C9%7CMCAAMB-1725481263%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCCIDH%7C-442711653%7CMCOPTOUT-1725488464s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264352
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.63670397,
+                        "value": "179643557%7CMCMID%7C85647165436805707322908307880925232018%7CMCAAMLH-1726086064%7C9%7CMCAAMB-1725481263%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCCIDH%7C-442711653%7CMCOPTOUT-1725488464s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264637
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.636981964,
+                        "value": "179643557%7CMCMID%7C85647165436805707322908307880925232018%7CMCAAMLH-1726086064%7C9%7CMCAAMB-1726086064%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCCIDH%7C-442711653%7CMCOPTOUT-1725488464s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264637
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.64732289,
+                        "value": "179643557%7CMCMID%7C85647165436805707322908307880925232018%7CMCAAMLH-1726086064%7C9%7CMCAAMB-1726086064%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCCIDH%7C-442711653%7CMCOPTOUT-1725488464s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264650
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481262555,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017262,
+                        "expiry": 31536000,
+                        "value": "2024-09-04T20:21:02.553Z",
+                        "same_site": "lax",
+                        "timestamp": 1725481262554
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481260091,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A21%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=6.20.0&isIABGlobal=false&hosts=&consentId=836613fe-bc5a-45ac-893b-d9ab763966c9",
+                        "same_site": "lax",
+                        "timestamp": 1725481260094
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A21%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=6.20.0&isIABGlobal=false&hosts=&consentId=836613fe-bc5a-45ac-893b-d9ab763966c9&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1725481260096
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A21%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=6.20.0&isIABGlobal=false&hosts=&consentId=836613fe-bc5a-45ac-893b-d9ab763966c9&interactionCount=0&landingPath=https%3A%2F%2Fwww.aldi.co.uk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725481260098
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A21%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=6.20.0&isIABGlobal=false&hosts=&consentId=836613fe-bc5a-45ac-893b-d9ab763966c9&interactionCount=0&landingPath=https%3A%2F%2Fwww.aldi.co.uk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725481260277
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A21%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=6.20.0&isIABGlobal=false&hosts=&consentId=836613fe-bc5a-45ac-893b-d9ab763966c9&interactionCount=0&landingPath=https%3A%2F%2Fwww.aldi.co.uk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725481260277
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A21%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=6.20.0&isIABGlobal=false&hosts=&consentId=836613fe-bc5a-45ac-893b-d9ab763966c9&interactionCount=0&landingPath=https%3A%2F%2Fwww.aldi.co.uk%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725481260287
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A21%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=6.20.0&isIABGlobal=false&hosts=&consentId=836613fe-bc5a-45ac-893b-d9ab763966c9&interactionCount=0&landingPath=https%3A%2F%2Fwww.aldi.co.uk%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725481260288
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A21%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=6.20.0&isIABGlobal=false&hosts=&consentId=836613fe-bc5a-45ac-893b-d9ab763966c9&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725481262556
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A21%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=6.20.0&isIABGlobal=false&hosts=&consentId=836613fe-bc5a-45ac-893b-d9ab763966c9&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725481262558
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A21%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=6.20.0&isIABGlobal=false&hosts=&consentId=836613fe-bc5a-45ac-893b-d9ab763966c9&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725481262563
+                    }
+                ]
+            },
+            "TEST_AMCV_COOKIE_WRITE": {
+                "name": "TEST_AMCV_COOKIE_WRITE",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481257679,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481257678
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481257686
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481257686
+                    }
+                ]
+            },
+            "_abck": {
+                "name": "_abck",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481256399,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017256.385783,
+                        "expiry": 31536000.385782957,
+                        "value": "34F906367827879E7E6B18B0B10E20C2~-1~YAAQ1OnHFyzkaI+RAQAAM4Wyvgya7YBsSMDfZ+UxGfA2MFZtQWzBDxCFfCEjj3fWTg76JMuFHhv7OFhZqjfbSULzwsfPTl9w7dO0dId2zKqeJH0M6HUM/D7Qr3O59pXNohb5L8llLFh2iOHpQrPUAnRYthXnXPwn3/P2fcZCi7isq7RmOQ6G62y7MycJrn9VWJlP3Up7IZim5QogiGlQA/k1SnigTx//oxfFe5YSGFRjole4vR2/6cO+67naL6sSD/70r2HVbSN4nMcwBgn0p3vbzON2NutdO4jd42W9piWHjnWAp0P6nmcCu/syeV/pZumfm86HVpxsv+noE90MtkzZ99p+cAEu28GozOlnK/d0N6DV0yIDb41W92w=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481256387
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.9845109,
+                        "value": "A04A9ED67BFFC36008EF080D471E59E4~-1~YAAQ1OnHFzzkaI+RAQAAB4eyvgwwU2/UyZLt1nvUVMdCquktQeiX8ibayJu7OoxhtxClf+QSRtBX7xyLtRdBBaDHBTHXJmJWjrSya1kjCz8aScxRXK8ESQiYLsiAAyzUpLNDuNCu594yccQq6U5gCMR11y6NZtXj2glUPQUDktymQrYG2nvUVjzSdATiljtLHfBDT7WyArpXxUp6ih3jl8jvv9HBdm0prGkqQL+fnGOibAs32MrRLwF/bJ+Ov4ElNw7v/amGEJEoH4iM90esCMS4xSxekw0z1Puswqp1cVgGIBJRIJU7wjtczqtyl3HsipOnuBhxztFRBqNmyVqqJbdJjRmFXYc5jdxJixLtYMrvXYJ8wSOQ+lM/4dQsYOMS+Ska3c/3Niz6FA==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481256992
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.170309067,
+                        "value": "A04A9ED67BFFC36008EF080D471E59E4~-1~YAAQ1OnHF0jkaI+RAQAAPYiyvgylphybN1VWxGKMJNaRnJn3oAi60f849f0HIB7MxcNeC02PM+Ju+MuH+I/VQThxmHDq8LuGviheOqHyfjJZRiLnFtRGU2t49EqbND2Sb7wqTG6F2PWt400IdUcwtma0iMAvyA8Fq0aockWLsjKZ9/JVaYlhwvInGjUJAsMm77ZljKI6h60vw2mYfyjl2LTnevbygEPrP7+42XySqYM4/d3JgRlNh+WSlZ+6Bw6Ti/e9q6wG/AJijG89gTrY/rOfUPss58dkOHMSvT8BUisQFm3TOXsteW4i1OwNkWSmCkhRnHcBVotfx9e17he8DiEcugSrw0j7NBFZCF3Tz02MQdpIks08FB1QcCyx3osj2s98nVpmAmGitA==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481257171
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.31525898,
+                        "value": "82D03FEBB4ADAB830EFA9AF2A43FEC8C~-1~YAAQ1OnHF0nkaI+RAQAAQ4iyvgzuYgCt1Hnp5fmOufyhyWZpHM97QYvfFMIDrnFIUCz6K/IxrryikzlCrxOrUm3EZidZmJ96x+muBBMM39SVjgGOblhxlPOpa845QxF+Xj5hYr36mCX7aK9EvROceK9EBe3eByHYVI5TC+y5PDRewiViGetEFYI3XliHYkuVJOXt3N07BGUvcUliXf5YFYnO9aTMoT+ihQEeOIt9WctswrhmQx96lrlabeDhiWhcPzFUJTyHruaguGuNKwbiRpGDd7ZwN4nRZOoykJCoCDoYgi+KG5UScQOdVSZhALy6qkYxzKNZH37uOMreby3wa9XWIXCs/46o7tXWqv6L+FV++u2l7JYIOnDEwXOlbzGIi5B00pSaSVBkDA==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481257315
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.031034946,
+                        "value": "82D03FEBB4ADAB830EFA9AF2A43FEC8C~-1~YAAQ1OnHF17kaI+RAQAAoYuyvgysDmfial/fbaji3/O/uzr+ZREjKx6lpywK97QbVYfsUXQyBQlICjJEf+I6eCY6cZOuP8QpeJuy7psdiRCIm1mtAZfLjLio92j6RlDooMsBdeVris52UlJEQIs0pGCGMS77WsnIyRns1wT8hmWVbgE5h8GtohP0sfYiQIEyS+Mvroo3vcT2OhYLO/88g29paKcp/TB/kmHQ8CR+ZsE7F6Nao9sgtFnbBLoChb7hpzDSFQTHhodp5NwK7hKzxpTi8k+mofN1uMWBpv17FyRXJuCkxExRK8ARY9+cDyKPrBf4VKCLS4aWAM5NyGYM4AStRsgGsbhyugA+OIc008yOmh4nqqM9L4tTp4SjeKWScdjHE1eV5QAlCw==~-1~||1-mRncpneCEz-1-10-1000-2||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481258031
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.278450012,
+                        "value": "A3C028504505DC7F0C84E638AA535503~-1~YAAQ1OnHF2fkaI+RAQAAl4yyvgxVWBcCcYnepB5wePPBhLIn800Hzt1xeI9+mHWMyxYcD9hp9TKmA23Sz/kuTR3S9TUwgdcahn2Ow7/ooI5ilPaTegJx1HAlmZNjpx5q/8Z10zrFr51/5/ZAizIwTL3PUp6usJcTg9zWqLAUanOIKLePG2HnVgDailWHs/N+VtRbYU29ykUnFVeP+KqKzaWOoGwR3w0dF5SsmJqdVMxwukAQ/owu/tX7s3rzhRK+sb9NKwtf2E5dSeHn+ct9N20/VZfSMAJbZ2tfUdU+EYU44+sGY78ih32YMsMlwBeWGwqxEKeBtenotlD8zw3TugXXF0PFb6CW+DXzTJtGXU6IJbEAzX95LhtCT+n7TzCaTr20DGBqM4Dn4Q==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481258279
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.48832202,
+                        "value": "82D03FEBB4ADAB830EFA9AF2A43FEC8C~-1~YAAQ1OnHF23kaI+RAQAAao2yvgz87PxbM8I6otzKAZGkuGt4gD4ZBurFl0Or69i0MkGIrAsvfITCxOwcr+HwDCcXlGSlD6xj6WOH5tPmrM7vD8jWCsy81oM2VpBuljNaas2o+UDCO+QUDdALJCMGBzneefovihAKD9t9tbCSqm0mmZ7p1vuThCH9oOZFmc9EZRMuz4u75udTi1wg2wR8xHpnx4gZY5kA9d38lL889E9+1GcJu/++S2IQ/4zQKQtULxIi+8Gk/zAIY0BfFhKeqN/Senuf1M0f+e2BVV8KVOFvJxK6C7mgMSC9FZ9DydOonvwsIq3/5hQxq2avtSMV5h9Ax2/A/FC8GeczB78hULgG+ren5nqe9z7k6pnn5yt+nVIqn61BBpJaPQ==~-1~||-1||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481258488
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.586694002,
+                        "value": "5BA0BD66657E643ADFDB020747D25973~-1~YAAQ1OnHF3LkaI+RAQAAzI2yvgwmFJuOzDGOcTC9OEMy1YvhVPZU8RTaLXrrIF9x1jSY2LqzYy6qEmg4Z2quk1EDDNvGYRemv48PiGYnnNGeaibGWTrAq5g2NEemvsZZbaOP/iO/t1iHWSRd7jMreyTyH6UnPGu+vuOH4eFFOPnBlgzl7QM9Ir/+Ut5l3iytN2yYDNQyGqx7xCI8CGKYQtKKwC0DcuW4f/ZQclS7HBfGkBOx/3ZzJdlvaYpv+OubtbjVKdb4GFtjUwBLnlUNmuIc91rQ6FdB4IiRT0UF8sgb/NUrN4pm9C52H5G5ZpCNn36QmeLe+i9s1Q+/9VdSKt9HGKTioo2hB36N4ak9M8AzvJUvs6/r1qHc0XTyD4/E8X6EbHBy9yp/vg==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481258587
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.08360195,
+                        "value": "5BA0BD66657E643ADFDB020747D25973~0~YAAQ1OnHF37kaI+RAQAAuY+yvgySTQQHVDDZ2pUZ2FfccE7yBfBwuNT5hEYs5kvascLi92dxy/6IISt0SvmSsdVMqdBUQPuKhz1E0iiexavgKc/ygaOx22mFMPPnpmAlK44yHx5qsblhKB7eUoZTRI3hdy/gb7WeNft9x//GU0N7WcATWja4F+mPnuLeNVFp7b0OYMiIBzWeqjTvzCXVqMKEvSHP7K1MUL2hZ5rdpHC3uSscwwHmfA7d0PL9YZbKOrVBb1B8UYLoVGe7ZAUNnJH3uzgzMDIaeH25gYL5phwWQXUaqF5mlfpjJEXRlQzewYW8SM3ZM1LALUm//h4TsxJPct0OQq/M1mHy/XqvdhtnWGX0YipToficSu9plM8QWk/xdvvbrMjli/2Tp0ag+44gKXDnWmIQ~-1~||1-pJupvFWAAj-1-10-1000-2||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481259084
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.68582511,
+                        "value": "5BA0BD66657E643ADFDB020747D25973~0~YAAQ1OnHF4zkaI+RAQAAFpKyvgwagFb5WG7aBqq8ZiZT4m4YN9Yxu9Fb+JeZQIjU0ZdgLOIu+FeWuWeyerGSC2aFN32nLOChI98AQQMbOp6G3Lq4j+wpO8Hpd5xHT4FLvmPTG6MnqUg49EZ/f3dwbrAngw7DKGsCvJiekZ5VTz9w3rQAH5D5uysjLlFoUEh+FGUguifEFWSlaJK9eaFKdB8G2p9q9zpn6//6EnPQdHRNXfnXKw6LcKPvgq0KsRwfGdHYBZC32mp+dmHuejGFE574hFrMI8OCh70DbN3666Xn4J1g92P3dVunThm1JCZHfPZYxN4bspJMCL6laTzvKeuCmLRHiBzdRwrsprJBhZKhxh6cU8RxNARXbURvUdFwp49W20JVjoC+yA6RD1i/XKy+pinZp3p2~-1~||-1||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481259686
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481263878,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733257263,
+                        "expiry": 7776000,
+                        "value": "1.1.890770567.1725481264",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481263877
+                    }
+                ]
+            },
+            "adobeujs-optin": {
+                "name": "adobeujs-optin",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481260526,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759177260,
+                        "expiry": 33696000,
+                        "value": "%7B%22aam%22%3Afalse%2C%22adcloud%22%3Afalse%2C%22aa%22%3Afalse%2C%22campaign%22%3Afalse%2C%22ecid%22%3Afalse%2C%22livefyre%22%3Afalse%2C%22target%22%3Afalse%2C%22mediaaa%22%3Afalse%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481260524
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "%7B%22aam%22%3Atrue%2C%22adcloud%22%3Atrue%2C%22aa%22%3Atrue%2C%22campaign%22%3Atrue%2C%22ecid%22%3Atrue%2C%22livefyre%22%3Atrue%2C%22target%22%3Atrue%2C%22mediaaa%22%3Atrue%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481262571
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481256408,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725488456.385877,
+                        "expiry": 7200.385876893997,
+                        "value": "E25B3D0FFF180D0FBD6C23D31E3939C6~000000000000000000000000000000~YAAQ1OnHFy3kaI+RAQAAM4Wyvhlop5hvC2yo1Coyezx8o/Hdwa8YihzBDfF9TTc+hPvMUBWlh34w/B8873gNzgpJxTFo7AVrmWMO/VvNnApYgUxN+91d9MZRe61thwPwnJOLrgH5lBrhtZrVljCXlmL0UreOPskwLuuYx2aFIY59/Oi+QF/jFG3E+wZ/24IpGOv4RiEsJFmJ10qlnnhDe1hCC3OsTJJfhr0/SYtcpQGKHq+PxCJkRi2L61A+tnNBYM/+cdzhWqbLGeVW4U+qPBesyEX3IKL330ma4Yv7XCrty0dVvEdhRxvJdcMMUk8hplzo6b1vQIt4cQ7V94R76RnIXaVL2ke8SxYj8/Pr1HV4njeaWqN3kbFiKMPHbHRvA1r5ksSNjKDEUAQ=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481256399
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7199.4635219573975,
+                        "value": "CDBDA8B2D47677307938D6BC91843BEC~000000000000000000000000000000~YAAQ1OnHF0zkaI+RAQAA0IiyvhkIa1JVRjuv7irI9ZB+0eT7CP5nQ+0+AvkCbAuB8hT4TkK9Vnf9TQ6rdmJbI52JEOzEHTzA+TgULlsUZtTw+TKhp3zFpcrTBtRt3+Iph4P3hl9wB9J0rCu4Py0nChjHwrAeHfTW+4brNx7sQG4GM9frGGmpu9sv+Bu6WHDXc33LehSmiREWtlPgCelIeixgTc1RM48Qzn7/1VYXDvtrex3ibh5915hSk2fZnQCh61k5Sn87sPOQQAaPzpsnGZgdnR32qOBePu+7lUU1NepZkceekIz98/HPfK7AchZRqhRmqrxf58YcpQttXM5xsKzC2njaVkBoOHAKmM6VtlfgOY1mFxVwfRpAZccKKqUpn4mCAsrxhp11Lb/Kl3IGz3iPGQeQod8uoeXPkJsr9B/DWlQzpyA=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481257464
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.278501987457,
+                        "value": "CDBDA8B2D47677307938D6BC91843BEC~000000000000000000000000000000~YAAQ1OnHF2jkaI+RAQAAl4yyvhm+OYnrflHaCUasJc4ZNlPkyt71/zWl4qZTfCD54KIfpMMyJMcjNtb/75yYUxh9KfB0b4XJOB/dKBO1ZacvGC1Tv3zTiNRmhHpeEa4gNg21UWMEtzpOvt+EHRs/vXj5ahbNActFNY+UeVsb3kT5RktBQOUjYbGXMsNLkKkDOwzsCqTdvGC3LBXc1Nqpbp8S2Wi/Ml1NfkfXqi3eymYIkWdToN7/mSrOei0tY+xWCqjg62icuhilJhWbnnvcxr8fA5sNQVKmv1mOUmhZUbgBhf4+hPiYDL66b85QkXkcy4Xj1stsp+tJcyOvo5azCAusEEpHR45v6Jk03MBVDesTVt+dZsAcJT6hI80IVTqqkKe2vSM3C3DyCGDwU4gLu3hCsPgnAYw/0Ngd9Ew5rDUUTqpbcvXcKCLKhSgkCmJQTYokbOG1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481258279
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.397480010986,
+                        "value": "CDBDA8B2D47677307938D6BC91843BEC~000000000000000000000000000000~YAAQ1OnHF2zkaI+RAQAAD42yvhmzx6Os/wCUroRa/Llp5LXN4VNGILTarMEG1YLmVAQscVDr6M6KuBT0urg/hRGEs+HfBUAmM0LKPvn7B/aXu3ETy4zih0conEzufmtkl2ksMwp81orHiEpGkyGQRxQ7QfThQieFKhPDrikhjMAB3G7Xh6dBXmB2nNDoQgyzdIzF6ynETHz+G62A+sdORce+TOs1elDNrRKZARbwWipZzFwBEjar6FZu0aGNrqs0mF0ba8lCp7ZRYcy0eJS8Lyvjy+VfaGnSryDIv96pvVxK7jxbZWVqcQbHG7ZhhN/scHK7PdFZFs+a3dOvmFPvPcsMUfJC5TnIhpgC9pzRdWyjWacNsYUeqpN8o/fpH5xyizcc7JvTlDl60QVWVGr9pgBwXVCDOZNfdzNTeL7xTV2SW/MYM8eGY0V2VrBVsCHUeAULVbt2KjjZ64PRMw==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481258398
+                    }
+                ]
+            },
+            "at_check": {
+                "name": "at_check",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481262569,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481262568
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481256992,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725488456.984732,
+                        "expiry": 7200.984731912613,
+                        "value": "CC9938E4C49C2DC71D0675F11D2CA59D~YAAQ1OnHFz3kaI+RAQAAB4eyvhlm6KlkgXbrR2GgeLnLwfDTFZGKgg1LjH61rUNVgSwlKItV4I8pekxPv7skyfuzz7IBzV63Ycxt62CWAuA6UxqlsR99Aku/Gfbpp+JC6UzNFbHYqsHoCRG6dUubjd0j6Q1GRkavd9dEtVi7R6YjExb2q+FP3WG21b0KYmRB4BzTdQljIskHSMLbZr16yyoxvi1DdAXBN9pFLtzefRxgqEbVb8TDPlpsW39sAC0Z~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481256992
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7198.278521060944,
+                        "value": "CC9938E4C49C2DC71D0675F11D2CA59D~YAAQ1OnHF2nkaI+RAQAAl4yyvhmcTdBIJ6fcOZUVJalsHH/YdGCXbDPqQw0Zwv/zOFMVrtxBTPYIGp5PuyZ8ZXabRHpM0ShwrJPTmd08aeACIsRvzf/uD66/srxP/+ZzG1Wc0ClxWizfnzFvnbgyM1Awu2MhcaLdxlehjZCGLdOGDlC3HVNUgiAajyS4LOkyuUTS/JVG+gCz0T8+woQXCndepKwISIdDXWP1jvapgh05g420OnBocKcQjvEIfbq6~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481258279
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7198.586755037308,
+                        "value": "CC9938E4C49C2DC71D0675F11D2CA59D~YAAQ1OnHF3PkaI+RAQAAzI2yvhlEmLszLm7B0VOJ+2QEF9zeaN3EzwA7/dG+zXGAz57+UcqY4E55En8URd9HXg7SrmAVAfNMwG94A3xk0PheZVQDrmoS7fjbZNVQHMAWI8fV8IO5BP1ne9w1rcRELzdm3voysN0xXLfUSdC2lOiqF6erNmsyp/xU0hdYcw+GVfbz1ri1lKUn7sYPV8wE3C8CJuJCYenHXvHOBAY+kBXapvq3sE6S+OqQjc253Knu~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481258587
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481256411,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725495656.385916,
+                        "expiry": 14400.385915994644,
+                        "value": "0747D8D26AAD9F97D5BB072E7393A2D1~YAAQ1OnHFy/kaI+RAQAAM4WyvhlUd11F9xPsBwKiPC5+vzEri5EYR3U9cmId2nD8cu6eOmR3TbqODnmQgQcu11Y/RtjIRQSuHo4Sh/EeTrj86gbrLaYXxbmNu8GYugltdAXoHmEbazcB+pH/gE76piEaJ3+zqSbHFl5TUE9gmGrJe9+SiJ3hyKvDrLzE8V+eQx1D2OogxO/92PZHuUKcpP3PHalrRFQ7qfVLco3TS1ikKuSUch4upgn//Yrl+C8N2yLrlXYnhtFwtPUZ2W8gC9mXT9IJPuGsLfp5r0sLeSNk3hJa7aoWsAblleumV/IbSgj8vg3kd30t6rMtxgsQbINac7fRLUAjVDsZY/J88qlh/bY+mj/0m38yHw7F3RLZzpcp+RUFb20QaVDfQAhl~3228977~4339782",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481256408
+                    }
+                ]
+            },
+            "gpv_pn": {
+                "name": "gpv_pn",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481264642,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725483064,
+                        "expiry": 1800,
+                        "value": "%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264642
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264646
+                    }
+                ]
+            },
+            "mbox": {
+                "name": "mbox",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481262568,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725483123,
+                        "expiry": 1861,
+                        "value": "session#2ad7a0daeb8c4c1abcfa0520ec8c58e1#1725483123",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481262566
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1861,
+                        "value": "session#2ad7a0daeb8c4c1abcfa0520ec8c58e1#1725483123",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481262569
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1861,
+                        "value": "session#2ad7a0daeb8c4c1abcfa0520ec8c58e1#1725483123",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481262570
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.10402703,
+                        "value": "session#2ad7a0daeb8c4c1abcfa0520ec8c58e1#1725483123|PC#2ad7a0daeb8c4c1abcfa0520ec8c58e1.37_0#1788726065",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264104
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.10507202,
+                        "value": "session#2ad7a0daeb8c4c1abcfa0520ec8c58e1#1725483125|PC#2ad7a0daeb8c4c1abcfa0520ec8c58e1.37_0#1788726065",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264105
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.10577202,
+                        "value": "session#2ad7a0daeb8c4c1abcfa0520ec8c58e1#1725483125|PC#2ad7a0daeb8c4c1abcfa0520ec8c58e1.37_0#1788726065",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264106
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.11210799,
+                        "value": "session#2ad7a0daeb8c4c1abcfa0520ec8c58e1#1725483125|PC#2ad7a0daeb8c4c1abcfa0520ec8c58e1.37_0#1788726065",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264112
+                    }
+                ]
+            },
+            "px_random": {
+                "name": "px_random",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481264842,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041264.841484,
+                        "expiry": 34560000.84148407,
+                        "value": "15",
+                        "same_site": "strict",
+                        "timestamp": 1725481264842
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481264648,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264648
+                    }
+                ]
+            },
+            "s_ips": {
+                "name": "s_ips",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481264639,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "968",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264639
+                    }
+                ]
+            },
+            "s_ivc": {
+                "name": "s_ivc",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481264647,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725483064,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264647
+                    }
+                ]
+            },
+            "s_nr365": {
+                "name": "s_nr365",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481264642,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017264,
+                        "expiry": 31536000,
+                        "value": "1725481264639-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264641
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1725481264643-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264646
+                    }
+                ]
+            },
+            "s_ppv": {
+                "name": "s_ppv",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481264641,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%252F%2C33%2C33%2C968%2C1%2C3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264641
+                    }
+                ]
+            },
+            "s_sq": {
+                "name": "s_sq",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481264648,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264647
+                    }
+                ]
+            },
+            "s_tp": {
+                "name": "s_tp",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481264641,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2942",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264640
+                    }
+                ]
+            },
+            "s_vnc365": {
+                "name": "s_vnc365",
+                "domain": ".aldi.co.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481264644,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757023199,
+                        "expiry": 31541935,
+                        "value": "1757017264641%26vn%3D1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264644
+                    }
+                ]
+            },
+            "ADRUM_BT1": {
+                "name": "ADRUM_BT1",
+                "domain": "www.aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481256991,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481286.984123,
+                        "expiry": 30.98412299156189,
+                        "value": "R:23|i:3629358|e:1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481256990
+                    }
+                ]
+            },
+            "ADRUM_BTa": {
+                "name": "ADRUM_BTa",
+                "domain": "www.aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481256988,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481286.98362,
+                        "expiry": 30.983619928359985,
+                        "value": "R:23|g:1ec4dec1-3e1c-48a9-a391-c4e656fa5fc5|n:rax-aldi-emea-prod_c2ac0195-9ff2-4f8d-947e-a841070a37aa",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481256987
+                    }
+                ]
+            },
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "www.aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481256990,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "8CB51CBB0BD134C1E85DC50B3BDE7ADD.node4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481256989
+                    }
+                ]
+            },
+            "SameSite": {
+                "name": "SameSite",
+                "domain": "www.aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481256989,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481286.983706,
+                        "expiry": 30.98370599746704,
+                        "value": "None",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481256988
+                    }
+                ]
+            },
+            "b1pi": {
+                "name": "b1pi",
+                "domain": "www.aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481256992,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!tN+ewd4OlWPrugoPvAmx/2tTm2vDlpxFg3YFs+qBQ6A40AR1A2N8fayMz0mF9UBrrXTau3C2Fooup60=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481256991
+                    }
+                ]
+            },
+            "cv-2-6-page-visit": {
+                "name": "cv-2-6-page-visit",
+                "domain": "www.aldi.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481264115,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567664,
+                        "expiry": 86400,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481264114
+                    }
+                ]
+            }
+        }
+    },
+    "bat.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".bat.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481265344,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726086066.33782,
+                        "expiry": 604801.3378200531,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481265343
+                    }
+                ]
+            }
+        }
+    },
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481265339,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759177266.33624,
+                        "expiry": 33696001.33624005,
+                        "value": "2373DD9FAC37698228BBC96FADA568C9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481265337
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696001.33772302,
+                        "value": "0C36F2729B2A605304D0E6829AB861F7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481265342
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481262758,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741033262.756557,
+                        "expiry": 15552000.756556988,
+                        "value": "85220311557288270142937412269828398200",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481262757
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.636008024,
+                        "value": "85220311557288270142937412269828398200",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481264636
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.273983955,
+                        "value": "85220311557288270142937412269828398200",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481265279
+                    }
+                ]
+            },
+            "dextp": {
+                "name": "dextp",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481264051,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741033264,
+                        "expiry": 15552000,
+                        "value": "771-1-1725481264050",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481264050
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "771-1-1725481264050|30646-1-1725481264630",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481264631
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481265002,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041265.000284,
+                        "expiry": 34560000.00028396,
+                        "value": "AHWqTUlFv5BhuWM8pk3KkjQPcTcp3N3Nmi5_-WLqvn6TM34NW3QEu9f-SrIYd2NR",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481265002
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.007483006,
+                        "value": "AHWqTUnCkDwtrK77yP-BQHDAxh5MHMhk600h9ns0AvlSnpPyNQCsDs_lKqQi0bCK",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481265009
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.00939298,
+                        "value": "AHWqTUng3PflJ6VS_fBEZV4ktGB0BNi2wEHfi3IR3S_l6NFl0Pq22rBGjPO0d6TePu8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481265012
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.20861006,
+                        "value": "AHWqTUncaERGPjW8XqIvpK9B3X1xavgckSaTIdZPVxqsM12wV06Fkq2sOqGD_bED",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481265209
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.20967007,
+                        "value": "AHWqTUn7wJY-XqGR5i9bQHm9fb78WXimjWoSQHAgDCaeHkab-5mhgpPl7ur76pCZ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481265211
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481264653,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725482164.649418,
+                        "expiry": 900.6494181156158,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481264652
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.7719449996948,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481264773
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.7750558853149,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481264775
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.1974940299988,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481265199
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481265277,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741033265.27373,
+                        "expiry": 15552000.27373004,
+                        "value": "85220311557288270142937412269828398200",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481265275
+                    }
+                ]
+            }
+        }
+    }
+}

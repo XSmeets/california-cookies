@@ -1,0 +1,829 @@
+{
+    "ebay.it": {
+        "/": {
+            "AMP_MKTG_f93443b04c": {
+                "name": "AMP_MKTG_f93443b04c",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475240505,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757011240,
+                        "expiry": 31536000,
+                        "value": "JTdCJTdE",
+                        "same_site": "lax",
+                        "timestamp": 1725475240504
+                    }
+                ]
+            },
+            "AMP_TLDTEST": {
+                "name": "AMP_TLDTEST",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475239661,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "MQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475239660
+                    }
+                ]
+            },
+            "AMP_f93443b04c": {
+                "name": "AMP_f93443b04c",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475239663,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757011239,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJiM2I5MDA4ZC0yNDUyLTRiMzUtYWM0ZS1lYjQ5ZjBhZjViMjQlMjIlMkMlMjJvcHRPdXQlMjIlM0FmYWxzZSU3RA==",
+                        "same_site": "lax",
+                        "timestamp": 1725475239661
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJiM2I5MDA4ZC0yNDUyLTRiMzUtYWM0ZS1lYjQ5ZjBhZjViMjQlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzI1NDc1MjQwNTAzJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTcyNTQ3NTI0MDUwMyUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMCU3RA==",
+                        "same_site": "lax",
+                        "timestamp": 1725475240506
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJiM2I5MDA4ZC0yNDUyLTRiMzUtYWM0ZS1lYjQ5ZjBhZjViMjQlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzI1NDc1MjQwNTAzJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTcyNTQ3NTI0MDUwNyUyQyUyMmxhc3RFdmVudElkJTIyJTNBMCUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMCU3RA==",
+                        "same_site": "lax",
+                        "timestamp": 1725475240507
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJiM2I5MDA4ZC0yNDUyLTRiMzUtYWM0ZS1lYjQ5ZjBhZjViMjQlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzI1NDc1MjQwNTAzJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTcyNTQ3NTI0MDUwNyUyQyUyMmxhc3RFdmVudElkJTIyJTNBMSUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMCU3RA==",
+                        "same_site": "lax",
+                        "timestamp": 1725475240509
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJiM2I5MDA4ZC0yNDUyLTRiMzUtYWM0ZS1lYjQ5ZjBhZjViMjQlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzI1NDc1MjQwNTAzJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTcyNTQ3NTI0MDUwOSUyQyUyMmxhc3RFdmVudElkJTIyJTNBMiUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMSU3RA==",
+                        "same_site": "lax",
+                        "timestamp": 1725475240510
+                    }
+                ]
+            },
+            "__deba": {
+                "name": "__deba",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475238509,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741027238.50723,
+                        "expiry": 15552000.507230043,
+                        "value": "O8KO3HzwOIgf80V0pHnqNp26MXDGRRnDeA5SfBSad8BtJ7YrdKa4jA2b3dcwuZjyXR8UW1J2_XMwSXzXGqPFGFS5dEDCdP30zCV8h2VRqVOL91RpBL2LDPv9DfIFQe7Vbs_bCDuzrAf3B2iHXSAG0g==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475238508
+                    }
+                ]
+            },
+            "__uzma": {
+                "name": "__uzma",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475238510,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027238.507268,
+                        "expiry": 15552000.507267952,
+                        "value": "73535cf5-cb86-4416-ab26-9cf902e25892",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475238509
+                    }
+                ]
+            },
+            "__uzmb": {
+                "name": "__uzmb",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475238511,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027238.507382,
+                        "expiry": 15552000.507381916,
+                        "value": "1725475238",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475238510
+                    }
+                ]
+            },
+            "__uzmc": {
+                "name": "__uzmc",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475238511,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027238.507483,
+                        "expiry": 15552000.507483006,
+                        "value": "835421098325",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475238511
+                    }
+                ]
+            },
+            "__uzmd": {
+                "name": "__uzmd",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475238514,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027238.507625,
+                        "expiry": 15552000.507625103,
+                        "value": "1725475238",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475238514
+                    }
+                ]
+            },
+            "__uzme": {
+                "name": "__uzme",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475238515,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027238.50772,
+                        "expiry": 15552000.507719994,
+                        "value": "4855",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475238514
+                    }
+                ]
+            },
+            "__uzmf": {
+                "name": "__uzmf",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725475238517,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027238.507761,
+                        "expiry": 15552000.507761002,
+                        "value": "7f6000109f557d-fa6d-4888-a8e4-02d4255a503617254752385620-b1d7b1c4633039f110",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475238516
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475236771,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482436.750314,
+                        "expiry": 7200.750313997269,
+                        "value": "36884EB902575388448D68E5BF15C006~000000000000000000000000000000~YAAQLwwtFzl1Nq+RAQAA76tWvhnav/xn6zM9gm15aa5YAEmgHzG1f7XcJPt5OOw9HrekaU5og9KEwlu4DIgVW4UGBdvoikITlFhzHS4RIn4Yf4IKpPqNsq/XlExSJfriTAHqVvtLHxwzR25QonyzS5GlZRquEHLtK40+zpxij1ADcz1vQNdmgtFx7q9wt92dePR8mkCjkiMJHvffy9GYRDlvXYfvcR/arevuHFNZA9WitOaNeF25ArH+oauZDydVFfx14ixh4EulWDpTSpIVpK5M7Wyq0/HRUfhrwfQdzW6ldprfno7nBjmqmFNvfesj6+W+pix2vfNxIEpWxl/SK3D6M1H7xBz09NZ75gRamRlW/MJ75B2yBng4mvjiG0qcBjQx/yCdxnc=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475236769
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475238518,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725482438.507777,
+                        "expiry": 7200.507776975632,
+                        "value": "F2F3B2D1662723BA25C111D2169A5B0E~YAAQLwwtF651Nq+RAQAAzbJWvhn4XQAlKKppW1zI71H6JWaSl1q5fCncMtWUWklg0ZCWDvySJli/G2YEVdy1QhlK7r0dvD9KcJpaa/a+lo4v/N8PkuUdpmygUzV/FsjkhO4JC06YfUjD46F7EHH2LtbKLODM1DBrfK09c8LEqG6dqdUJjAHUUQ1dT0aNvAVVp9fXgVbH7k6AvImzv8gW03BX7A3Ca4m1nzCr9CbO8uyM7dA3H9XROjFn/x8V~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475238517
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.615706920624,
+                        "value": "F2F3B2D1662723BA25C111D2169A5B0E~YAAQLwwtFwJ2Nq+RAQAAEbdWvhlNenBtWxadKIPpOv1Tu7JlVka/PKtEH6Kr+0uS5E7QYcSR7qh2FIK3h3olCjnEJ9fACbycdjAg6FIl2NBcQTm6fNPqs3GxmivTcsoreU5VZ6K1Y7+eV4YSRqbC7FxxgJY5ZVuamkGS717HQQJxfBRXv/xwLduzaVefsIo7YqjRSwmiyeVZOS1rXIz2loZpZRC7u36DuR5JPYXIeCwo9SPF/zUbWMgiuv2j~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475239617
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7194.36373090744,
+                        "value": "F2F3B2D1662723BA25C111D2169A5B0E~YAAQLwwtFx13Nq+RAQAAmslWvhkYrtATqOQ1k8icfNedyLLe1SwT84/H9dqdZy9M9JyhQEVWmqEewuIn7GmVC7NGAFJeJK8/4GcGasHjcP8G3lI11By5laAl346ZhAn2PV/8EpWu4bPxgZewm6Hzj489a4DpbXF3jIn1KhmIbVIicqu1POTvcS+mGzDORa83AW3rdu3aSj++ON0RWjUqRyHeMtybR76YjbrlufKJR7UnKEyTzKZSArHo1b6M~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475244365
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7194.6779589653015,
+                        "value": "F2F3B2D1662723BA25C111D2169A5B0E~YAAQLwwtFy93Nq+RAQAA5MpWvhnr4bZ+0uYRl64CGuXW+6NItYtN2mF0ulo+8NNJniOv0MwMC/JZbI0W0RFWUZdenk7Udejj9FPgqEZgy9RabrXXXjjIvLqeraT/6Lqzn09+hig44eZGhXHi42Vjz1aSv4lvVj6hTBuIPSDoWx+7+FZq/VYlnnr7J03gbzeUGCXkOk0on3ujGGuvaT9hK+o/0K1Hfx2p/Kp6ONl8uMPaMzk16M1RC1y6r29b~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475244679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7193.247857093811,
+                        "value": "F2F3B2D1662723BA25C111D2169A5B0E~YAAQLwwtF0h3Nq+RAQAAHs1WvhlEqYIzaeHJWanyDz7AkBEFELeeOILB7eOP3oI7HsskGGddB2h76eVSLbGSOnsMTaegUP9NPOpxayXhPKWaNLFla5jzHjykeRX31gyf5SEYRDUpLWFco84eGzuNYs/aqO4MoR8JIzKG3mYTAlP/srZKrZjQTNj5wQe7y5jImTb9Li97J5O5wnM9TK/2Ou+saqjYzxBVPtmzOvzip1qfLDpwIsvIswLC1ICr~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475245249
+                    }
+                ]
+            },
+            "dp1": {
+                "name": "dp1",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475236762,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035236.749776,
+                        "expiry": 34560000.74977589,
+                        "value": "bbl/US6a9b10a4^",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475236753
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.50712705,
+                        "value": "bbl/US6a9b10a6^",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475238507
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.06796503,
+                        "value": "bbl/US6a9b10a7^",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475239068
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.61500001,
+                        "value": "bbl/US6a9b10a7^",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475239616
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.67372608,
+                        "value": "bbl/US6a9b10a8^",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475240674
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.925540924,
+                        "value": "bbl/US6a9b10a8^",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475240927
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.185813904,
+                        "value": "bbl/US6a9b10a9^",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475241187
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.36331391,
+                        "value": "bbl/US6a9b10ac^",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475244364
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.67772102,
+                        "value": "bbl/US6a9b10ac^",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475244679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.24697304,
+                        "value": "bbl/US6a9b10ad^",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475245249
+                    }
+                ]
+            },
+            "ds2": {
+                "name": "ds2",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475244098,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "sotr/bGiAQzzzzzzz^",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475244096
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "asotr/bGiAQzzzzzzz^",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475244679
+                    }
+                ]
+            },
+            "ebay": {
+                "name": "ebay",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475236769,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5Esbf%3D%23000000%5E",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475240674
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5Esbf%3D%23000000%5E",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475240927
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5Esbf%3D%23000000%5E",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475241187
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5Esbf%3D%23000000%5Epsi%3DAVqvd9wQ*%5E",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475243999
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5Esbf%3D%23000000%5Epsi%3DAVqvd9wQ*%5E",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475244364
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5Esbf%3D%23000000%5Epsi%3DAVqvd9wQ*%5E",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475244679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5Esbf%3D%23000000%5E",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475245249
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5Esbf%3D%23000000%5Ejs%3D1%5E",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475247082
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5Esbf%3D%23000000%5Ejs%3D1%5E",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475247086
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5Esbf%3D%23000000%5Ejs%3D1%5E",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475247105
+                    }
+                ]
+            },
+            "nonsession": {
+                "name": "nonsession",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475236763,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035236.750229,
+                        "expiry": 34560000.75022888,
+                        "value": "BAQAAAZBR14g6AAaAADMABWi53SQ5MDAxMQDKACBqmxCkYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGEAywABZtiwrDHn4QWpZYxKM7KzbhvFbIQnCq/s2A**",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475236763
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.50717902,
+                        "value": "BAQAAAZBR14g6AAaAADMABWi53SY5MDAxMQDKACBqmxCmYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGEAywABZtiwrjG4W/wuUVH7kSoQoTG3iXDBlCsldA**",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475238507
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.068063974,
+                        "value": "BAQAAAZBR14g6AAaAADMABWi53Sc5MDAxMQDKACBqmxCnYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGEAywABZtiwrzJAsuZItXNi8X2vsqZ2NdPkP9RvRA**",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475239068
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.6150651,
+                        "value": "BAQAAAZBR14g6AAaAADMABWi53Sc5MDAxMQDKACBqmxCnYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGEAywABZtiwrzM56PPGt19utaaQYmAgOLZ6WteLwQ**",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475239616
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.67381406,
+                        "value": "BAQAAAZBR14g6AAaAADMABWi53Sg5MDAxMQDKACBqmxCoYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGEAywABZtiwsDR68GgQ/vGk37M9qZ4tK9bjwIcyvw**",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475240675
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.92564893,
+                        "value": "BAQAAAZBR14g6AAaAADMABWi53Sg5MDAxMQDKACBqmxCoYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGEAywABZtiwsDWkZHoW55RhcQAiYOfOs3DSTJMFfQ**",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475240927
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.18590689,
+                        "value": "BAQAAAZBR14g6AAaAADMABWi53Sk5MDAxMQDKACBqmxCpYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGEAywABZtiwsTUv203QL318coZ/PHo5luQshRLOcQ**",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475241188
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.363441944,
+                        "value": "BAQAAAZBR14g6AAaAADMABWi53Sw5MDAxMQDKACBqmxCsYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGEAywABZtiwtDUEFOdQahVSkcN5UmVpfKt6B8sqbA**",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475244364
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.67776394,
+                        "value": "BAQAAAZBR14g6AAaAADMABWi53Sw5MDAxMQDKACBqmxCsYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGEAywABZtiwtDUEFOdQahVSkcN5UmVpfKt6B8sqbA**",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475244679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.24718189,
+                        "value": "BAQAAAZBR14g6AAaAADMABWi53S05MDAxMQDKACBqmxCtYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGEAywABZtiwtTbj4yujYhS9V40fh5ZiQu2Yzb+w6Q**",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475245249
+                    }
+                ]
+            },
+            "s": {
+                "name": "s",
+                "domain": ".ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475236769,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CgAD4ACBm2fskYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGFYn9A6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475236763
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CgAD4ACBm2fskYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGFYn9A6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475238508
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CgAD4ACBm2fskYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGFYn9A6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475239069
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CgAD4ACBm2fskYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGFYn9A6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475239615
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CgAD4ACBm2fskYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGFYn9A6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475240674
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CgAD4ACBm2fskYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGFYn9A6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475240926
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CgAD4ACBm2fskYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGFYn9A6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475241187
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CgAD4ACBm2fskYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGFYn9A6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475244364
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CgAD4ACBm2fskYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGFYn9A6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475244679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CgAD4ACBm2fskYmU1NmFiOWQxOTEwYWRiYWVkZjI4OGVlZmZmZmQzMGFYn9A6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475245248
+                    }
+                ]
+            },
+            "AMP_TEST": {
+                "name": "AMP_TEST",
+                "domain": "www.ebay.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475239659,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "JTIyMTcyNTQ3NTIzOTY1NiUyMg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475239657
+                    }
+                ]
+            }
+        }
+    }
+}

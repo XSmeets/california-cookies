@@ -1,0 +1,1773 @@
+{
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472398759,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759168398.757286,
+                        "expiry": 33696000.75728607,
+                        "value": "1F9D612DEEA862D81DC475DDEF3A63D5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472398758
+                    }
+                ]
+            }
+        }
+    },
+    "c.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".c.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472398760,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726077198.757379,
+                        "expiry": 604800.757379055,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472398759
+                    }
+                ]
+            },
+            "SRM_B": {
+                "name": "SRM_B",
+                "domain": ".c.bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472398761,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759168398.757421,
+                        "expiry": 33696000.75742102,
+                        "value": "1F9D612DEEA862D81DC475DDEF3A63D5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472398760
+                    }
+                ]
+            }
+        }
+    },
+    "c.cintnetworks.com": {
+        "/": {
+            "TiPMix": {
+                "name": "TiPMix",
+                "domain": ".c.cintnetworks.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472407958,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725476007.957098,
+                        "expiry": 3600.957098007202,
+                        "value": "75.34208955827565",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407957
+                    }
+                ]
+            },
+            "x-ms-routing-name": {
+                "name": "x-ms-routing-name",
+                "domain": ".c.cintnetworks.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472407958,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725476007.957137,
+                        "expiry": 3600.957137107849,
+                        "value": "self",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407958
+                    }
+                ]
+            }
+        }
+    },
+    "c.clarity.ms": {
+        "/": {
+            "ANONCHK": {
+                "name": "ANONCHK",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472398943,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725472999.940323,
+                        "expiry": 601.9403231143951,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472398942
+                    }
+                ]
+            },
+            "MR": {
+                "name": "MR",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472398942,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726077199.940073,
+                        "expiry": 604801.9400730133,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472398941
+                    }
+                ]
+            },
+            "SM": {
+                "name": "SM",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472397960,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "T",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472397959
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472398940
+                    }
+                ]
+            }
+        }
+    },
+    "clarity.ms": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472397961,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759168398.959309,
+                        "expiry": 33696001.9593091,
+                        "value": "1B1765DD0E6E660C354A712D0A6E680F",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472397960
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696001.93996906,
+                        "value": "1F9D612DEEA862D81DC475DDEF3A63D5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472398941
+                    }
+                ]
+            },
+            "CLID": {
+                "name": "CLID",
+                "domain": "www.clarity.ms",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472392817,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008392.816305,
+                        "expiry": 31536000.816304922,
+                        "value": "b25caf519fb048b8ab657c2b6f940fc5.20240904.20250904",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472392816
+                    }
+                ]
+            }
+        }
+    },
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472406432,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008406.430548,
+                        "expiry": 31536000.430547953,
+                        "value": "2ndcuij59s0d73mvvie6ixhke0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472406431
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.535348892,
+                        "value": "1ufhy65ooqq8q1g8w99tnq8eey",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472406536
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.89430189,
+                        "value": "cx:jaq4ske752xv2vpvsbkrwu1y8:1u69zvuxha966",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472406895
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.904316902,
+                        "value": "1ufhy65ooqq8q1g8w99tnq8eey",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472406905
+                    }
+                ]
+            }
+        }
+    },
+    "dotmetrics.net": {
+        "/": {
+            "DotMetrics.DeviceKey": {
+                "name": "DotMetrics.DeviceKey",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472392958,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008392.957772,
+                        "expiry": 31536000.957772017,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472392958
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.46258998,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472395463
+                    }
+                ]
+            },
+            "DotMetrics.UniqueUserIdentityCookie": {
+                "name": "DotMetrics.UniqueUserIdentityCookie",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472392959,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008392.957829,
+                        "expiry": 31536000.957829,
+                        "value": "UserID=5fe37ff1-4cdb-499b-b3e7-92e04b068900&Created=09/04/2024 17:53:13&UserMode=0&guid=b4314edd-eb63-41cd-bcdd-a1b3fd673216&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472392959
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.462630987,
+                        "value": "UserID=5fe37ff1-4cdb-499b-b3e7-92e04b068900&Created=09/04/2024 17:53:13&UserMode=0&guid=b4314edd-eb63-41cd-bcdd-a1b3fd673216&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472395463
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "APC": {
+                "name": "APC",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472407929,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741024407.928471,
+                        "expiry": 15552000.928471088,
+                        "value": "AfxxVi63PHFQdTcowu3-5TCKjsltWxb1IaGoECa_E5AqMXDwePfRYg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407928
+                    }
+                ]
+            },
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472407437,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032407.436426,
+                        "expiry": 34560000.436425924,
+                        "value": "AHWqTUnrfR_H0rmPZYSye-KlBkF34W9GlkO_ihXmkWub7aPIM0UGn7kUS3h8U9HfzqU",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407436
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.88373995,
+                        "value": "AHWqTUnN8LHwLSikGBcRu3PjC9o41ExJTIy24x_QtjNyeiggEwEpOgbrbRNkZW5n",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407886
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.88919306,
+                        "value": "AHWqTUn4cTyZ1NFbSf1s3wOWC7aVSWg6aG4mnFbIJoolTZtimmN7BaeeAcoU3Gqq",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407890
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.89137602,
+                        "value": "AHWqTUkiPjRYknfaHothRknJPjYIGcAx4qFGpy07QwHKC8eRdBiCI-nb-rHraxHr",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407892
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.925678015,
+                        "value": "AHWqTUlT8eQWinWmJ5yfpouPnOyLEQUyLfozHoNkQWNuq8HBXCfkdGIN8ukMiAvJxiU",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407926
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.92840195,
+                        "value": "AHWqTUlrZTEW4T6mcPW4lPZN1DqvhtG1m062sRa9CaxCIn49Xo3cLbJvjOBtjvubbjc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407928
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472407926,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728064407.925746,
+                        "expiry": 2592000.925745964,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407926
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592001.928495884,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407929
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472407927,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741024407.925767,
+                        "expiry": 15552000.925766945,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407927
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.928541899,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407930
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.210973024,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472408211
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472406898,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725473306.896555,
+                        "expiry": 900.8965549468994,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472406897
+                    }
+                ]
+            }
+        }
+    },
+    "googleadservices.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".googleadservices.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472408054,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248408.052722,
+                        "expiry": 7776000.052721977,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472408053
+                    }
+                ]
+            }
+        }
+    },
+    "jutarnji.hr": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472388392,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474188.39004,
+                        "expiry": 1800.3900399208069,
+                        "value": "dWSyHFqcBXm.NwqGXML3Jls_M6i1XmDEa8H37VrXuMY-1725472388-1.0.1.1-k0J798OKKWcqWjgEXZ9COS0F4qBI_TpLuaEjXvWzIoFBSyz1HR4KXNVoXGDSnD17o0.ds1_7XT4Gc9yrPhWXSA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472388392
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472407222,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741024406,
+                        "expiry": 15551999,
+                        "value": "ID=3cd21d50667636ac:T=1725472406:RT=1725472406:S=AA-AfjainOiTqvpuSJRPPAsDBHJu",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407221
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=3cd21d50667636ac:T=1725472406:RT=1725472406:S=AA-AfjainOiTqvpuSJRPPAsDBHJu",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407229
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=3cd21d50667636ac:T=1725472406:RT=1725472406:S=AA-AfjainOiTqvpuSJRPPAsDBHJu",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407338
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=3cd21d50667636ac:T=1725472406:RT=1725472406:S=AA-AfjainOiTqvpuSJRPPAsDBHJu",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407339
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472407202,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759168406,
+                        "expiry": 33695999,
+                        "value": "ID=29f8b92901200b04:T=1725472406:RT=1725472406:S=ALNI_MbJ2QXGxvIQ0rZevZTCDvg_gZqsJQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407200
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=29f8b92901200b04:T=1725472406:RT=1725472406:S=ALNI_MbJ2QXGxvIQ0rZevZTCDvg_gZqsJQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407212
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=29f8b92901200b04:T=1725472406:RT=1725472406:S=ALNI_MbJ2QXGxvIQ0rZevZTCDvg_gZqsJQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407337
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=29f8b92901200b04:T=1725472406:RT=1725472406:S=ALNI_MbJ2QXGxvIQ0rZevZTCDvg_gZqsJQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407337
+                    }
+                ]
+            },
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472405862,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759600405,
+                        "expiry": 34128000,
+                        "value": "LAYg2yIIOXoyb2Rluw8AFJVyicY3TJTcHFaqL3QYDCv.U7|1725472405|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472405862
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472407204,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759168406,
+                        "expiry": 33695999,
+                        "value": "UID=00000eebc07588de:T=1725472406:RT=1725472406:S=ALNI_MbjUxY22RMNfrRuf2NjSsqYBeVgbQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407203
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000eebc07588de:T=1725472406:RT=1725472406:S=ALNI_MbjUxY22RMNfrRuf2NjSsqYBeVgbQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407212
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000eebc07588de:T=1725472406:RT=1725472406:S=ALNI_MbjUxY22RMNfrRuf2NjSsqYBeVgbQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407337
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000eebc07588de:T=1725472406:RT=1725472406:S=ALNI_MbjUxY22RMNfrRuf2NjSsqYBeVgbQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472407338
+                    }
+                ]
+            },
+            "__pat": {
+                "name": "__pat",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472396701,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728064396,
+                        "expiry": 2592000,
+                        "value": "7200000",
+                        "same_site": "lax",
+                        "timestamp": 1725472396700
+                    }
+                ]
+            },
+            "__pvi": {
+                "name": "__pvi",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472396702,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725558796,
+                        "expiry": 86400,
+                        "value": "eyJpZCI6InYtbTBvNXBwaG5jejFseDdpeSIsImRvbWFpbiI6Ii5qdXRhcm5qaS5ociIsInRpbWUiOjE3MjU0NzIzOTY2OTl9",
+                        "same_site": "lax",
+                        "timestamp": 1725472396701
+                    }
+                ]
+            },
+            "__tbc": {
+                "name": "__tbc",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472396699,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760032396.698509,
+                        "expiry": 34560000.69850898,
+                        "value": "%7Bkpex%7DYoA9AvA9uMnlMiIheVpfVjGoGNdyIg7xbUWyf23sPaHflgEp_jgCE0Hm8Rpcq7v9",
+                        "same_site": "lax",
+                        "timestamp": 1725472396698
+                    }
+                ]
+            },
+            "_clck": {
+                "name": "_clck",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472394247,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757008394,
+                        "expiry": 31536000,
+                        "value": "118lz1q%7C2%7Cfow%7C0%7C1708",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472394245
+                    }
+                ]
+            },
+            "_clsk": {
+                "name": "_clsk",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472395164,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725558795,
+                        "expiry": 86400,
+                        "value": "1a5o764%7C1725472395163%7C1%7C0%7Cr.clarity.ms%2Fcollect",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472395163
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472393565,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o5pph0tzx1f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472395829
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o5pphff0pcar",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472395843
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o5pphges5h8l",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472395844
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o5pphl7qw6am",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472395850
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o5pq56xmanrr",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472396700
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o5pqbc7viny2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472396920
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o5pwzxza7e7d",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472405593
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o5px00hr7ncj",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472405596
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o5py0r10ljey",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472406908
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o5pz6rnlue4q",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472408420
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472392536,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760032392.532251,
+                        "expiry": 34560000.53225088,
+                        "value": "GA1.2.1414780452.1725472393",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472392532
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.533488035,
+                        "value": "GA1.2.1414780452.1725472393",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472392537
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.18641496,
+                        "value": "GA1.1.1414780452.1725472393",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472395188
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.190830946,
+                        "value": "GA1.1.1414780452.1725472393",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472395191
+                    }
+                ]
+            },
+            "_ga_0PCQNHB2ZD": {
+                "name": "_ga_0PCQNHB2ZD",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472395191,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760032395.190411,
+                        "expiry": 34560000.19041109,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472395190
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.19055891,
+                        "value": "GS1.1.1725472394.1.0.1725472394.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472395191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.26744294,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472407267
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.26759601,
+                        "value": "GS1.1.1725472394.1.0.1725472407.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472407267
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.27070403,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472407270
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.27084398,
+                        "value": "GS1.1.1725472394.1.0.1725472407.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472407271
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.348747015,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472407349
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.349071026,
+                        "value": "GS1.1.1725472394.1.0.1725472407.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472407349
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.42391896,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472408424
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.42404199,
+                        "value": "GS1.1.1725472394.1.0.1725472408.59.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472408424
+                    }
+                ]
+            },
+            "_ga_6J0B6WZWJB": {
+                "name": "_ga_6J0B6WZWJB",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472395187,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.70472598,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472396704
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.704852104,
+                        "value": "GS1.1.1725472394.1.1.1725472396.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472396705
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.256460905,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472407256
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.25690198,
+                        "value": "GS1.1.1725472394.1.1.1725472407.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472407257
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.26160097,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472407262
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.26354504,
+                        "value": "GS1.1.1725472394.1.1.1725472407.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472407264
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.346376896,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472407346
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.346688986,
+                        "value": "GS1.1.1725472394.1.1.1725472407.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472407347
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.42235088,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472408422
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.42249107,
+                        "value": "GS1.1.1725472394.1.1.1725472408.59.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472408422
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472392538,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725558792,
+                        "expiry": 86400,
+                        "value": "GA1.2.306678063.1725472393",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472392537
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725472395856,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759600395,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0o5pnq9h0qvhzfy%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725472395855
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472393572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759600393,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1725472393571
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAWATgA4ATIO4B2UQDZBowf3G9eIAL5A",
+                        "same_site": "lax",
+                        "timestamp": 1725472393599
+                    }
+                ]
+            },
+            "cX_G": {
+                "name": "cX_G",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472406910,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759600406,
+                        "expiry": 34128000,
+                        "value": "cx%3Ajaq4ske752xv2vpvsbkrwu1y8%3A1u69zvuxha966",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472406908
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472405597,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759600405,
+                        "expiry": 34128000,
+                        "value": "m0o5pnq9h0qvhzfy",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472405596
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0o5pnq9h0qvhzfy",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472408421
+                    }
+                ]
+            },
+            "cf_clearance": {
+                "name": "cf_clearance",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472393293,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008393.29324,
+                        "expiry": 31536000.29324007,
+                        "value": "ef4FqyvTgQjGQUWl.f7ch1bB7djzICCw5AWWJSNSIQo-1725472393-1.2.1.1-rnsQh45C3lsnRI_g6ocljLb7Ak9B5XHewCrbZZ0sVNfWqn8.wZdISPycF7x3Xb7Egw.qmZVVas79PNC0EtJFYqSix0oJ9jiAhd56_yI2XMm3JsfJ68O2JA5sAfqegxoFy.006LJXpX39OoD2WET.7AOj2JIJaApf9vu1g76rdO2neUdbnrtm4L1T3.sqT7mro4VeNIqB.uaS8Gjx.Z5y9VVe81XIlO_561pgzFQ8DF8KtTCq57gtq_w25PRbXYy0xBBI5cXojig.dpbQ8Q44w7osV776nAwb9qlNfCdZnyUpdRrSHpfs3Go005T0XiLopH0szbBH.derOysDb5M0xEbs00vJVc7b4zD96EqOpTeZu9awiY2hbNzwDp.GszFKGJOetAUC4DU3YBjA7k6osA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472393293
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.436706066,
+                        "value": ".w.qdsSGJ_i7EqWLGVzw1wVgAYSLQG7JMNVP6MLlWSQ-1725472393-1.2.1.1-2o5DWiMKMCQMr24n3JsHkgw0jhmEHEbfVXc79tfDDkvDt.DQtKr4YWBzlBSHO3gbxq09RnTK1Pivmiqs9XPxptD3knGTz49ph2tdg_Pc0xkoQ1o5wkhRP8T6RBxSHUSuEdbwD_2TUu7sAK88_5j3oafoM.bpnzCUdiBTvYMwtdVEJSlyN7Zj0YhQnmCmsMuoQZ_5y2M9udP0JjKfClWVI62JTecpMnEL5IhPflLmFrpy4.dvQaMqzLCk4sUtTwW0TTfMuQK.d6QXLkZKDVEX086NE.Dq2FNbxGth.4If8gJjWLiVnTjytoPmy7m.miY9QVpz0Q3e5YQrkQNQNXZh8HGLqK68qaayoLGQpQjePaORyG52jhkf7tu0R2.rTT.QzYZmIRBcaYflfdy.ZWLmTg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472393437
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.44011402,
+                        "value": "UgPCo8DodQuXMvsP5QhnyNmuQOS4.pci3bGc5v9GvLI-1725472393-1.2.1.1-jGNTeRtrqbj4.H.PDuRI.9bKtvvCiW7tkg549y.xW7.8ipMfJrnMPi4OvVr6mDtKH3nQLAs74E8x7npVS6BydxRavVdIetq9etjBfVLhQAacmez3tXaw9wOsffRUVvS0gzCeWpv.icZMAM29tUC8tgTg323pzMKjI6ecOXZgRoftt0Z4UslhvDe.MuQ8W.o83fF13sZAsOTwNqJw_FAvg6D44mdLGpVqcpKA5jYxuhpZAXg7ynYlfPqBpBQ4K40LIKROIF5xY3qoUAbEB4sJfZmoATWd7Oe_3gwW0_C1n6.RaPJ2sLyCudYWceFbfnQj9o0.tEUCPozRMA_OQH1GFPICVDesEGHEyYRsU4WvpdoQ4ETGsCIx66fVAtSJjo6ahWx5qurtsADZ8ZoRt90B4w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472393440
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472393226,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757094793,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmUyYjQtODA4NS02NTVmLWIxODktNjY4YjA1YjgyYjgwIiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTc6NTM6MTMuMjI0WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE3OjUzOjEzLjIyNFoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725472393225
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmUyYjQtODA4NS02NTVmLWIxODktNjY4YjA1YjgyYjgwIiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTc6NTM6MTMuMjI0WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE3OjUzOjI1LjQ4MFoiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzpnb29nbGVhbmEtNFRYbkppZ1IiXX0sInB1cnBvc2VzIjp7ImVuYWJsZWQiOlsiZGV2aWNlX2NoYXJhY3RlcmlzdGljcyIsImdlb2xvY2F0aW9uX2RhdGEiXX0sInZlbmRvcnNfbGkiOnsiZW5hYmxlZCI6WyJnb29nbGUiXX0sInZlcnNpb24iOjIsImFjIjoiQlB5QVFBRVlBTElBYkFBOUFFM0FpU0JMVUNmZy5CUHlBUUFFWUFMSUFiQUE5QUUzQWlTQkxVQ2ZnIn0=",
+                        "same_site": "lax",
+                        "timestamp": 1725472405488
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472405490,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757094805,
+                        "expiry": 31622400,
+                        "value": "CQEbF4AQEbF4AAHABBENBFFsAP_gAEPgAAAAKaNV_G__bWlr8X73aftkeY1P9_h77sQxBhfJE-4FzLvW_JwXx2ExNA36tqIKmRIAu3bBIQNlGJDUTVCgaogVryDMak2coTNKJ6BkiFMRO2dYCF5vmwtj-QKY5vr991dx2B-t7dr83dzyz4VHn3a5_2a0WJCdA5-tDfv9bROb-9IOd_x8v4v8_F_rE2_eT1l_tevp7D9-cts7_XW-9_fff_9Ln_-uB_-_wUyAJMNCogDLAkJCDQMIIEAKgrCAigQAAAAkDRAQAmDAp2BgEusJEAIAUAAwQAgABRkACAAACABCIAIACgQAAQCBQABgAQDAQAEDAACACwEAgABAdAhTAggUCwASMyIhTAhCASCAlsqEEgCBBXCEIs8ACAREwUAAAAABWAAICwWBxJICVCQQJcQbQAAEACAQQAVCCTkwABAGbLUHgybRlaYBo-YJENMAyAAA.f_wACHwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725472405489
+                    }
+                ]
+            },
+            "xbc": {
+                "name": "xbc",
+                "domain": ".jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472396702,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760032396.700117,
+                        "expiry": 34560000.70011711,
+                        "value": "%7Bkpex%7Dha2dOE1XPDVVFsztsviDyN5tM0h89to86OIePIfepo1BWPFSSOoDa-PzQMwgv77-c7kVF8lZ8hPYwnj_AwMqa4zXbYzoFZA6u9j6Ov6LCY8",
+                        "same_site": "lax",
+                        "timestamp": 1725472396702
+                    }
+                ]
+            },
+            "DM_SitId85": {
+                "name": "DM_SitId85",
+                "domain": "www.jutarnji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725472393836,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472393835
+                    }
+                ]
+            },
+            "DM_SitId85SecId15439": {
+                "name": "DM_SitId85SecId15439",
+                "domain": "www.jutarnji.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725472393837,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472393836
+                    }
+                ]
+            },
+            "DotMetrics.DomainCookie": {
+                "name": "DotMetrics.DomainCookie",
+                "domain": "www.jutarnji.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472392670,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008392,
+                        "expiry": 31536000,
+                        "value": "{\"dc\":\"6f553256-ce1b-4583-9616-2e5b30c0628c\",\"ts\":1725472392668}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472392669
+                    }
+                ]
+            },
+            "__adblocker": {
+                "name": "__adblocker",
+                "domain": "www.jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472395001,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725472695,
+                        "expiry": 300,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472395001
+                    }
+                ]
+            },
+            "__pnahc": {
+                "name": "__pnahc",
+                "domain": "www.jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472395857,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733251995,
+                        "expiry": 7779600,
+                        "value": "0",
+                        "same_site": "lax",
+                        "timestamp": 1725472395856
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7779600,
+                        "value": "0",
+                        "same_site": "lax",
+                        "timestamp": 1725472397262
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7779600,
+                        "value": "0",
+                        "same_site": "lax",
+                        "timestamp": 1725472397263
+                    }
+                ]
+            },
+            "_sotmpid": {
+                "name": "_sotmpid",
+                "domain": "www.jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472398433,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032398.431247,
+                        "expiry": 34560000.431246996,
+                        "value": "0:m0o5prh9:XwWvjBuLJudgbfmvBi2~YVdEn2wxK~Pl",
+                        "same_site": "strict",
+                        "timestamp": 1725472398432
+                    }
+                ]
+            },
+            "_sotmsid": {
+                "name": "_sotmsid",
+                "domain": "www.jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472398432,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474198.431195,
+                        "expiry": 1800.4311950206757,
+                        "value": "0:m0o5prh9:1RJdlUfQKVCxOQyHnGm6aCbLHMPdODZV",
+                        "same_site": "strict",
+                        "timestamp": 1725472398431
+                    }
+                ]
+            },
+            "ab_test": {
+                "name": "ab_test",
+                "domain": "www.jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472389858,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757008389,
+                        "expiry": 31536000,
+                        "value": "a_version",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472389850
+                    }
+                ]
+            },
+            "pnespsdk_ssn": {
+                "name": "pnespsdk_ssn",
+                "domain": "www.jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472397699,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22%24s%22%3A1725472397697%2C%22visitNumber%22%3A1%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472397698
+                    }
+                ]
+            },
+            "pnespsdk_visitor": {
+                "name": "pnespsdk_visitor",
+                "domain": "www.jutarnji.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472397700,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757008397,
+                        "expiry": 31536000,
+                        "value": "m0o5pnq9h0qvhzfy",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472397700
+                    }
+                ]
+            }
+        }
+    },
+    "piano.io": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".piano.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472396697,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474196.696558,
+                        "expiry": 1800.6965579986572,
+                        "value": "5_ER2pND3FD5abKOcA4bw996.rCI.oNP.GAzbj_SyPs-1725472396-1.0.1.1-1lGzC32UPNJEHuYa55uqu3SpKPlOH5E3TG0ai5wDC2x_9uqwuAYWJR0pwAHX8KVO6C_SohjXGjJ6pKxuO2BmUw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472396697
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.771544933319,
+                        "value": "f9XhFN56euERt5NBf8zLRFytjKW2DqvmX1dQdpcPgm8-1725472396-1.0.1.1-sX5U7SGAALgkRYo26oo0fyJncrh1NRIbEdh4QqvbNMmmSSGZDOTdPwKs6KkSr.Cw6D8Ocrnt3mXNP.bq_C9vNA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472396771
+                    }
+                ]
+            }
+        }
+    }
+}

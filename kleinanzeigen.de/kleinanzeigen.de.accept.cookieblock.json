@@ -1,0 +1,1210 @@
+{
+    "adsrvr.org": {
+        "/": {
+            "TDID": {
+                "name": "TDID",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478383245,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757014383.240825,
+                        "expiry": 31536000.240824938,
+                        "value": "2bf58a3d-97dc-4de3-ad83-2b5cbedb05a6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478383242
+                    }
+                ]
+            }
+        }
+    },
+    "bat.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".bat.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478386290,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726083186.284989,
+                        "expiry": 604800.2849891186,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478386289
+                    }
+                ]
+            }
+        }
+    },
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478386289,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759174386.284741,
+                        "expiry": 33696000.284740925,
+                        "value": "0BE7856A056B612B00DC919A0485603C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478386287
+                    }
+                ]
+            }
+        }
+    },
+    "creativecdn.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".creativecdn.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478386598,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757014386.594441,
+                        "expiry": 31536000.594440937,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478386596
+                    }
+                ]
+            },
+            "c": {
+                "name": "c",
+                "domain": ".creativecdn.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478386012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757014386.006005,
+                        "expiry": 31536000.00600505,
+                        "value": "CqU0eeamNy1xLs34Sczh_tHYYt3p8vtIXMT9NzRdK_1725478386022",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478386010
+                    }
+                ]
+            },
+            "g": {
+                "name": "g",
+                "domain": ".creativecdn.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478386010,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757014386.005893,
+                        "expiry": 31536000.005892992,
+                        "value": "CqU0eeamNy1xLs34Sczh_1725478386022",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478386007
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".creativecdn.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478386599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741030386.594647,
+                        "expiry": 15552000.59464693,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478386598
+                    }
+                ]
+            },
+            "ts": {
+                "name": "ts",
+                "domain": ".creativecdn.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478386013,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757014386.006065,
+                        "expiry": 31536000.00606489,
+                        "value": "1725478386",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478386012
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478384141,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759174383.129421,
+                        "expiry": 33695999.129420996,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478384141
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.27040291,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478384272
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478384140,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759174383.129339,
+                        "expiry": 33695999.12933898,
+                        "value": "40c83ef1-8053-44d1-9003-3a1cf487dbff",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478384140
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.270318985,
+                        "value": "d2502ed3-9fdc-472d-9365-bde0e2cbb0ed",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478384272
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478384338,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725479284.33702,
+                        "expiry": 900.3370199203491,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478384337
+                    }
+                ]
+            }
+        }
+    },
+    "ioam.de": {
+        "/": {
+            "i00": {
+                "name": "i00",
+                "domain": ".ioam.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478385783,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1750494166.779646,
+                        "expiry": 25015781.77964592,
+                        "value": "00338c52711b23d7566d8b5f10001%3B66d8b5f1%3B68566bd6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478385781
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 25015780.10133505,
+                        "value": "00338c52711b23d7566d8b5f10001%3B66d8b5f2%3B68566bd6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478386104
+                    }
+                ]
+            }
+        }
+    },
+    "kleinanzeigen.de": {
+        "/": {
+            "FPAU": {
+                "name": "FPAU",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478385638,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733254385.636569,
+                        "expiry": 7776000.636569023,
+                        "value": "1.2.1947801762.1725478386",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478385637
+                    }
+                ]
+            },
+            "FPGSID": {
+                "name": "FPGSID",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478385634,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725480185.629747,
+                        "expiry": 1800.62974691391,
+                        "value": "1.1725478385.1725478385.G-6V6MWRHVN8.JgkTnIBfBieHsKt2w3zYEA",
+                        "same_site": "strict",
+                        "timestamp": 1725478385633
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.6367421150208,
+                        "value": "1.1725478385.1725478385.G-6V6MWRHVN8.xmeqP84FpsVBu9WUrZx_Sw",
+                        "same_site": "strict",
+                        "timestamp": 1725478385638
+                    }
+                ]
+            },
+            "FPID": {
+                "name": "FPID",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478385631,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760038385.629627,
+                        "expiry": 34560000.62962699,
+                        "value": "FPID2.2.bAGaAody6NzqGlC%2FKZNjkZUByNfuzw3Xgo5kQLFiaQs%3D.1725478383",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478385630
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.63595104,
+                        "value": "FPID2.2.bAGaAody6NzqGlC%2FKZNjkZUByNfuzw3Xgo5kQLFiaQs%3D.1725478383",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478385636
+                    }
+                ]
+            },
+            "FPLC": {
+                "name": "FPLC",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478385633,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725550385.629716,
+                        "expiry": 72000.6297159195,
+                        "value": "YspibikEQS1fB12g8BFxtR61qWME2Z3IMFXm58FLvU3LEZke5pXsxTU2kcnChqOYwLubfyENjfE7rJSJuZ%2Bcev3rLP%2BowOhstg8Too7ZOHgLM5Nt1klAbUHVwLXzDQ%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478385632
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 72000.6361720562,
+                        "value": "ImP5OKh%2FWvI%2FUuN28NrJ3SkqwC8DzHw8SKZ2ScxgWoVZxXTObb85eDt%2BfnMciA6EaVIWcX%2B9SEjHChYrRYx7jNnzJ0MVu7h42wO%2F%2By3LpvgzTAxPp1pWbIxkiU9nTw%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478385637
+                    }
+                ]
+            },
+            "_abck": {
+                "name": "_abck",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478375824,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757014375.801946,
+                        "expiry": 31536000.801945925,
+                        "value": "014CC8E931EFF986D64770EAEDF150FB~-1~YAAQH6rWF3iTormRAQAAzZGGvgxkfoyazszkRgfkI7HfHuk+9wpDWeMbDmKqjN0b69XQzAHDYyz+rE54JygmiNPlOGepjB7FfWIDolXsbBtqV/nuupNUsmoaIu1V98KErZO+WTMKinsTi3XaGZJ1d5RDNyi3N8yKPU3k4T8lIKAkVjN/JTDi4KsN/PDdu3E+iz0h45DmzKPpXDyM8Ewo1urDRRMCNQQgs1jVyBRu6ypi9dciIhDQCOuaHUbFepcwdsSpBpquz38/CqEWd8YljO05UIHMw5q2D5mFHa9aG+eP5jwYYqUnc1+j/PZZ6nj5DWRIuWWPtG+V4vOtfT4ED9hY6mspvr7kUPEDcSaJSkAJm8UbE177eohfhysrK85UReoDKGigtnmlkDeWgIsV9+THNlJ1/n0cXvW/MZlhFXf72IM=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478375822
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.479338884,
+                        "value": "014CC8E931EFF986D64770EAEDF150FB~-1~YAAQH6rWF8uTormRAQAAWpiGvgyN5GRFcPPG+CfXF3ag40wW/hv+53SIbizKPin5YjJz5BATXwKLyu90rNy0A/EKojR6pS6bNdGN6QAkcR8of9JWQsjIRc8tDDe5dzDIJ+7eXcEu0bx38Jdcf0a2m8+i7bdQ/LNbYGpIUWcJN2z25ZCnOijmtmDcjF/pVP+bGNYH8ogscKFeoChvt7HIyNy2sPJTXPcbJLmzvHAHXa4E4pdOFhfSmgdxwh3UkKliRjeZju76hI4pP6+yq7wdNG+gzDVBcXweYLh5LuQq9GGOxM2no0nLXz000VBwqS1ccpp4tiiGUFkUTkGEr+oJzVqAuiAi1Ijtur7lPg05UjIvFGL36tPbwkeWPhmUpmwhOxTHi9SopER+gVHp6J8KNzcUFzzxj1ijgJQpeiGlmIYa4HXYvn2Q22+5TcxGqyqA5w==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478377480
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.73051095,
+                        "value": "014CC8E931EFF986D64770EAEDF150FB~-1~YAAQH6rWF9yTormRAQAAVpmGvgx0ogzYTq3GoxunNXpLsHwje//WWjyZ1qgysa1CmZSBKsAXQQ57SkmJ6kahoAbKnhOIVTAGjpPhgdUNHztHX5UxDADFvcKBayng11YTbZHRm1iOe6cVr53YeR/U/pd3D43DBdPjcB4ubdZL0Kir4j4uycUw5ADIkAoDtlY06WVyeHksM+zz9v9QlRiYSRkLvlJfRUIuNByQdK8wQA8VzaqPPM9xHclUN+zU4lw0RqMlHX6Kt67E9QiP4Wsl8Sfi0ElFaVfo3yA3ZN8cE+H3Cg1KdLQNIs0Y1Khk0ezyazLNIjFG22ycmn6IRxD+FoXEj5jX7tNO5eEhqoCkEniXIO+0TtRYR1y7JMPhh4/WWyFZiqgApTrFDmUxXYvUIunmSmFgxQul+pyC6z47bzqfDiNZFLDf7fbJO8WFtajApg==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478377731
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.889631033,
+                        "value": "014CC8E931EFF986D64770EAEDF150FB~-1~YAAQH6rWFxSUormRAQAAzZ2GvgzHvdETdmyH+CwJ0WRAfyQhvhlAwTzDakpicoyuLvDuztRklOJStIaOEcKZCsrvZGQxTXKppFc9Mn5wXNnSGIMBuiLVdXN0TxL3gJBoLNd9fp2v5dt8gUQmr2thmi4tnj5Qew5ktwpUYkR/ltOaIaZeloelZ7B9RSzHwqPddTKDwWLv19gAhYhuBFd1yAA/E0yDGbp1K66F2upsYAKww+6FdKuaekqj6WhfG5dUmmTYgmXYggPyODzuejcQwqfpu5mNWh8d+7x3Ypi3cf5JLQkPDDkwZEdtdaJOKom8mvgBVhfgwbVfTyLLDZ9yQZpXjEeNlYTsj6wmC0p+fOBfR5Up2iGyIRaTrjBinwwz2AiY0XV9T77wBO0MdVuq80w3W021714nr5C8NJzhk5ITmxpFpnsKjtFAP/K6GV0s3w==~-1~||1-GeoRREEnbJ-1-10-1000-2||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478378890
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.931169987,
+                        "value": "014CC8E931EFF986D64770EAEDF150FB~-1~YAAQH6rWFxWUormRAQAABp6Gvgy3yK6bCAUyH9bCx2PXIlXhoCaIhVlK02atG3AS+Q+DSzPcda71mK+eMG3Nb4o+MerlU4KsAYjOMxw3F3ODNLy6SbOviWgglRdtMW75ScJ9+B6zUQMJ0xGcVmi3haMfFL3ZY9YPsVsgYXK/hXy3V8vVfsUVQ6FyLXXZb4hjdu5z9NyfigWE7YYcNE4IN29BR38ee32eLDsJt2FLgHRnIcXwnsZa6LLcTCk64uSVBubR1CylRkQRP7UltmPhEQ3HGxVCK6oLLg0IQHlN4h935mQ7RoDSEIwaMLGiIsFq0pzBBA84LqyTpxOs8i26Jow3Z29iap7tRIgbM/ffRJqtHJVLQZie34rStvfRD2q4lPyEw0rKhI5RCfRh8wxlY5gQlj/TWbRbMxzHhXU9GghskHuZtLTnbhr2AZLDSomlcw==~-1~||1-GeoRREEnbJ-1-10-1000-2||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478378932
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.402345896,
+                        "value": "014CC8E931EFF986D64770EAEDF150FB~-1~YAAQH6rWFxyUormRAQAA1J+Gvgz8cIz5GVTJwH0r3XRuW33TLiqFe+f9uotXv51XW9hirXla/jWoHtu4EAXGP6V/yQn4fFnccvx3QjB12vUa2zyb0yxkrQaAcJqhddX5sJmUpb4q3DTStTRt2vDW82+/SiZr/Pqe60ujOKmjqIps/DzK1rem7+b7vqYzmKlzStH6V3wpPY/77z4hX8w4/nh0m0Y8FeavVziCiaXqazt31eu+Yoak3kr+PuyTZfhWdG6q+aoFgHOk5TaoG6jzXKTjMySW9rKnQ4fRLstXas5KnMqxdJxcycjJ0VaBcfYR/F5KDitxvaRL/CNgW0Am5y7v8+KWAXH7vlLL1uEwSXEOgazgjwIUSWqEk5Ff7ouBSCZGtHpqXpAzUOI7THFgx/6wvqp19CHEkca7TUzEFJkXZp9ZgqVEPWquHbwVwgVffA==~-1~||-1||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478379403
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.85670495,
+                        "value": "014CC8E931EFF986D64770EAEDF150FB~0~YAAQH6rWF1SUormRAQAAdKmGvgxJlssEkqxUf7KxQgj44cxqYM8uyiCcAMKt+5xO0Fecclj2Pw6m8U7ccdodSNqte00CU2MuquiPe0fOxULDFFYn3aVDhwisK1Uv+KB1qGZFEYgr41RoeKnNMuqGZafIn8mwTsvDSFJU+rmq2It9Fa9FRi549iAtD2pVwyLhDbj6p5IUYd8O1ptrbLoZxHnpqum+nXxaXICoHdd9l/Vcr2xE+fyPHWxwEcrpXDBkcGK13uPH6KcAlYKwNxipjVy4zoJNcZCeX+Iygd/fKMYp0YYdhXT2uD2DdhfZzgVfXG2aB/ekDb+CHC7ycOGgKqK3sARLabZWcNqHTlDzqOfMdsnmqtjpZsoEBNO+gju50rLHJ0Tiwp4HNlUsq3I9Ar1GvpI0EHozt0CWG6iibEF+OYyHpELOSWkTQY7f0voo7GoSyNx9AaI+mfV3b+/2~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478381857
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478383310,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760038383.309822,
+                        "expiry": 34560000.30982208,
+                        "value": "GA1.2.1992060539.1725478383",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478383310
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.38751602,
+                        "value": "GA1.1.1992060539.1725478383",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478384389
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.96390605,
+                        "value": "GA1.1.1992060539.1725478383",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478386966
+                    }
+                ]
+            },
+            "_ga_123456": {
+                "name": "_ga_123456",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478386965,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760038386.963597,
+                        "expiry": 34560000.96359706,
+                        "value": "GS1.1.1725478386.1.0.1725478386.0.0.2087949025",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478386965
+                    }
+                ]
+            },
+            "_ga_6V6MWRHVN8": {
+                "name": "_ga_6V6MWRHVN8",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478384388,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760038384.387178,
+                        "expiry": 34560000.387177944,
+                        "value": "GS1.1.1725478384.1.0.1725478384.0.0.1605625323",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478384388
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.39060712,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478384390
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.39074707,
+                        "value": "GS1.1.1725478384.1.0.1725478384.0.0.1605625323",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478384391
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.04758501,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478387048
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.047864914,
+                        "value": "GS1.1.1725478384.1.0.1725478387.0.0.1605625323",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478387048
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.05399895,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478387054
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.05431199,
+                        "value": "GS1.1.1725478384.1.0.1725478387.0.0.1605625323",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478387054
+                    }
+                ]
+            },
+            "_gat": {
+                "name": "_gat",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478383875,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725478443,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478383875
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478383312,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564783,
+                        "expiry": 86400,
+                        "value": "GA1.2.1192957959.1725478383",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478383311
+                    }
+                ]
+            },
+            "_uetsid": {
+                "name": "_uetsid",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478384055,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564784,
+                        "expiry": 86400,
+                        "value": "80ff12a06af411efaaa3db36459cca35",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478384054
+                    }
+                ]
+            },
+            "_uetvid": {
+                "name": "_uetvid",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478384056,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759174384,
+                        "expiry": 33696000,
+                        "value": "80ff1af06af411ef8b3b57f5c3ccc3ee",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478384055
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478375825,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725485575.801975,
+                        "expiry": 7200.801975011826,
+                        "value": "8322BD88E756D3F78137FE610933EFAB~000000000000000000000000000000~YAAQH6rWF3mTormRAQAAzZGGvhl4pXTDQRDZpCRYzjBC5YLxyoi3LSzJ8gqjlMVE60ZvDpDCkfP5I6SbJnrGX72Qenc00trQgDaIraWc3tHnhjFzs8NRd06kVzDN1E3dn7SVxw4pf35IYJlrucq9mdypy0BS6zUi4iIzMGF4e84DXzu4LsQmWnopRcK+oLIRuGMl8FjSR3ZoDuG6DynG/1+lCGgSCJTmkQhdpl6qk1QkTOo+avTGL9anQvs07Zts3LhoAjxKYIucOOaeTAx6T51jVmPw7fft5GV/TVV0/WW4502YoSlj5H3sNeUzqZcwdTjh2xUA1sCSJJ6CTkYTNsJbB8Hq0tq2o0ZNyKl8hAZ3Hvr9scKbGeGW2PVeZhcwoym5rjk8q6SGdra3XKVvKO8=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478375824
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.237277984619,
+                        "value": "9D88287D8DDCDA3C26557022E4617CF9~000000000000000000000000000000~YAAQH6rWFwGUormRAQAAUJuGvhmWJJKwQVPzhzTyhrhgYnwNoprA8Mok39OolmgfEuWAuTazfc1SVfb7n6YQYOpzre+IIk+zBo2/3NnJMLxM0km1xbY9k9+h52VdaLYuPLYjJDVWhpzyUS/pWmSbG66GezAisvLgahDDLR4byX6vhoh34hQoCM5rshv9iYsV0+cyCCnNKL8wRUsy6tWQK1tPU7WOzmyCE+Ap+BDjW2yRYrPHHCGGfKB4j8UObb5stGmtSNpCdXUKK9Egrj2RqD8f95PzM8ywaEP4gk5FJKCzLn9enjWncHBekjufqsaa5OvM1qIOmq950aofMQ9w+VQd88smVWBU6FTpw0wxXDATa2Z4YabvuOKBTisadbaPduA7nNk+LxSCHIFydMDBTSMx/LrPoORN4ijppK51XfNzf5d3KfFpWVFdoNjn",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478378237
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7196.963056087494,
+                        "value": "9D88287D8DDCDA3C26557022E4617CF9~000000000000000000000000000000~YAAQH6rWFxaUormRAQAAGp6GvhluLznqLNKIgLuGTgn6nD8hoWSenClTZqS0TJp0xPDiVNWhJ/CDRbdlkCf6rUi5hSgVwQnl9HYQX3+wrFBnkpEgisxcb7u8dF4CBPaS5ftJl7b2mTYMtbTXJHOyZP9ngJ5+lapK6dtYtqu8RbxcilqV5lOOnkD+kwFut7b0gK58Lvt32dV8MyS8a6NdGs3Z+OvMtKCj4Cp54eD9m2u1QClRZPI864MfV6xOF/GitXQ2TGxbHO4awkALj6+IT7gdwYkIwOSvPqrrPssbGNBqnAmopojLKSPvCYucRTDN6Af1PUULxc8bGygiNFeQ6lDZBqAPt1xNmZKtR8MBat+aCkJ+daeM+rJLkZiyoNhjxkp+UgeHOnjnXYYqZHkZIGJPiqh9JjgnyqTnB59ezfusXOJxabHIWztBo+NP8EL/oiNeUpteeZ/kUZCrEfm/9CjBv6U=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478378963
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7196.2741940021515,
+                        "value": "9D88287D8DDCDA3C26557022E4617CF9~000000000000000000000000000000~YAAQH6rWFxqUormRAQAAXZ+Gvhk1K4j+iHK0qsf7h3+XfJ7fDEPdGKbfYFIeWzBJHNmvpBLhyD4+QTCwMDdsjyVUGd/oqUbIxB11COo5VyS+m3G1LwXEqLW6L9QtDFL70xV3j8+MUmB4UL2EThHUs4TgeYU7JwueVqhbp+qEKkTO10DORb8BE3xbWIjekwjjEUnFdWqvefoFSBqo+ZnktmQuUITrt+7+JFLI0IcB/tBKD5/dfaDsEBrmNe2/MNPljjAPIDreNh/+7ji8r+TGCXtZk5+mOvVuvWtk3QgGrI0G3/v8Pmvb7NfgsZr49xLDeXrOUu7HLrIXxNH5Zbiof8Gyy6rr0jbRt7887OzQV4KOdI0pu2Pm64o8trpDF9kaTRw4WPQynXLtQL6bYFkw3BZeYk7gGnK8ZmYZ817fnMY1Ln9p2yBvbXRQS9lMGfYYinfh1ND9TR8=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478379275
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478380228,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725485580.225218,
+                        "expiry": 7200.225218057632,
+                        "value": "BB900F3C0254DE46967274B5A856D230~YAAQH6rWFyqUormRAQAAFKOGvhkxNp9+zgyIGe2cIbPqXnG+naAdxQ5J/C0wjYZD1NDqigU0SrffG49/5liXTI7J/it8Kw/2glBivThvQNHz3quFFQYkUWpulCWm1IcQ0b7yR9AV3q5DUkU0wEAZUBOp7/LEM/w+wGuqJFDeh6EAOpTAkrV07ngeDc/jrK8zo8On/1oL6hUw9xB3pJAbLQYSx0iGnrzqh6079CHMEyyIvvKWjIszhT2Sg+6q1q8BxZzcsO/W~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478380225
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.238919973373,
+                        "value": "3ED353F9F00069D9CD946CE949A49635~YAAQH6rWFyuUormRAQAAIqOGvhldYvg/TqiEjYLFe5/FkFNbGXGb4QyaoHPKZwYO0jwpjIZqfs6QYZm23iVx4pmtzFBckWV4iUzknhT+PGJacEoYUKmfsut6UQGk2GEgNu34UUsTPs0HSLgl0DFQmBcrkslu9+vl/RcIidy4S54TA16utL8yiQpRQmyEXGibW7WwmAf9MWcOmfRd4WZXT8IlLFgbG8SxoICVrQpcLrAdqfLURNy/1BpRcQvtnjCBeLhNdALs~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478380239
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478375826,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725492775.802016,
+                        "expiry": 14400.802016019821,
+                        "value": "8CCF4581EAFCEAAC1BC476FEFA30FC69~YAAQH6rWF3uTormRAQAAzZGGvhmvRwg3DYH46IDbdnpvArgsAWjacUj7eg+ygVkNYe9MsbHRWOfFeMnv8LpxAobL7yJ0j8kObV0+jtTPuS5UwP2a/dIsZRjHfhfa5czt4lgFLSWZ9XwrIOBkUSpAkwjN6Ezbe/JT3tVhI+g9HCXRkRfys8/BC/y9A/v407laFgjwQHV665OQkPfbcqKrzT1DI+EvbUmPdRmEvlH9rcnJI7X+eCr2OyGICkoq+WlptyjjQkzdbPu6N4qE5zbb7C0qMRfFHR6AzTJg10O6RfqxkVeMU9LhqTQtgUCYEpn16qcFbMFwVKjLKGM8ViqGJKa+9UxQYZnzomlpx9EQPm38/TrZ1DbP6AVycgMa8AbEmPVu0KJ9ltprlGYodNB92m/zefyi~4469811~3748404",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478375825
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478384362,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759642384,
+                        "expiry": 34164000,
+                        "value": "PiJ0K184WHRhTFZUOFlucm41c3hheE42UkFpcWhDUWZRRkFld1M1UzV3T1kwYTVhWFh2RVpvT0t1SDVCZXdHVzV6M01LOHV0eVVQNllGbm1ITlg2MFhnYWJuYjU5c0Y3Y3IxUlV4WVJiOW5xVTFLazhibFpKUG53SkRZcDRTNWZGR0RodTRiS3ZyZElDSkFWbUtvM0p4N1U5c1VzZk4ydTdvSXVRMVYlMkJ2R3J0QUpwY3dtb1ZmTndmMTFPdkVBdEhHTSUyQnlCaWttM2FhZ003a2x2ZUI0TDglMkJkVWtBJTNEJTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478384361
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "PiJ0K184WHRhTFZUOFlucm41c3hheE42UkFpcWhDUWZRRkFld1M1UzV3T1kwYTVhWFh2RVpvT0t1SDVCZXdHVzV6M01LOHV0eVVQNllGbm1ITlg2MFhnYWJuYjU5c0Y3Y3IxUlV4WVJiOW5xVTFLazhibFpKUG53SkRZcDRTNWZGR0RodTRiS3ZyZElDSkFWbUtvM0p4N1U5c1VzZk4ydTdvSXVRMVYlMkJ2R3J0QUpwY3dtb1ZmTndmMTFPdkVBdEhHTSUyQnlCaWttM2FhZ003a2x2ZUI0TDglMkJkVWtBJTNEJTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478384363
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34164000,
+                        "value": "_RwmuF9jRUVSTDQ3cldYOHM3NnZsUTFSZG9heGExRXlTUzVsUzZhTjBkYUdESWNUaDdMTWVDV0toV3ZucmZqRE5PY1huRWRyS0cxcmE4dzZ2VVhjemUwMWRVa3dYVHNGZ2NBbGJLZ3doMUU4SHY2ckxzbGZpc3k0QmZzMzRnMGoyZVo5TUolMkZXcmNLTGxoNHB4S3NhSWt3R3FGTVg2cGFqcW5lbW5icVVvTk1QZzY0MEI2TmxyWThCSjdtTXVyNjJzQlg0RnVidWJvWndFSjVydEEwT0lVUzc0dXclM0QlM0Q",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478384466
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478383557,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481983,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478383556
+                    }
+                ]
+            },
+            "cto_tld_test": {
+                "name": "cto_tld_test",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478383405,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481983,
+                        "expiry": 3600,
+                        "value": "woot",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478383404
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478383556,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481983,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478383555
+                    }
+                ]
+            },
+            "ekConsentBucketTcf2": {
+                "name": "ekConsentBucketTcf2",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478382506,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757014382,
+                        "expiry": 31536000,
+                        "value": "full2-exp",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478382505
+                    }
+                ]
+            },
+            "ekConsentTcf2": {
+                "name": "ekConsentTcf2",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478382509,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757014382,
+                        "expiry": 31536000,
+                        "value": "{%22customVersion%22:6%2C%22encodedConsentString%22:%22CQEbF4AQEbF4AE1ACADEBDFgAP_gAAAAAAYgJepV5C7dbWFFcX53aPtkOY0X19BzIsQhBhSBAyAFgBOQ8JQA02EyNASgBiACEAAAoxZBAAFEGABEAQCAQAAEAADsIgQEgAAIIABEgBEQAAJYAAoKAAAgEAAIgAIFEgAAmBjAKdLmXUiAhIAACgAQACABAICAAgMAAAAIAAIAAAAAAgAAgAJgIAIAAAAAARAAAAAAAAAAAAAAIAAACgkAGAAIJehoAMAAQS9EQAYAAgl6KgAwABBL0ZABgACCXo6ADAAEEvSEAGAAIJekoAMAAQS9KQAYAAgl6WgAwABBL0A.YAAAAAAAA60A%22%2C%22googleConsentGiven%22:true%2C%22consentInterpretation%22:{%22googleAdvertisingFeaturesAllowed%22:true%2C%22googleAnalyticsAllowed%22:true%2C%22infonlineAllowed%22:true%2C%22theAdexAllowed%22:true%2C%22criteoAllowed%22:true%2C%22facebookAllowed%22:true%2C%22amazonAdvertisingAllowed%22:true%2C%22rtbHouseAllowed%22:true%2C%22linkedInAllowed%22:true%2C%22theTradeDeskAllowed%22:true%2C%22microsoftAdvertisingAllowed%22:true%2C%22pianoAllowed%22:true%2C%22renaultAllowed%22:false%2C%22liveRampAllowed%22:true%2C%22taboolaAllowed%22:true}}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478382507
+                    }
+                ]
+            },
+            "ioam2018": {
+                "name": "ioam2018",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478383666,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1751743983,
+                        "expiry": 26265600,
+                        "value": "001096b9223fe134366d8b5ef:1751743983664:1725478383664:.kleinanzeigen.de:2:ebaykanz:ebayK-1:noevent:1725478383664:67qh5l",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478383665
+                    }
+                ]
+            },
+            "iom_consent": {
+                "name": "iom_consent",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478383658,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1727897583,
+                        "expiry": 2419200,
+                        "value": "0107ff0000&1725478383657",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478383657
+                    }
+                ]
+            },
+            "ttd_TDID": {
+                "name": "ttd_TDID",
+                "domain": ".kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478383247,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726083183,
+                        "expiry": 604800,
+                        "value": "2bf58a3d-97dc-4de3-ad83-2b5cbedb05a6",
+                        "same_site": "strict",
+                        "timestamp": 1725478383246
+                    }
+                ]
+            },
+            "CSRF-TOKEN": {
+                "name": "CSRF-TOKEN",
+                "domain": "www.kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478375814,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "a8fc75f4-1951-4441-a91b-08017f9cfdc3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478375804
+                    }
+                ]
+            },
+            "__rtbh.lid": {
+                "name": "__rtbh.lid",
+                "domain": "www.kleinanzeigen.de",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478384070,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757021584,
+                        "expiry": 31543200,
+                        "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22VGRMWJvv9w75zR9ZZ0MN%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478384069
+                    }
+                ]
+            },
+            "__rtbh.uid": {
+                "name": "__rtbh.uid",
+                "domain": "www.kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478384068,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757021584,
+                        "expiry": 31543200,
+                        "value": "%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22unknown%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478384066
+                    }
+                ]
+            },
+            "clientId": {
+                "name": "clientId",
+                "domain": "www.kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478383874,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757014383,
+                        "expiry": 31536000,
+                        "value": "1992060539.1725478383",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478383873
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1992060539.1725478383",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478383876
+                    }
+                ]
+            },
+            "criteo_write_test": {
+                "name": "criteo_write_test",
+                "domain": "www.kleinanzeigen.de",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478383407,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725478393,
+                        "expiry": 10,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478383405
+                    }
+                ]
+            },
+            "up": {
+                "name": "up",
+                "domain": "www.kleinanzeigen.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478375822,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1756582375.801896,
+                        "expiry": 31104000.801896095,
+                        "value": "%7B%22ln%22%3A%22485005521%22%2C%22lln%22%3A%2226857e83-8bdb-4f26-b8da-09dba09f49ea%22%2C%22llstv%22%3A%22BLN-25381-ka-offboarding%3DB%7CBLN-23401_buyNow_in_chat%3DB%7CBLN-18532_highlight%3DA%7Ccmp-equal-choice%3DE%7CBLN-23248_BuyNow_SB%3DB%7CBLN-22726_buyer_banner%3DB%7Cignite_web_better_session%3DC%7CEBAYKAD-3536_floor_ai%3DC%7Cignite_improve_session%3DC%7CEKPAY-3214-NudgeBanner%3DC%7CBLN-24684-enc-brndg-data%3DA%7CBLN-25794-watchlist-feed%3DB%7CFLPRO-130-churn-reason%3DB%7CBLN-25659-car-financing%3DB%7CEKMO-100_reorder_postad%3DB%7CKLUE-274-financing%3DR%7Clws-aws-traffic%3DB%7CBLN-25450_Initial_message%3DB%7CBLN-24652_category_alert%3DB%7CBLN-21783_testingtime%3DB%7Caudex-awr-update%3DA%7CEBAYKAD-2252_group-assign%3DI%7CBLN-25216-new-user-badges%3DB%7CBLN-25556_INIT_MSG_V2%3DB%7CDESKTOP-promo-switch%3DA%7Cadsense_no_consent%3DA%7CKLUE-461_Rename_CTA%3DB%7CPLC-189_plc-migration%3DB%7Caudex-libertyjs-update%3DA%7Cperformance-test-desktop%3DC%7CBIPHONE-9700_buy_now%3DB%7CEKMO-243_MyAdsC2b_ABC%3DC%7C10149_desktop_offboarding%3DB%7Cprebid-update%3DC%7CEKTNM-4424_DSA_AD_FLAG%3DA%7Cpubads-behind-consent%3DB%7CPLC-104_plc-login%3DB%7Cbing-fill-rate%3DA%7Cdesktop_payment_badge_SRP%3DB%22%2C%22ls%22%3A%22*%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478375815
+                    }
+                ]
+            }
+        }
+    },
+    "clarity.ms": {
+        "/": {
+            "CLID": {
+                "name": "CLID",
+                "domain": "www.clarity.ms",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478386888,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757014386.884647,
+                        "expiry": 31536000.884646893,
+                        "value": "7d9660747df445dd8f3a1b2c799652cd.20240904.20250904",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478386886
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,767 @@
+{
+    "casalemedia.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479363759,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015363.757904,
+                        "expiry": 31536000.757904053,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479363758
+                    }
+                ]
+            }
+        }
+    },
+    "gumgum.com": {
+        "/": {
+            "cs": {
+                "name": "cs",
+                "domain": ".gumgum.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479363690,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015363.687729,
+                        "expiry": 31536000.68772888,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479363689
+                    }
+                ]
+            },
+            "vst": {
+                "name": "vst",
+                "domain": ".gumgum.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479363691,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015363.687842,
+                        "expiry": 31536000.687841892,
+                        "value": "u_44ef09c8-13bb-4b2f-a60b-6bff92e689b2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479363690
+                    }
+                ]
+            }
+        }
+    },
+    "marktplaats.nl": {
+        "/": {
+            "FPID": {
+                "name": "FPID",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479363225,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039363.223423,
+                        "expiry": 34560000.223423004,
+                        "value": "FPID2.2.lvxl2PApJAMrgooW3%2FeFJW6t75FcmLl38GCM8CxLzGE%3D.1725479363",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479363223
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.403610945,
+                        "value": "FPID2.2.lvxl2PApJAMrgooW3%2FeFJW6t75FcmLl38GCM8CxLzGE%3D.1725479363",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479363404
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.417887926,
+                        "value": "FPID2.2.lvxl2PApJAMrgooW3%2FeFJW6t75FcmLl38GCM8CxLzGE%3D.1725479363",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479363418
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.67210603,
+                        "value": "FPID2.2.lvxl2PApJAMrgooW3%2FeFJW6t75FcmLl38GCM8CxLzGE%3D.1725479363",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479363672
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.66662407,
+                        "value": "FPID2.2.lvxl2PApJAMrgooW3%2FeFJW6t75FcmLl38GCM8CxLzGE%3D.1725479363",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479368667
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.501046896,
+                        "value": "FPID2.2.lvxl2PApJAMrgooW3%2FeFJW6t75FcmLl38GCM8CxLzGE%3D.1725479363",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479372502
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.50677109,
+                        "value": "FPID2.2.lvxl2PApJAMrgooW3%2FeFJW6t75FcmLl38GCM8CxLzGE%3D.1725479363",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479372507
+                    }
+                ]
+            },
+            "FPLC": {
+                "name": "FPLC",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479363226,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725551363.22346,
+                        "expiry": 72000.22345995903,
+                        "value": "cjzZYN9r3sqp4%2FxVJo3M%2FgsetFqJycqZeKsSG9YQCsDLDsVpLDm1sq0mFxHJcbG2bgetHJq4fZBt98ScXo2mT86ChntP%2FF6FxAJeskpnbn3kkkswF%2Bgu1PoECIN5RQ%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479363225
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 72000.40364694595,
+                        "value": "RIR%2FBIOmaOR69wUuwTcVz%2BjVvKfQpct2baJGkh4KoHHRCQyCrmFgland8fJMYPpK2z9M%2FNpZKGMtvvCEKQhFs9mROXRih5mfIqzb%2Bix7pUT1BjlBf8mm4XO%2FEBgZpw%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479363404
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 72000.41794490814,
+                        "value": "KeEaWtYYnGDR66tmPjnspIxtX5zrIN%2BRhuLJKrKGtBXEVKig5cfuNCGgn1W%2FkHvYZ8icvufVWxaDwOZVYxS%2FFTF%2FqVXCGVaVk5xKFZXDKzEruD%2FVf68oYU24pYsjLg%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479363418
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 72000.67214989662,
+                        "value": "%2BrZWm9Abcq5b%2BBKCrsreyJ2eTTHfiP%2BTLshxy3ToKBtVMaxECjNrLJ8%2FYLACE1Y5kaAvsJqyTl740V4kiMtSq%2B5EW%2F0sXFNAmhra2GgblOAT3W6IR2xNFHrau6WafA%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479363673
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 72000.50113010406,
+                        "value": "%2B4CeFbM4NM5eBsD2a921pPxH30TIBssRLW4b4lbb57AaVDW3ZSnI%2B1pPq%2BBMhKtO7ilmPh1ifLffpcqzfba49GPyi98ptF4LEcYO7TrwJdaUhAV%2Ba9ceZFPw9ewH9g%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479372503
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 72000.50686502457,
+                        "value": "GskrZpbiuYuiae1aYLjYqTTN1rYJwnL7Swz9sZ4lzFpE86ihtS5YEpJuW1aWbrvK7zvMhWE5wncrnkpNo72DkNaGljrS6QpgwE%2F2NMjaKtPIO8dX86Kgvryl%2Fwivdw%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479372508
+                    }
+                ]
+            },
+            "MpConsentState": {
+                "name": "MpConsentState",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479362471,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015362.46954,
+                        "expiry": 31536000.46954012,
+                        "value": "GoogleAnalytics",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479362469
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.192095995,
+                        "value": "AdobeAudienceManager,Google,Facebook,Criteo,GoogleAnalytics",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479372192
+                    }
+                ]
+            },
+            "MpSession": {
+                "name": "MpSession",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479357371,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "22067d62-62a4-4ea2-9150-da9795c9119a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479357361
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "22067d62-62a4-4ea2-9150-da9795c9119a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479358029
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "22067d62-62a4-4ea2-9150-da9795c9119a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479363825
+                    }
+                ]
+            },
+            "__mpx": {
+                "name": "__mpx",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479360746,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741031360.744115,
+                        "expiry": 15552000.744115114,
+                        "value": "47fb18ce-52ec-47a8-979c-fbbaac55cea8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479360745
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479362892,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039362.889625,
+                        "expiry": 34560000.88962507,
+                        "value": "GA1.1.1355772267.1725479363",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479362892
+                    }
+                ]
+            },
+            "_ga_YECTZ2BX2K": {
+                "name": "_ga_YECTZ2BX2K",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479362891,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.895441055,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479362895
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.89561391,
+                        "value": "GS1.1.1725479362.1.0.1725479362.0.0.53851226",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479362896
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.89738703,
+                        "value": "GS1.1.1725479362.1.0.1725479362.0.0.53851226",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479362897
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.89880991,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479362899
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.89907193,
+                        "value": "GS1.1.1725479362.1.0.1725479362.0.0.53851226",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479362899
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.99548411,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479362996
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.995903015,
+                        "value": "GS1.1.1725479362.1.0.1725479362.0.0.53851226",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479362997
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.33347297,
+                        "value": "GS1.1.1725479362.1.0.1725479363.0.0.53851226",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479363334
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.185794115,
+                        "value": "GS1.1.1725479362.1.0.1725479372.0.0.53851226",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479372187
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.99095702,
+                        "value": "GS1.1.1725479362.1.0.1725479373.0.0.53851226",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479373992
+                    }
+                ]
+            },
+            "consentDate": {
+                "name": "consentDate",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479372191,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015372.188041,
+                        "expiry": 31536000.18804097,
+                        "value": "2024-09-04T19:49:31.996Z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479372190
+                    }
+                ]
+            },
+            "consentUUID": {
+                "name": "consentUUID",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479363021,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015363.020595,
+                        "expiry": 31536000.020595074,
+                        "value": "4b604fa0-b5ad-4b2f-b5f3-b38f34448365",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479363021
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.18788004,
+                        "value": "4b604fa0-b5ad-4b2f-b5f3-b38f34448365_35",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479372190
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479372190,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015372.187638,
+                        "expiry": 31536000.187638044,
+                        "value": "CQEbF4AQEbF4AAGABCENBFFsAP_gAEPgACiQI3pB7G7FaWFC8Hp3aLsAMA0XRdBIwsQgAgYAA-AByBOQIIQCkmAQJAWgJCACAAAAIDJBIQAEGAAACUAAAIABAACEAAAAAAIIIABAgAAAQAAIAAAKCAAAAQAIAEBEEBAAmAggABIAWIAAhAAAIQAAAAAAAAABAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAAABAII3wFwAFAAPAAuACQAI4AjgBOADkAHcAQgAiIBHACaAF1AL6AdsBWQC1AF_gMEAYsAyYCN4A4SA4AAuACgAKgAcABBADIANAAeABEACYAFUAPQAfgBCACIAEcAMAAc4A7gB7AD9AMUAcQBIgCjwFIgLYAXmAyQBk46BGAAuACgAKgAcABBADIANAAeABEACYAFUALoAYgA9AB-AEQAJwAUYAwABogDnAHcAPYAfoBFgCOgGKAOIAi8BIgCZAFHgLYAXmAyQBk4DVSEAwABYAFAAqgBiAD0AI4AYAA5wB3AGKAZOA1UlAUAAWABQADgAPAAiABMACqAGIARAAjgBRgDAAMUAi8BIgCjwFsALzAZIAycpAbAAXABQAFQAOAAggBkAGgAPAAiABMACkAFUAMQAfgBEACjAGAANEAc4A_QCLAEdAMUAi8BIgC2AF5gMkAZOVAAgAKLQAgBgADuAAA.f_gAAAAAAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479372188
+                    }
+                ]
+            },
+            "luckynumber": {
+                "name": "luckynumber",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479357374,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015357.359688,
+                        "expiry": 31536000.359688044,
+                        "value": "1252632558",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479357373
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.02821207,
+                        "value": "1252632558",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479358030
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.824706078,
+                        "value": "1252632558",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479363825
+                    }
+                ]
+            },
+            "rbzid": {
+                "name": "rbzid",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479359896,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "gm0WrpGM7+vayQD8eLfZmH/gLTtsNFRj05fzg+CsJGvV1oeaglciUVvK+X+iqml+cyeXq/F3QJpxeh2o8YF5zMAjDnOV2oZsPAFAbgiDLw795aYJvzua0ebtyuC3cykkmx1+f3TGuYZLCkAPhyjDUjoyPERYctBuLC40KytvLIGhy8etRguxKt0SxH5fJL8jQxY8SzF5X/7IT4WM/BIKqJ4iCtyTjcMJlSVYqSVJ64Za0ka8ZoJIf+P4ppAv6Gvq",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479359893
+                    }
+                ]
+            },
+            "rbzsessionid": {
+                "name": "rbzsessionid",
+                "domain": ".marktplaats.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479359898,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "52b0fdcece6f921e89da178ae39b930b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479359896
+                    }
+                ]
+            },
+            "route_65096237_fb4d_4561_b305_7b204b0db8cf": {
+                "name": "route_65096237_fb4d_4561_b305_7b204b0db8cf",
+                "domain": "marktplaats.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479356393,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ceeff8e0ed3927e76e402e16a08c674f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479356384
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "fcddaf03b064de5f7d23d2f570c17686",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479357360
+                    }
+                ]
+            },
+            "MpHpInitialFeed": {
+                "name": "MpHpInitialFeed",
+                "domain": "www.marktplaats.nl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479359328,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479359327
+                    }
+                ]
+            },
+            "cs_fpid": {
+                "name": "cs_fpid",
+                "domain": "www.marktplaats.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479360669,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "jwx4yf5xxchbrjne05svzxatfwg9sb7wz064",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479360667
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479363401,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031363.401211,
+                        "expiry": 15552000.401211023,
+                        "value": "62-LFYr2ph4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479363401
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479363403,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031363.401266,
+                        "expiry": 15552000.401266098,
+                        "value": "CgJVUxIEGgAgVA%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479363401
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479363401,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "5iL6TmGcBK4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479363401
+                    }
+                ]
+            }
+        }
+    },
+    "p.marktplaats.net": {
+        "/": {
+            "client": {
+                "name": "client",
+                "domain": "p.marktplaats.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479360744,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031360.743157,
+                        "expiry": 15552000.74315691,
+                        "value": "facb521e-fad2-0121-1289-da095145e3e5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479360743
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,3080 @@
+{
+    "adform.net": {
+        "/": {
+            "C": {
+                "name": "C",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472873414,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728064873.410533,
+                        "expiry": 2592000.4105329514,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472873411
+                    }
+                ]
+            },
+            "TPC": {
+                "name": "TPC",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472874504,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726077674.500043,
+                        "expiry": 604800.5000429153,
+                        "value": "1725472874546",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472874503
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472874503,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730660474.499884,
+                        "expiry": 5187600.49988389,
+                        "value": "8207771901658066184",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472874501
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5187600.816706896,
+                        "value": "8207771901658066184",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472893817
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472892043,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248892.041745,
+                        "expiry": 7776000.041744947,
+                        "value": "_18r3KzYsbQ0pCABXDY4Kh--iV1a6b9LrYDRLJVAOdGbw8a42RhxEIGBgWilHtz0prIWyiJm1dC3CZy7wpmwNYhI4GJrG353i4TTNsym8Q0.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892042
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.210860014,
+                        "value": "_18r3KzYsbQ0pCABXDY4Kh--iV1a6b9LrYDRLJVAOdGbw8a42RhxEIGBgWilHtz0prIWyiJm1dC3CZy7wpmwNYhI4GJrG353i4TTNsym8Q0.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892212
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.004432917,
+                        "value": "_18r3KzYsbQ0pCABXDY4Kh--iV1a6b9LrYDRLJVAOdGbw8a42RhxEIGBgWilHtz0prIWyiJm1dC3CZy7wpmwNYhI4GJrG353i4TTNsym8Q0.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894004
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472892044,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032892.04184,
+                        "expiry": 34560000.04184008,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892044
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.21110797,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892212
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.004482985,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894005
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472892046,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248892.041877,
+                        "expiry": 7776000.041877031,
+                        "value": "3372847159656435888",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892045
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.211368084,
+                        "value": "3372847159656435888",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892212
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.004509926,
+                        "value": "3372847159656435888",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894005
+                    }
+                ]
+            }
+        }
+    },
+    "ads.pubmatic.com": {
+        "/": {
+            "KCCH": {
+                "name": "KCCH",
+                "domain": ".ads.pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472892871,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725559292,
+                        "expiry": 86400,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892871
+                    }
+                ]
+            },
+            "PMFREQ_ON": {
+                "name": "PMFREQ_ON",
+                "domain": ".ads.pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472897050,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725559297,
+                        "expiry": 86400,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472897049
+                    }
+                ]
+            }
+        }
+    },
+    "adsrvr.org": {
+        "/": {
+            "TDCPM": {
+                "name": "TDCPM",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894351,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008894.350251,
+                        "expiry": 31536000.35025096,
+                        "value": "CAEYBSgCMgsI2LqGhMvFpj0QBTgB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894351
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.522752047,
+                        "value": "CAESFwoIcHVibWF0aWMSCwjE_NXYtMWmPRAFGAUgASgCMgsI2LqGhMvFpj0QBTgB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894523
+                    }
+                ]
+            },
+            "TDID": {
+                "name": "TDID",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894351,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008894.350192,
+                        "expiry": 31536000.35019207,
+                        "value": "738ade6c-2cbe-4357-a000-8dbcc546aaea",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894350
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.522665977,
+                        "value": "738ade6c-2cbe-4357-a000-8dbcc546aaea",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894523
+                    }
+                ]
+            }
+        }
+    },
+    "alza.cz": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".alza.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472873294,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474673.293014,
+                        "expiry": 1800.29301404953,
+                        "value": "OJQHuNpRgl9V2qdlfUTNReg9V1HvIYJG4iK.PpqWquA-1725472873-1.0.1.1-jkM26gX7WAFL_JCzFWvIaABD.67g31fSw40lds.WK_JwJgc4r93hX.oLYItjogk6srZJEXMjp2VUcULInv4kXQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472873294
+                    }
+                ]
+            }
+        }
+    },
+    "amazon-adsystem.com": {
+        "/": {
+            "ad-id": {
+                "name": "ad-id",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894471,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1743530494.470794,
+                        "expiry": 18057600.470793962,
+                        "value": "A4h4UdJ_o0_jlrRp-iNdw3s|t",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894471
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 18057600.70637989,
+                        "value": "A4h4UdJ_o0_jlrRp-iNdw3s",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894707
+                    }
+                ]
+            },
+            "ad-privacy": {
+                "name": "ad-privacy",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894708,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032894.706425,
+                        "expiry": 34560000.70642495,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894707
+                    }
+                ]
+            }
+        }
+    },
+    "analytics.yahoo.com": {
+        "/": {
+            "IDSYNC": {
+                "name": "IDSYNC",
+                "domain": ".analytics.yahoo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472895392,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008895.3896,
+                        "expiry": 31536000.38960004,
+                        "value": "18z8~2kii",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895390
+                    }
+                ]
+            }
+        }
+    },
+    "deepintent.com": {
+        "/": {
+            "CDIPARTNERS": {
+                "name": "CDIPARTNERS",
+                "domain": ".deepintent.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894456,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032894.453858,
+                        "expiry": 34560000.4538579,
+                        "value": "%7B%221%22%3A%2220240904%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894455
+                    }
+                ]
+            },
+            "CDIUSER": {
+                "name": "CDIUSER",
+                "domain": ".deepintent.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894454,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032894.453817,
+                        "expiry": 34560000.45381689,
+                        "value": "di_74798631f1b94e388d982",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894454
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "APC": {
+                "name": "APC",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894120,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741024894.119275,
+                        "expiry": 15552000.119275093,
+                        "value": "AfxxVi54uatnHfLnKL9JbOTY_Gp3UyX4KiQqwA-o4x7Rjq2f-hdwYQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894119
+                    }
+                ]
+            },
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894487,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032894.486546,
+                        "expiry": 34560000.48654604,
+                        "value": "AHWqTUlI_530GRT7ddY2xscsxk3pr_Ja0wSkMMTTfxZR3idZ10gpSXrC2iDBp0Q-2t0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894486
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.487951994,
+                        "value": "AHWqTUmGiHXWT1IGGwKYm2B9ryQQ5TUd7AETP3UzG0v6PthmPgfgiKvHkK3eaeEkZxo",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894488
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894121,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741024894.119339,
+                        "expiry": 15552000.11933899,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894120
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894122,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725473794.119362,
+                        "expiry": 900.11936211586,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894121
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.323606967926,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894324
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.3241748809814,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894324
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.3264141082764,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894326
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472894346,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008894.345448,
+                        "expiry": 31536000.345448017,
+                        "value": "g_surferid~ZtigfgAAVQuY8gAF",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894345
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.559325933,
+                        "value": "g_surferid~ZtigfgAAVQuY8gAF",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894559
+                    }
+                ]
+            }
+        }
+    },
+    "hit.gemius.pl": {
+        "/": {
+            "Gdyn": {
+                "name": "Gdyn",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472896702,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759600896.69875,
+                        "expiry": 34128000.69875002,
+                        "value": "KlGzdMaGQMGGq7Iy5GGMQg9UssGMXP8c25nSGsKpO0gIFRxSG7RrGS6GtoGtFlnGxgGPlexaG0F6Sssa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896700
+                    }
+                ]
+            },
+            "Gdynp": {
+                "name": "Gdynp",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472896414,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759600896.408083,
+                        "expiry": 34128000.40808296,
+                        "value": "1f0bIrICfWqhw_lQrhVpNt0SaNOlgtjQeY.U2Ng3eeD.R7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896412
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.69889903,
+                        "value": "cTUQBKPfP635TnePNuixwb_._cfOdciEFmBsMtVe8Wb.17",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896702
+                    }
+                ]
+            },
+            "Gtest": {
+                "name": "Gtest",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472896412,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726077696.40803,
+                        "expiry": 604800.4080300331,
+                        "value": "KlSVoRaGQMGGq7Iy5GGMQg9UssGMXP8c25nSGsKpO0gIXBG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896411
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472896410,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759600896.407866,
+                        "expiry": 34128000.407866,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896409
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.698259115,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896700
+                    }
+                ]
+            }
+        }
+    },
+    "ipredictive.com": {
+        "/": {
+            "cu": {
+                "name": "cu",
+                "domain": ".ipredictive.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472895550,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008895.547608,
+                        "expiry": 31536000.5476079,
+                        "value": "466f9d1a-3211-4114-8212-77060e58e11a|1725472895637",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895548
+                    }
+                ]
+            }
+        }
+    },
+    "liadm.com": {
+        "/": {
+            "lidid": {
+                "name": "lidid",
+                "domain": ".liadm.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894686,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032894.680124,
+                        "expiry": 34560000.680124044,
+                        "value": "325c6817-651e-40a5-a261-cfafe496ed58",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894685
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.895833015,
+                        "value": "325c6817-651e-40a5-a261-cfafe496ed58",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894897
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.14253807,
+                        "value": "325c6817-651e-40a5-a261-cfafe496ed58",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896143
+                    }
+                ]
+            }
+        }
+    },
+    "novinky.cz": {
+        "/": {
+            "__cw_snc": {
+                "name": "__cw_snc",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472858681,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725476458.678015,
+                        "expiry": 3600.6780149936676,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472858679
+                    }
+                ]
+            },
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472895653,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759600895,
+                        "expiry": 34128000,
+                        "value": "Lax2bOdN7_beuXylyrKCIiP6Ksdf5FDemv4SEl.4Cl7.j7|1725472895|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472895651
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472895047,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760032895.045135,
+                        "expiry": 34560000.04513502,
+                        "value": "GA1.1.1444336236.1725472895",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472895046
+                    }
+                ]
+            },
+            "_ga_QVHQW2JSLR": {
+                "name": "_ga_QVHQW2JSLR",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472895046,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760032895.044938,
+                        "expiry": 34560000.04493809,
+                        "value": "GS1.1.1725472895.1.0.1725472895.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472895045
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.05216098,
+                        "value": "GS1.1.1725472895.1.0.1725472897.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472897052
+                    }
+                ]
+            },
+            "cmphitorder": {
+                "name": "cmphitorder",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725472870919,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008870,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472870918
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472871831
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472891795
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892102
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892416
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892868
+                    }
+                ]
+            },
+            "cmpreferrer": {
+                "name": "cmpreferrer",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472891796,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008891,
+                        "expiry": 31536000,
+                        "value": "https://www.novinky.cz",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472891795
+                    }
+                ]
+            },
+            "cmprefreshcount": {
+                "name": "cmprefreshcount",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472870606,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008870,
+                        "expiry": 31536000,
+                        "value": "0|svk3qekhd4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472870605
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1|svk3qekhd4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472891796
+                    }
+                ]
+            },
+            "cmpsessid": {
+                "name": "cmpsessid",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472870605,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008870,
+                        "expiry": 31536000,
+                        "value": "svk3qekhd4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472870604
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "svk3qekhd4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472891794
+                    }
+                ]
+            },
+            "cmptestcookie": {
+                "name": "cmptestcookie",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472872136,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008872,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472872135
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892822
+                    }
+                ]
+            },
+            "cw_referrer": {
+                "name": "cw_referrer",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725472890077,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725472950.072898,
+                        "expiry": 60.07289791107178,
+                        "value": "https%3A%2F%2Fwww.novinky.cz",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472890076
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472890078,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728064890.073028,
+                        "expiry": 2592000.0730280876,
+                        "value": "CQEbF4AQEbF4AD3ACLCSBFFsAP_gAEPgAATIJVwQgAAwAKAAsACAAFQALgAZAA6ACAAFAAKgAWgAyABoADmAIgAigBHACSAEwAJwAVQAtgBfgDCAMUAgACEgEQARQAjoBOAE6AL4AaQA4gB3ADxAH6AQgAkwBOACegFIAKyAWYAuoBgQDTgG0APkAjUBHQCaQE2gJ0AVIAtQBbgC8wGMgMkAZcA0oBqYDugHfgQHAhcBGYCTQEqwQugRAALAAqABcAEAAMgAaABEACOAEwAKoAYgA_ACEgEQARIAjgBOADLAGaAO4AfoBCACLAF1ANoAm0BUgC1AFuALzAYIAyQBlwDUwIXAAAAA.YAAAAAAAAWAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472890077
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34214400,
+                        "value": "CQEbF4AQEbF4AD3ACLCSBFFsAP_gAEPgAATIJVwQgAAwAKAAsACAAFQALgAZAA6ACAAFAAKgAWgAyABoADmAIgAigBHACSAEwAJwAVQAtgBfgDCAMUAgACEgEQARQAjoBOAE6AL4AaQA4gB3ADxAH6AQgAkwBOACegFIAKyAWYAuoBgQDTgG0APkAjUBHQCaQE2gJ0AVIAtQBbgC8wGMgMkAZcA0oBqYDugHfgQHAhcBGYCTQEqwQugRAALAAqABcAEAAMgAaABEACOAEwAKoAYgA_ACEgEQARIAjgBOADLAGaAO4AfoBCACLAF1ANoAm0BUgC1AFuALzAYIAyQBlwDUwIXAAAAA.YAAAAAAAAWAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892845
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34214400,
+                        "value": "CQEbF4AQEbF4AD3ACLCSBFFsAP_gAEPgAATIJVwQgAAwAKAAsACAAFQALgAZAA6ACAAFAAKgAWgAyABoADmAIgAigBHACSAEwAJwAVQAtgBfgDCAMUAgACEgEQARQAjoBOAE6AL4AaQA4gB3ADxAH6AQgAkwBOACegFIAKyAWYAuoBgQDTgG0APkAjUBHQCaQE2gJ0AVIAtQBbgC8wGMgMkAZcA0oBqYDugHfgQHAhcBGYCTQEqwQugRAALAAqABcAEAAMgAaABEACOAEwAKoAYgA_ACEgEQARIAjgBOADLAGaAO4AfoBCACLAF1ANoAm0BUgC1AFuALzAYIAyQBlwDUwIXAAAAA.YAAAAAAAAWAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892860
+                    }
+                ]
+            },
+            "lps": {
+                "name": "lps",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472869494,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728151269.489647,
+                        "expiry": 2678400.4896469116,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZtigZQ.LpOoTmJwSUr3F8yRBoKPgGoaO08",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472869493
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.1122529507,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZtigZg.ofVGooNnV400fIj1LTHFhB74G7w",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472870113
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.678258896,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.Ztigbg.B1BdXgXNygjNAPbJtB7vxLst1Bc",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472878679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.6859850883,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.Ztigbg.B1BdXgXNygjNAPbJtB7vxLst1Bc",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472878688
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.3065071106,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZtigfA.3RN9fsnYruREFNHQwS0aF4Tcn94",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472892308
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.353338003,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZtigfA.3RN9fsnYruREFNHQwS0aF4Tcn94",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472892356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.5437660217,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZtigfQ.8KH_5I6YoacLfYtsRuhQWsUNPyE",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472893544
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.986143112,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.Ztigfw.i_bdC5YoE8l2z5F7vY4bFe4nXAU",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472894986
+                    }
+                ]
+            },
+            "sid": {
+                "name": "sid",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472891718,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725732091,
+                        "expiry": 259200,
+                        "value": "id=8858532619803386353|t=1725472871.073|te=1725472891.760|c=116F431799FC7F76FC34855CA32229BD",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472891717
+                    }
+                ]
+            },
+            "szncmpone": {
+                "name": "szncmpone",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472890076,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728064890.072815,
+                        "expiry": 2592000.0728149414,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472890074
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892846
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892861
+                    }
+                ]
+            },
+            "szncsr": {
+                "name": "szncsr",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472890566,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1727892090.563361,
+                        "expiry": 2419200.5633609295,
+                        "value": "1725472890",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472890564
+                    }
+                ]
+            },
+            "udid": {
+                "name": "udid",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472891409,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728064891,
+                        "expiry": 2592000,
+                        "value": "lebo05RXMHImrspMQM30_3_W_l_-KUaz@1725472891408@1725472891408",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472891409
+                    }
+                ]
+            },
+            "user-flags": {
+                "name": "user-flags",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472869489,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032869.485998,
+                        "expiry": 34560000.485997915,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472869487
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.489567995,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472869493
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.11221099,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472870112
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.67817211,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472878679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.685894966,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472878688
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.306406975,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472892308
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.35327101,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472892355
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.54369211,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472893544
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.98609209,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472894986
+                    }
+                ]
+            },
+            "last-redirect": {
+                "name": "last-redirect",
+                "domain": ".www.novinky.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472856387,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725473756.37473,
+                        "expiry": 900.3747301101685,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472856377
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.5225439071655,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472888524
+                    }
+                ]
+            }
+        }
+    },
+    "pippio.com": {
+        "/": {
+            "did": {
+                "name": "did",
+                "domain": ".pippio.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472896805,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008896.80123,
+                        "expiry": 31536000.801229954,
+                        "value": "q1UYzUMrV6yrB87L",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896803
+                    }
+                ]
+            },
+            "didts": {
+                "name": "didts",
+                "domain": ".pippio.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472896806,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008896.801384,
+                        "expiry": 31536000.801383972,
+                        "value": "1725472896",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896805
+                    }
+                ]
+            },
+            "nnls": {
+                "name": "nnls",
+                "domain": ".pippio.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472896808,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730656896.801463,
+                        "expiry": 5184000.801462889,
+                        "value": "",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896807
+                    }
+                ]
+            },
+            "pxrc": {
+                "name": "pxrc",
+                "domain": ".pippio.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472896809,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730656896.801535,
+                        "expiry": 5184000.801534891,
+                        "value": "CAA=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896808
+                    }
+                ]
+            }
+        }
+    },
+    "pubmatic.com": {
+        "/": {
+            "DPSync4": {
+                "name": "DPSync4",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472893518,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248893.510594,
+                        "expiry": 7776000.510593891,
+                        "value": "1726012800%3A265_252%7C1726617600%3A263_201",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472893517
+                    }
+                ]
+            },
+            "KADUSERCOOKIE": {
+                "name": "KADUSERCOOKIE",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472893512,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008893.510164,
+                        "expiry": 31536000.510164022,
+                        "value": "BF7F78EA-8E56-4569-97B3-8A6E06425F8B",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472893511
+                    }
+                ]
+            },
+            "KRTBCOOKIE_107": {
+                "name": "KRTBCOOKIE_107",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472894881,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248894.880133,
+                        "expiry": 7776000.880132914,
+                        "value": "1471-uid:NkxdrIb61SLUjY5&KRTB&23421-uid:NkxdrIb61SLUjY5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894880
+                    }
+                ]
+            },
+            "KRTBCOOKIE_153": {
+                "name": "KRTBCOOKIE_153",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894962,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248894.951779,
+                        "expiry": 7776000.951778889,
+                        "value": "19420-MGN6bmdlKTMrYyk1MGIzYDRieGIrYi5hNTR_sDos&KRTB&22979-MGN6bmdlKTMrYyk1MGIzYDRieGIrYi5hNTR_sDos&KRTB&23462-MGN6bmdlKTMrYyk1MGIzYDRieGIrYi5hNTR_sDos",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894961
+                    }
+                ]
+            },
+            "KRTBCOOKIE_188": {
+                "name": "KRTBCOOKIE_188",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472895884,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248895.881343,
+                        "expiry": 7776000.881342888,
+                        "value": "3189-dc99a7ff-d32a-48bf-a26b-8636d73f6aff-66d8a07f-5553&KRTB&23418-dc99a7ff-d32a-48bf-a26b-8636d73f6aff-66d8a07f-5553",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895883
+                    }
+                ]
+            },
+            "KRTBCOOKIE_18": {
+                "name": "KRTBCOOKIE_18",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894963,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248894.952663,
+                        "expiry": 7776000.952662945,
+                        "value": "22947-1977432103082731241&KRTB&23628-1977432103082731241",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894962
+                    }
+                ]
+            },
+            "KRTBCOOKIE_22": {
+                "name": "KRTBCOOKIE_22",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472895478,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728064895.475891,
+                        "expiry": 2592000.4758911133,
+                        "value": "14911-3375521423312055324&KRTB&23150-3375521423312055324&KRTB&23527-3375521423312055324&KRTB&23629-3375521423312055324",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895477
+                    }
+                ]
+            },
+            "KRTBCOOKIE_279": {
+                "name": "KRTBCOOKIE_279",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472895718,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728064895.71391,
+                        "expiry": 2592000.713910103,
+                        "value": "22890-466f9d1a-3211-4114-8212-77060e58e11a&KRTB&23011-466f9d1a-3211-4114-8212-77060e58e11a&KRTB&23355-466f9d1a-3211-4114-8212-77060e58e11a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895716
+                    }
+                ]
+            },
+            "KRTBCOOKIE_377": {
+                "name": "KRTBCOOKIE_377",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894687,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248894.684544,
+                        "expiry": 7776000.684544086,
+                        "value": "6810-738ade6c-2cbe-4357-a000-8dbcc546aaea&KRTB&22918-738ade6c-2cbe-4357-a000-8dbcc546aaea&KRTB&22926-738ade6c-2cbe-4357-a000-8dbcc546aaea&KRTB&23031-738ade6c-2cbe-4357-a000-8dbcc546aaea",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894687
+                    }
+                ]
+            },
+            "KRTBCOOKIE_57": {
+                "name": "KRTBCOOKIE_57",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894640,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248894.639354,
+                        "expiry": 7776000.639353991,
+                        "value": "22776-3372847159656435888&KRTB&23339-3372847159656435888",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894639
+                    }
+                ]
+            },
+            "KRTBCOOKIE_860": {
+                "name": "KRTBCOOKIE_860",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894843,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248894.84149,
+                        "expiry": 7776000.84149003,
+                        "value": "16335-DGQvgHL9VmxwPC63Gj7_rbmYQ-U&KRTB&23334-DGQvgHL9VmxwPC63Gj7_rbmYQ-U&KRTB&23417-DGQvgHL9VmxwPC63Gj7_rbmYQ-U&KRTB&23426-DGQvgHL9VmxwPC63Gj7_rbmYQ-U",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894842
+                    }
+                ]
+            },
+            "KTPCACOOKIE": {
+                "name": "KTPCACOOKIE",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472892871,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248892,
+                        "expiry": 7776000,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892870
+                    }
+                ]
+            },
+            "PugT": {
+                "name": "PugT",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894642,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728064894.639415,
+                        "expiry": 2592000.6394150257,
+                        "value": "1725472894",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894641
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.684595108,
+                        "value": "1725472894",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894687
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.841593027,
+                        "value": "1725472894",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894843
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.880199909,
+                        "value": "1725472894",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894883
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.9536709785,
+                        "value": "1725472894",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894963
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.476119995,
+                        "value": "1725472895",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895479
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.714149952,
+                        "value": "1725472895",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895718
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.881669998,
+                        "value": "1725472895",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895885
+                    }
+                ]
+            },
+            "SPugT": {
+                "name": "SPugT",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472896042,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728064896.039417,
+                        "expiry": 2592000.0394170284,
+                        "value": "1725472895",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896040
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.681438923,
+                        "value": "1725472896",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896683
+                    }
+                ]
+            },
+            "SyncRTB4": {
+                "name": "SyncRTB4",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472893521,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248893.511134,
+                        "expiry": 7776000.511133909,
+                        "value": "1726617600%3A21_13_54_71_22_233_5_104_55_46_250_8_220_3_231_166%7C1726012800%3A15_2_223%7C1726272000%3A63",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472893520
+                    }
+                ]
+            },
+            "chkChromeAb67Sec": {
+                "name": "chkChromeAb67Sec",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472893514,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248893.510295,
+                        "expiry": 7776000.510294914,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472893513
+                    }
+                ]
+            },
+            "pi": {
+                "name": "pi",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472893516,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725559293.510546,
+                        "expiry": 86400.51054596901,
+                        "value": "49307:2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472893515
+                    }
+                ]
+            }
+        }
+    },
+    "quantserve.com": {
+        "/": {
+            "mc": {
+                "name": "mc",
+                "domain": ".quantserve.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894315,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759687294.313405,
+                        "expiry": 34214400.31340504,
+                        "value": "66d8a07e-67c67-627f4-7073a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894314
+                    }
+                ]
+            },
+            "sp": {
+                "name": "sp",
+                "domain": ".quantserve.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894317,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248894.313469,
+                        "expiry": 7776000.313468933,
+                        "value": "CggIiQ0SAxCrDQ==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894316
+                    }
+                ]
+            }
+        }
+    },
+    "rezync.com": {
+        "/": {
+            "zync-uuid": {
+                "name": "zync-uuid",
+                "domain": ".rezync.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472895582,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759168895.578679,
+                        "expiry": 33696000.578679085,
+                        "value": "bb01b3ed-3abc-4e3e-b01d-080c5ea4b7e7:1725472895.676674",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895579
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.92705393,
+                        "value": "bb01b3ed-3abc-4e3e-b01d-080c5ea4b7e7:1725472895.676674",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895928
+                    }
+                ]
+            }
+        }
+    },
+    "rfihub.com": {
+        "/": {
+            "eud": {
+                "name": "eud",
+                "domain": ".rfihub.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894319,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759168894.315688,
+                        "expiry": 33696000.315687895,
+                        "value": "H4sIAAAAAAAA_9vEyGtobmRqYm5kYWliYmQJACfjEuUQAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894318
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.7433629,
+                        "value": "H4sIAAAAAAAA_9vEyGtobmRqYm5kYWliYmQ5SdgsKcnAMMk4NUXXODEpWdck1ThVFyiSomtgYZBsmppokmSeam4F12SqZ2ZuZmZuMksYYZCphanJIlS-GQBsDjDcaQAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895746
+                    }
+                ]
+            },
+            "euds": {
+                "name": "euds",
+                "domain": ".rfihub.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472895746,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "H4sIAAAAAAAA_w3IyxWAIAwEwIvtxBfIZ9FuCGwjVK5znHNllbYybrFZS5xG-WeLDl3B6QXibejh6OOJO5EJ_wAPlD0_OQAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895744
+                    }
+                ]
+            },
+            "rud": {
+                "name": "rud",
+                "domain": ".rfihub.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894318,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759168894.315634,
+                        "expiry": 33696000.31563401,
+                        "value": "H4sIAAAAAAAA_-MSNrQ0NzcxNjI0MDawMDI3NjQyMRTiM9RNynO3MMquMMxwLIgHAOZ86oolAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894317
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.74327803,
+                        "value": "H4sIAAAAAAAA_-MSNrQ0NzcxNjI0MDawMDI3NjQyMRTiM9RNynO3MMquMMxwLIgHAOZ86oolAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895746
+                    }
+                ]
+            },
+            "ruds": {
+                "name": "ruds",
+                "domain": ".rfihub.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894319,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "H4sIAAAAAAAA_-MSNrQ0NzcxNjI0MDawMDI3NjQyMRTiM9RNynO3MMquMMxwLIgHAOZ86oolAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894319
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "H4sIAAAAAAAA_-MSNrQ0NzcxNjI0MDawMDI3NjQyMRTiM9RNynO3MMquMMxwLIgHAOZ86oolAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895747
+                    }
+                ]
+            }
+        }
+    },
+    "seznam.cz": {
+        "/": {
+            "APNUID": {
+                "name": "APNUID",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472892826,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1735840892,
+                        "expiry": 10368000,
+                        "value": "3372847159656435888",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892825
+                    }
+                ]
+            },
+            "KADUSERCOOKIE": {
+                "name": "KADUSERCOOKIE",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894287,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1735840894,
+                        "expiry": 10368000,
+                        "value": "BF7F78EA-8E56-4569-97B3-8A6E06425F8B",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894286
+                    }
+                ]
+            },
+            "cmphitorder": {
+                "name": "cmphitorder",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472882295,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008882,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472882294
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472883235
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472884208
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472886467
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472886774
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472887589
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472887903
+                    }
+                ]
+            },
+            "cmpreferrer": {
+                "name": "cmpreferrer",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472881979,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008881,
+                        "expiry": 31536000,
+                        "value": "https://www.novinky.cz/",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472881978
+                    }
+                ]
+            },
+            "cmprefreshcount": {
+                "name": "cmprefreshcount",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725472881979,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008881,
+                        "expiry": 31536000,
+                        "value": "0|cr7o0i1dmk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472881979
+                    }
+                ]
+            },
+            "cmpsessid": {
+                "name": "cmpsessid",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472881978,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008881,
+                        "expiry": 31536000,
+                        "value": "cr7o0i1dmk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472881977
+                    }
+                ]
+            },
+            "cw_return_url": {
+                "name": "cw_return_url",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472883235,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008883,
+                        "expiry": 31536000,
+                        "value": "https://www.novinky.cz/?cwreturn=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472883234
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725472886140,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759687286,
+                        "expiry": 34214400,
+                        "value": "CQEbF4AQEbF4AD3ACLCSBFFsAP_gAEPgAATIJVwQgAAwAKAAsACAAFQALgAZAA6ACAAFAAKgAWgAyABoADmAIgAigBHACSAEwAJwAVQAtgBfgDCAMUAgACEgEQARQAjoBOAE6AL4AaQA4gB3ADxAH6AQgAkwBOACegFIAKyAWYAuoBgQDTgG0APkAjUBHQCaQE2gJ0AVIAtQBbgC8wGMgMkAZcA0oBqYDugHfgQHAhcBGYCTQEqwQugRAALAAqABcAEAAMgAaABEACOAEwAKoAYgA_ACEgEQARIAjgBOADLAGaAO4AfoBCACLAF1ANoAm0BUgC1AFuALzAYIAyQBlwDUwIXAAAAA.YAAAAAAAAWAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472886140
+                    }
+                ]
+            },
+            "sid": {
+                "name": "sid",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472871033,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728072071.029405,
+                        "expiry": 2599200.029405117,
+                        "value": "id=8858532619803386353|t=1725472871.073|te=1725472871.073|c=C2338060B6AF3528A376088FD762A69C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472871030
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2599200.9807560444,
+                        "value": "id=8858532619803386353|t=1725472871.073|te=1725472874.025|c=5F0570B7C9F7A845C3DE8D236D834008",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472873982
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2599200.5197610855,
+                        "value": "id=8858532619803386353|t=1725472871.073|te=1725472887.564|c=13FDDAC433832F3CC7A87935D541B229",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472887521
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2599200.4940690994,
+                        "value": "id=8858532619803386353|t=1725472871.073|te=1725472891.532|c=CECD734E3BDA0DBFD0E37C9EA1BD9660",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472891494
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2599200.712946892,
+                        "value": "id=8858532619803386353|t=1725472871.073|te=1725472891.760|c=116F431799FC7F76FC34855CA32229BD",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472891714
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2599200.0574240685,
+                        "value": "id=8858532619803386353|t=1725472871.073|te=1725472892.101|c=CC642FED1F38CB054EB4E3D00146F6C9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892058
+                    }
+                ]
+            },
+            "szncmpone": {
+                "name": "szncmpone",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725472886141,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008886,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472886141
+                    }
+                ]
+            }
+        }
+    },
+    "simpli.fi": {
+        "/": {
+            "suid": {
+                "name": "suid",
+                "domain": ".simpli.fi",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894375,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757095294.373942,
+                        "expiry": 31622400.3739419,
+                        "value": "03B6805BAE5B48D4B4F5BCFD8EDAD97F",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894374
+                    }
+                ]
+            }
+        }
+    },
+    "sitescout.com": {
+        "/": {
+            "_ssuma": {
+                "name": "_ssuma",
+                "domain": ".sitescout.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472895721,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728064895.717272,
+                        "expiry": 2592000.717272043,
+                        "value": "eyI0NSI6MTcyNTQ3Mjg5NTgzNX0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895719
+                    }
+                ]
+            },
+            "ssi": {
+                "name": "ssi",
+                "domain": ".sitescout.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472895561,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008896.55885,
+                        "expiry": 31536001.55885005,
+                        "value": "dc99a7ff-d32a-48bf-a26b-8636d73f6aff#1725472895679",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895559
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.71693492,
+                        "value": "dc99a7ff-d32a-48bf-a26b-8636d73f6aff#1725472895679",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895719
+                    }
+                ]
+            }
+        }
+    },
+    "srv.stackadapt.com": {
+        "/": {
+            "sa-user-id-v2": {
+                "name": "sa-user-id-v2",
+                "domain": ".srv.stackadapt.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894684,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008894.676633,
+                        "expiry": 31536000.67663288,
+                        "value": "s%3ADGQvgHL9VmxwPC63Gj7_rbmYQ-U.lATmnp60eDcBSJf5%2FeYyiPa4Lr55Na15p9VFfpj3IQM",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894683
+                    }
+                ]
+            },
+            "sa-user-id-v3": {
+                "name": "sa-user-id-v3",
+                "domain": ".srv.stackadapt.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894685,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008894.676655,
+                        "expiry": 31536000.676655054,
+                        "value": "s%3AAQAKICFCZbAbgweYulMs2T6m3QOUIPcqSVVfw-p0dhray3ZhEMABGAQg_sDitgYwAToEwhEMFEIEtzrB_g.HQJR1fZ0aaHbDGXXI5EM5cT8pGtBfTdr59KtiWVyjQc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894685
+                    }
+                ]
+            },
+            "sa-user-id": {
+                "name": "sa-user-id",
+                "domain": ".srv.stackadapt.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894682,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008894.676612,
+                        "expiry": 31536000.6766119,
+                        "value": "s%3A0-0c642f80-72fd-566c-703c-2eb71a3effad.6y3GU1vJVqo75PJYqiyyJf9qZ5l0zASmgD4CJu5f7Eg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894681
+                    }
+                ]
+            }
+        }
+    },
+    "szn.cz": {
+        "/": {
+            "lps": {
+                "name": "lps",
+                "domain": ".szn.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472858075,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728151258.061127,
+                        "expiry": 2678400.0611269474,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZtigWg.yvBzSyYd5GKy4OLseDGSrM78auI",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472858073
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.445346117,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZtigeQ.L9hJlA8exL4XIzxbMnfJwBYWCGg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472889447
+                    }
+                ]
+            },
+            "user-flags": {
+                "name": "user-flags",
+                "domain": ".szn.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472858072,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032858.061026,
+                        "expiry": 34560000.0610261,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472858062
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.44522905,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472889446
+                    }
+                ]
+            }
+        }
+    },
+    "turn.com": {
+        "/": {
+            "uid": {
+                "name": "uid",
+                "domain": ".turn.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472895314,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741024896.312567,
+                        "expiry": 15552001.312566996,
+                        "value": "3375521423312055324",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895313
+                    }
+                ]
+            }
+        }
+    },
+    "w55c.net": {
+        "/": {
+            "matchpubmatic": {
+                "name": "matchpubmatic",
+                "domain": ".w55c.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472894716,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728064894.715843,
+                        "expiry": 2592000.7158429623,
+                        "value": "5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894716
+                    }
+                ]
+            },
+            "wfivefivec": {
+                "name": "wfivefivec",
+                "domain": ".w55c.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894537,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759636895.536162,
+                        "expiry": 34164001.5361619,
+                        "value": "NkxdrIb61SLUjY5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894536
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.71578503,
+                        "value": "NkxdrIb61SLUjY5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894716
+                    }
+                ]
+            }
+        }
+    },
+    "yahoo.com": {
+        "/": {
+            "A3": {
+                "name": "A3",
+                "domain": ".yahoo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472895210,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757030495.208511,
+                        "expiry": 31557600.208511114,
+                        "value": "d=AQABBH-g2GYCEGvNdGHCj-z-XqGutrGmplwFEgEBAQHx2WbiZtwr0iMA_eMAAA&S=AQAAAumH__n0or_QLD37gGbrFOU",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895209
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31557600.227751017,
+                        "value": "d=AQABBH-g2GYCEDBeZKuo2lPputH41hssdrQFEgEBAQHx2WbiZgAAAAAA_eMAAA&S=AQAAAh-9F3XmRgLih1ivhwAwOkc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895228
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31557600.389698982,
+                        "value": "d=AQABBH-g2GYCEGvNdGHCj-z-XqGutrGmplwFEgEBAQHx2WbiZtwr0iMA_eMAAA&S=AQAAAumH__n0or_QLD37gGbrFOU",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895392
+                    }
+                ]
+            }
+        }
+    },
+    "cmp.seznam.cz": {
+        "/": {
+            "intCMPCookie-v2": {
+                "name": "intCMPCookie-v2",
+                "domain": "cmp.seznam.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472886467,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008886,
+                        "expiry": 31536000,
+                        "value": "CQEbF4AQEbF4AD3ACLCSBFFsAP_gAEPgAATIJVwQgAAwAKAAsACAAFQALgAZAA6ACAAFAAKgAWgAyABoADmAIgAigBHACSAEwAJwAVQAtgBfgDCAMUAgACEgEQARQAjoBOAE6AL4AaQA4gB3ADxAH6AQgAkwBOACegFIAKyAWYAuoBgQDTgG0APkAjUBHQCaQE2gJ0AVIAtQBbgC8wGMgMkAZcA0oBqYDugHfgQHAhcBGYCTQEqwQugRAALAAqABcAEAAMgAaABEACOAEwAKoAYgA_ACEgEQARIAjgBOADLAGaAO4AfoBCACLAF1ANoAm0BUgC1AFuALzAYIAyQBlwDUwIXAAAAA.YAAAAAAAAWAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472886462
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "CQEbF4AQEbF4AD3ACLCSBFFsAP_gAEPgAATIJVwQgAAwAKAAsACAAFQALgAZAA6ACAAFAAKgAWgAyABoADmAIgAigBHACSAEwAJwAVQAtgBfgDCAMUAgACEgEQARQAjoBOAE6AL4AaQA4gB3ADxAH6AQgAkwBOACegFIAKyAWYAuoBgQDTgG0APkAjUBHQCaQE2gJ0AVIAtQBbgC8wGMgMkAZcA0oBqYDugHfgQHAhcBGYCTQEqwQugRAALAAqABcAEAAMgAaABEACOAEwAKoAYgA_ACEgEQARIAjgBOADLAGaAO4AfoBCACLAF1ANoAm0BUgC1AFuALzAYIAyQBlwDUwIXAAAAA.YAAAAAAAAWAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472886773
+                    }
+                ]
+            }
+        }
+    },
+    "h.seznam.cz": {
+        "/": {
+            "intCMPCookie-v2": {
+                "name": "intCMPCookie-v2",
+                "domain": "h.seznam.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472892850,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008892,
+                        "expiry": 31536000,
+                        "value": "CQEbF4AQEbF4AD3ACLCSBFFsAP_gAEPgAATIJVwQgAAwAKAAsACAAFQALgAZAA6ACAAFAAKgAWgAyABoADmAIgAigBHACSAEwAJwAVQAtgBfgDCAMUAgACEgEQARQAjoBOAE6AL4AaQA4gB3ADxAH6AQgAkwBOACegFIAKyAWYAuoBgQDTgG0APkAjUBHQCaQE2gJ0AVIAtQBbgC8wGMgMkAZcA0oBqYDugHfgQHAhcBGYCTQEqwQugRAALAAqABcAEAAMgAaABEACOAEwAKoAYgA_ACEgEQARIAjgBOADLAGaAO4AfoBCACLAF1ANoAm0BUgC1AFuALzAYIAyQBlwDUwIXAAAAA.YAAAAAAAAWAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892849
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "CQEbF4AQEbF4AD3ACLCSBFFsAP_gAEPgAATIJVwQgAAwAKAAsACAAFQALgAZAA6ACAAFAAKgAWgAyABoADmAIgAigBHACSAEwAJwAVQAtgBfgDCAMUAgACEgEQARQAjoBOAE6AL4AaQA4gB3ADxAH6AQgAkwBOACegFIAKyAWYAuoBgQDTgG0APkAjUBHQCaQE2gJ0AVIAtQBbgC8wGMgMkAZcA0oBqYDugHfgQHAhcBGYCTQEqwQugRAALAAqABcAEAAMgAaABEACOAEwAKoAYgA_ACEgEQARIAjgBOADLAGaAO4AfoBCACLAF1ANoAm0BUgC1AFuALzAYIAyQBlwDUwIXAAAAA.YAAAAAAAAWAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472892863
+                    }
+                ]
+            }
+        }
+    },
+    "i.liadm.com": {
+        "/s": {
+            "_li_ss": {
+                "name": "_li_ss",
+                "domain": "i.liadm.com",
+                "path": "/s",
+                "current_label": 3,
+                "label_ts": 1725472894897,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728064894.895784,
+                        "expiry": 2592000.895783901,
+                        "value": "CggKBgiiARDmGA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894896
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.1424040794,
+                        "value": "CggKBgiiARDmGA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472896143
+                    }
+                ]
+            }
+        }
+    },
+    "live.rezync.com": {
+        "/": {
+            "sd-session-id": {
+                "name": "sd-session-id",
+                "domain": "live.rezync.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472895584,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759168895.578775,
+                        "expiry": 33696000.57877493,
+                        "value": "eyJfcGVybWFuZW50Ijp0cnVlLCJzZXNzaW9uX2lkIjoiYmIwMWIzZWQtM2FiYy00ZTNlLWIwMWQtMDgwYzVlYTRiN2U3OjE3MjU0NzI4OTUuNjc2Njc0In0.Ztigfw.aXqEOiWTTSkDZ3h38fIO69E1360",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895582
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.92723894,
+                        "value": ".eJwNyksOwyAMANG7eB0qwAYTLhPx8QK1oVVIN41y97Kcp7lg-8ixpy79hHgeX1mgvNqsAfGC0X67PCGCWZkJrdGog2U0lgzcCwwZo7371up8ctYmo1SFKRdFgqKmVKWDLk4SZRaOhq0jtmF1D8_eM8H9B6s0Jj0.ZtiggA.ut-z4AeYqhNgJMNWKwdvWcDABSU",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472895929
+                    }
+                ]
+            }
+        }
+    },
+    "sync.srv.stackadapt.com": {
+        "/": {
+            "sa-user-id-v2": {
+                "name": "sa-user-id-v2",
+                "domain": "sync.srv.stackadapt.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894683,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008894.676623,
+                        "expiry": 31536000.676623106,
+                        "value": "s%3ADGQvgHL9VmxwPC63Gj7_rbmYQ-U.lATmnp60eDcBSJf5%2FeYyiPa4Lr55Na15p9VFfpj3IQM",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894683
+                    }
+                ]
+            },
+            "sa-user-id-v3": {
+                "name": "sa-user-id-v3",
+                "domain": "sync.srv.stackadapt.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894685,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008894.676645,
+                        "expiry": 31536000.67664504,
+                        "value": "s%3AAQAKICFCZbAbgweYulMs2T6m3QOUIPcqSVVfw-p0dhray3ZhEMABGAQg_sDitgYwAToEwhEMFEIEtzrB_g.HQJR1fZ0aaHbDGXXI5EM5cT8pGtBfTdr59KtiWVyjQc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894684
+                    }
+                ]
+            },
+            "sa-user-id": {
+                "name": "sa-user-id",
+                "domain": "sync.srv.stackadapt.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472894679,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757008894.67658,
+                        "expiry": 31536000.676579952,
+                        "value": "s%3A0-0c642f80-72fd-566c-703c-2eb71a3effad.6y3GU1vJVqo75PJYqiyyJf9qZ5l0zASmgD4CJu5f7Eg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472894678
+                    }
+                ]
+            }
+        }
+    }
+}

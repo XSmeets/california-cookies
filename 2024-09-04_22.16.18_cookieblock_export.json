@@ -1,0 +1,1352 @@
+{
+    "flashtalking.com": {
+        "/": {
+            "flashtalkingad1": {
+                "name": "flashtalkingad1",
+                "domain": ".flashtalking.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480964717,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759644964.71646,
+                        "expiry": 34164000.71645999,
+                        "value": "\"GUID=6091D2D69F83AC|segment=(y3c-m:c14352_homepage)\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480964716
+                    }
+                ]
+            }
+        }
+    },
+    "force.com": {
+        "/": {
+            "BrowserId": {
+                "name": "BrowserId",
+                "domain": ".force.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480963819,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016963.817555,
+                        "expiry": 31536000.81755495,
+                        "value": "go9ECGr6Ee-tvcdhm0L6MQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480963818
+                    }
+                ]
+            }
+        }
+    },
+    "victoriassecret.com": {
+        "/": {
+            "AMCV_17AE582658A4D7F70A495D43%40AdobeOrg": {
+                "name": "AMCV_17AE582658A4D7F70A495D43%40AdobeOrg",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480963930,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760040963.929196,
+                        "expiry": 34560000.92919588,
+                        "value": "-1124106680%7CMCIDTS%7C19971%7CvVersion%7C5.2.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963930
+                    }
+                ]
+            },
+            "CONSENTMGR": {
+                "name": "CONSENTMGR",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480963662,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016963,
+                        "expiry": 31536000,
+                        "value": "consent:true%7Cts:1725480963661",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963661
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "consent:true%7Cts:1725480963661%7Cc1:1%7Cc2:1%7Cc3:1%7Cc4:1%7Cc5:1%7Cc6:1%7Cc7:1%7Cc8:1%7Cc9:1%7Cc10:1%7Cc11:1%7Cc12:1%7Cc13:1%7Cc14:1%7Cc15:1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963662
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "consent:true%7Cts:1725480963662%7Cc1:1%7Cc2:1%7Cc3:1%7Cc4:1%7Cc5:1%7Cc6:1%7Cc7:1%7Cc8:1%7Cc9:1%7Cc10:1%7Cc11:1%7Cc12:1%7Cc13:1%7Cc14:1%7Cc15:1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963664
+                    }
+                ]
+            },
+            "ConstructorioID_client_id": {
+                "name": "ConstructorioID_client_id",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480964852,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016964,
+                        "expiry": 31536000,
+                        "value": "da647591-ee71-4729-89c7-f7918982b75c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480964852
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "da647591-ee71-4729-89c7-f7918982b75c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480964867
+                    }
+                ]
+            },
+            "ConstructorioID_session": {
+                "name": "ConstructorioID_session",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480964868,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016964,
+                        "expiry": 31536000,
+                        "value": "{\"sessionId\":1,\"lastTime\":1725480964866}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480964868
+                    }
+                ]
+            },
+            "ConstructorioID_session_id": {
+                "name": "ConstructorioID_session_id",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480964866,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016964,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480964866
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480964867
+                    }
+                ]
+            },
+            "UID": {
+                "name": "UID",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480962453,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016962.451388,
+                        "expiry": 31536000.451387882,
+                        "value": "ead0d26b-71f1-4006-a61f-a94cb79aadee",
+                        "same_site": "lax",
+                        "timestamp": 1725480962452
+                    }
+                ]
+            },
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480960012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725482760.009875,
+                        "expiry": 1800.0098750591278,
+                        "value": "o6w5VVZT_cJVidq9ScOzt4LGtVUDSFHb2_LepEMuNoM-1725480959-1.0.1.1-w4IfhxUoZO08daiUqh5vPVI2sWbGN3PSTWQFthMGsDPKkL6g2jQ1ogLCBO6fXCdPvIlaqFH.XgvGuJmvikJdEg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480960011
+                    }
+                ]
+            },
+            "_cfuvid": {
+                "name": "_cfuvid",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480960023,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4QNCEqS0S7P9CUagFRXZhrVr6yddvD3TFvCO8VvL.BM-1725480959877-0.0.1.1-604800000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480960012
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480964920,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733256964,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725480964919.748666542416472182",
+                        "same_site": "lax",
+                        "timestamp": 1725480964920
+                    }
+                ]
+            },
+            "_uetsid": {
+                "name": "_uetsid",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480964795,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567364,
+                        "expiry": 86400,
+                        "value": "833cd9506afa11ef8d4271641cf46ba2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480964794
+                    }
+                ]
+            },
+            "_uetvid": {
+                "name": "_uetvid",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480964796,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759176964,
+                        "expiry": 33696000,
+                        "value": "833cdb106afa11ef93b1af0bf6986ff6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480964795
+                    }
+                ]
+            },
+            "auth_token": {
+                "name": "auth_token",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480961886,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016961.883714,
+                        "expiry": 31536000.88371396,
+                        "value": "eyJhbGciOiJIUzI1NiIsImtpZCI6IjAwMDEiLCJ0eXAiOiJKV1QifQ.eyJhaWQiOiJlNTgyYjhhYS1mOWNhLTRhOTEtYWRkZS1kMzdjOWY4YTQ2MTgiLCJlbWFpbCI6IiIsImV4cCI6MTcyNTQ4Mjc2MSwiZmlyc3ROYW1lIjoiIiwiaWF0IjoxNzI1NDgwOTYxLCJpc3MiOiJWU1x1MDAyNkNvIiwic2lkIjoiIiwidXMiOiJBbm9ueW1vdXMifQ.9Zc-RXLwe7qx2R3yxyh3j00kA-KyTx3rzSgSplTkfK8",
+                        "same_site": "lax",
+                        "timestamp": 1725480961884
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.451312065,
+                        "value": "eyJhbGciOiJIUzI1NiIsImtpZCI6IjAwMDEiLCJ0eXAiOiJKV1QifQ.eyJhaWQiOiJlNTgyYjhhYS1mOWNhLTRhOTEtYWRkZS1kMzdjOWY4YTQ2MTgiLCJlbWFpbCI6IiIsImV4cCI6MTcyNTQ4Mjc2MSwiZmlyc3ROYW1lIjoiIiwiaWF0IjoxNzI1NDgwOTYxLCJpc3MiOiJWU1x1MDAyNkNvIiwic2lkIjoiIiwidXMiOiJBbm9ueW1vdXMifQ.9Zc-RXLwe7qx2R3yxyh3j00kA-KyTx3rzSgSplTkfK8",
+                        "same_site": "lax",
+                        "timestamp": 1725480962452
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31535999.48215604,
+                        "value": "eyJhbGciOiJIUzI1NiIsImtpZCI6IjAwMDEiLCJ0eXAiOiJKV1QifQ.eyJhaWQiOiJlNTgyYjhhYS1mOWNhLTRhOTEtYWRkZS1kMzdjOWY4YTQ2MTgiLCJlbWFpbCI6IiIsImV4cCI6MTcyNTQ4Mjc2MSwiZmlyc3ROYW1lIjoiIiwiaWF0IjoxNzI1NDgwOTYxLCJpc3MiOiJWU1x1MDAyNkNvIiwic2lkIjoiIiwidXMiOiJBbm9ueW1vdXMifQ.9Zc-RXLwe7qx2R3yxyh3j00kA-KyTx3rzSgSplTkfK8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962483
+                    }
+                ]
+            },
+            "bc": {
+                "name": "bc",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480962452,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482762.451218,
+                        "expiry": 1800.4512178897858,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962451
+                    }
+                ]
+            },
+            "conversionCurrency": {
+                "name": "conversionCurrency",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480963644,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "USD",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963644
+                    }
+                ]
+            },
+            "conversionFactor": {
+                "name": "conversionFactor",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480963645,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963645
+                    }
+                ]
+            },
+            "cookieMonsterInteracted": {
+                "name": "cookieMonsterInteracted",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480963662,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733256963.662058,
+                        "expiry": 7776000.662058115,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480963662
+                    }
+                ]
+            },
+            "dTValidationCookie": {
+                "name": "dTValidationCookie",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480961443,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dTValidationCookieValue",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480961441
+                    }
+                ]
+            },
+            "dtCookie": {
+                "name": "dtCookie",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480961446,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_-2D36_sn_R6OO3VNREV55Q580L77OBBPO5MHNBL9A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480961444
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_4_sn_R6OO3VNREV55Q580L77OBBPO5MHNBL9A_perc_100000_ol_0_mul_1_app-3A442ae0045af84f9e_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962446
+                    }
+                ]
+            },
+            "dtPC": {
+                "name": "dtPC",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480961453,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480961440_554h22vUJHCJRNHFVVUVSPHOQLDQFPVCHVJQRPS-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480961440_554h23vUJHCJRNHFVVUVSPHOQLDQFPVCHVJQRPS-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962695
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480961440_554h24vUJHCJRNHFVVUVSPHOQLDQFPVCHVJQRPS-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962697
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480961440_554h25vUJHCJRNHFVVUVSPHOQLDQFPVCHVJQRPS-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962725
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480961440_554h26vUJHCJRNHFVVUVSPHOQLDQFPVCHVJQRPS-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962726
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480961440_554h27vUJHCJRNHFVVUVSPHOQLDQFPVCHVJQRPS-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962727
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480961440_554h34vUJHCJRNHFVVUVSPHOQLDQFPVCHVJQRPS-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963042
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480961440_554h27vUJHCJRNHFVVUVSPHOQLDQFPVCHVJQRPS-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963507
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480961440_554h35vUJHCJRNHFVVUVSPHOQLDQFPVCHVJQRPS-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963641
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480961440_554h-vUJHCJRNHFVVUVSPHOQLDQFPVCHVJQRPS-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963832
+                    }
+                ]
+            },
+            "dtSa": {
+                "name": "dtSa",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480961456,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480961455
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480964944
+                    }
+                ]
+            },
+            "dtm_token": {
+                "name": "dtm_token",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480964264,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759608964,
+                        "expiry": 34128000,
+                        "value": "AQAHscts9mbYIgErxljdAQEIswABAQCQv68O1wEBAJC_rw7X",
+                        "same_site": "lax",
+                        "timestamp": 1725480964263
+                    }
+                ]
+            },
+            "dtm_token_sc": {
+                "name": "dtm_token_sc",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480964258,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759436164.256867,
+                        "expiry": 33955200.25686693,
+                        "value": "AQAHscts9mbYIgErxljdAQEIswABAQCQv68O1wEBAJC_rw7X",
+                        "same_site": "lax",
+                        "timestamp": 1725480964257
+                    }
+                ]
+            },
+            "geolocatedCountry": {
+                "name": "geolocatedCountry",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480960601,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "US",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480960591
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "US",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962104
+                    }
+                ]
+            },
+            "geolocatedRegion": {
+                "name": "geolocatedRegion",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480960604,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480960603
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962104
+                    }
+                ]
+            },
+            "mcc": {
+                "name": "mcc",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480961904,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016960.896021,
+                        "expiry": 31535999.89602089,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480961903
+                    }
+                ]
+            },
+            "rxVisitor": {
+                "name": "rxVisitor",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480961447,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725480961444N5IN0FNGS2TIG3671D8N178EK52E6J7O",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480961446
+                    }
+                ]
+            },
+            "rxvt": {
+                "name": "rxvt",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480961452,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482762697|1725480961445",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962697
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482762725|1725480961445",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962725
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482762726|1725480961445",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962726
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482762728|1725480961445",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962727
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482762747|1725480961445",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962747
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482762748|1725480961445",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962748
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482762749|1725480961445",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962749
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482762749|1725480961445",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962749
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482763042|1725480961445",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963042
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482763641|1725480961445",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963641
+                    }
+                ]
+            },
+            "test": {
+                "name": "test",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480963927,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963927
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963929
+                    }
+                ]
+            },
+            "tntId": {
+                "name": "tntId",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480963001,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "e582b8aa-f9ca-4a91-adde-d37c9f8a4618.34_0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480962999
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "e582b8aa-f9ca-4a91-adde-d37c9f8a4618.34_0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480963069
+                    }
+                ]
+            },
+            "utag_main": {
+                "name": "utag_main",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480963647,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016963,
+                        "expiry": 31536000,
+                        "value": "v_id:0191beae0e3d0018e073f4e8b99005075002306d00bd0$_sn:1$_se:1$_ss:1$_st:1725482763645$ses_id:1725480963645%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963646
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191beae0e3d0018e073f4e8b99005075002306d00bd0$_sn:1$_se:1$_ss:1$_st:1725482763645$ses_id:1725480963645%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:victoriassecret.com",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963927
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191beae0e3d0018e073f4e8b99005075002306d00bd0$_sn:1$_se:2$_ss:0$_st:1725482763938$ses_id:1725480963645%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:victoriassecret.com",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963939
+                    }
+                ]
+            },
+            "uxc": {
+                "name": "uxc",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480961903,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016960.895949,
+                        "expiry": 31535999.895948887,
+                        "value": "eyJBZG9iZSBBbmFseXRpY3MgQVBJIEVycm9yIE1lc3NhZ2UgUmF0ZSBMaW1pdGVyIjoxNSwiQWRvYmUgU3dpdGNoIjoxOCwiQmF6YWFydm9pY2UgU3dpdGNoIjo2NCwiQ29uc3RydWN0b3IgU3dpdGNoIjo5LCJGMDAxIjo4LCJGMDAyIjoxNywiRjAwMyI6NDAsIkYwMDQiOjg5LCJGMDA2Ijo0NCwiRjAwNyI6NDcsIkYwMDgiOjQsIkYwMDkiOjcxLCJGMDEwIjo2MiwiRjAxMSI6NTMsIkYwMTIiOjEyLCJGMDEzIjo2NywiRjAxNCI6NjMsIkYwMTYiOjg1LCJGMTAzIjo2MiwiRjEwNCI6MTAsIkYxMDUiOjI0LCJGMTA3IjozOCwiRjEwOCI6MzksIkYxMTAiOjU3LCJGMTExIjo1MCwiRjExMyI6NjQsIkYxMTUiOjM0LCJGMTE4IjoxMSwiRjExOSI6ODksIkYxMjAiOjY5LCJGMTIxIjoyMCwiRjEyMiI6NDAsIkYxOTkiOjM3LCJGMjA1Ijo1MiwiRjIxMCI6MzYsIkYyMTQiOjM0LCJGMjE1Ijo0NiwiRjMwMCI6ODcsIkYzMDEiOjQxLCJGMzAyIjo5NywiRjMwMyI6NjIsIkYzMDQiOjU5LCJGMzA1IjoyNywiRjMwNiI6MywiRjMwNyI6NTYsIkYzMDkiOjczLCJGMzExIjo5LCJGMzEyIjo0NCwiRjMxNiI6NDQsIkYzMTciOjc2LCJGMzE4IjozNCwiRjMyMCI6MSwiRjMyMSI6NjUsIkYzMjIiOjg1LCJGMzIzIjoxMSwiRjMyNSI6ODIsIkYzMzEiOjkzLCJGMzMzIjo4OSwiRjMzNCI6NTgsIkYzNTUiOjIyLCJGMzYxIjo4NCwiRjM2NSI6NTEsIkYzNjciOjI1LCJGMzgxIjoyNiwiRjQwMCI6ODQsIkY0MDEiOjYsIkY0MDIiOjczLCJGNDAzIjo1MSwiRjQwNCI6NTcsIkY0MDUiOjkwLCJGNDA4Ijo1NCwiRjQwOSI6NywiRjQxMSI6MjksIkY0MTMiOjkzLCJGNDE0Ijo1OCwiRjQxNSI6NjYsIkY0MTciOjI3LCJGNDE4IjozNCwiRjQxOSI6NTIsIkY0MjciOjIxLCJGNDMwIjozNiwiRjQzMyI6NzUsIkY0MzQiOjQsIkY0MzUiOjgsIkY1MDAiOjk2LCJGNTA1IjozMywiRjUwOCI6OTEsIkY1MTEiOjQxLCJGNTEyIjoyNSwiRjUxNCI6NjIsIkY1MTYiOjg3LCJGNTE4Ijo1NCwiRjUzMiI6MTksIkY1MzMiOjQzLCJGNjAxIjoxMiwiRjYwMiI6NTQsIkY2MDMiOjg4LCJGNjA0IjozLCJGNjA1IjozLCJGNjA2Ijo1MCwiRjYwNyI6MzgsIkY2MDgiOjYxLCJGNjA5Ijo4MSwiRjYxMCI6NDQsIkY2MTEiOjYxLCJGNjEyIjo1MSwiRjYxMyI6MjcsIkY2MTQiOjQxLCJGNjE1IjoxMDAsIkY2MTYiOjUwLCJGNjE3Ijo3OCwiRjYxOCI6OTIsIkY2MTkiOjc4LCJGNjIwIjo4NCwiRjYyMSI6NjQsIkY2MjIiOjU5LCJGNjIzIjo3MCwiRjYyNCI6ODAsIkY2MjUiOjk5LCJGNjI2IjozMywiRjYyNyI6NCwiRjYyOCI6MTQsIkY2MjkiOjQ2LCJGNjMwIjo1MywiRjYzMSI6MjMsIkY2MzIiOjc0LCJGNjMzIjo5OSwiRjYzNCI6NzEsIkY2MzUiOjY5LCJGNjM2IjoyOCwiRjYzOSI6MzAsIkY2NDAiOjkwLCJGNjQxIjo1NCwiRjY0MyI6NSwiRjY0NCI6NjgsIkY2NDUiOjUzLCJGNjQ2Ijo2MSwiRjY0NyI6NzQsIkY2NDgiOjQ0LCJGNjQ5Ijo4NCwiRjY1MCI6ODgsIkY2NTEiOjEsIkY2NTIiOjM0LCJGNjUzIjo2MiwiRjY1NCI6MjEsIkY2NTUiOjE3LCJGNjU2Ijo3NCwiRjY1NyI6MjUsIkY2NTgiOjQ2LCJGNjYwIjo0NSwiRjY2MiI6MzUsIkY2NjMiOjY4LCJGNjY0Ijo3OSwiRjY2NSI6MzUsIkY2NjYiOjMxLCJGNjY3Ijo1MywiRjY2OCI6MiwiRjY2OSI6ODAsIkY2NzAiOjg4LCJGNjcxIjo5MiwiRjY3MiI6NzksIkY2NzQiOjczLCJGNjc1Ijo1OSwiRjY3OCI6MTksIkY2NzkiOjg5LCJGNjgwIjozLCJGNjgxIjo1NSwiRjY4MiI6NDksIkY2ODMiOjE3LCJGNjg0IjoyMCwiRjY4NSI6NzcsIkY2ODYiOjg2LCJGNjg3Ijo5MiwiRjY4OCI6NzUsIkY2ODkiOjEwMCwiRjY5MCI6NDUsIkY2OTEiOjQzLCJGNjkyIjo1OCwiRjY5MyI6MTQsIkY2OTQiOjU2LCJGNjk1Ijo2OCwiRjY5NiI6OSwiRjY5NyI6OTcsIkY2OTgiOjM5LCJGNjk5Ijo3MywiRjcwMCI6NzEsIkY3MDEiOjY2LCJGNzAyIjo2NywiRjcwMyI6MjcsIkY3MDUiOjUwLCJGNzA2Ijo5MywiRjcwOCI6OTgsIkY3MjIiOjUyLCJGNzIzIjo3LCJGNzI0Ijo4NCwiRjcyNSI6NTUsIkY3MjYiOjMxLCJGODAwIjo4OCwiRjgwMSI6NzgsIkY4MDIiOjQ3LCJGODAzIjoyNywiRjgwNSI6ODYsIkY4MDYiOjc1LCJGODA3IjoyMCwiRjgwOCI6ODEsIkY4MDkiOjQwLCJGODEwIjo2OCwiRjgxMSI6ODQsIkY4MTIiOjc0LCJGODE1Ijo1NiwiRjgxNyI6ODUsIkY4MjAiOjk2LCJGODIxIjo4NywiRjgyMiI6NjEsIkY4MjMiOjQwLCJGOTAwIjo2NywiRjkwMSI6ODAsIkY5MDIiOjEwLCJGOTAzIjo5NSwiRjkwNCI6ODAsIkY5MDYiOjcyLCJGOTEwIjo5MSwiRjkxMSI6NCwiRkEwMSI6NjAsIkZBMDIiOjg5LCJGQTAzIjozOCwiRkEwNCI6OTksIkZBMDUiOjgwLCJGQTA2Ijo5MCwiRkEwNyI6MjAsIkZBMDgiOjI5LCJGQTA5Ijo5MCwiRkExMCI6OTEsIkZBMTIiOjI3LCJGQTEzIjo2MSwiRkExNCI6NjQsIkZBMTUiOjE4LCJGQTE2Ijo3MSwiRkEyMCI6MjMsIkZCMDMiOjg5LCJGQjA0Ijo1MSwiRkIwNSI6NiwiRkIwNiI6MzgsIkZCMTYiOjIwLCJGQjE4Ijo4MywiRkIxOSI6OTgsIkZCMjAiOjc3LCJGQjIxIjo1NCwiRkMwMSI6OTMsIkZDMDIiOjE1LCJGQzAzIjozNiwiRkMwNCI6MTIsIkZDMDUiOjExLCJGQzA2IjoyMywiR29vZ2xlIFNpdGVMaW5rcyBTZWFyY2ggQm94IFN3aXRjaCI6NCwiTW9iaWxlIEFwcCBDdXN0b21lciBJbml0aWF0ZWQgQ3JlZGl0IC0gQW5kcm9pZCI6OTUsIk1vYmlsZSBBcHAgQ3VzdG9tZXIgSW5pdGlhdGVkIENyZWRpdCAtIGlPUyI6MjIsIk1vYmlsZSBBcHAgT0xQUyAtIEFuZHJvaWQiOjU1LCJNb2JpbGUgQXBwIE9MUFMgLSBpT1MiOjY2LCJTMDAxIjo0OCwiUzAwMiI6MzAsIlMwMDMiOjM4LCJTMDA0IjoyLCJUNDIiOjMxLCJUNDgiOjM1LCJUNDkiOjI0LCJUNTAiOjU5LCJUNzAiOjk4LCJUNzIiOjg2fQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480961896
+                    }
+                ]
+            },
+            "uxoverride": {
+                "name": "uxoverride",
+                "domain": ".victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480961905,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480961905
+                    }
+                ]
+            },
+            "__cfwaitingroom": {
+                "name": "__cfwaitingroom",
+                "domain": ".www.victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480960361,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.84285593032837,
+                        "value": "ChhyOEpnNlJUcHhFYytHVllMcmk5dWh3PT0ShAJKc2tlcEdJbytaRThkRlFyTHJrOHVpYWk4dVlBVDBDL1RJdEFQV0lBSjNEUkdMb2NZdjVDVGNCMjdBeGhFOWUzNTNrd0tyRi9tbUVDRXZFbkwvK25ubCs4bnZ4VDhSay8xOHA4WnluYkMzZkJNWXlxNnNoUlk4NjBoTTdwVE5OeDl0T1NBeWZzMTgwSUxYU2o0RWJLUzN6Z2lwaTZBT2l0cTJwNnBqZk92SmFKR1c0d3dFc3g1WDZFUyttS3JBb2NhY2hNQWI0WHcxT1V1RXN3N0k5RmNMd2xGUWNFQzJ0VittMldnNWRmME9DanZSeTd1YVZkZ29PVEQ0MHprZFNWbXlrPQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480962843
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.84667110443115,
+                        "value": "Chh6TXlla1RvSWxFVGIzUzk3TEpKaWFRPT0ShAI3eXBucjNXL1lLaU5zK3djSC81UHhqVmVQZFdpUk5wbnMzSmo3c3IrK3JQUTBzSk9lay9RRVFtUVE1dzFqdWEvcDZyZm9EeHpLaHdwUDV3azBhWXdrUmVkSnZiMFlTcVFIYkc3QjVFZlltTElmdFU4ZjNPSFdFNCszL1YzMnhKS296ZkRMMjd1cnFJUEVKWW9aTEtqamdTeWtxSW43cUljRTdlVkQ3VXVEN0QrSXVBd2trVWEwbFpxUm4zM0pDdXFaNXloQ3I2cGtZU2wxT1JCV2Uwd0lONmZ0eUNFTTEvaGM1a2xWeC9MUzlTYXhRZVZ2WEpGNE9hajVEM3NoTDhiY2pnPQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480962847
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.97490310668945,
+                        "value": "ChhGMUxNRUYwSExaZzJpblV5SlBxdWRBPT0ShAJzY1RPRXkyQnlFSFVXVnBjZjFLdWJwU1hIN1ZQeVl3Z1V0cnRudWMzbVgrZ2FyWElZYkY3LytrYzJTUFB0TjdsOURwOFNlWGNsSW55dlVpc3BqYnQ1Mml5cjVlaWZIaGJaUnhVS3hmM01MZ09sSGRiSytqa2NTdnRYZ2c3YkRnb09zZHNlSmRXc0FBemJqZ291VmxRMmJVaG1WYVp0VkpkeFFWbnpRWjAzWDhRNTlSVS9OK1FaNWJ0RmdSR1VETkJIRGtBQ1JsdkhRWkVwMWFUOTdqSisrZ2JIR0xJbDFURzFOZkNkdEUxVGYxR0R6Q2hMZVNEZkZqVTRJeGsydHZ6dHU0PQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480962975
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.0123999118805,
+                        "value": "ChgrSHNIUHFwNXZaVnFaYWhjMm1SZVN3PT0ShAJmQXk2SVJaVHg3K0ZkYlpqMmN4M1JOZ0pabnFrSHVZNXQ0MnI0MkprMW10dkUxcDJHUDY0c3B5L1BWRGkzRk4xVDFibzhoWWNBanVUWU1HNzdleTZDMkltdTE4Q1dIMGx2a3h3Q2UzVGg4ekZ3UElkUVJiZVF6eXdKamRLcmo5V1ZySXNNZkFycGZkS2RhNU8xVWhDeHE3VG51aVY3cm8yOXNvb3B6L285cTJTOVZFQllkUXVhVGhjTXFqV250NmFwTFI0VHcyRWliNEZrbEZHeXplSlk3Z3dWOVYwMFI0cHRhMWl2dGxGWFduVmZlTkx2c2dQdXBUZDRXblZac2liZ1BrPQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480963013
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.02125811576843,
+                        "value": "ChgrajhIMnEzOGp6QnpISWZISVZYUVlBPT0ShAJEbFAyR1NyUTMwRFNyNzcxaEFrVjlCUVBUaGRiVTI4NWpvWWMvYm9sVVdDWUlEcml6VThMZVJXcEhSQlAwL0lLTjh1WTVXTGJodm56NExBVllPbFFnZDJlWkJEcDJUMFJoeHhUbEpKRUZmNXZOakJEZlRxMXdCQUJJRTVyMG1UUUFjUDZZZ3J2ekpLVEpjVkk3ZklSc3ArU2grOFIwem8vVWpFNFFTNTYwcHZ5NGdwM3ZUbTlOdGlpSFdjamVwRytmVUQyK2hXMFVKT2Y0TjZuTEpac0pwNDBoV2JxUDh1UHhId1JEdFpsWDNwM3VnMEVrdG45MEZqd1ZZTG1VY2FERHhrPQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480963021
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.03119993209839,
+                        "value": "ChhrZTlTck1KZktPZkVjbHQwQWhhVjlBPT0ShAIrWmxGanJYSTNxMWo3UFhYZEJ2Sjh4TlRnQzlKNGY0ZXlrVlpWUlBDYlIvL2Q3dUJlUjJBTVp0dkhqTnk0MHFHM3hud3YyUDJBNjk1VVlVdjFoZk12YU8xSzJ3UkFoc1hmOWx6aXdtcDhPcXhZUk9ZemQzbG5ESUJucnB3MXFnaFRpSFVucW9ZQVNvMXZFTzNSRmxUU0tRM1dkRUpXQWh3KzR4WkRQangxSHh4NXY1WHlYM0xhRTk2Y29GZk0xdkJpVCt2dkdIcTZROVJ4R2diWTZyQUxoUzNtWEV1SmQ3MGxFak54YjBuc2ZyWXd0QUlmeHZ1U3FmNmdvbnRXeVBCdDg4PQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480963031
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.03266501426697,
+                        "value": "ChhZUUZMdm1GcFgvbmd5NUFOdTRlOVZnPT0ShAJlSkJhdjBJSWFTamQ2aUwrUnRoZFN5d2FkdGZ2U1pnYWZ4cE1HdXdRM24zU05laTlVbmxHbkQ4ekUremt0VmxnbVU0R3hhenhCaEs4S0plM3p5UFppRXpwVWp4d2p4TWNLdGl4SUpwUUJSVnpSZWJHbXdyTHZUNkxsTlUvQTlsNUl1QVdaL2V6Zk5Kc0N2NThiWUVhdUhPZE5NWEo4eG9kYmtJbzFiWTJHQjA4MVBuQ3pjZC9OaW0rU2R6ZW9uSFhKbU1FVk1SM0VicWdqUXBtRExFYzdpd2t0ejhwMUp3N29tUGJTQUdyVWdWTmV6MG5tODlPYmJwTldIV0pndElkUTdrPQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480963033
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.15613603591919,
+                        "value": "Chh2V1hDN1J5cy9nN1hNSERpTFBlaFdnPT0ShAIyK3NGaWtBS0tmbU1OQ1plYjlRbnBqNzc3Y3Y2SDVVSC9kWDQxQkdqb3RNemxlM2lYN3RRTTlvZFg5WXU3WjNlaHQ2cCs1bm9PNW00NEtoTDdrdXpFZUtabFc5bkRESSthZHNyby9qVGVBWUpBLzBtQVhOaDhJN0hMS2VmWGZuZVlBRDBleFRvT3c1MThBNFFwdmJTUjBNSWxpVnFNMmVselZ3dklXUEFVVmZHQnVpTkptY1lTbk1zSStma0RsOUJPbndCSThOb05iWnorK0F4TFVCRnlmN1c4SzRyeWJqWDdUV08vTkpEQW9GTzgzYU04QTZYdmVnZmxmRnFyais0SFdBPQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480963156
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.70224404335022,
+                        "value": "ChhtMHN1MWUvU21BYmw5SzAwamZWZ2NnPT0ShAJybCtPVUZYWnRjck9YNHFtVU9DRktrY2R4WFVmSmZ2SkI4MTF6YWFFWC9Ta3UrVm56SDNjWkM5cmVTQjlhbUh3SkpXUTd4b2dHWGc5WE82dEtPczJvczhjUUtJc2UrTDBvelJoOENMZjhJejUxU1dXdDkvNHJjS1hOckVIZ3BkaEVvMnU3RW1udnNKOXlCQUd5TEhpREYySnRqeTdReHlWTjl6SmtRbEFWeENId2R1ZVQra3dERkVsOUNFbW1GaWxXMlA2VDQ2em1CUC81Nkl5RWIvKzRERlpReTdoL0JZUTUwNFF6alBNNDlGc2VNK0JwaXBnVFM2bXhvNVZ1UXYwRFd3PQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480963702
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 119.25691103935242,
+                        "value": "ChhHeVZZTkljQnhUa0x0ZndkTWc1NnBnPT0ShAJIaTZOTTE2RXpaa0p6TXBiUlo2V3U3bEFWSmkvMDhWSlM3SVVkVHVBSlJrbjhFN3dBTzA5S0RDQzg0TjRQTDFHMXB4UTNsY0ZobTJMVWU2Q0xoakxKRURqL2xuWU50TWxMeDJtRjI4czZIUW5HUVVQVGxDNExaRkVDZUlXVUJaNjNIV2Q4Rk96N0tBRDd2RWJVVlo3ZkZURm1PektTVnVFaE1CY3oxM1AxMStSM2xFcjhtZWdxR0pqQk51aWRtV0w5N0R1MkdOOUZCUVJRV1EyT2VQcDNJc1FyVk1DbXNFT1JvWjhWTDJ4dVZQNElTaUlxbnB0SFY2YlJrQ3lWT1dRMWQwPQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480964258
+                    }
+                ]
+            },
+            "__attentive_cco": {
+                "name": "__attentive_cco",
+                "domain": "www.victoriassecret.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480964912,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760040964.910704,
+                        "expiry": 34560000.9107039,
+                        "value": "1725480964910",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480964911
+                    }
+                ]
+            },
+            "__attentive_id": {
+                "name": "__attentive_id",
+                "domain": "www.victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480964911,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040964.909927,
+                        "expiry": 34560000.90992689,
+                        "value": "9c1bac6fcce64ddca18299000d3579a3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480964910
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.91065097,
+                        "value": "9c1bac6fcce64ddca18299000d3579a3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480964911
+                    }
+                ]
+            },
+            "_attn_": {
+                "name": "_attn_",
+                "domain": "www.victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480964910,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040964.90934,
+                        "expiry": 34560000.909339905,
+                        "value": "e30=",
+                        "same_site": "strict",
+                        "timestamp": 1725480964909
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.91005397,
+                        "value": "eyJ1Ijoie1wiY29cIjoxNzI1NDgwOTY0OTA5LFwidW9cIjoxNzI1NDgwOTY0OTA5LFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjljMWJhYzZmY2NlNjRkZGNhMTgyOTkwMDBkMzU3OWEzXCJ9In0=",
+                        "same_site": "strict",
+                        "timestamp": 1725480964911
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.91158891,
+                        "value": "eyJ1Ijoie1wiY29cIjoxNzI1NDgwOTY0OTA5LFwidW9cIjoxNzI1NDgwOTY0OTA5LFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjljMWJhYzZmY2NlNjRkZGNhMTgyOTkwMDBkMzU3OWEzXCJ9In0=",
+                        "same_site": "strict",
+                        "timestamp": 1725480964913
+                    }
+                ]
+            },
+            "_mibhv": {
+                "name": "_mibhv",
+                "domain": "www.victoriassecret.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480964752,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016964,
+                        "expiry": 31536000,
+                        "value": "anon-1725480964749-7722727148_8160",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480964751
+                    }
+                ]
+            },
+            "wuxc": {
+                "name": "wuxc",
+                "domain": "www.victoriassecret.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480960603,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728072960.590918,
+                        "expiry": 2592000.590918064,
+                        "value": "eyJGQTA3IjpbMiwiQiIsMzZdLCJGQTEwIjpbMTEsIkMiLDJdLCJGQTE1IjpbMiwiQSIsMl19",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480960601
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.1026461124,
+                        "value": "eyJGQTA3IjpbMiwiQiIsMzZdLCJGQTEwIjpbMTEsIkMiLDJdLCJGQTE1IjpbMiwiQSIsMl19",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480962104
+                    }
+                ]
+            }
+        },
+        "/us": {
+            "_vapi1725480963925": {
+                "name": "_vapi1725480963925",
+                "domain": ".victoriassecret.com",
+                "path": "/us",
+                "current_label": 0,
+                "label_ts": 1725480963926,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_vapi1725480963925",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480963926
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.victoriassecret.com",
+                "path": "/us",
+                "current_label": 0,
+                "label_ts": 1725480963916,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725480963915
+                    }
+                ]
+            },
+            "isVSAppBannerHidden": {
+                "name": "isVSAppBannerHidden",
+                "domain": "www.victoriassecret.com",
+                "path": "/us",
+                "current_label": 0,
+                "label_ts": 1725480962689,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725567362.687848,
+                        "expiry": 86400.68784809113,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480962688
+                    }
+                ]
+            }
+        }
+    }
+}

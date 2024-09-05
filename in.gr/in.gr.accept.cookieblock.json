@@ -1,0 +1,924 @@
+{
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725471952235,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759167952.234082,
+                        "expiry": 33696000.23408198,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471952235
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725471952235,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759167952.234023,
+                        "expiry": 33696000.234023094,
+                        "value": "4d299f3d-0e74-4065-a357-72afcdcdbdaf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471952234
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "APC": {
+                "name": "APC",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725471951938,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741023951.937127,
+                        "expiry": 15552000.937127113,
+                        "value": "AfxxVi7mZnBls16e06xSk810jc4C0gnipfa1xguHTSUmI8eVNFn29A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471951937
+                    }
+                ]
+            },
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725471937617,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760031937.615852,
+                        "expiry": 34560000.61585212,
+                        "value": "AHWqTUm7wxfXXUwpZrS-4jiowYfgaUtrdEkAiRLsE9-NhYM5jRi9TFYZBVikUBRu",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471937616
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725471951939,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741023951.937179,
+                        "expiry": 15552000.937179089,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471951938
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725471936773,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725472836.771611,
+                        "expiry": 900.7716109752655,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471936771
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.8238270282745,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471936824
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.8429820537567,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471936844
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.8791010379791,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471936881
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.3423540592194,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471937343
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725471943568,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741283143.567595,
+                        "expiry": 15811200.567595005,
+                        "value": "517=GNk6nSAYiopqdOenBDOAukI5jBnrojWjGICK_o9N5f9jqVZs9pyBgEjFcNpaEbr0ykRkXhhUNgUd23Suiyf5qbUsrI4tYI42O3c2IOQZYCJwhPMGVQKn-r8srfyGWBO_T78TOBjx680pDErxt1p3axuKUGeJEtdaRbkGyaPKMvw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471943568
+                    }
+                ]
+            }
+        }
+    },
+    "in.gr": {
+        "/": {
+            "FCNEC": {
+                "name": "FCNEC",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725471938790,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757007938,
+                        "expiry": 31536000,
+                        "value": "%5B%5B%22AKsRol8PRTg7zTGlfdmsUUg2UwFTpXnqKw3VK_5RMB1PSc2PXFCT3VqlJnE29wA0JQ9r6SVqCkxScdIfzpKl5nDaopKCmvyc_pI5omFiPsMlxqxTkg_9DDyJLynSRuC7pYzU7M67gprMEhLj6P-6hSRvVPkK_fO5LQ%3D%3D%22%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471938789
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725471949673,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741023949,
+                        "expiry": 15552000,
+                        "value": "ID=f7e0d93f2d2814da:T=1725471949:RT=1725471949:S=AA-AfjaLHTPLwzvDXWeHHJy44Pp2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471949672
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=ac290d4e2d4ac100:T=1725471949:RT=1725471949:S=AA-AfjbUocIwON4yb2CmiUXKmi4d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471950022
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=b9eb705f4d16b72c:T=1725471949:RT=1725471949:S=AA-AfjawAwXm98BAQUcHkzdIBKYn",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471950616
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551998,
+                        "value": "ID=2bcef96052d27151:T=1725471949:RT=1725471949:S=AA-AfjbwJzCWf8Ghj7cLE9PaY2MG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471951052
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725471949671,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759167949,
+                        "expiry": 33696000,
+                        "value": "ID=9913cf64fa2ccc58:T=1725471949:RT=1725471949:S=ALNI_MbzWuYAh3CKtWu8bpX4p4ZYHaf9VA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471949671
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=db487c528e0b2d38:T=1725471949:RT=1725471949:S=ALNI_MYx9LR8kghSDp_0uT3vUjbWXVhKMQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471950021
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=8cb9958833811c80:T=1725471949:RT=1725471949:S=ALNI_MaNVvNKakANSxKAvD2WWc7xgf9YuQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471950614
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695998,
+                        "value": "ID=c7accca8551557a1:T=1725471949:RT=1725471949:S=ALNI_MaHeeETu8gPxJpHG7kZNUy3QPvfhg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471951051
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725471949672,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759167949,
+                        "expiry": 33696000,
+                        "value": "UID=00000eebbed39e96:T=1725471949:RT=1725471949:S=ALNI_MYOUZZUKFqCQMmv9WdCOuW7aJ8Y6g",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471949671
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000eebbfc53d1d:T=1725471949:RT=1725471949:S=ALNI_MYPU-lmR4Tlim9ybE_LFNrKmpnU_g",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471950021
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000eebbf487ebe:T=1725471949:RT=1725471949:S=ALNI_MaTXusDp9dE9epVEbYghbPdQOvmnw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471950614
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695998,
+                        "value": "UID=00000eebbf10fc04:T=1725471949:RT=1725471949:S=ALNI_MYJ7vzdWpDscpk-YqxYZaj0Gwm5lA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471951051
+                    }
+                ]
+            },
+            "_cb": {
+                "name": "_cb",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725471936730,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759599936,
+                        "expiry": 34128000,
+                        "value": "BsFzLfB5Yq2cbEUJ5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936729
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725471936732,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725473736,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936732
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936734
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725471936577,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936576
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936578
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936725
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936726
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936733
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725471936731,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759599936,
+                        "expiry": 34128000,
+                        "value": ".1725471936727.1725471936727.1.c6RulCVS0HXDIE2ydBPiajFBeTS88.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936731
+                    }
+                ]
+            },
+            "_chartbeat4": {
+                "name": "_chartbeat4",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725471952440,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725472012,
+                        "expiry": 60,
+                        "value": "t=DvpahhB7HQVNBrHKpOCrVm0yD-rs2h&E=3&x=0&c=0.26&y=27318&w=890",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471952439
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725471937536,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733247937,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725471937532.13946519183739434",
+                        "same_site": "lax",
+                        "timestamp": 1725471937533
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725471937532.13946519183739434",
+                        "same_site": "lax",
+                        "timestamp": 1725471949075
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725471935677,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760031935.6627,
+                        "expiry": 34560000.66269994,
+                        "value": "GA1.1.702969502.1725471936",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471935676
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.14448595,
+                        "value": "GA1.1.702969502.1725471936",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936147
+                    }
+                ]
+            },
+            "_ga_DEMBT02RYF": {
+                "name": "_ga_DEMBT02RYF",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725471936147,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760031936.144094,
+                        "expiry": 34560000.14409399,
+                        "value": "GS1.1.1725471935.1.0.1725471935.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936146
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.62273407,
+                        "value": "GS1.1.1725471935.1.0.1725471950.45.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471950623
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.05770612,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471951058
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.05855799,
+                        "value": "GS1.1.1725471935.1.0.1725471951.44.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471951058
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.43678403,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471952437
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.437427044,
+                        "value": "GS1.1.1725471935.1.0.1725471952.43.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471952438
+                    }
+                ]
+            },
+            "_ga_ZB5Y43LCMK": {
+                "name": "_ga_ZB5Y43LCMK",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725471935669,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760031935.661675,
+                        "expiry": 34560000.66167498,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471935663
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.669235945,
+                        "value": "GS1.1.1725471935.1.0.1725471935.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471935677
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.434900045,
+                        "value": "GS1.1.1725471935.1.0.1725471952.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471952435
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725471936656,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733247936,
+                        "expiry": 7776000,
+                        "value": "1.1.128799285.1725471937",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936655
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725471951487,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725475551,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471951486
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".in.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725471951485,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725475551,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471951484
+                    }
+                ]
+            },
+            "addtl_consent": {
+                "name": "addtl_consent",
+                "domain": ".www.in.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725471949430,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759167949.426866,
+                        "expiry": 33696000.426866055,
+                        "value": "1~43.3.9.6.9.13.6.4.15.9.5.2.11.8.1.3.2.10.33.4.6.9.17.2.9.20.7.20.5.20.7.2.2.1.4.40.4.14.9.3.10.6.2.9.6.6.9.8.33.5.3.1.27.1.17.10.9.1.8.6.2.8.3.4.146.65.1.17.1.18.25.35.5.18.9.7.41.2.4.18.24.4.9.6.5.2.14.25.3.2.2.8.28.8.6.3.10.4.20.2.17.10.11.1.3.22.16.2.6.8.6.11.6.5.33.11.8.11.28.12.1.5.2.17.9.6.40.17.4.9.15.8.7.3.12.7.2.4.1.7.12.13.22.13.2.6.8.10.1.4.15.2.4.9.4.5.4.7.13.5.15.17.4.14.10.15.2.5.6.2.2.1.2.14.7.4.8.2.9.10.18.12.13.2.18.1.1.3.1.1.9.7.2.16.5.19.8.4.8.5.4.8.4.4.2.14.2.13.4.2.6.9.6.3.2.2.3.7.3.6.10.11.6.3.19.8.3.3.1.2.3.9.19.26.3.10.13.4.3.4.6.3.3.3.3.1.1.1.6.11.3.1.1.11.6.1.10.13.3.2.2.4.3.2.2.7.15.7.14.4.3.4.5.4.3.2.2.5.5.3.9.7.9.1.5.3.7.10.11.1.3.1.1.2.1.3.2.6.1.12.8.1.3.1.1.2.2.7.7.1.4.3.6.1.2.1.4.1.1.4.1.1.2.1.8.1.7.4.3.3.3.5.3.15.1.15.10.28.1.2.2.12.3.4.1.6.3.4.7.1.3.1.4.1.5.3.1.3.4.1.5.2.3.1.2.2.6.2.1.2.2.2.4.1.1.1.2.2.1.1.1.1.2.1.1.1.2.2.1.1.2.1.2.1.7.1.7.1.1.1.1.2.1.4.2.1.1.9.1.6.2.1.6.2.3.2.1.1.1.2.5.2.4.1.1.2.2.1.1.7.1.2.2.1.2.1.2.3.1.1.2.4.1.1.1.6.3.6.4.5.5.4.1.2.3.1.4.3.2.2.3.1.1.1.1.12.1.3.1.1.2.2.1.6.3.3.5.2.7.1.1.2.5.1.9.5.1.3.1.8.4.5.1.9.1.1.1.2.1.1.1.4.2.13.1.1.3.1.2.2.3.1.2.1.1.1.2.1.3.1.1.1.1.2.4.1.5.1.2.4.3.10.2.9.7.2.2.1.3.3.1.6.1.2.5.1.1.2.6.4.2.1.200.200.100.300.400.100.100.100.400.1700.304.596.100.1000.800.500.400.200.200.500.1300.801.99.506.95.1399.1100.100.4302.1798.2700.200.100.800.900.100.200.700.100.800.2000.900.1100",
+                        "same_site": "lax",
+                        "timestamp": 1725471949428
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".www.in.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725471949428,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759167949.426781,
+                        "expiry": 33696000.42678094,
+                        "value": "CQEbF4AQEbF4AAKA1AELBFFsAP_gAEPgAAyIKaNV_G__bWlr8X73aftkeY1P9_h77sQxBhfJE-4FzLvW_JwXx2ExNA36tqIKmRIAu3bBIQNlGJDUTVCgaogVryDMak2coTNKJ6BkiFMRO2dYCF5vmwtj-QKY5vr991dx2B-t7dr83dzyz4VHn3a5_2a0WJCdA5-tDfv9bROb-9IOd_x8v4v8_F_rE2_eT1l_tevp7D9-cts7_XW-9_fff_9Ln_-uB_-_wU1AJMNCogDLIkJCDQMIIEAKgrCAigQAAAAkDRAQAmDAp2BgEusJEAIAUAAwQAgABRkACAAASABCIAIACgQAAQCBQABgAQDAQAMDAAGACwEAgABAdAhTAggUCwASMyIhTAhCASCAlsqEEgCBBXCEIs8CCAREwUAAAJABWAAICwWBxJICViQQJcQbQAAEACAQQAVCKTswBBAGbLUXiybRlaYFo-YLntMAyQAA.f_gAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725471949427
+                    }
+                ]
+            },
+            "TAPAD": {
+                "name": "TAPAD",
+                "domain": "www.in.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725471949431,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22id%22%3A%22ad9a3d29-72c2-4dd2-a813-012e70354bd0%22%7D",
+                        "same_site": "strict",
+                        "timestamp": 1725471949431
+                    }
+                ]
+            },
+            "weather_api_cookie": {
+                "name": "weather_api_cookie",
+                "domain": "www.in.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725471936373,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725558336,
+                        "expiry": 86400,
+                        "value": "athensgr",
+                        "same_site": "unspecified",
+                        "timestamp": 1725471936372
+                    }
+                ]
+            }
+        }
+    },
+    "onesignal.com": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".onesignal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725471936541,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725473736.540516,
+                        "expiry": 1800.5405158996582,
+                        "value": "I_BbivjOR1VHR04DpOi__W29MpSBg_aLibokM4doKes-1725471936-1.0.1.1-4GUw3S0taHlMPUIeInX87ZDFw9JEtY46GVrBWBswwJvFC8xhaYSVpBmMAKQuGIjS3UFr80GRw73KjYzbjlUuEA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471936541
+                    }
+                ]
+            }
+        }
+    },
+    "tagger.opecloud.com": {
+        "/": {
+            "ope_uid": {
+                "name": "ope_uid",
+                "domain": ".tagger.opecloud.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725471950613,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757007950.611771,
+                        "expiry": 31536000.611771107,
+                        "value": "2-h2Bzl4Qq0TLy3T/ewzzCRsWsNh2KJvsbOndsLH31OYwLpg+w4Iu7xpppItMn01KmmQSe2A==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471950612
+                    }
+                ]
+            },
+            "ope_uidp": {
+                "name": "ope_uidp",
+                "domain": ".tagger.opecloud.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725471950614,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757007950.611827,
+                        "expiry": 31536000.611826897,
+                        "value": "36d441ac-36e8-4a8f-8882-5d6d56290249",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725471950613
+                    }
+                ]
+            }
+        }
+    }
+}

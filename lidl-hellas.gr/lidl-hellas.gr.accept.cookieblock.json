@@ -1,0 +1,480 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472374283,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725473274.277861,
+                        "expiry": 900.2778611183167,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472374278
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472369861,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741283569.860423,
+                        "expiry": 15811200.860423088,
+                        "value": "517=lXAp7co3ABJ-SOgwxtZ-tFhWZ_GnWc0c0j-LX5tNoi-ZqHfrqTBm4fs3oxeqCaxNyBgfyoLezHsGdwKENWmnDYYKSY680vBUFFEGHUe5efgoaD4_IYRU6tnE59u1MnE7ZKOKqd_e5PwG4cvZNIvI2z8dsj7QrgE0p8VRoYlTgG8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472369860
+                    }
+                ]
+            }
+        }
+    },
+    "lidl-hellas.gr": {
+        "/": {
+            "FPGSID": {
+                "name": "FPGSID",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472373618,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474173.608295,
+                        "expiry": 1800.6082949638367,
+                        "value": "1.1725472373.1725472373.G-3SJPW2GGKN.K7NjP457rHMErh2xg9cOZw",
+                        "same_site": "strict",
+                        "timestamp": 1725472373613
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.66641497612,
+                        "value": "1.1725472373.1725472373.G-3SJPW2GGKN.2WdpdrkZUYjz3SKF3oGY0w",
+                        "same_site": "strict",
+                        "timestamp": 1725472373667
+                    }
+                ]
+            },
+            "FPID": {
+                "name": "FPID",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472373610,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032373.608063,
+                        "expiry": 34560000.60806298,
+                        "value": "FPID2.2.1fgSVs0RrNTMPDiXXuSWRWgW%2BVPCEvhvIHVXawRj4Jc%3D.1725472373",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472373609
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.66633606,
+                        "value": "FPID2.2.1fgSVs0RrNTMPDiXXuSWRWgW%2BVPCEvhvIHVXawRj4Jc%3D.1725472373",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472373667
+                    }
+                ]
+            },
+            "FPLC": {
+                "name": "FPLC",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472373613,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725544373.608249,
+                        "expiry": 72000.60824894905,
+                        "value": "s6iE6%2FXSGcWrmfEjjZ9d1THmdoFQ0hSPGHNIyZjSFIaSohz71s4Pz019Qjyx27vYXVN%2FTmshqyRYyEgV%2FUlYB%2FBcD6NYyTKs600PaOyN5ysJpzo2Yega1bYu79mhyQ%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472373611
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 72000.66638803482,
+                        "value": "oH7thCfPRtDGJRIBunBUmttcyT4SA1xkOlD73bMaJO0jT4sCF1ZYSZEl3w3nXypFxob7M2HDLx1X7CFLaTtufaOcbLxz1el7sx4FoblSTdlAFyyaPNuyD%2FDI7pcQWg%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472373667
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472371395,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757008371,
+                        "expiry": 31536000,
+                        "value": "2024-09-04T17:52:51.384Z",
+                        "same_site": "lax",
+                        "timestamp": 1725472371385
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472362033,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757008362,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+19%3A52%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0",
+                        "same_site": "lax",
+                        "timestamp": 1725472362033
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+19%3A52%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d50c3b9-8f79-44a1-8e21-50e7b745798e&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1725472362035
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+19%3A52%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d50c3b9-8f79-44a1-8e21-50e7b745798e&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.lidl-hellas.gr%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725472362036
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+19%3A52%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d50c3b9-8f79-44a1-8e21-50e7b745798e&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.lidl-hellas.gr%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725472362218
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+19%3A52%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d50c3b9-8f79-44a1-8e21-50e7b745798e&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.lidl-hellas.gr%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725472362220
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+19%3A52%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d50c3b9-8f79-44a1-8e21-50e7b745798e&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.lidl-hellas.gr%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725472362231
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+19%3A52%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d50c3b9-8f79-44a1-8e21-50e7b745798e&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.lidl-hellas.gr%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725472362231
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+19%3A52%3A51+GMT%2B0200+(Central+European+Summer+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d50c3b9-8f79-44a1-8e21-50e7b745798e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1",
+                        "same_site": "lax",
+                        "timestamp": 1725472371406
+                    }
+                ]
+            },
+            "_detectRootDomain": {
+                "name": "_detectRootDomain",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472371404,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725558771,
+                        "expiry": 86400,
+                        "value": "testRootDomain",
+                        "same_site": "lax",
+                        "timestamp": 1725472371396
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472373893,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733248373,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725472373891.652009003921657172",
+                        "same_site": "lax",
+                        "timestamp": 1725472373892
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725472373264,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032373.26159,
+                        "expiry": 34560000.261590004,
+                        "value": "GA1.1.821096638.1725472373",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472373263
+                    }
+                ]
+            },
+            "_ga_3SJPW2GGKN": {
+                "name": "_ga_3SJPW2GGKN",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472373263,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032373.261319,
+                        "expiry": 34560000.26131892,
+                        "value": "GS1.1.1725472373.1.0.1725472373.0.0.1976306385",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472373262
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.265456915,
+                        "value": "deleted",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472373265
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.26560712,
+                        "value": "GS1.1.1725472373.1.1.1725472373.0.0.1976306385",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472373266
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.50500202,
+                        "value": "GS1.1.1725472373.1.1.1725472374.0.0.1976306385",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472374506
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725472372705,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733248372,
+                        "expiry": 7776000,
+                        "value": "1.1.582894030.1725472373",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725472372704
+                    }
+                ]
+            },
+            "kameleoonVisitorCode": {
+                "name": "kameleoonVisitorCode",
+                "domain": ".lidl-hellas.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472371405,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757008371,
+                        "expiry": 31536000,
+                        "value": "9f4gr9o28auvnu5m",
+                        "same_site": "lax",
+                        "timestamp": 1725472371404
+                    }
+                ]
+            },
+            "LidlID": {
+                "name": "LidlID",
+                "domain": "www.lidl-hellas.gr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725472373057,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757032373.05418,
+                        "expiry": 31560000.054179907,
+                        "value": "25272813-08a2-4392-934a-780da6cdbc4e",
+                        "same_site": "strict",
+                        "timestamp": 1725472373055
+                    }
+                ]
+            },
+            "UserVisits": {
+                "name": "UserVisits",
+                "domain": "www.lidl-hellas.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725472372699,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757008372,
+                        "expiry": 31536000,
+                        "value": "current_visit_date:04.09.2024",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472372697
+                    }
+                ]
+            },
+            "adSessionId": {
+                "name": "adSessionId",
+                "domain": "www.lidl-hellas.gr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725472372712,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760032372.710754,
+                        "expiry": 34560000.71075392,
+                        "value": "7D9FB554-0AC3-44C1-B419-5BC49627D2D6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725472372711
+                    }
+                ]
+            }
+        }
+    }
+}

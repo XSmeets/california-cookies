@@ -1,0 +1,27 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725529801600,
+                "storeId": "0",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741341001.596915,
+                        "expiry": 15811200.596915007,
+                        "value": "517=YW0nUnEBq6mgrQ4gCRetGIYRbD22i-Wq-TyrslzVGskDinESA-jZ7nObuucNATcTJ1E3Ruks7tqW5Z9k-tS2gHqBeJh_hhHCb22VbHus8bnZpF8SwBZCB5wiV8raCX7luo46Qb-uUfDEUDAqUxoZI_GTc1kKnvqHVq4a9uGEUB9RRcQa2ntxMvCzO7xY-9xCPjRIohbuJSKdEw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725529801600
+                    }
+                ]
+            }
+        }
+    }
+}

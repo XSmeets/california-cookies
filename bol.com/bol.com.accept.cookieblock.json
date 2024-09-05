@@ -1,0 +1,1154 @@
+{
+    "bol.com": {
+        "/": {
+            "XSC": {
+                "name": "XSC",
+                "domain": ".bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479337324,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039337.318523,
+                        "expiry": 34560000.31852293,
+                        "value": "wW7wu7P3STOGKXzFaDVMpwgwEBqtadOr",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479337323
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.65470505,
+                        "value": "wW7wu7P3STOGKXzFaDVMpwgwEBqtadOr",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479337657
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".bol.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479335399,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031335,
+                        "expiry": 15552000,
+                        "value": "ID=685ab5006f77e1bd:T=1725479335:RT=1725479335:S=AA-AfjaqtJmAOKpvTylpEvrvGy8U",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479335398
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "ID=09bb2458711aed2e:T=1725479335:RT=1725479335:S=AA-AfjaTWEhJreZ7fa8mwpmXWNEL",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479335400
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".bol.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479336107,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733255336,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725479336105.261224916243082434",
+                        "same_site": "lax",
+                        "timestamp": 1725479336106
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".bol.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479335437,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039335.434888,
+                        "expiry": 34560000.434887886,
+                        "value": "GA1.1.1085143034.1725479335",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479335436
+                    }
+                ]
+            },
+            "_ga_MY1G523SMZ": {
+                "name": "_ga_MY1G523SMZ",
+                "domain": ".bol.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479335436,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039335.434576,
+                        "expiry": 34560000.434576035,
+                        "value": "GS1.1.1725479335.1.0.1725479335.60.0.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479335435
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.80709791,
+                        "value": "deleted",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479340808
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".bol.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479336084,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733255336,
+                        "expiry": 7776000,
+                        "value": "1.1.1101898159.1725479336",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479336083
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479334744,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334743
+                    }
+                ]
+            },
+            "s_fid": {
+                "name": "s_fid",
+                "domain": ".bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479334732,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039334.729332,
+                        "expiry": 34560000.72933197,
+                        "value": "63F76D851BAB2759-2084E92008F9C665",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334730
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.73855591,
+                        "value": "63F76D851BAB2759-2084E92008F9C665",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334745
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.8702569,
+                        "value": "63F76D851BAB2759-2084E92008F9C665",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334870
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.239223,
+                        "value": "63F76D851BAB2759-2084E92008F9C665",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335241
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.99028301,
+                        "value": "63F76D851BAB2759-2084E92008F9C665",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479336990
+                    }
+                ]
+            },
+            "s_vi": {
+                "name": "s_vi",
+                "domain": ".bol.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479335559,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039335.557016,
+                        "expiry": 34560000.557015896,
+                        "value": "[CS]v1|336C5CD38C2FD5C4-60000BEC21749B2B[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335557
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.739142895,
+                        "value": "[CS]v1|336C5CD38C2FD5C4-60000BEC21749B2B[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335740
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.97476196,
+                        "value": "[CS]v1|336C5CD38C2FD5C4-60000BEC21749B2B[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335975
+                    }
+                ]
+            },
+            "BUI": {
+                "name": "BUI",
+                "domain": ".www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479330329,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039330.315418,
+                        "expiry": 34560000.315418005,
+                        "value": "3d4b20cd-6b30-4e69-9b08-ef85cb8c2ddc",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479330318
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.83735204,
+                        "value": "3d4b20cd-6b30-4e69-9b08-ef85cb8c2ddc",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479330838
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.03344107,
+                        "value": "3d4b20cd-6b30-4e69-9b08-ef85cb8c2ddc",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479333034
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.7796669,
+                        "value": "3d4b20cd-6b30-4e69-9b08-ef85cb8c2ddc",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479333780
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.012927055,
+                        "value": "3d4b20cd-6b30-4e69-9b08-ef85cb8c2ddc",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334014
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.23358011,
+                        "value": "3d4b20cd-6b30-4e69-9b08-ef85cb8c2ddc",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.30421591,
+                        "value": "3d4b20cd-6b30-4e69-9b08-ef85cb8c2ddc",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335317
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.64180112,
+                        "value": "3d4b20cd-6b30-4e69-9b08-ef85cb8c2ddc",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335642
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.31816006,
+                        "value": "3d4b20cd-6b30-4e69-9b08-ef85cb8c2ddc",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479337320
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.65448403,
+                        "value": "3d4b20cd-6b30-4e69-9b08-ef85cb8c2ddc",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479337657
+                    }
+                ]
+            },
+            "P": {
+                "name": "P",
+                "domain": ".www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479337323,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": ".wspc-deployment-75d6cc8fb5-kw9wd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479337321
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": ".wspc-deployment-75d6cc8fb5-mfg68",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479337657
+                    }
+                ]
+            },
+            "bltgSessionId": {
+                "name": "bltgSessionId",
+                "domain": ".www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479330337,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0345da7c-847d-4f03-92b2-6f5d3215cde5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479330336
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0345da7c-847d-4f03-92b2-6f5d3215cde5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479330839
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0345da7c-847d-4f03-92b2-6f5d3215cde5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479333035
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0345da7c-847d-4f03-92b2-6f5d3215cde5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479333781
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0345da7c-847d-4f03-92b2-6f5d3215cde5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334014
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0345da7c-847d-4f03-92b2-6f5d3215cde5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0345da7c-847d-4f03-92b2-6f5d3215cde5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335318
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0345da7c-847d-4f03-92b2-6f5d3215cde5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335642
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0345da7c-847d-4f03-92b2-6f5d3215cde5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479337320
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0345da7c-847d-4f03-92b2-6f5d3215cde5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479337656
+                    }
+                ]
+            },
+            "bolConsentChoices": {
+                "name": "bolConsentChoices",
+                "domain": ".www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479335240,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481135,
+                        "expiry": 1800,
+                        "value": "source#OFC|version#6|int-tran#true|ext-tran#true|int-beh#true|ext-beh#true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335239
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.318214893341,
+                        "value": "source#OFC|version#6|int-tran#true|ext-tran#true|int-beh#true|ext-beh#true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479337320
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.654522895813,
+                        "value": "source#OFC|version#6|int-tran#true|ext-tran#true|int-beh#true|ext-beh#true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479337657
+                    }
+                ]
+            },
+            "language": {
+                "name": "language",
+                "domain": ".www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479336992,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "nl-NL!",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479336992
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "nl-NL!",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479337324
+                    }
+                ]
+            },
+            "locale": {
+                "name": "locale",
+                "domain": ".www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479336992,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479336991
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.318979025,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479337325
+                    }
+                ]
+            },
+            "shopping_session_id": {
+                "name": "shopping_session_id",
+                "domain": ".www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479330336,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4ab03197b6d686870715ed220e17405237b50e2e8da803390a39b9fe2f540a77",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479330329
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4ab03197b6d686870715ed220e17405237b50e2e8da803390a39b9fe2f540a77",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479330838
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4ab03197b6d686870715ed220e17405237b50e2e8da803390a39b9fe2f540a77",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479333034
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4ab03197b6d686870715ed220e17405237b50e2e8da803390a39b9fe2f540a77",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479333780
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4ab03197b6d686870715ed220e17405237b50e2e8da803390a39b9fe2f540a77",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479334014
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4ab03197b6d686870715ed220e17405237b50e2e8da803390a39b9fe2f540a77",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479335234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4ab03197b6d686870715ed220e17405237b50e2e8da803390a39b9fe2f540a77",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479335317
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4ab03197b6d686870715ed220e17405237b50e2e8da803390a39b9fe2f540a77",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479335642
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4ab03197b6d686870715ed220e17405237b50e2e8da803390a39b9fe2f540a77",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479337320
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4ab03197b6d686870715ed220e17405237b50e2e8da803390a39b9fe2f540a77",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479337656
+                    }
+                ]
+            },
+            "XSRF-TOKEN": {
+                "name": "XSRF-TOKEN",
+                "domain": "www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479330841,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "e12d5693-cb05-4ade-bc02-b10bd30a0ace",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479330839
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "e12d5693-cb05-4ade-bc02-b10bd30a0ace",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479333035
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "e12d5693-cb05-4ade-bc02-b10bd30a0ace",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479333781
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "e12d5693-cb05-4ade-bc02-b10bd30a0ace",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334014
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "e12d5693-cb05-4ade-bc02-b10bd30a0ace",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335234
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "e12d5693-cb05-4ade-bc02-b10bd30a0ace",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335318
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "e12d5693-cb05-4ade-bc02-b10bd30a0ace",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335642
+                    }
+                ]
+            },
+            "px_eVar14": {
+                "name": "px_eVar14",
+                "domain": "www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479334737,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Browse",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334737
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Browse",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334745
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Browse",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334871
+                    }
+                ]
+            },
+            "px_nr": {
+                "name": "px_nr",
+                "domain": "www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479334736,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728071334,
+                        "expiry": 2592000,
+                        "value": "1725479334730-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334735
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "1725479334739-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334745
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "1725479334870-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334871
+                    }
+                ]
+            },
+            "px_page": {
+                "name": "px_page",
+                "domain": "www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479334735,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "no%20cms%20page",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334733
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "no%20cms%20page",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334745
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "no%20cms%20page",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334871
+                    }
+                ]
+            },
+            "px_pp": {
+                "name": "px_pp",
+                "domain": "www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479334747,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "main%3Aalgemeen",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334746
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "main%3Aalgemeen",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334872
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "consent%3Apopup%3Astep-1%3Aaccept-all",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335241
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "main%3Aalgemeen",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479336991
+                    }
+                ]
+            },
+            "px_prop34": {
+                "name": "px_prop34",
+                "domain": "www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479334741,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334740
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "consent",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334745
+                    }
+                ]
+            },
+            "px_prop36": {
+                "name": "px_prop36",
+                "domain": "www.bol.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479334740,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "none",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334739
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "none",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334745
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "none",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334872
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "none",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479335241
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "none",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479336991
+                    }
+                ]
+            },
+            "px_visit": {
+                "name": "px_visit",
+                "domain": "www.bol.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479334739,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481134,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479334738
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479337666,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039337.664386,
+                        "expiry": 34560000.664386034,
+                        "value": "AHWqTUnLh09S3BuHsEsi8_H3yL5bC5iqbHXcVEmTP0yV79qkFC2nVbFxNw4vVhzY",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479337665
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479336064,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725480236.063146,
+                        "expiry": 900.0631461143494,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479336063
+                    }
+                ]
+            }
+        }
+    }
+}

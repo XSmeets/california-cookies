@@ -1,0 +1,741 @@
+{
+    "adverticum.net": {
+        "/": {
+            "_goa3session": {
+                "name": "_goa3session",
+                "domain": ".adverticum.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474090702,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481290.699871,
+                        "expiry": 7200.699871063232,
+                        "value": "1725474090408",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474090701
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.915679931641,
+                        "value": "1725474091040",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474090918
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.929977893829,
+                        "value": "1725474091050",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474090930
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.980653047562,
+                        "value": "1725474091105",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474090982
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.081466913223,
+                        "value": "1725474091031",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474091083
+                    }
+                ]
+            },
+            "_goa3test": {
+                "name": "_goa3test",
+                "domain": ".adverticum.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474090701,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760034090.69983,
+                        "expiry": 34560000.699830055,
+                        "value": "eyJzIjoxNzI1NDc0MDkwNDA4LCJkIjp7fX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474090700
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.9155159,
+                        "value": "eyJzIjoxNzI1NDc0MDkxMDQwLCJkIjp7fX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474090917
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.929914,
+                        "value": "eyJzIjoxNzI1NDc0MDkxMDUwLCJkIjp7fX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474090930
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.98057389,
+                        "value": "eyJzIjoxNzI1NDc0MDkxMTA1LCJkIjp7fX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474090981
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.08139205,
+                        "value": "eyJzIjoxNzI1NDc0MDkxMDMxLCJkIjp7fX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474091083
+                    }
+                ]
+            }
+        }
+    },
+    "jofogas.hu": {
+        "/": {
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".jofogas.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474090957,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250090,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725474090955.607331062363629091",
+                        "same_site": "lax",
+                        "timestamp": 1725474090956
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".jofogas.hu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474090053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034090.051673,
+                        "expiry": 34560000.051672935,
+                        "value": "GA1.1.638718075.1725474090",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474090052
+                    }
+                ]
+            },
+            "_ga_53NTNVESP4": {
+                "name": "_ga_53NTNVESP4",
+                "domain": ".jofogas.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474090052,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034090.051339,
+                        "expiry": 34560000.05133891,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474090051
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.05149293,
+                        "value": "GS1.1.1725474090.1.0.1725474090.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474090052
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.053761005,
+                        "value": "GS1.1.1725474090.1.1.1725474090.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474090054
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.34590292,
+                        "value": "GS1.1.1725474090.1.1.1725474091.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474091346
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".jofogas.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474090047,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250090,
+                        "expiry": 7776000,
+                        "value": "1.1.758048786.1725474090",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474090046
+                    }
+                ]
+            },
+            "_hjSessionUser_167525": {
+                "name": "_hjSessionUser_167525",
+                "domain": ".jofogas.hu",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474090630,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010090,
+                        "expiry": 31536000,
+                        "value": "eyJpZCI6ImZlMGUyN2NlLTI2YTUtNTkzZi04MzM0LTExNTMxNGVhYmQzMyIsImNyZWF0ZWQiOjE3MjU0NzQwOTA2MjcsImV4aXN0aW5nIjpmYWxzZX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474090627
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "eyJpZCI6ImZlMGUyN2NlLTI2YTUtNTkzZi04MzM0LTExNTMxNGVhYmQzMyIsImNyZWF0ZWQiOjE3MjU0NzQwOTA2MjcsImV4aXN0aW5nIjp0cnVlfQ==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474090632
+                    }
+                ]
+            },
+            "_hjSession_167525": {
+                "name": "_hjSession_167525",
+                "domain": ".jofogas.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474090634,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725475890,
+                        "expiry": 1800,
+                        "value": "eyJpZCI6IjdiNDQzMDNkLTU3YTAtNDNmNC1iZmQzLWZhYTY3MjI4NzU2YyIsImMiOjE3MjU0NzQwOTA2MjgsInMiOjEsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474090632
+                    }
+                ]
+            },
+            "_hjTLDTest": {
+                "name": "_hjTLDTest",
+                "domain": ".jofogas.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474090621,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": ".jofogas.hu",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474090620
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".jofogas.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474085981,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736018485,
+                        "expiry": 10544400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU0NTEtYzVhNi02YmI2LTg4MWEtYzM0NTExZGEwZDU1IiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTg6MjE6MjUuOTc4WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE4OjIxOjI1Ljk3OFoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474085980
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 10544400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU0NTEtYzVhNi02YmI2LTg4MWEtYzM0NTExZGEwZDU1IiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTg6MjE6MjUuOTc4WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE4OjIxOjI4LjUxMloiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYW1hem9uIiwic2FsZXNmb3JjZSIsImM6bWF4cG9pbnQtaW50ZXJhY3RpdmUiLCJjOnNjaGlic3RlZC1NUVBYYXF5aCIsImM6ZGlkb21pIiwiYzpxdWFudGNhc3QtbWVhc3VyZW1lbnQiLCJjOm93bmVyaXEiLCJjOnp5cG1lZGlhIiwiYzphYi10YXN0eSIsImM6cGFyZG90IiwiYzphZDRtYXQiLCJjOnR5cGVraXQtYnktYWRvYmUiLCJjOmJldHdlZW4tZGlnaXRhbCIsImM6bGtxZCIsImM6c2VnbWVudCIsImM6YWRvY2VhbiIsImM6bGlua2VkaW4iLCJjOmFvbC1jZG4iLCJjOnZpZGVvbG9neSIsImM6Z29vZ2xlYW5hLTRUWG5KaWdSIiwiYzphZHZlcnRpY3VtLXJ5RWtKMjRYIiwiYzphZG90bW9iIiwiYzp0ZWFsaXVtLVdpd2dqTlg2IiwiYzpzY29vdGEtRVZDd3J5Q2QiXX0sInB1cnBvc2VzIjp7ImVuYWJsZWQiOlsiZ2VvbG9jYXRpb25fZGF0YSIsImRldmljZV9jaGFyYWN0ZXJpc3RpY3MiXX0sInZlbmRvcnNfbGkiOnsiZW5hYmxlZCI6WyJnb29nbGUiLCJjOnp5cG1lZGlhIiwiYzpqb2ZvZ2FzLVF6R0tqaTQ5IiwiYzp2aWRlb2xvZ3kiLCJjOnB1bHNlLXphWHhjbVlXIiwiYzpicmF6ZS1LMlZZelpwUiIsImM6dGVhbGl1bS1XaXdnak5YNiIsImM6c2Nvb3RhLUVWQ3dyeUNkIiwiYzpwdWxzZS0yYTZKUkZocCJdfSwicHVycG9zZXNfbGkiOnsiZW5hYmxlZCI6WyJmZWxoYXN6bmFsLXBkWDRWbkFYIiwib2xkYWx0ZWxqLVppY2Y4WjMyIiwic2FqYXRtYXJrLU1HVk1idGdjIl19LCJ2ZXJzaW9uIjoyLCJhYyI6IkRGdUFTQUZrQ0pJRXZ3UU1BbHJCUU9DaEVGblFNV3dBLkRGdUFTQUZrQ0pJRXZ3UU1BbHJCUU9DaEVGblFNV3dBIn0=",
+                        "same_site": "lax",
+                        "timestamp": 1725474088520
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".jofogas.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474088524,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736018488,
+                        "expiry": 10544400,
+                        "value": "CQEbF4AQEbF4AAHABBENBFFsAP_gAEPgAA6gJeIB9GxUTWFAMHp0YJpAIAAEgBAIigAABgAAAwAACBAAIIQAACAAIAQAJAAAAAAAAAYAAAAACAAAAEAAYIABAAAIAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAABEAAAAgAAAABIQQAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAQQhgSAALAAdABQAFQALgAcAA8ACAAEgAMgAaABEACOAEwAKoAfgBHADRAHOAO4AfoBCACLAEdAOIAdQA7YB_wFHgLUAWwAvMBggDFgGPAMkAhCAA.f_wACHwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725474088520
+                    }
+                ]
+            },
+            "utag_main": {
+                "name": "utag_main",
+                "domain": ".jofogas.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474085791,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010085,
+                        "expiry": 31536000,
+                        "value": "v_id:0191be451b9400236710faeaf7b205075001706d00bd0$_sn:1$_se:1$_ss:1$_st:1725475885780$ses_id:1725474085780%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474085786
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191be451b9400236710faeaf7b205075001706d00bd0$_sn:1$_se:1$_ss:1$_st:1725475885780$ses_id:1725474085780%3Bexp-session$_pn:1%3Bexp-session$dc_visit:1$dc_event:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474086590
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191be451b9400236710faeaf7b205075001706d00bd0$_sn:1$_se:1$_ss:1$_st:1725475885780$ses_id:1725474085780%3Bexp-session$_pn:1%3Bexp-session$dc_visit:1$dc_event:1%3Bexp-session$dc_region:us-east-1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474087530
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191be451b9400236710faeaf7b205075001706d00bd0$_sn:1$_se:2$_ss:0$_st:1725475888527$ses_id:1725474085780%3Bexp-session$_pn:1%3Bexp-session$dc_visit:1$dc_event:1%3Bexp-session$dc_region:us-east-1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474088528
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191be451b9400236710faeaf7b205075001706d00bd0$_sn:1$_se:2$_ss:0$_st:1725475888527$ses_id:1725474085780%3Bexp-session$_pn:1%3Bexp-session$dc_visit:1$dc_event:2%3Bexp-session$dc_region:us-east-1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474088530
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191be451b9400236710faeaf7b205075001706d00bd0$_sn:1$_se:3$_ss:0$_st:1725475888532$ses_id:1725474085780%3Bexp-session$_pn:1%3Bexp-session$dc_visit:1$dc_event:2%3Bexp-session$dc_region:us-east-1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474088533
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191be451b9400236710faeaf7b205075001706d00bd0$_sn:1$_se:3$_ss:0$_st:1725475888532$ses_id:1725474085780%3Bexp-session$_pn:1%3Bexp-session$dc_visit:1$dc_event:3%3Bexp-session$dc_region:us-east-1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474088536
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191be451b9400236710faeaf7b205075001706d00bd0$_sn:1$_se:3$_ss:0$_st:1725475888532$ses_id:1725474085780%3Bexp-session$_pn:1%3Bexp-session$dc_visit:1$dc_event:3%3Bexp-session$dc_region:us-east-1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474088812
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191be451b9400236710faeaf7b205075001706d00bd0$_sn:1$_se:3$_ss:0$_st:1725475888532$ses_id:1725474085780%3Bexp-session$_pn:1%3Bexp-session$dc_visit:1$dc_event:3%3Bexp-session$dc_region:us-east-1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474088894
+                    }
+                ]
+            },
+            "_goa3": {
+                "name": "_goa3",
+                "domain": "www.jofogas.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474090704,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034090.701647,
+                        "expiry": 34560000.70164704,
+                        "value": "eyJ1IjoiMDAwMDAwMCIsImgiOiIifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474090703
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.919162035,
+                        "value": "eyJ1IjoiMDAwMDAwMCIsImgiOiIifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474090923
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.93171501,
+                        "value": "eyJ1IjoiMDAwMDAwMCIsImgiOiIifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474090932
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.981976986,
+                        "value": "eyJ1IjoiMDAwMDAwMCIsImgiOiIifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474090983
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.08580494,
+                        "value": "eyJ1IjoiMDAwMDAwMCIsImgiOiIifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474091086
+                    }
+                ]
+            },
+            "_goa3B": {
+                "name": "_goa3B",
+                "domain": "www.jofogas.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474088950,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034088.947999,
+                        "expiry": 34560000.947999,
+                        "value": "eyJjaHJvbWUiOnRydWUsInZlcnNpb24iOiIxMjguMC4wLjAiLCJ3ZWJraXQiOnRydWV9",
+                        "same_site": "lax",
+                        "timestamp": 1725474088948
+                    }
+                ]
+            },
+            "_goa3GDPR": {
+                "name": "_goa3GDPR",
+                "domain": "www.jofogas.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474088953,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034088.950989,
+                        "expiry": 34560000.95098901,
+                        "value": "eyJnIjp0cnVlLCJjIjoiQ1FFYkY0QVFFYkY0QUFIQUJCRU5CRkZzQVBfZ0FFUGdBQTZnSmVJQjlHeFVUV0ZBTUhwMFlKcEFJQUFFZ0JBSWlnQUFCZ0FBQXdBQUNCQUFJSVFBQUNBQUlBUUFKQUFBQUFBQUFBWUFBQUFBQ0FBQUFFQUFZSUFCQUFBSUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBSUFBQUFBQUFBQUFCRUFBQUFnQUFBQUJJUVFBQUFBQUFCQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUVFoZ1NBQUxBQWRBQlFBRlFBTGdBY0FBOEFDQUFFZ0FNZ0FhQUJFQUNPQUV3QUtvQWZnQkhBRFJBSE9BTzRBZm9CQ0FDTEFFZEFPSUFkUUE3WUJfd0ZIZ0xVQVd3QXZNQmdnREZnR1BBTWtBaENBQS5mX3dBQ0h3QUFBQUEiLCJ0IjoxNzI1NDc0MDg4OTUwfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474088951
+                    }
+                ]
+            },
+            "_goa3session": {
+                "name": "_goa3session",
+                "domain": "www.jofogas.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474090705,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481290,
+                        "expiry": 7200,
+                        "value": "eyJzIjoxNzI1NDc0MDkwNDA4fQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474090704
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7201,
+                        "value": "eyJzIjoxNzI1NDc0MDkxMDQwfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474090924
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7201,
+                        "value": "eyJzIjoxNzI1NDc0MDkxMDUwfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474090932
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7201,
+                        "value": "eyJzIjoxNzI1NDc0MDkxMTA1fQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474090983
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7200,
+                        "value": "eyJzIjoxNzI1NDc0MDkxMDMxfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474091088
+                    }
+                ]
+            },
+            "_goa3test": {
+                "name": "_goa3test",
+                "domain": "www.jofogas.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474090704,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034090.702002,
+                        "expiry": 34560000.70200205,
+                        "value": "eyJzIjoxNzI1NDc0MDkwNDA4LCJkIjp7fX0=",
+                        "same_site": "lax",
+                        "timestamp": 1725474090704
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.91995907,
+                        "value": "eyJzIjoxNzI1NDc0MDkwNDA4LCJkIjp7fX0=",
+                        "same_site": "lax",
+                        "timestamp": 1725474090924
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.93206,
+                        "value": "eyJzIjoxNzI1NDc0MDkwNDA4LCJkIjp7fX0=",
+                        "same_site": "lax",
+                        "timestamp": 1725474090932
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.98252702,
+                        "value": "eyJzIjoxNzI1NDc0MDkwNDA4LCJkIjp7fX0=",
+                        "same_site": "lax",
+                        "timestamp": 1725474090983
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.086453915,
+                        "value": "eyJzIjoxNzI1NDc0MDkwNDA4LCJkIjp7fX0=",
+                        "same_site": "lax",
+                        "timestamp": 1725474091087
+                    }
+                ]
+            }
+        }
+    },
+    "tealiumiq.com": {
+        "/": {
+            "TAPID": {
+                "name": "TAPID",
+                "domain": ".tealiumiq.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474087530,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010087.5266,
+                        "expiry": 31536000.526599884,
+                        "value": "adevinta/jofogas>0191be451b9400236710faeaf7b205075001706d00bd0|",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474087527
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.809577942,
+                        "value": "adevinta/jofogas>0191be451b9400236710faeaf7b205075001706d00bd0|",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474088810
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.89228797,
+                        "value": "adevinta/jofogas>0191be451b9400236710faeaf7b205075001706d00bd0|",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474088893
+                    }
+                ]
+            }
+        }
+    }
+}

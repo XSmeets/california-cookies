@@ -1,0 +1,1455 @@
+{
+    "adform.net": {
+        "/": {
+            "C": {
+                "name": "C",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473853308,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728065853.307211,
+                        "expiry": 2592000.3072109222,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473853307
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473853724,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730657853.717481,
+                        "expiry": 5184000.717480898,
+                        "value": "8491380063071942763",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473853723
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473855929,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249855.928628,
+                        "expiry": 7776000.928627968,
+                        "value": "fDDA3dVlVQYmrOxMgJtVjd_LmItp0QcE2RDqrX7m3sWqi5AKg-up9hdfyjbeBbqVmwBvuz_lnR9zatbKrEum05K9H5TW81qbGCLB5A8P9zc.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855929
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.076860905,
+                        "value": "fDDA3dVlVQYmrOxMgJtVjd_LmItp0QcE2RDqrX7m3sWqi5AKg-up9hdfyjbeBbqVmwBvuz_lnR9zatbKrEum05K9H5TW81qbGCLB5A8P9zc.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856077
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473855930,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760033855.92866,
+                        "expiry": 34560000.928659916,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855929
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.07690811,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856077
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473855930,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249855.928674,
+                        "expiry": 7776000.928673983,
+                        "value": "8536516788587386150",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855930
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.076925993,
+                        "value": "8536516788587386150",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856077
+                    }
+                ]
+            }
+        }
+    },
+    "adverticum.net": {
+        "/": {
+            "_goa3session": {
+                "name": "_goa3session",
+                "domain": ".adverticum.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473849313,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481049.311259,
+                        "expiry": 7200.311259031296,
+                        "value": "1725473849386",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473849312
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.739120006561,
+                        "value": "1725473849386",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473851740
+                    }
+                ]
+            },
+            "_goa3test": {
+                "name": "_goa3test",
+                "domain": ".adverticum.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473849312,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760033849.311219,
+                        "expiry": 34560000.31121898,
+                        "value": "eyJzIjoxNzI1NDczODQ5Mzg2LCJkIjp7fX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473849311
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.73902202,
+                        "value": "eyJzIjoxNzI1NDczODQ5Mzg2LCJkIjp7fX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473851739
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "CMID": {
+                "name": "CMID",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473855953,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009855.952206,
+                        "expiry": 31536000.952205896,
+                        "value": "ZtikQNHM4KkAABrGAG87AgAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855952
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.123575926,
+                        "value": "ZtikQNHM4KkAABrGAG87AgAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856124
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.130014896,
+                        "value": "ZtikQNHM4KkAABrGAG87AgAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856130
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.454862118,
+                        "value": "ZtikQNHM4KkAABrGAG87AgAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856456
+                    }
+                ]
+            },
+            "CMPRO": {
+                "name": "CMPRO",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473855954,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249855.952245,
+                        "expiry": 7776000.952244997,
+                        "value": "1067",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855953
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.1236178875,
+                        "value": "1067",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856124
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.130049944,
+                        "value": "1067",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856130
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.454921961,
+                        "value": "1067",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856456
+                    }
+                ]
+            },
+            "CMPS": {
+                "name": "CMPS",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473855953,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249855.952232,
+                        "expiry": 7776000.952231884,
+                        "value": "1067",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855953
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473859442,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759169859.436332,
+                        "expiry": 33696000.43633199,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473859441
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473859438,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759169859.436247,
+                        "expiry": 33696000.43624711,
+                        "value": "154096e2-20fa-46a4-8f51-60ddb5866de7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473859436
+                    }
+                ]
+            }
+        }
+    },
+    "dotomi.com": {
+        "/": {
+            "DotomiUser": {
+                "name": "DotomiUser",
+                "domain": ".dotomi.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473856691,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759429056.68989,
+                        "expiry": 33955200.68988991,
+                        "value": "697507733586393247$3$1171732833$$1$$1725473856876$1725473856876",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856690
+                    }
+                ]
+            },
+            "rts": {
+                "name": "rts",
+                "domain": ".dotomi.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473856691,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759429056.689931,
+                        "expiry": 33955200.689930916,
+                        "value": "1725473856876",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856691
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "APC": {
+                "name": "APC",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473856002,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741025856.001575,
+                        "expiry": 15552000.001574993,
+                        "value": "AfxxVi4nvLgcXa_K34UH8qidFbrgc0jeRQIq0CFupXbVYNjLvJwaAw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856001
+                    }
+                ]
+            },
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473851209,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760033851.208358,
+                        "expiry": 34560000.20835805,
+                        "value": "AHWqTUkaisMns40Old6dNB3v-bmhfcMRBAqAQOKZh_40kZmdKsizrNLFKtf5yRkQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473851208
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.21447897,
+                        "value": "AHWqTUlKFEOHchlqM1KUZzC0Y5e54HovuZF6ziEuF1lAhPr2_gyCUBj5YlYLjVqP",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473851215
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473856662,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728065856.618805,
+                        "expiry": 2592000.6188049316,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856661
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473856003,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741025856.001623,
+                        "expiry": 15552000.001622915,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856002
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473850884,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474750.880691,
+                        "expiry": 900.8806910514832,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473850881
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.8853900432587,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473850886
+                    }
+                ]
+            }
+        }
+    },
+    "googleadservices.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".googleadservices.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473855726,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249855.725169,
+                        "expiry": 7776000.725168943,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855725
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.742326975,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855742
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.250747919,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473856251
+                    }
+                ]
+            }
+        }
+    },
+    "hit.gemius.pl": {
+        "/": {
+            "Gdyn": {
+                "name": "Gdyn",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473855032,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759601855.030537,
+                        "expiry": 34128000.03053689,
+                        "value": "KlSUlMGGQMGGPHrJ9CKSQg9UssGMz1LoL6nxmGBJknKAy6aUGsRPtP7iGKGGqGeEgGllle82GGUrxFs_fFyGsG..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855031
+                    }
+                ]
+            },
+            "Gdynp": {
+                "name": "Gdynp",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473854737,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759601854.733069,
+                        "expiry": 34128000.73306894,
+                        "value": "lVdwLgIEH1.2giZO2Wa6rM2sdY3YcCS1tbDdt74otcL.S7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473854736
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.03058195,
+                        "value": "gjS6PckIkKmXFyHPgXN8rzs3lfwiweam0YKrpcBS.3v.T7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855032
+                    }
+                ]
+            },
+            "Gtest": {
+                "name": "Gtest",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473854735,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726078654.733029,
+                        "expiry": 604800.7330288887,
+                        "value": "KlQ-ZMXGQMGGPHrJ9CKSQg9UssGMXP8c25nSGD0ZetKIXBG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473854734
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473854734,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759601854.732926,
+                        "expiry": 34128000.73292589,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473854733
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.03018808,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855031
+                    }
+                ]
+            }
+        }
+    },
+    "mediaplex.com": {
+        "/": {
+            "svid": {
+                "name": "svid",
+                "domain": ".mediaplex.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473857325,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759429057.324552,
+                        "expiry": 33955200.32455206,
+                        "value": "697507733586393247",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473857325
+                    }
+                ]
+            }
+        }
+    },
+    "onesignal.com": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".onesignal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473848950,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725475648.94975,
+                        "expiry": 1800.9497499465942,
+                        "value": "HCo0KOUwiW_B4LvLsDVtBtq5VLxcgD12Ig_SirBB0UU-1725473849-1.0.1.1-wOdq96ytdPLYap8BmS23NaM6jjL7wfjj7Yo_XcoHIDNlt0GFdiJAsv3cXES8jpD7UuNCCBVCexUdmpaSKUq1uQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473848950
+                    }
+                ]
+            }
+        }
+    },
+    "rubiconproject.com": {
+        "/": {
+            "audit": {
+                "name": "audit",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473851702,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009851.696374,
+                        "expiry": 31536000.69637394,
+                        "value": "1|ea/lzy4kMwOgZKMKyfDCIJ1OsJ7GC/XDFVNe1W5oftlLQHTuqC9ePJvt10njPlgjc0tlcRf/fxQwHTRO1/p4iI8v3x9XP9Hf1oINDIGYWdDc6UO785F0Pw==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473851702
+                    }
+                ]
+            },
+            "audit_p": {
+                "name": "audit_p",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473851698,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009851.696217,
+                        "expiry": 31536000.69621706,
+                        "value": "1|ea/lzy4kMwOgZKMKyfDCIJ1OsJ7GC/XDFVNe1W5oftlLQHTuqC9ePJvt10njPlgjc0tlcRf/fxQwHTRO1/p4iI8v3x9XP9Hf1oINDIGYWdDc6UO785F0Pw==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473851697
+                    }
+                ]
+            },
+            "khaos": {
+                "name": "khaos",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473851701,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009851.696317,
+                        "expiry": 31536000.696316957,
+                        "value": "M0O6KWZ7-23-1U30",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473851698
+                    }
+                ]
+            },
+            "khaos_p": {
+                "name": "khaos_p",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473851702,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009851.696346,
+                        "expiry": 31536000.696346045,
+                        "value": "M0O6KWZ7-23-1U30",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473851701
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473851703,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249851.696395,
+                        "expiry": 7776000.69639492,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473851702
+                    }
+                ]
+            }
+        }
+    },
+    "startlap.hu": {
+        "/": {
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".startlap.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473855605,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741025854,
+                        "expiry": 15551999,
+                        "value": "ID=95f8c31dfcb5e47d:T=1725473854:RT=1725473854:S=AA-AfjZ3d_HDKZSA1ZcLqQ84eNP3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855605
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=c668e70fde084da7:T=1725473854:RT=1725473854:S=AA-AfjYD23DtxI-NeGg6wMhIqJjQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855608
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".startlap.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473855603,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759169854,
+                        "expiry": 33695999,
+                        "value": "ID=6736d6a7d1d25bf4:T=1725473854:RT=1725473854:S=ALNI_MYr4zcQy-VXcrbilXL-oNHRCGzEpQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855602
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=c316ec599e102da4:T=1725473854:RT=1725473854:S=ALNI_MZhCOl7Lm-uLwECclaAYWG8D_n1Fg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855607
+                    }
+                ]
+            },
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".startlap.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473853802,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759601853,
+                        "expiry": 34128000,
+                        "value": "Bw9hFeqmJoVgrsD7tXBlRphJuJpNLlxUwLmnwy8wW8b.S7|1725473853|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473853801
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".startlap.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473855605,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759169854,
+                        "expiry": 33695999,
+                        "value": "UID=00000eebc22f4e31:T=1725473854:RT=1725473854:S=ALNI_MYAHemZMbXtChYaC7LfjeO00uFjxw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855604
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000eebc0fa0bee:T=1725473854:RT=1725473854:S=ALNI_Ma-vQ9obkqVKBUVhdIJuKW6OMsIaw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473855608
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".startlap.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473851327,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733249851,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725473851325.542770130814180516",
+                        "same_site": "lax",
+                        "timestamp": 1725473851326
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725473851325.542770130814180516",
+                        "same_site": "lax",
+                        "timestamp": 1725473853296
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".startlap.hu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473849631,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033849.628646,
+                        "expiry": 34560000.6286459,
+                        "value": "GA1.1.323414223.1725473850",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473849630
+                    }
+                ]
+            },
+            "_ga_F91WKD2W9Z": {
+                "name": "_ga_F91WKD2W9Z",
+                "domain": ".startlap.hu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473849630,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033849.628415,
+                        "expiry": 34560000.62841511,
+                        "value": "GS1.1.1725473849.1.0.1725473849.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473849629
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.416821,
+                        "value": "GS1.1.1725473849.1.0.1725473870.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473870417
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".startlap.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473846635,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733249846,
+                        "expiry": 7776000,
+                        "value": "1.1.1259372714.1725473847",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473846634
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775997,
+                        "value": "1.1.1259372714.1725473847",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473850254
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775997,
+                        "value": "1.1.1259372714.1725473847",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473850262
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".startlap.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473859644,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759169859,
+                        "expiry": 33696000,
+                        "value": "4zT-C19YY0ZERFpDd21vU2tzZ2FHRHoySFFDRUNOdWpnTjdLRWlvd3lFTWtiZ0pLN1g2aWZUMzduV3ElMkZZJTJGJTJCbzZ0MkNYeHpmd250U2V1ZzlDejM5bGIzRktWQkI2blM2SkM4NkhkekhpT0xPVzRoNktjZGdaZWwlMkIlMkZudFZCdXIwcTZaQWdOY0h2YmtFdDFLZFdnMGlFdmZoeG1NRDl6NDVmUlR3Vnk0d0NnRlpWM0NkQ1RDRFAlMkJSZTdkTnM5ZzBpTllZOSUyRjF1ZE53SFFrMkhEMGNnZWQ1SnFnenclM0QlM0Q",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473859642
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".startlap.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473858713,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725477458,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473858712
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".startlap.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473846177,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725477446,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473846176
+                    }
+                ]
+            },
+            "addtl_consent": {
+                "name": "addtl_consent",
+                "domain": ".www.startlap.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473853410,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759169853,
+                        "expiry": 33696000,
+                        "value": "1~43.3.9.6.9.13.6.4.15.9.5.2.11.8.1.3.2.10.33.4.6.9.17.2.9.20.7.20.5.20.7.2.2.1.4.40.4.14.9.3.10.6.2.9.6.6.9.8.33.5.3.1.27.1.17.10.9.1.8.6.2.8.3.4.146.65.1.17.1.18.25.35.5.18.9.7.41.2.4.18.24.4.9.6.5.2.14.25.3.2.2.8.28.8.6.3.10.4.20.2.17.10.11.1.3.22.16.2.6.8.6.11.6.5.33.11.8.11.28.12.1.5.2.17.9.6.40.17.4.9.15.8.7.3.12.7.2.4.1.7.12.13.22.13.2.6.8.10.1.4.15.2.4.9.4.5.4.7.13.5.15.17.4.14.10.15.2.5.6.2.2.1.2.14.7.4.8.2.9.10.18.12.13.2.18.1.1.3.1.1.9.7.2.16.5.19.8.4.8.5.4.8.4.4.2.14.2.13.4.2.6.9.6.3.2.2.3.7.3.6.10.11.6.3.19.8.3.3.1.2.3.9.19.26.3.10.13.4.3.4.6.3.3.3.3.1.1.1.6.11.3.1.1.11.6.1.10.13.3.2.2.4.3.2.2.7.15.7.14.4.3.4.5.4.3.2.2.5.5.3.9.7.9.1.5.3.7.10.11.1.3.1.1.2.1.3.2.6.1.12.8.1.3.1.1.2.2.7.7.1.4.3.6.1.2.1.4.1.1.4.1.1.2.1.8.1.7.4.3.3.3.5.3.15.1.15.10.28.1.2.2.12.3.4.1.6.3.4.7.1.3.1.4.1.5.3.1.3.4.1.5.2.3.1.2.2.6.2.1.2.2.2.4.1.1.1.2.2.1.1.1.1.2.1.1.1.2.2.1.1.2.1.2.1.7.1.7.1.1.1.1.2.1.4.2.1.1.9.1.6.2.1.6.2.3.2.1.1.1.2.5.2.4.1.1.2.2.1.1.7.1.2.2.1.2.1.2.3.1.1.2.4.1.1.1.6.3.6.4.5.5.4.1.2.3.1.4.3.2.2.3.1.1.1.1.12.1.3.1.1.2.2.1.6.3.3.5.2.7.1.1.2.5.1.9.5.1.3.1.8.4.5.1.9.1.1.1.2.1.1.1.4.2.13.1.1.3.1.2.2.3.1.2.1.1.1.2.1.3.1.1.1.1.2.4.1.5.1.2.4.3.10.2.9.7.2.2.1.3.3.1.6.1.2.5.1.1.2.6.4.2.1.200.200.100.300.400.100.100.100.400.1700.304.596.100.1000.800.500.400.200.200.500.1300.801.99.506.95.1399.1100.100.4302.1798.2700.200.100.800.900.100.200.700.100.800.2000.900.1100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473853409
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".www.startlap.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473853409,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759169853,
+                        "expiry": 33696000,
+                        "value": "CQEbF4AQEbF4AAKA1AHUBFFsAP_gAEPgAA6gKaNV_G__bWlr8X73aftkeY1P9_h77sQxBhfJE-4FzLvW_JwXx2ExNA36tqIKmRIAu3bBIQNlGJDUTVCgaogVryDMak2coTNKJ6BkiFMRO2dYCF5vmwtj-QKY5vr991dx2B-t7dr83dzyz4VHn3a5_2a0WJCdA5-tDfv9bROb-9IOd_x8v4v8_F_rE2_eT1l_tevp7D9-cts7_XW-9_fff_9Ln_-uB_-_wU1AJMNCogDLIkJCDQMIIEAKgrCAigQAAAAkDRAQAmDAp2BgEusJEAIAUAAwQAgABRkACAAASABCIAIACgQAAQCBQABgAQDAQAMDAAGACwEAgABAdAhTAggUCwASMyIhTAhCASCAlsqEEgCBBXCEIs8CCAREwUAAAJABWAAICwWBxJICViQQJcQbQAAEACAQQAVCKTswBBAGbLUXiybRlaYFo-YLntMAyQAA.d9gACCAAAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473853408
+                    }
+                ]
+            },
+            "SID": {
+                "name": "SID",
+                "domain": "www.startlap.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473850825,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760033850.823524,
+                        "expiry": 34560000.823524,
+                        "value": "i5acvgbmv03ia1tok832mojoe2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473850824
+                    }
+                ]
+            },
+            "_goa3": {
+                "name": "_goa3",
+                "domain": "www.startlap.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473849490,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033849.488162,
+                        "expiry": 34560000.48816204,
+                        "value": "eyJ1IjoiMDAwMDAwMCIsImgiOiIifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725473849488
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.7404089,
+                        "value": "eyJ1IjoiMDAwMDAwMCIsImgiOiIifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725473851741
+                    }
+                ]
+            },
+            "_goa3B": {
+                "name": "_goa3B",
+                "domain": "www.startlap.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473845066,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033845.061986,
+                        "expiry": 34560000.06198597,
+                        "value": "eyJjaHJvbWUiOnRydWUsInZlcnNpb24iOiIxMjguMC4wLjAiLCJ3ZWJraXQiOnRydWV9",
+                        "same_site": "lax",
+                        "timestamp": 1725473845062
+                    }
+                ]
+            },
+            "_goa3GDPR": {
+                "name": "_goa3GDPR",
+                "domain": "www.startlap.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473850250,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033850.246804,
+                        "expiry": 34560000.246804,
+                        "value": "eyJnIjp0cnVlLCJjIjoiIiwidCI6MTcyNTQ3Mzg1MDI0Nn0=",
+                        "same_site": "lax",
+                        "timestamp": 1725473850247
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.35248089,
+                        "value": "eyJnIjp0cnVlLCJjIjoiQ1FFYkY0QVFFYkY0QUFLQTFBSFVCRkZzQVBfZ0FFUGdBQTZnS2FOVl9HX19iV2xyOFg3M2FmdGtlWTFQOV9oNzdzUXhCaGZKRS00RnpMdldfSndYeDJFeE5BMzZ0cUlLbVJJQXUzYkJJUU5sR0pEVVRWQ2dhb2dWcnlETWFrMmNvVE5LSjZCa2lGTVJPMmRZQ0Y1dm13dGotUUtZNXZyOTkxZHgyQi10N2RyODNkenl6NFZIbjNhNV8yYTBXSkNkQTUtdERmdjliUk9iLTlJT2RfeDh2NHY4X0ZfckUyX2VUMWxfdGV2cDdEOS1jdHM3X1hXLTlfZmZmXzlMbl8tdUJfLV93VTFBSk1OQ29nRExJa0pDRFFNSUlFQUtnckNBaWdRQUFBQWtEUkFRQW1EQXAyQmdFdXNKRUFJQVVBQXdRQWdBQlJrQUNBQUFTQUJDSUFJQUNnUUFBUUNCUUFCZ0FRREFRQU1EQUFHQUN3RUFnQUJBZEFoVEFnZ1VDd0FTTXlJaFRBaENBU0NBbHNxRUVnQ0JCWENFSXM4Q0NBUkV3VUFBQUpBQldBQUlDd1dCeEpJQ1ZpUVFKY1FiUUFBRUFDQVFRQVZDS1Rzd0JCQUdiTFVYaXliUmxhWUZvLVlMbnRNQXlRQUEuZDlnQUNDQUFBQUFBIiwidCI6MTcyNTQ3Mzg1MzM1Mn0=",
+                        "same_site": "lax",
+                        "timestamp": 1725473853352
+                    }
+                ]
+            },
+            "_goa3session": {
+                "name": "_goa3session",
+                "domain": "www.startlap.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473849492,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481049,
+                        "expiry": 7200,
+                        "value": "eyJzIjoxNzI1NDczODQ5Mzg2fQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725473849491
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198,
+                        "value": "eyJzIjoxNzI1NDczODQ5Mzg2fQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725473851741
+                    }
+                ]
+            },
+            "_goa3test": {
+                "name": "_goa3test",
+                "domain": "www.startlap.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473849491,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033849.488606,
+                        "expiry": 34560000.488605976,
+                        "value": "eyJzIjoxNzI1NDczODQ5Mzg2LCJkIjp7fX0=",
+                        "same_site": "lax",
+                        "timestamp": 1725473849490
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.74071598,
+                        "value": "eyJzIjoxNzI1NDczODQ5Mzg2LCJkIjp7fX0=",
+                        "same_site": "lax",
+                        "timestamp": 1725473851741
+                    }
+                ]
+            },
+            "stab_teszt_20240130_2024_01_30_162257": {
+                "name": "stab_teszt_20240130_2024_01_30_162257",
+                "domain": "www.startlap.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473841413,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728656577,
+                        "expiry": 3182736,
+                        "value": "82|Fri, 11 Oct 2024 14:22:57 GMT",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473841405
+                    }
+                ]
+            }
+        }
+    },
+    "bt.p24.hu": {
+        "/session/": {
+            "SID": {
+                "name": "SID",
+                "domain": "bt.p24.hu",
+                "path": "/session/",
+                "current_label": 0,
+                "label_ts": 1725473850824,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760033850.822609,
+                        "expiry": 34560000.82260895,
+                        "value": "i5acvgbmv03ia1tok832mojoe2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473850823
+                    }
+                ]
+            }
+        }
+    },
+    "stat.p24.hu": {
+        "/CTS/helper-scripts/3rdPartyCookie/blckDetect": {
+            "_ce3rdPCSD": {
+                "name": "_ce3rdPCSD",
+                "domain": "stat.p24.hu",
+                "path": "/CTS/helper-scripts/3rdPartyCookie/blckDetect",
+                "current_label": 0,
+                "label_ts": 1725473848329,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560248.328137,
+                        "expiry": 86400.32813692093,
+                        "value": "store",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473848328
+                    }
+                ]
+            }
+        }
+    }
+}

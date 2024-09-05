@@ -1,0 +1,614 @@
+{
+    "gigya.com": {
+        "/": {
+            "gig3pctest": {
+                "name": "gig3pctest",
+                "domain": ".gigya.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474537096,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474538,
+                        "expiry": 1,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474537095
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474537096
+                    }
+                ]
+            }
+        }
+    },
+    "hit.gemius.pl": {
+        "/": {
+            "Gdyn": {
+                "name": "Gdyn",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474535901,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602535.899119,
+                        "expiry": 34128000.8991189,
+                        "value": "Klxn0RXGQMGGSn1mZxghQg9UssGMXP8c25nSGgp1aQDIFRxSG7RrGS6GtoGtFlM1YH8PlexaG0F6Sssa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474535900
+                    }
+                ]
+            },
+            "Gdynp": {
+                "name": "Gdynp",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474535580,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602535.577044,
+                        "expiry": 34128000.57704401,
+                        "value": "tMi3vboUdhXAPcL0IQfsMbInCLapBkSiN3ph6l4gw13.w7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474535579
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.899149895,
+                        "value": "P2Bhqga1m55g.u8eR30OP7MLykvPMywe1ACqB0Nxbzr.f7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474535902
+                    }
+                ]
+            },
+            "Gtest": {
+                "name": "Gtest",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474535579,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726079335.576983,
+                        "expiry": 604800.576982975,
+                        "value": "KlSUhRMGQMGGSn1mZxghQg9UssGMXP8c25nSGgp1aQDIXBG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474535578
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474535578,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602535.576889,
+                        "expiry": 34128000.57688904,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474535577
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.89895511,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474535900
+                    }
+                ]
+            }
+        }
+    },
+    "login.rtbf.be": {
+        "/": {
+            "gmid": {
+                "name": "gmid",
+                "domain": ".login.rtbf.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474538615,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010538.613502,
+                        "expiry": 31536000.613502026,
+                        "value": "gmid.ver4.AtLtALOHfQ.blBtR2xzzG2PMrr-Gseuy4PHD8a33oSdV0lRy857SspDHMrOPEi5b8uxMBwpbeIz.tCBer1UxXGSCT3Wy1XFwFKtt6hZ7a-MhEtb0DSh3-LBu1fKAQ86KRJ1k6RmdWxcPWW8BFIr7M4TY9ltCWJTtLQ.sc3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474538614
+                    }
+                ]
+            },
+            "hasGmid": {
+                "name": "hasGmid",
+                "domain": ".login.rtbf.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474538617,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741116538.613584,
+                        "expiry": 15642000.613584042,
+                        "value": "ver4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474538616
+                    }
+                ]
+            },
+            "ucid": {
+                "name": "ucid",
+                "domain": ".login.rtbf.be",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474538616,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010538.613563,
+                        "expiry": 31536000.61356306,
+                        "value": "ANguVbXMeeGRsjGpe3Cglg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474538615
+                    }
+                ]
+            }
+        }
+    },
+    "rtbf.be": {
+        "/": {
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".rtbf.be",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474534654,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759602534,
+                        "expiry": 34128000,
+                        "value": "JfO8KCT7DQaaYUb1ZhH2VD2hpGAe9jg5IRZw1d365xP.57|1725474534|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474534644
+                    }
+                ]
+            },
+            "_cb": {
+                "name": "_cb",
+                "domain": ".rtbf.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474540378,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602540,
+                        "expiry": 34128000,
+                        "value": "DxgOPyBai0g3PXDz4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540376
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".rtbf.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474540383,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725476340,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540382
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540384
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".rtbf.be",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474540365,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540363
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540367
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540372
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540373
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540383
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".rtbf.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474540380,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602540,
+                        "expiry": 34128000,
+                        "value": ".1725474540374.1725474540374.1.CFv1-BC7qRNdtfxV-k13yB3E5EH.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540379
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".rtbf.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474540674,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034540.671563,
+                        "expiry": 34560000.67156291,
+                        "value": "GA1.1.1465835088.1725474541",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540673
+                    }
+                ]
+            },
+            "_ga_XQ6LWJBT9C": {
+                "name": "_ga_XQ6LWJBT9C",
+                "domain": ".rtbf.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474540673,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.681250095,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540681
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68140602,
+                        "value": "GS1.1.1725474540.1.0.1725474540.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540681
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68271589,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540682
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68283892,
+                        "value": "GS1.1.1725474540.1.0.1725474540.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540683
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68510103,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540685
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68523407,
+                        "value": "GS1.1.1725474540.1.0.1725474540.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540685
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68651295,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540686
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68662095,
+                        "value": "GS1.1.1725474540.1.0.1725474540.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540687
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68795705,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540688
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68809199,
+                        "value": "GS1.1.1725474540.1.0.1725474540.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474540688
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".rtbf.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474535455,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757096935,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU0YmYtODE4NC02NzJiLTgwY2YtZDBmMDE3NTMzMzQ1IiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTg6Mjg6NTUuNDQ4WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE4OjI4OjU1LjQ0OFoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474535449
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU0YmYtODE4NC02NzJiLTgwY2YtZDBmMDE3NTMzMzQ1IiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTg6Mjg6NTUuNDQ4WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE4OjI4OjU4LjQwMVoiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzpsaW5rZWRpbiIsImM6Z29vZ2xlYW5hLTRUWG5KaWdSIl19LCJwdXJwb3NlcyI6eyJlbmFibGVkIjpbImdlb2xvY2F0aW9uX2RhdGEiLCJkZXZpY2VfY2hhcmFjdGVyaXN0aWNzIl19LCJ2ZXJzaW9uIjoyLCJhYyI6IkFGbUFDQUZrLkFBQUEifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474538415
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".rtbf.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474538418,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757096938,
+                        "expiry": 31622400,
+                        "value": "CQEbF4AQEbF4AAHABBENBFFsAP_gAAAgAAIgJyQFgAKgAXABAACoAFoAMgAaABFACYAFKALYAuABtAEAAIQAaUA_QD-AIGAUgA_YCmgF5gTkApqACApoAUJABgACCmo6ADAAEFNSEAGAAIKakoAMAAQU1KQAYAAgpqAA.f_wAAAQAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725474538415
+                    }
+                ]
+            },
+            "gig_bootstrap_3_kWKuPgcdAybqnqxq_MvHVk0-6PN8Zk8pIIkJM_yXOu-qLPDDsGOtIDFfpGivtbeO": {
+                "name": "gig_bootstrap_3_kWKuPgcdAybqnqxq_MvHVk0-6PN8Zk8pIIkJM_yXOu-qLPDDsGOtIDFfpGivtbeO",
+                "domain": ".rtbf.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474538618,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010538,
+                        "expiry": 31536000,
+                        "value": "login_ver4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474538617
+                    }
+                ]
+            },
+            "gig_canary": {
+                "name": "gig_canary",
+                "domain": ".www.rtbf.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474535496,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474535495
+                    }
+                ]
+            },
+            "gig_canary_ver": {
+                "name": "gig_canary_ver",
+                "domain": ".www.rtbf.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474535497,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "16174-3-28757895",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474535497
+                    }
+                ]
+            }
+        }
+    }
+}

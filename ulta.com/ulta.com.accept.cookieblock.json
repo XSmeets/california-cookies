@@ -1,0 +1,2894 @@
+{
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530721264,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741082721.261232,
+                        "expiry": 15552000.2612319,
+                        "value": "60375229521027598913075096229186606741",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530721262
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.44737506,
+                        "value": "60375229521027598913075096229186606741",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530721447
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.444257021,
+                        "value": "60375229521027598913075096229186606741",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723445
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530722061,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760090722.054377,
+                        "expiry": 34560000.05437708,
+                        "value": "AHWqTUk2AzGf0MK_l8FwD_ZUOE_kxpyQZo0mT03SJPvknBLuiwfBfByIH8gGedn4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530722059
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530723010,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728122723.009757,
+                        "expiry": 2592000.009757042,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723010
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.16099,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723161
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.1709229946,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723172
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.1812639236,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723181
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.30270195,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723303
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.8619918823,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723862
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.8703639507,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723870
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530722390,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741082722.386721,
+                        "expiry": 15552000.386720896,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530722388
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.387492895,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530722393
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.397635937,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530722399
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.407768011,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530722410
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.408691883,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530722411
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.43145299,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530722450
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.908076048,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723909
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.910523891,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723912
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530721081,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725531621.079843,
+                        "expiry": 900.079843044281,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530721080
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.0841610431671,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530721087
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530723445,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741082723.444228,
+                        "expiry": 15552000.444227934,
+                        "value": "60375229521027598913075096229186606741",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723444
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530723263,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757066723.262704,
+                        "expiry": 31536000.262703896,
+                        "value": "g_surferid~ZtmCYwAAAKPnRgNx",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723263
+                    }
+                ]
+            }
+        }
+    },
+    "narrativ.com": {
+        "/": {
+            "uid_bam": {
+                "name": "uid_bam",
+                "domain": ".narrativ.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530724757,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760090724.753656,
+                        "expiry": 34560000.75365591,
+                        "value": "1852774507967942217",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530724754
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.40588188,
+                        "value": "1852774507967942217",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530725407
+                    }
+                ]
+            }
+        }
+    },
+    "ojrq.net": {
+        "/": {
+            "brwsr": {
+                "name": "brwsr",
+                "domain": ".ojrq.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530724485,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760090724.484258,
+                        "expiry": 34560000.48425794,
+                        "value": "5e4c551a-6b6e-11ef-8980-4b335c77c659",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530724484
+                    }
+                ]
+            }
+        }
+    },
+    "rlcdn.com": {
+        "/": {
+            "rlas3": {
+                "name": "rlas3",
+                "domain": ".rlcdn.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530722756,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757066722.754107,
+                        "expiry": 31536000.754107,
+                        "value": "O1KdKN4j+jN/d59JIhHGyWJHtsZQ2TeJs4T0hO+kHRE=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530722754
+                    }
+                ]
+            }
+        }
+    },
+    "tvpage.com": {
+        "/": {
+            "__tvpab": {
+                "name": "__tvpab",
+                "domain": ".tvpage.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530724441,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726135524.437523,
+                        "expiry": 604800.4375228882,
+                        "value": "8a3c2e1af1b439ab6ece9877724fae24",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530724438
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.6310989857,
+                        "value": "8a3c2e1af1b439ab6ece9877724fae24",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530724631
+                    }
+                ]
+            }
+        }
+    },
+    "ulta.com": {
+        "/": {
+            "ABTasty": {
+                "name": "ABTasty",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530722826,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759053922,
+                        "expiry": 33523200,
+                        "value": "undefinedABTastyCookieQuickTest",
+                        "same_site": "lax",
+                        "timestamp": 1725530722825
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "uid=fwq1arfxq2h8zx26&fst=1725530722833&pst=-1&cst=1725530722833&ns=1&pvt=1&pvis=1&th=",
+                        "same_site": "lax",
+                        "timestamp": 1725530722834
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34127999,
+                        "value": "uid=fwq1arfxq2h8zx26&fst=1725530722833&pst=-1&cst=1725530722833&ns=1&pvt=1&pvis=1&th=1051085.1305480.1.1.1.1.1725530722999.1725530722999.1.1",
+                        "same_site": "lax",
+                        "timestamp": 1725530723000
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34127999,
+                        "value": "uid=fwq1arfxq2h8zx26&fst=1725530722833&pst=-1&cst=1725530722833&ns=1&pvt=1&pvis=1&th=1051085.1305480.1.1.1.1.1725530722999.1725530722999.1.1_1280328.1587355.1.1.1.1.1725530723017.1725530723017.0.1",
+                        "same_site": "lax",
+                        "timestamp": 1725530723018
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34127999,
+                        "value": "uid=fwq1arfxq2h8zx26&fst=1725530722833&pst=-1&cst=1725530722833&ns=1&pvt=1&pvis=1&th=1051085.1305480.1.1.1.1.1725530722999.1725530722999.1.1_1280328.1587355.1.1.1.1.1725530723017.1725530723017.0.1_1280341.1587368.1.1.1.1.1725530723061.1725530723061.0.1",
+                        "same_site": "lax",
+                        "timestamp": 1725530723062
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34127999,
+                        "value": "uid=fwq1arfxq2h8zx26&fst=1725530722833&pst=-1&cst=1725530722833&ns=1&pvt=1&pvis=1&th=1051085.1305480.1.1.1.1.1725530722999.1725530722999.1.1_1280328.1587355.1.1.1.1.1725530723017.1725530723017.0.1_1280341.1587368.1.1.1.1.1725530723061.1725530723061.0.1_1280342.1587369.1.1.1.1.1725530723066.1725530723066.0.1",
+                        "same_site": "lax",
+                        "timestamp": 1725530723067
+                    }
+                ]
+            },
+            "ABTastySession": {
+                "name": "ABTastySession",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530722828,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725532522,
+                        "expiry": 1800,
+                        "value": "mrasn=&lp=https%253A%252F%252Fwww.ulta.com%252F",
+                        "same_site": "lax",
+                        "timestamp": 1725530722828
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "mrasn=&lp=https%253A%252F%252Fwww.ulta.com%252F",
+                        "same_site": "lax",
+                        "timestamp": 1725530722829
+                    }
+                ]
+            },
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530716646,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725534316.638761,
+                        "expiry": 3600.6387610435486,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530716644
+                    }
+                ]
+            },
+            "AMCVS_C218F16F55CC57607F000101%40AdobeOrg": {
+                "name": "AMCVS_C218F16F55CC57607F000101%40AdobeOrg",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530721451,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530721450
+                    }
+                ]
+            },
+            "AMCV_C218F16F55CC57607F000101%40AdobeOrg": {
+                "name": "AMCV_C218F16F55CC57607F000101%40AdobeOrg",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530720570,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760090720.569941,
+                        "expiry": 34560000.569941044,
+                        "value": "-1124106680%7CMCIDTS%7C19972%7CvVersion%7C5.2.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530720570
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.44811392,
+                        "value": "-1124106680%7CMCIDTS%7C19972%7CMCMID%7C60367425315334930873072486014592092185%7CvVersion%7C5.2.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530721448
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.44849491,
+                        "value": "-1124106680%7CMCIDTS%7C19972%7CMCMID%7C60367425315334930873072486014592092185%7CMCAAMLH-1726135521%7C9%7CMCAAMB-1726135521%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CvVersion%7C5.2.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530721448
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.45181489,
+                        "value": "-1124106680%7CMCIDTS%7C19972%7CMCMID%7C60367425315334930873072486014592092185%7CMCAAMLH-1726135521%7C9%7CMCAAMB-1726135521%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1725537921s%7CNONE%7CvVersion%7C5.2.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530721452
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.293678045,
+                        "value": "-1124106680%7CMCIDTS%7C19972%7CMCMID%7C60367425315334930873072486014592092185%7CMCAAMLH-1726135521%7C9%7CMCAAMB-1726135521%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1725537921s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.2.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722295
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.30119991,
+                        "value": "-1124106680%7CMCIDTS%7C19972%7CMCMID%7C60367425315334930873072486014592092185%7CMCAAMLH-1726135521%7C9%7CMCAAMB-1726135521%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1725537922s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.2.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722301
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.44597912,
+                        "value": "-1124106680%7CMCIDTS%7C19972%7CMCMID%7C60367425315334930873072486014592092185%7CMCAAMLH-1726135521%7C9%7CMCAAMB-1726135521%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1725537922s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19979%7CvVersion%7C5.2.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723446
+                    }
+                ]
+            },
+            "IR_3037": {
+                "name": "IR_3037",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530723179,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725530723175%7C123240%7C1725530723175%7C%7C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723179
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725530723175%7C123240%7C1725530723175%7C%7C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723827
+                    }
+                ]
+            },
+            "IR_PI": {
+                "name": "IR_PI",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530723827,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760090723.824358,
+                        "expiry": 34560000.82435799,
+                        "value": "5de814d4-6b6e-11ef-afc1-a5c40cefeb5e%7C1725530723175",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723827
+                    }
+                ]
+            },
+            "IR_gbd": {
+                "name": "IR_gbd",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530723178,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ulta.com",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723177
+                    }
+                ]
+            },
+            "QuantumMetricSessionID": {
+                "name": "QuantumMetricSessionID",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530726856,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725532526,
+                        "expiry": 1800,
+                        "value": "7d194ea3e0c6d8df0655c9f3911f4c92",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530726855
+                    }
+                ]
+            },
+            "QuantumMetricUserID": {
+                "name": "QuantumMetricUserID",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530726857,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757066726,
+                        "expiry": 31536000,
+                        "value": "75710079c2801e7045b5e4ea56a0cfe0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530726856
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530719279,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726135519,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=ulta.com&si=6e96b98d-d3dd-4a86-a064-6dedd53cc3cf&ss=m0p4fp94&sl=0&tt=0&bcn=%2F%2F17de4c1b.akstat.io%2F\"",
+                        "same_site": "lax",
+                        "timestamp": 1725530719278
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=ulta.com&si=6e96b98d-d3dd-4a86-a064-6dedd53cc3cf&ss=m0p4fp94&sl=1&tt=7ma&bcn=%2F%2F17de4c1b.akstat.io%2F&ld=89w\"",
+                        "same_site": "lax",
+                        "timestamp": 1725530726268
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=ulta.com&si=6e96b98d-d3dd-4a86-a064-6dedd53cc3cf&ss=m0p4fp94&sl=1&tt=7ma&bcn=%2F%2F17de4c1b.akstat.io%2F&ld=89w&hd=996\"",
+                        "same_site": "lax",
+                        "timestamp": 1725530727538
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530721086,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741082721,
+                        "expiry": 15552000,
+                        "value": "ID=197e198aea41cb37:T=1725530721:RT=1725530721:S=AA-Afjb4gckJNwL5eGCaGxSuffJO",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530721085
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "ID=20ee551064750d8b:T=1725530721:RT=1725530721:S=AA-Afjaa7P7qd_6vHr8MQTHCXKbP",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530721087
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530721083,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759226721,
+                        "expiry": 33696000,
+                        "value": "ID=ca5fee97e8bbbab2:T=1725530721:RT=1725530721:S=ALNI_MaN0WeOBy6dW5Aowf6A1-QocghQqQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530721082
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "ID=ae3b21eb24863ec9:T=1725530721:RT=1725530721:S=ALNI_MZzZ-QcQPKHQbyOc6NcBljsJx4-ZQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530721087
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530721085,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759226721,
+                        "expiry": 33696000,
+                        "value": "UID=00000eebf3e8e103:T=1725530721:RT=1725530721:S=ALNI_MaBjZUgSHjwRIXcY_3QBkdKShEfPQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530721084
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "UID=00000eebf3ca5073:T=1725530721:RT=1725530721:S=ALNI_Ma7hvfSC-OLGAmwCXq46kOO1Ga22g",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530721087
+                    }
+                ]
+            },
+            "__tvpa": {
+                "name": "__tvpa",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530724457,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726135512,
+                        "expiry": 604788,
+                        "value": "8a3c2e1af1b439ab6ece9877724fae24",
+                        "same_site": "lax",
+                        "timestamp": 1725530724456
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530721419,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760090721.417556,
+                        "expiry": 34560000.41755605,
+                        "value": "GA1.1.1674217902.1725530721",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530721419
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.15860391,
+                        "value": "GA1.2.1674217902.1725530721",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723159
+                    }
+                ]
+            },
+            "_ga_LKM7RC8LP8": {
+                "name": "_ga_LKM7RC8LP8",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530721418,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760090721.417261,
+                        "expiry": 34560000.417260885,
+                        "value": "GS1.1.1725530721.1.0.1725530721.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530721418
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.4380641,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530721438
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.43821812,
+                        "value": "GS1.1.1725530721.1.0.1725530721.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530721438
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.541874886,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530727542
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.54210901,
+                        "value": "GS1.1.1725530721.1.0.1725530727.54.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530727542
+                    }
+                ]
+            },
+            "_gat_gtag_UA_143014378_1": {
+                "name": "_gat_gtag_UA_143014378_1",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530723161,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725530783,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723160
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530720755,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733306720,
+                        "expiry": 7776000,
+                        "value": "1.1.226538508.1725530721",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530720754
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775998,
+                        "value": "1.1.226538508.1725530721",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723386
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530723160,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725617123,
+                        "expiry": 86400,
+                        "value": "GA1.2.617484101.1725530723",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723159
+                    }
+                ]
+            },
+            "_vapi1725530720565": {
+                "name": "_vapi1725530720565",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530720567,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_vapi1725530720565",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530720566
+                    }
+                ]
+            },
+            "dtCookie": {
+                "name": "dtCookie",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530716702,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_23_sn_C95CJGVT0288IPB05K7O9GKHNUIQNCIE_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_0_rcs-3Acss_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718599
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_21_sn_C95CJGVT0288IPB05K7O9GKHNUIQNCIE_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_0_rcs-3Acss_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718633
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_29_sn_C95CJGVT0288IPB05K7O9GKHNUIQNCIE_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_0_rcs-3Acss_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718840
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_23_sn_C95CJGVT0288IPB05K7O9GKHNUIQNCIE_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_0_app-3A6fe4664190660d01_1_rcs-3Acss_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718843
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_29_sn_C95CJGVT0288IPB05K7O9GKHNUIQNCIE_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_0_rcs-3Acss_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718924
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_22_sn_C95CJGVT0288IPB05K7O9GKHNUIQNCIE_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_0_app-3A6fe4664190660d01_0_rcs-3Acss_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719047
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_26_sn_C95CJGVT0288IPB05K7O9GKHNUIQNCIE_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_0_rcs-3Acss_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719057
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_17_sn_C95CJGVT0288IPB05K7O9GKHNUIQNCIE_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_0_rcs-3Acss_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719121
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_17_sn_C95CJGVT0288IPB05K7O9GKHNUIQNCIE_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_0_rcs-3Acss_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530724672
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_17_sn_C95CJGVT0288IPB05K7O9GKHNUIQNCIE_app-3A6fe4664190660d01_0_app-3Aea7c4b59f27d43eb_0_ol_0_perc_100000_mul_1_rcs-3Acss_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530725569
+                    }
+                ]
+            },
+            "dtPC": {
+                "name": "dtPC",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530716705,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17$530716698_752h31vBKKVMUGWEVTFUNPDOCFLQFTPLJUSJCSF-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723068
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17$530716698_752h37vBKKVMUGWEVTFUNPDOCFLQFTPLJUSJCSF-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723162
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17$530716698_752h38vBKKVMUGWEVTFUNPDOCFLQFTPLJUSJCSF-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723181
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17$530716698_752h39vBKKVMUGWEVTFUNPDOCFLQFTPLJUSJCSF-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723194
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17$530716698_752h40vBKKVMUGWEVTFUNPDOCFLQFTPLJUSJCSF-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723212
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17$530716698_752h41vBKKVMUGWEVTFUNPDOCFLQFTPLJUSJCSF-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723825
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17$530716698_752h1vBKKVMUGWEVTFUNPDOCFLQFTPLJUSJCSF-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530724532
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17$530716698_752h43vBKKVMUGWEVTFUNPDOCFLQFTPLJUSJCSF-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530725036
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17$530716698_752h44vBKKVMUGWEVTFUNPDOCFLQFTPLJUSJCSF-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530725410
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "17$530716698_752h45vBKKVMUGWEVTFUNPDOCFLQFTPLJUSJCSF-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530725420
+                    }
+                ]
+            },
+            "dtSa": {
+                "name": "dtSa",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530717453,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530717452
+                    }
+                ]
+            },
+            "gpv": {
+                "name": "gpv",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530721470,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725532521,
+                        "expiry": 1800,
+                        "value": "home",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530721469
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "home",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722295
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "home",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722299
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "home",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722800
+                    }
+                ]
+            },
+            "qm-rc": {
+                "name": "qm-rc",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725530724091,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530724091
+                    }
+                ]
+            },
+            "qm-ssc": {
+                "name": "qm-ssc",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530724092,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530724092
+                    }
+                ]
+            },
+            "rxVisitor": {
+                "name": "rxVisitor",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725530716703,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760090716.701034,
+                        "expiry": 34560000.70103407,
+                        "value": "17255307167002QJBBJCBN11OEQCG1CIGOMH32EDUSTE7",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530716703
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.67678094,
+                        "value": "17255307167002QJBBJCBN11OEQCG1CIGOMH32EDUSTE7",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530724677
+                    }
+                ]
+            },
+            "rxvt": {
+                "name": "rxvt",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530716705,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725532522903|1725530716701",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722903
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725532522904|1725530716701",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722904
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725532523161|1725530716701",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723161
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725532523179|1725530716701",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723180
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725532523193|1725530716701",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723193
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725532523211|1725530716701",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723211
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725532523821|1725530716701",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723825
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725532525034|1725530716701",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530725035
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725532525408|1725530716701",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530725409
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725532525415|1725530716701",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530725419
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530722298,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722297
+                    }
+                ]
+            },
+            "s_ecid": {
+                "name": "s_ecid",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530722294,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760090722.292673,
+                        "expiry": 34560000.29267311,
+                        "value": "MCMID%7C60367425315334930873072486014592092185",
+                        "same_site": "lax",
+                        "timestamp": 1725530722293
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.17848611,
+                        "value": "MCMID%7C60367425315334930873072486014592092185",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723179
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.36794591,
+                        "value": "MCMID%7C60367425315334930873072486014592092185",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723368
+                    }
+                ]
+            },
+            "s_nr": {
+                "name": "s_nr",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530722297,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728122722,
+                        "expiry": 2592000,
+                        "value": "1725530722295-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722296
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "1725530722299-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722300
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "1725530722800-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722801
+                    }
+                ]
+            },
+            "s_sq": {
+                "name": "s_sq",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530722803,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ultacom%3D%2526c.%2526a.%2526activitymap.%2526page%253Dhome%2526link%253DI%252520Understand%2526region%253Donetrust-button-group%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253Dhome%2526pidt%253D1%2526oid%253DI%252520Understand%2526oidt%253D3%2526ot%253DSUBMIT",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722802
+                    }
+                ]
+            },
+            "test": {
+                "name": "test",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530720568,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530720568
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530720569
+                    }
+                ]
+            },
+            "utag_ck_gtid": {
+                "name": "utag_ck_gtid",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530720565,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "5441d4a1-9e44-489f-a3ca-953bdd62a663",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530720564
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "undefined",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530720582
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "undefined",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722583
+                    }
+                ]
+            },
+            "utag_main": {
+                "name": "utag_main",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530720382,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757066720,
+                        "expiry": 31536000,
+                        "value": "v_id:0191c1a5487c009bb82f5981761005075001506d00bd0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530720381
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191c1a5487c009bb82f5981761005075001506d00bd0$_sn:1$_se:1$_ss:1$_st:1725532520381$ses_id:1725530720381%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530720383
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191c1a5487c009bb82f5981761005075001506d00bd0$_sn:1$_se:1$_ss:1$_st:1725532520381$ses_id:1725530720381%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:ulta.com",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530720567
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191c1a5487c009bb82f5981761005075001506d00bd0$_sn:1$_se:2$_ss:0$_st:1725532520580$ses_id:1725530720381%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:ulta.com",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530720580
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191c1a5487c009bb82f5981761005075001506d00bd0$_sn:1$_se:3$_ss:0$_st:1725532522580$ses_id:1725530720381%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:ulta.com",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530722581
+                    }
+                ]
+            },
+            "weird_get_top_level_domain": {
+                "name": "weird_get_top_level_domain",
+                "domain": ".ulta.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725530724455,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530724455
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530722804,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757066722,
+                        "expiry": 31536000,
+                        "value": "2024-09-05T10:05:22.803Z",
+                        "same_site": "lax",
+                        "timestamp": 1725530722804
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530720415,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A05%3A20+GMT%2B0200+(Central+European+Summer+Time)&version=6.16.0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725530720415
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A05%3A20+GMT%2B0200+(Central+European+Summer+Time)&version=6.16.0&isIABGlobal=false&hosts=&consentId=4ab5c7de-0a24-4a41-ac76-30be134d96c8",
+                        "same_site": "lax",
+                        "timestamp": 1725530720416
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A05%3A20+GMT%2B0200+(Central+European+Summer+Time)&version=6.16.0&isIABGlobal=false&hosts=&consentId=4ab5c7de-0a24-4a41-ac76-30be134d96c8&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1725530720416
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A05%3A20+GMT%2B0200+(Central+European+Summer+Time)&version=6.16.0&isIABGlobal=false&hosts=&consentId=4ab5c7de-0a24-4a41-ac76-30be134d96c8&interactionCount=0&landingPath=https%3A%2F%2Fwww.ulta.com%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725530720417
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A05%3A20+GMT%2B0200+(Central+European+Summer+Time)&version=6.16.0&isIABGlobal=false&hosts=&consentId=4ab5c7de-0a24-4a41-ac76-30be134d96c8&interactionCount=0&landingPath=https%3A%2F%2Fwww.ulta.com%2F&groups=C0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0001%3A1%2CC0007%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725530720624
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A05%3A20+GMT%2B0200+(Central+European+Summer+Time)&version=6.16.0&isIABGlobal=false&hosts=&consentId=4ab5c7de-0a24-4a41-ac76-30be134d96c8&interactionCount=0&landingPath=https%3A%2F%2Fwww.ulta.com%2F&groups=C0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0001%3A1%2CC0007%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725530720624
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A05%3A22+GMT%2B0200+(Central+European+Summer+Time)&version=6.16.0&isIABGlobal=false&hosts=&consentId=4ab5c7de-0a24-4a41-ac76-30be134d96c8&interactionCount=0&landingPath=NotLandingPage&groups=C0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0001%3A1%2CC0007%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725530722805
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A05%3A22+GMT%2B0200+(Central+European+Summer+Time)&version=6.16.0&isIABGlobal=false&hosts=&consentId=4ab5c7de-0a24-4a41-ac76-30be134d96c8&interactionCount=0&landingPath=NotLandingPage&groups=C0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0001%3A1%2CC0007%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725530722806
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A05%3A22+GMT%2B0200+(Central+European+Summer+Time)&version=6.16.0&isIABGlobal=false&hosts=&consentId=4ab5c7de-0a24-4a41-ac76-30be134d96c8&interactionCount=0&landingPath=NotLandingPage&groups=C0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0001%3A1%2CC0007%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725530722807
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A05%3A22+GMT%2B0200+(Central+European+Summer+Time)&version=6.16.0&isIABGlobal=false&hosts=&consentId=4ab5c7de-0a24-4a41-ac76-30be134d96c8&interactionCount=1&landingPath=NotLandingPage&groups=C0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0001%3A1%2CC0007%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725530722810
+                    }
+                ]
+            },
+            "ULTA_DSP_AT": {
+                "name": "ULTA_DSP_AT",
+                "domain": ".www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530718102,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjU1MzQzMTgwMDAsImlhdCI6MTcyNTUzMDcxODAwMCwiYXVkIjoid3d3LnVsdGEuY29tIiwiaXNzIjoidWx0YS5jb20iLCJzdWIiOiI1NDQxZDRhMS05ZTQ0LTQ4OWYtYTNjYS05NTNiZGQ2MmE2NjMiLCJkZXZpY2VJZCI6IjNmZWJkMmYxLTU4YzQtNGM5OS1hZmQ2LTI0NDliMmM2M2ZmOCIsImF1dGhTdGF0dXMiOiJBbm9uIiwic2Vzc2lvbklkIjoiNWY0YTI0YzctZmMwZi00NzI2LTg4YzItZGFiYmRhMjE0NGYwIn0.L77bXnDclHguKXmjeIBPuEw-6tk9Fv22GQShMiSndRI",
+                        "same_site": "strict",
+                        "timestamp": 1725530718095
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjU1MzQzMTg0OTIsImlhdCI6MTcyNTUzMDcxODQ5MiwiYXVkIjoid3d3LnVsdGEuY29tIiwiaXNzIjoidWx0YS5jb20iLCJzdWIiOiI1NDQxZDRhMS05ZTQ0LTQ4OWYtYTNjYS05NTNiZGQ2MmE2NjMiLCJkZXZpY2VJZCI6IjNmZWJkMmYxLTU4YzQtNGM5OS1hZmQ2LTI0NDliMmM2M2ZmOCIsImF1dGhTdGF0dXMiOiJBbm9uIiwic2Vzc2lvbklkIjoiNWY0YTI0YzctZmMwZi00NzI2LTg4YzItZGFiYmRhMjE0NGYwIn0.dUemp6mJe-G8gFhk6uEZMfGD_s0qIoqgppofwKoQ6ko",
+                        "same_site": "strict",
+                        "timestamp": 1725530718597
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjU1MzQzMTg1MjIsImlhdCI6MTcyNTUzMDcxODUyMiwiYXVkIjoid3d3LnVsdGEuY29tIiwiaXNzIjoidWx0YS5jb20iLCJzdWIiOiI1NDQxZDRhMS05ZTQ0LTQ4OWYtYTNjYS05NTNiZGQ2MmE2NjMiLCJkZXZpY2VJZCI6IjNmZWJkMmYxLTU4YzQtNGM5OS1hZmQ2LTI0NDliMmM2M2ZmOCIsImF1dGhTdGF0dXMiOiJBbm9uIiwic2Vzc2lvbklkIjoiNWY0YTI0YzctZmMwZi00NzI2LTg4YzItZGFiYmRhMjE0NGYwIn0.wo443js_d8cXiRwo_ZLgLDKn6A9HZcm8pam0IMPFUXA",
+                        "same_site": "strict",
+                        "timestamp": 1725530718633
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjU1MzQzMTg1NjAsImlhdCI6MTcyNTUzMDcxODU2MCwiYXVkIjoid3d3LnVsdGEuY29tIiwiaXNzIjoidWx0YS5jb20iLCJzdWIiOiI1NDQxZDRhMS05ZTQ0LTQ4OWYtYTNjYS05NTNiZGQ2MmE2NjMiLCJkZXZpY2VJZCI6IjNmZWJkMmYxLTU4YzQtNGM5OS1hZmQ2LTI0NDliMmM2M2ZmOCIsImF1dGhTdGF0dXMiOiJBbm9uIiwic2Vzc2lvbklkIjoiNWY0YTI0YzctZmMwZi00NzI2LTg4YzItZGFiYmRhMjE0NGYwIn0.79QVPF57RTUERdDjeCPetaLZ_oc7L3rWU92-uYrSI44",
+                        "same_site": "strict",
+                        "timestamp": 1725530718696
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjU1MzQzMTg5MzQsImlhdCI6MTcyNTUzMDcxODkzNCwiYXVkIjoid3d3LnVsdGEuY29tIiwiaXNzIjoidWx0YS5jb20iLCJzdWIiOiI1NDQxZDRhMS05ZTQ0LTQ4OWYtYTNjYS05NTNiZGQ2MmE2NjMiLCJkZXZpY2VJZCI6IjNmZWJkMmYxLTU4YzQtNGM5OS1hZmQ2LTI0NDliMmM2M2ZmOCIsImF1dGhTdGF0dXMiOiJBbm9uIiwic2Vzc2lvbklkIjoiNWY0YTI0YzctZmMwZi00NzI2LTg4YzItZGFiYmRhMjE0NGYwIn0.5sCgSTWPR7ys7SxfNJAXi3dyOfATGuSVHyuAaeqyh1E",
+                        "same_site": "strict",
+                        "timestamp": 1725530719047
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjU1MzQzMTg5NDksImlhdCI6MTcyNTUzMDcxODk0OSwiYXVkIjoid3d3LnVsdGEuY29tIiwiaXNzIjoidWx0YS5jb20iLCJzdWIiOiI1NDQxZDRhMS05ZTQ0LTQ4OWYtYTNjYS05NTNiZGQ2MmE2NjMiLCJkZXZpY2VJZCI6IjNmZWJkMmYxLTU4YzQtNGM5OS1hZmQ2LTI0NDliMmM2M2ZmOCIsImF1dGhTdGF0dXMiOiJBbm9uIiwic2Vzc2lvbklkIjoiNWY0YTI0YzctZmMwZi00NzI2LTg4YzItZGFiYmRhMjE0NGYwIn0.ehNiPj8pOYykMhtmZLG8Uvop997M3NZrgjhCRWTjrjc",
+                        "same_site": "strict",
+                        "timestamp": 1725530719056
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjU1MzQzMTkwMTEsImlhdCI6MTcyNTUzMDcxOTAxMSwiYXVkIjoid3d3LnVsdGEuY29tIiwiaXNzIjoidWx0YS5jb20iLCJzdWIiOiI1NDQxZDRhMS05ZTQ0LTQ4OWYtYTNjYS05NTNiZGQ2MmE2NjMiLCJkZXZpY2VJZCI6IjNmZWJkMmYxLTU4YzQtNGM5OS1hZmQ2LTI0NDliMmM2M2ZmOCIsImF1dGhTdGF0dXMiOiJBbm9uIiwic2Vzc2lvbklkIjoiNWY0YTI0YzctZmMwZi00NzI2LTg4YzItZGFiYmRhMjE0NGYwIn0.RXg-xS_76B2VAP0tW3OmCUY4DxdNO4i5Phu9cTOtYME",
+                        "same_site": "strict",
+                        "timestamp": 1725530719121
+                    }
+                ]
+            },
+            "ULTA_DSP_RT": {
+                "name": "ULTA_DSP_RT",
+                "domain": ".www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530718103,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728122717.094291,
+                        "expiry": 2591999.0942909718,
+                        "value": "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjgxMjI3MTc5NzgsImlhdCI6MTcyNTUzMDcxNzk3OCwiYXVkIjoid3d3LnVsdGEuY29tIiwiaXNzIjoidWx0YS5jb20iLCJzdWIiOiI1NDQxZDRhMS05ZTQ0LTQ4OWYtYTNjYS05NTNiZGQ2MmE2NjMiLCJkZXZpY2VJZCI6IjNmZWJkMmYxLTU4YzQtNGM5OS1hZmQ2LTI0NDliMmM2M2ZmOCIsInNvZnRMb2dpblN0YXR1cyI6IkFub24ifQ.8BKfUV5_jBhNy7NCT3eWEAoaI6lH9WGGuFfCYIoykis",
+                        "same_site": "strict",
+                        "timestamp": 1725530718102
+                    }
+                ]
+            },
+            "ULTA_SITE": {
+                "name": "ULTA_SITE",
+                "domain": ".www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530717783,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530717782
+                    }
+                ]
+            },
+            "X_ULTA_SITE": {
+                "name": "X_ULTA_SITE",
+                "domain": ".www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530716643,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718633
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718696
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718841
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718844
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718925
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719048
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719057
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719121
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719225
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530723278
+                    }
+                ]
+            },
+            "X_ULTA_VISITOR_ID": {
+                "name": "X_ULTA_VISITOR_ID",
+                "domain": "ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530716237,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741082716.211948,
+                        "expiry": 15552000.211947918,
+                        "value": "d40cae8a5e5e72eaaddb2de707377eae",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530716229
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.638710022,
+                        "value": "c92f9b2a2356e33c7ca23ee38f808d96",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530716640
+                    }
+                ]
+            },
+            "__ruid": {
+                "name": "__ruid",
+                "domain": "ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530716228,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741082716.210003,
+                        "expiry": 15552000.2100029,
+                        "value": "d40cae8a5e5e72eaaddb2de707377eae",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530716215
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.63863802,
+                        "value": "c92f9b2a2356e33c7ca23ee38f808d96",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530716640
+                    }
+                ]
+            },
+            "ULTASITE": {
+                "name": "ULTASITE",
+                "domain": "www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530717755,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "en-us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718598
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "en-us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718601
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "en-us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718633
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "en-us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718696
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "en-us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718841
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "en-us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718843
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "en-us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718925
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "en-us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719048
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "en-us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719057
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "en-us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719121
+                    }
+                ]
+            },
+            "User-Agent": {
+                "name": "User-Agent",
+                "domain": "www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530717754,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "gomez",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718598
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "gomez",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718601
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "gomez",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718633
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "gomez",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718696
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "gomez",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718840
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "gomez",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718843
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "gomez",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530718924
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "gomez",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719047
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "gomez",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719057
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "gomez",
+                        "same_site": "unspecified",
+                        "timestamp": 1725530719121
+                    }
+                ]
+            },
+            "__pdst": {
+                "name": "__pdst",
+                "domain": "www.ulta.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725530723209,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757066723,
+                        "expiry": 31536000,
+                        "value": "ebbf2cc01be144eab82343469a752dbc",
+                        "same_site": "strict",
+                        "timestamp": 1725530723208
+                    }
+                ]
+            },
+            "_mibhv": {
+                "name": "_mibhv",
+                "domain": "www.ulta.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725530723829,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757066723,
+                        "expiry": 31536000,
+                        "value": "anon-1725530723827-5605334604_8715",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723828
+                    }
+                ]
+            },
+            "akaalb_alb_www_ulta": {
+                "name": "akaalb_alb_www_ulta",
+                "domain": "www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530717784,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "~op=WWW_ULTA_SITE_A:SiteA_Failover|~rv=100~m=SiteA_Failover:0|~os=6e40862a2abd586d46d773cd430ecffc~id=f01e8cb3a9c6c13ae9ff0e32107b87a4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530717783
+                    }
+                ]
+            },
+            "akavpau_vp-www-ulta-com": {
+                "name": "akavpau_vp-www-ulta-com",
+                "domain": "www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530716647,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725531018~id=f9bbc795dec5fdd74eafac4f186c6c40",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530718633
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725531018~id=f9bbc795dec5fdd74eafac4f186c6c40",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530718696
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725531018~id=f9bbc795dec5fdd74eafac4f186c6c40",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530718841
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725531018~id=f9bbc795dec5fdd74eafac4f186c6c40",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530718844
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725531018~id=f9bbc795dec5fdd74eafac4f186c6c40",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530718925
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725531019~id=d53b666f57ad75e8771d37248f55af34",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530719048
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725531019~id=d53b666f57ad75e8771d37248f55af34",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530719058
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725531019~id=d53b666f57ad75e8771d37248f55af34",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530719121
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725531019~id=d53b666f57ad75e8771d37248f55af34",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530719226
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725531023~id=df8b294f6c634970a39387be012336eb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723278
+                    }
+                ]
+            },
+            "kampyleSessionPageCounter": {
+                "name": "kampyleSessionPageCounter",
+                "domain": "www.ulta.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725530725897,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757066725,
+                        "expiry": 31536000,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530725896
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530725900
+                    }
+                ]
+            },
+            "kampyleUserSession": {
+                "name": "kampyleUserSession",
+                "domain": "www.ulta.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725530725896,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757066725,
+                        "expiry": 31536000,
+                        "value": "1725530725895",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530725895
+                    }
+                ]
+            },
+            "kampyleUserSessionsCount": {
+                "name": "kampyleUserSessionsCount",
+                "domain": "www.ulta.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725530725898,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757066725,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530725897
+                    }
+                ]
+            },
+            "kampyle_userid": {
+                "name": "kampyle_userid",
+                "domain": "www.ulta.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725530725892,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757066725,
+                        "expiry": 31536000,
+                        "value": "f08a-f4e9-8c26-3107-3604-31ae-cd76-4d2f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530725891
+                    }
+                ]
+            },
+            "mdLogger": {
+                "name": "mdLogger",
+                "domain": "www.ulta.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530725890,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757066725,
+                        "expiry": 31536000,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530725889
+                    }
+                ]
+            }
+        }
+    },
+    "ztk5.net": {
+        "/": {
+            "brwsr": {
+                "name": "brwsr",
+                "domain": ".ztk5.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530723823,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760090723.820212,
+                        "expiry": 34560000.82021189,
+                        "value": "5de814d4-6b6e-11ef-afc1-a5c40cefeb5e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723822
+                    }
+                ]
+            },
+            "irtps": {
+                "name": "irtps",
+                "domain": ".ztk5.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530723824,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725617123.82025,
+                        "expiry": 86400.82025003433,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723823
+                    }
+                ]
+            }
+        }
+    },
+    "ulta.ztk5.net": {
+        "/": {
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "ulta.ztk5.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530723822,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726135523.820176,
+                        "expiry": 604800.8201758862,
+                        "value": "AwMk9V1ivtu9OHo/zUcIb62e1bFX9ZLFdVDC4b70cY+P/l3Exu1wIgpKWeFDvULfar8D0e3N8VgDApFfD9WkuZU5AyQtImfoo1+ZeNyBEKWCvys0PF+8NBXC6ee3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723820
+                    }
+                ]
+            },
+            "irld": {
+                "name": "irld",
+                "domain": "ulta.ztk5.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725530723823,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741082723.820235,
+                        "expiry": 15552000.820235014,
+                        "value": "LxXiTBb3YYRgHzwHR8WwA3y-EXIjQwFRuWThPRq0xt-zmx39V",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725530723823
+                    }
+                ]
+            }
+        }
+    }
+}

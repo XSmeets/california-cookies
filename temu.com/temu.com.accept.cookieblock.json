@@ -1,0 +1,489 @@
+{
+    "temu.com": {
+        "/": {
+            "_bee": {
+                "name": "_bee",
+                "domain": ".temu.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480721649,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016721.646505,
+                        "expiry": 31536000.646505117,
+                        "value": "z6VcRBlDOLQqwuUqbzkeh77JfRSCVapg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480721648
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.84828496,
+                        "value": "z6VcRBlDOLQqwuUqbzkeh77JfRSCVapg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480724849
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.260217905,
+                        "value": "z6VcRBlDOLQqwuUqbzkeh77JfRSCVapg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480737260
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.477787018,
+                        "value": "z6VcRBlDOLQqwuUqbzkeh77JfRSCVapg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480740479
+                    }
+                ]
+            },
+            "api_uid": {
+                "name": "api_uid",
+                "domain": ".temu.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480712908,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016712.897513,
+                        "expiry": 31536000.897512913,
+                        "value": "CmyENmbYvwiP9gBOMgKoAg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480712899
+                    }
+                ]
+            },
+            "dilx": {
+                "name": "dilx",
+                "domain": ".temu.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480721651,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016721.646687,
+                        "expiry": 31536000.64668703,
+                        "value": "X745C8LssZuo~NmbrpKXd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480721650
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.84844494,
+                        "value": "X745C8LssZuo~NmbrpKXd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480724849
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.260543108,
+                        "value": "X745C8LssZuo~NmbrpKXd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480737261
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.478095055,
+                        "value": "X745C8LssZuo~NmbrpKXd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480740479
+                    }
+                ]
+            },
+            "hfsc": {
+                "name": "hfsc",
+                "domain": ".temu.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480721652,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016721.646733,
+                        "expiry": 31536000.646733046,
+                        "value": "L3yIfY046Tn605bKeQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480721651
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.84847498,
+                        "value": "L3yIfY046Tn605bKeQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480724849
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.260624886,
+                        "value": "L3yIfY046Tn605bKeQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480737261
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.478483915,
+                        "value": "L3yIfY046Tn605bKeQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480740479
+                    }
+                ]
+            },
+            "njrpl": {
+                "name": "njrpl",
+                "domain": ".temu.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480721650,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016721.646635,
+                        "expiry": 31536000.646635056,
+                        "value": "z6VcRBlDOLQqwuUqbzkeh77JfRSCVapg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480721649
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.848362923,
+                        "value": "z6VcRBlDOLQqwuUqbzkeh77JfRSCVapg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480724849
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.26038599,
+                        "value": "z6VcRBlDOLQqwuUqbzkeh77JfRSCVapg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480737261
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.47800803,
+                        "value": "z6VcRBlDOLQqwuUqbzkeh77JfRSCVapg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480740479
+                    }
+                ]
+            },
+            "_nano_fp": {
+                "name": "_nano_fp",
+                "domain": "www.temu.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480716524,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016716,
+                        "expiry": 31536000,
+                        "value": "XpmxnpTJX0man5Txn9_QVYquKCl_BAzbHX9KJoc2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480716523
+                    }
+                ]
+            },
+            "_ttc": {
+                "name": "_ttc",
+                "domain": "www.temu.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480736919,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016737.918102,
+                        "expiry": 31536001.918102026,
+                        "value": "3.CRfRyLo80DA2.1757016737",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480736918
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.temu.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480716788,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480716788
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480721326
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480736945
+                    }
+                ]
+            },
+            "currency": {
+                "name": "currency",
+                "domain": "www.temu.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480713727,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741032713.715196,
+                        "expiry": 15552000.715195894,
+                        "value": "USD",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480713726
+                    }
+                ]
+            },
+            "language": {
+                "name": "language",
+                "domain": "www.temu.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480713726,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741032713.715166,
+                        "expiry": 15552000.715166092,
+                        "value": "en",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480713725
+                    }
+                ]
+            },
+            "region": {
+                "name": "region",
+                "domain": "www.temu.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480713725,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741032713.715081,
+                        "expiry": 15552000.715080976,
+                        "value": "211",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480713715
+                    }
+                ]
+            },
+            "timezone": {
+                "name": "timezone",
+                "domain": "www.temu.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480716037,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016716.036312,
+                        "expiry": 31536000.036312103,
+                        "value": "Europe%2FAmsterdam",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480716036
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.93812704,
+                        "value": "Europe%2FAmsterdam",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480720938
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.700897932,
+                        "value": "Europe%2FAmsterdam",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480736701
+                    }
+                ]
+            },
+            "verifyAuthToken": {
+                "name": "verifyAuthToken",
+                "domain": "www.temu.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480720031,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725567120.0295,
+                        "expiry": 86400.02950000763,
+                        "value": "wz2yRJidTbTMq2gHcV8CUg19bca14eea4eb3395",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480720030
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.953332901,
+                        "value": "wz2yRJidTbTMq2gHcV8CUg19bca14eea4eb3395",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480720953
+                    }
+                ]
+            },
+            "webp": {
+                "name": "webp",
+                "domain": "www.temu.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480716042,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728072716.041542,
+                        "expiry": 2592000.041542053,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480716041
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.951157093,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480720951
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.7048869133,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480736705
+                    }
+                ]
+            }
+        }
+    }
+}

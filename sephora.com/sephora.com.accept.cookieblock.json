@@ -1,0 +1,2959 @@
+{
+    "app.link": {
+        "/": {
+            "_s": {
+                "name": "_s",
+                "domain": ".app.link",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480922489,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016922.488268,
+                        "expiry": 31536000.4882679,
+                        "value": "8i%2F43%2Fsur8UUooLHvdiROPU7U%2F3WOgy%2FLuOMmOOegh29vBPqqFKqqV7DSt5D21%2FC",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480922488
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480910817,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741032910.816324,
+                        "expiry": 15552000.816323996,
+                        "value": "74530069577503411680453581789336275908",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480910816
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.782876015,
+                        "value": "74530069577503411680453581789336275908",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480912785
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480923291,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040923.288525,
+                        "expiry": 34560000.288525105,
+                        "value": "AHWqTUkwGu-ZfbYXnOVwkoQbfdvhNJaVlTBHFZohSNtHp2lJik-RsXL6HK8EMAgSBfc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480923289
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.568794966,
+                        "value": "AHWqTUl-r5Uv6uxWzcOgydlUby_NIMBCva7ZKZY0Zpyq41QTy9KlEDHeRtUUoqJS",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480923570
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480923570,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728072923.568639,
+                        "expiry": 2592000.56863904,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480923569
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480922552,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481822.551039,
+                        "expiry": 900.551038980484,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480922551
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.5566740036011,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480922557
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.5666570663452,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480922567
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.5680329799652,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480922572
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.5699648857117,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480922573
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.5766830444336,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480922577
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.5809650421143,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480922582
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.5918419361115,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480922593
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480912784,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741032912.78281,
+                        "expiry": 15552000.782809973,
+                        "value": "74530069577503411680453581789336275908",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480912783
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480912604,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016912.60125,
+                        "expiry": 31536000.601249933,
+                        "value": "g_surferid~Zti-0AAAALNohgOh",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480912602
+                    }
+                ]
+            }
+        }
+    },
+    "sephora.com": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480909228,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725484509.221911,
+                        "expiry": 3600.2219109535217,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909225
+                    }
+                ]
+            },
+            "AMCVS_F6281253512D2BB50A490D45%40AdobeOrg": {
+                "name": "AMCVS_F6281253512D2BB50A490D45%40AdobeOrg",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480910865,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910864
+                    }
+                ]
+            },
+            "AMCV_F6281253512D2BB50A490D45%40AdobeOrg": {
+                "name": "AMCV_F6281253512D2BB50A490D45%40AdobeOrg",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480909985,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760040909.984592,
+                        "expiry": 34560000.98459196,
+                        "value": "1585540135%7CMCIDTS%7C19971%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909984
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.86052489,
+                        "value": "1585540135%7CMCIDTS%7C19971%7CMCMID%7C74376919167610070170437668336853403229%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910861
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.861502886,
+                        "value": "1585540135%7CMCIDTS%7C19971%7CMCMID%7C74376919167610070170437668336853403229%7CMCAAMLH-1726085710%7C9%7CMCAAMB-1726085710%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910861
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.863626,
+                        "value": "1585540135%7CMCIDTS%7C19971%7CMCMID%7C74376919167610070170437668336853403229%7CMCAAMLH-1726085710%7C9%7CMCAAMB-1726085710%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725488110s%7CNONE%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910865
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.868942976,
+                        "value": "1585540135%7CMCIDTS%7C19971%7CMCMID%7C74376919167610070170437668336853403229%7CMCAAMLH-1726085710%7C9%7CMCAAMB-1726085710%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725488110s%7CNONE%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910869
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.58045697,
+                        "value": "1585540135%7CMCIDTS%7C19971%7CMCMID%7C74376919167610070170437668336853403229%7CMCAAMLH-1726085710%7C9%7CMCAAMB-1726085710%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725488111s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911581
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.78481603,
+                        "value": "1585540135%7CMCIDTS%7C19971%7CMCMID%7C74376919167610070170437668336853403229%7CMCAAMLH-1726085710%7C9%7CMCAAMB-1726085710%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725488111s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19978%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480912786
+                    }
+                ]
+            },
+            "_abck": {
+                "name": "_abck",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480909232,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016909.222024,
+                        "expiry": 31536000.222023964,
+                        "value": "D07312386F4AB72373DB293286888D2C~-1~YAAQyNfOF+qtP6CRAQAAITmtvgx8G6tOCojFNO7NxgQPtfk1vElaBJRLxyFf5rVPd/DYeq65DY/2D8GGvlLifnOuyIvfWzHpxPfVfIIxcyDEA5gpAuwxZ726H6pnTTJ8ftpBTxSGIRkW9ktMeDBH5UNLcEFa3ArSaWsvwWNY/2cpF44xQEbG1jq8ZtR1iF6aLCUM4cGeqgJxbykfQZCkKu/uDIpT32lqLoe1dqbJg9Nb5ZtM+XOJQu5uwBE9a9uCs6QnoBvNQMO2THUYzxkpB+BW/hWZjdjSfZayoEWGZ/FGVXb+4l8CuThz25A8fZ7cri0AoJS535cAKtxvVQbzBiQM3m/XmPfXEWSrg9nTkDpnJ15Z+KdSkSyT1huht0aYdLxjL99N7eZwKAaMdT1CzAKqAWBEOTZhNrIOgXfF~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909229
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.212841034,
+                        "value": "D07312386F4AB72373DB293286888D2C~-1~YAAQyNfOF2euP6CRAQAA5zutvgzKwcqgc2Fy5LG2Mft2SP5COxtLWQK3I1/B090hfQEj99qfegg9aS7IYZ43uGjrQ9JuWpf1yf70TXOeONAd6ZMCpTRBnpxA9kAPEwiQFy29RB5AUo6ydJfJc/3wMzl6gfGEyXlY1ORXXdbC3q+wP6q5VXMUwKeWfJ/0UQusPd6TF3fXJeShzoIz9gjRN1L3Dh13AlTQIJ7MS2VYTQziwsABsaVmQ+zZvhE5MtKjg3B94CVq12HfwU8XOl1b8b0evyEd37OADZuij7rymFEPGKngktWnwmlD44x0RQ0Q510uRHju/g8VGKxkGTmG5wIZVnZ/hVTaoVQl3mybywE3dhfPF+PqPkjjRsvWD+HdFEvkOh+e1BGFK1WD/BoiHFynLgAH6N137v0AkLkecfCU0gl2UCJk/dYb6yk=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910213
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.81770706,
+                        "value": "D07312386F4AB72373DB293286888D2C~-1~YAAQyNfOFzmvP6CRAQAAXj+tvgzgWoSuwv0QcRrksYDscIWfEuj6T06v06dmeZI7LgTY9FGfQ7teCyiJNfRbN17FapDm5YekKIiekw7N8KwypaCgAfn/jVORMHxqDjzrw3VtUFgXeZME6Rv7JXZurZbKjNZQxBMr9RNJXz2Frq7q9+pZ709TkSFjpZL4gra+Oz2/Ez2Dxwxmtjy09VpoEip6bZrtbzjjKY1jMdWbyOvDyQVV7giLDI/W1dYH8DYGbfDJ28smvjsRX4rhKUTFYZ4XaF6/erUWXiWcLcuqj2Lcvc2lqJ7CTd1cJvp/9dz83a43QdANPSH71qcCETDlWmz0lFSdbXU3kKeArUeNU6SML6AOHzC2A4Kb1QvuuJAzh0UPdu7Ie97BO+QBZoFNiOvX1CabLYQX2Tbqt8OCREdO/ozf+arXW3iPSkyBriOrd1HHZ8MAJOmy~-1~||0||~1725484510",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910818
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.418806076,
+                        "value": "D07312386F4AB72373DB293286888D2C~-1~YAAQyNfOF7ivP6CRAQAAtkGtvgzq/f+CGutOfUL5KYHxIz3rG5gTL3NMtpNxO94yqmGiMhz1eR8rRKCKnXfK6JLApYN2yNLyguTtEMzfkhNo7WG5rgLqVNkXlUFVKJmgITSVjUHnNZmZmxkzC3qzC/V+kONvYXUWvUITQ+AKoOFSceE04faWshFiyvXp58Xbe1t3UBMwkJXWqfIzw9FKtBxdHj2wRyxKYzo0gyQkM35W1ZcOJleowXZ3KShl4HfBum4UeSBnZ6JvUMZNOYBNaB0Of8HyNJmiF6xWnczdO8fpxC1VZlJU1AGxUF5DR1Lz5L0+RA1DdhTZmqr+1Iqj7Z0icnV+jhEhM0B8ir5iQbJD6idMcOs81z9m75CNd1MjplY23/01hpKhxA3N99PzgFkG4AIO6kHFxqwy2DAid5RUe6X+tcoT1qrQRk0/VbCsXX0t+EaAcjQ3~-1~||0||~1725484510",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911419
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.83045101,
+                        "value": "D07312386F4AB72373DB293286888D2C~-1~YAAQyNfOFxuwP6CRAQAAU0OtvgxqJlTXr4eAlmxl3/IwuaMoNHSTZz4YtMb4YhFPh+zLbGxhrDuv/JrA59fPX0bhNvv1MVz/gCPFB870O4Y5tmNJqAtUkh3Z23T3w1g2FngjbYfJtbGn+x36prwCDyFyq6rSX2W+7mbqwFu78gsJPKMIHlrs+DdpIweQ67rloC/y9mBLs7GSBADjwRmflTUir6sSL7zQwcSiCJLGx71yEfKJUZ9Tugik7iGbTR42iFEWAogx4HJV1dQd3uQ9woyxCFhZae2uWuMMmu8kg+I+gjQspRC5CS1O0NsSPFnvTxh3iuVUG61H6FKu0zVt10DK/rRFOvHO3Zf3sf7huH2Mkm2zlAzEWdpTRFArOSL2iH2njivQRwd5pCjCuRsQ7tb5lWVzsw9OwA+KRNGLbFKD/Rw+q8iM6pDaOevRFixVw7vSGQBXLc4i~-1~||0||~1725484510",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911831
+                    }
+                ]
+            },
+            "_cs_mk": {
+                "name": "_cs_mk",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480922686,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482722,
+                        "expiry": 1800,
+                        "value": "0.37245748091320063_1725480922681",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922686
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480920758,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760040920.757218,
+                        "expiry": 34560000.757217884,
+                        "value": "GA1.1.1439046767.1725480921",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480920758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.40046692,
+                        "value": "GA1.2.1439046767.1725480921",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922401
+                    }
+                ]
+            },
+            "_ga_HX1JZMWBCJ": {
+                "name": "_ga_HX1JZMWBCJ",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480920757,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760040920.756733,
+                        "expiry": 34560000.75673294,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480920757
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.75694704,
+                        "value": "GS1.1.1725480920.1.0.1725480920.0.0.1126351598",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480920758
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480922082,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733256922,
+                        "expiry": 7776000,
+                        "value": "1.1.644740981.1725480922",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922081
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.644740981.1725480922",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922153
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.644740981.1725480922",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922189
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.644740981.1725480922",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922218
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775999,
+                        "value": "1.1.644740981.1725480922",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923094
+                    }
+                ]
+            },
+            "_gd1725480922681": {
+                "name": "_gd1725480922681",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480922685,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_gd1725480922681",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922684
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480922402,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567322,
+                        "expiry": 86400,
+                        "value": "GA1.2.1894702843.1725480922",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922401
+                    }
+                ]
+            },
+            "_rdt_uuid": {
+                "name": "_rdt_uuid",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480922888,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733256922,
+                        "expiry": 7776000,
+                        "value": "1725480922885.bd24c919-3c70-48c8-a012-d150d25119d6",
+                        "same_site": "strict",
+                        "timestamp": 1725480922886
+                    }
+                ]
+            },
+            "_schn1": {
+                "name": "_schn1",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480923836,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481103,
+                        "expiry": 180,
+                        "value": "yzpd",
+                        "same_site": "lax",
+                        "timestamp": 1725480923835
+                    }
+                ]
+            },
+            "_scid": {
+                "name": "_scid",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480923838,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759667621,
+                        "expiry": 34186698,
+                        "value": "POTBnG-K2Trf1gvGCBARjyv5jRUqZZ5c",
+                        "same_site": "lax",
+                        "timestamp": 1725480923837
+                    }
+                ]
+            },
+            "_scid_r": {
+                "name": "_scid_r",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480923838,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759667621,
+                        "expiry": 34186698,
+                        "value": "POTBnG-K2Trf1gvGCBARjyv5jRUqZZ5c",
+                        "same_site": "lax",
+                        "timestamp": 1725480923838
+                    }
+                ]
+            },
+            "_tt_enable_cookie": {
+                "name": "_tt_enable_cookie",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480922261,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759176922,
+                        "expiry": 33696000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922260
+                    }
+                ]
+            },
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480922262,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759176922,
+                        "expiry": 33696000,
+                        "value": "T4_OZIJGLyLBmH6O-kW183o1_Jl",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922262
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480909235,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725488109.222063,
+                        "expiry": 7200.222063064575,
+                        "value": "686DE4FD21D7428211243F249FA3A622~000000000000000000000000000000~YAAQyNfOF+utP6CRAQAAITmtvhkEeYchyJ6Z/XXmmc7h9TCzfT0vNXwg+wpFSW6K3NnlIS3fSgV0wgrZXVGzsjUY31dx0+hzFx2BsScENu9sYXrB1wCMXNHhEHCpp6eykIOGbf0suitiLzEG4iADKAr+YR4mhkrxVpotDA/xTtXhhYA32P2fXG78tlQPYglK5EedNbnRPjPUM62wHoewzcHinoFYzG4PMP9qEB1G+7wwo/Qv/nYMr8+2+Fg1sP1Ok4+wMBPStn/6+rQ5R64d5aDE5VCVl6LTcd7GGba6e/3KrVgIci+jHY4QD0xjfKv2PKXKeKaSvJx4hXmPWm48ZN0Y5LVX47I7rHgDqyb6fbTVYsiNEi4trUJf6vcVEAkLuKpN0v9cwuKPcand",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909232
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7200.974442958832,
+                        "value": "B9292C8979C556AB5BC689A8EFA72295~000000000000000000000000000000~YAAQyNfOF0WuP6CRAQAA3jqtvhm+uMTQSHHEH+9Aiiq6o9twRhfAcTxsF/JTId0q2ks+bIu3W3cAWOBsSjiki4hRSR/VQaSh7WGkF6P8bpFH5D5v5RcU5XtHmnovLA/PsMTBQuo++v3U9uHR5jK2X3auI9ucmCi82N7JB+Y41GZi+FpbkBIuN9OfNqMPS/prbDBcEqmCmPMADtDOUhHQAR/fDBNF0IvJcKEzcBH6nJ+FUUi2GEC35W9hWIF0abF2vs3OTu8dM/yW/5g6uoieEUetpCZmC/UO8imiznrACAN5w2niHVAeF8xNzbuFe0/FvJLSo1IzcEIMjXw3d4RQCxKwZwR+r4TSjeL43k4giPMa6NEkTv3GJQ+4y4+cu1UFp4HhxB2Mbf3PEELMAJmY+DVBHo0ruBzAtBmfEHwKGIH3miU8MEn0CQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909975
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7199.5520260334015,
+                        "value": "B9292C8979C556AB5BC689A8EFA72295~000000000000000000000000000000~YAAQyNfOF/auP6CRAQAAVD6tvhm29BnkS+aRHz5yU1wrEakISAquQG3nY9ZT+H+cJbT+5DCzoOFg2g/8NzG/dcuCafIgohZCDsWVotPFmmTZ5XSTYXxLvbZzbmBi5scY32zuzQwUnBQUrXYlJ/Ge307IHpzE15rQkbbDveEYODvaUn3WDhP6v9i0uBLMUPk7zBLS+WGnRcVc1J1CplvGlsIzbcqDNA85VX/VmRb2Z9/mzs4pUfIJvR7MnamPgGrjCaYXm/F6GmlpCyGtjgKWF/JSca2KuWPixPt35UN6I5tZMxRWmlZPzH5wXAn2zuMWGgXA6NzbbYmYDEh4JNjyf/wPyl+CxJZJhMq73Tffo/lBLtD1f0cN/x6vTEJu9aGVrtDdd8F/Bg7iD5BvtkMrgJafFma8Flol2MXe1wFfJH22b+bRDpN8ZzNsqfdn86NhQJ2v3qdkbeE=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910619
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7199.964792966843,
+                        "value": "B9292C8979C556AB5BC689A8EFA72295~000000000000000000000000000000~YAAQyNfOF0uvP6CRAQAA5D+tvhk6OiiSjGasOSW6oqS9wvFKRE2IeEAnr0cem+7H4sNoYpaGJFlvV0oC2GTSxizVuy6SAJqxOTQTaPQm9xIpUNmwLflF3fUq+TISkS2Ux8R2mOvXITEAwrJegSQuJdVe9jtfjwC4M32+HlFeAV4Mxm+szvuznts9iNnL5scNwra3YwJbgPJq8RZM5mwQxEi7dU5DN7kj0GkSKh8QretTwM100/fYRnqakltUW0tNI1LTx+/DxRBoTze2RmIydgT8PxhAebNXbqCQ9SNeUbqERO/8GKnCubo1PUrYUo7eCQbYNL5cEMS2RvNzKVFQ4WnZgwIVwu85/8x0tMdFV4suK9yma8Yp/JWuRD5Uz02Fc/TtkOWb+PqbsLXAZLSdn3CTVBY60bRlKbJtkNHOff/LuNMM/MbszmPJgMB4PUfea2u7mw+PEvM=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910965
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.2902619838715,
+                        "value": "B9292C8979C556AB5BC689A8EFA72295~000000000000000000000000000000~YAAQyNfOF6uvP6CRAQAAN0Gtvhnk/OQRlklnoALGYAVswQd36QhXfDyekriQMebeR9Ugf0C9zL/MQVc7gZeXknbA3OCuDqD2SVlERJQFQIED2evU301FEkagKPGGEKAppcq47g72EKhH/eL0y7+iG+NAuh+UwfCKQi0hEWVns+iom3k4JTv3kRGWhaY9pT7OL0uXdxmH/Wd291QQspq9UQ3jFt9UummbFJjXZ7v+cYogUuZfUvydMZDkrXi4kWZoCbVQe3nFYvNTaJineq19EbUGgGzZ1IqaoLYdyc0gmbZ5F1CLO+kRB01Ijrpha9JK+QGJ9NV5fEe8Q7zSb8phbt4T4SGr3RWB1HLmXv9QqZtJvDQnWsvKiYqRpG89U549qQGVfcecwXfe8ROO0J08YGR1f98tBweX3GPEBmpW9yv6tgu6TBD7yXQiToK/te5ImL+xUkRAp2WaFi1glGGk",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911290
+                    }
+                ]
+            },
+            "at_check": {
+                "name": "at_check",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480910001,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910000
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910394
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480912296
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480910206,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725488110.202164,
+                        "expiry": 7200.202163934708,
+                        "value": "582F1A07DA4244F4FE72A02895C3B365~YAAQyNfOF12uP6CRAQAAjTutvhmzGQt30hzihe5i0OWQWt3JequsEFmfbfIJ/PGzNJppziS0kqJfY3i24JLfz/owGdBpkGLdMNcjMNaAsVCxRrae0FBvQWv6Ew9gtVE2W/qAkLft9NdC40MJXQKd41p3TSLqsz/3k6pEQkiHOwi58+c0fAaSrbPfjkERDq3etrmAcORvGaCu8jpIyIfdaA3uUU6Dkf/WAOqWYr52ruzXedLIsvPxxmcFIr0lANWlKQ==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910205
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.964932918549,
+                        "value": "582F1A07DA4244F4FE72A02895C3B365~YAAQyNfOF0yvP6CRAQAA5D+tvhnWyw3hbL8Gat7xSRdGsEfQQw10hK5jLPwfZ+UNfylXqu8bDrDypRKoy+7VTLhma90+SrwzmV5BXuN9E0imF/53IhdsKPkFpRgX5/ScJw/T1/tXY98qnHnXln368upCbY/9DX0u4+2U/9FwHBy+izgWeKab72paCG/2otlydzTYBobXMSwNyVVCW/5txjZRAACdiRNciGRgd/b1u/lh8zdOIeWCFwZgFk9dPa79Pw==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910965
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.98051404953,
+                        "value": "582F1A07DA4244F4FE72A02895C3B365~YAAQyNfOF1mvP6CRAQAA/z+tvhmA2i3CF9yZCdef1KZtxqjrUlfdO0E3K6HkqhybVNaHAxvym3vjZiWP4t7nJPpRLnhXh6cOFRsBOxAXjlSJuPn6K/xA9RH1yl1owgA2yL/QgETRNB+fQeQG0l7B7sfPsr2OyGEiri4Lb7/JqofsKJhIXMeRVrWw140tqJIwb9RbtWX7LWUsLVEj/ge73Tg7rBibX4bzlLkCZAopUxdjC3XzYpkPPkpcrZ2WDWAAqA==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910983
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7198.238055944443,
+                        "value": "582F1A07DA4244F4FE72A02895C3B365~YAAQyNfOF56vP6CRAQAAAEGtvhm8buW0ZDGVF3i1o5Z4qsGwjzQKDa8dg/KwYK3xqBLPXHdyQWSmQXdQ/SXBaW5Mo5JciTwOXVRp3HJpmn5UK6ZcqtgifLZkyNY2vbWX/F39wTgghzK/UpOL1RbD8OHS8Z1SWMA7ng/2QMNrxgUv5wEl6jYdJGJtYDtwe+cZ0FDklyBCsuTTOfVpuCyIBPuHwkFXWaqDi9+P1O8bu43n9f1zTKLpTwkLPYg14ylxDA==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911240
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7198.543322086334,
+                        "value": "582F1A07DA4244F4FE72A02895C3B365~YAAQyNfOF+ivP6CRAQAAM0Ktvhnm1nbH7XKEFY36Di/wGTKvToCjzwZPFaI8BJDlu0hTh6DBOGyOdJ1bB4m6HcVkLmnkf5ESkh30PtT1fCcKZjaLYIcz3AvOm8J7azod9JharYjWFTkRFMGGeT78SReOZQeTdgL8YrjrijUFe3XnnhfGc/eqlRVBLpP1FtNXlqr2D7vsbjLUQYVDq2sAkuIbF9x7MqdW94bmldaDtQXLROGLUXPSv9rnP+wIlNMJeg==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911543
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7198.887056112289,
+                        "value": "582F1A07DA4244F4FE72A02895C3B365~YAAQyNfOFyiwP6CRAQAAikOtvhn5S6JELQqeBGzlEG2aBOnfOHC7nVkV5hoIr19xhKpYy3mmxNAx9L9zg0+PBXL3k8jVBbUgNuX1EVfPxFl8pP0b38Trm0VEKqGpr8vf5aq28Xqz8cfehZ2Qp/Y/InFDu3Ld4Zqc9RQ8zS/xIjRVd8qRjSoGIYQHTFolCbvRo2FLaOlHijG2FrW/PqgrMqRE2ox9M1zZdC/v616FT21hv+QY2BXKUz7/VlDZJgVd3g==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911887
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7198.8951420784,
+                        "value": "582F1A07DA4244F4FE72A02895C3B365~YAAQyNfOFymwP6CRAQAAjkOtvhkp5npebS6yeX0pqN46fO73jBzxe7lzX9nqS4gURZK8JGCI4KGDrQeIhObZegj4bbwFiWROC2t51X/AcCNWe8oZOI8HexiWxsrtuR59Qb5MqAWRgHwKLo2TBLsDVxoXPOETFOsczCyHxG4o1tchaRFZtvjZJUpfsVag/W1r9RoWrg/wtr48UQhnscoXcN4D9y5OOKm+wpdQ4Yja+ZiIYkjqOIKmWtKK7v/BznWuQQ==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911895
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7186.516561985016,
+                        "value": "582F1A07DA4244F4FE72A02895C3B365~YAAQyNfOF3e5P6CRAQAA+HCtvhnjBmMhwIuSRTOkoTDG4NHm617TQ8FYMTKOtgSR9sCRGN8OWMTL1QPeJ6VpfiyYJjfTzJ97PK6ZEe1JVF7MBRgPwpppEt1dRADGLIHuyJu5iQsy58Ef1NG/eLtaLkzJc5R6Vq+qGWLFKO308WzDAWbCh/mf0/50tMUTG2el/paQW6r5fCTnaAu1+pwaMn29F9jigT5XSA/6o1O+ys/gB6efKYXqaY8OzrEl21s63w==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923518
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480909237,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725495309.222342,
+                        "expiry": 14400.222342014313,
+                        "value": "7A053A09FDC7FA5BE886F9FF0651CB46~YAAQyNfOF+2tP6CRAQAAITmtvhlull6RqNl/3owSH0ClaqTYSpxHEBNGj4BdBGIN4922GCFB0u9O0rNIzhFn4AWdEelS0s4FK2id5/NLjynJTS0Bun31+2usEbLck4yQ+GnBOw0wIWl7DrmYOKQswcroXbkdB4wUycBKGwaxfi+SNFn4MswRoQIHXH74WWet/PrnUJwliUkWNrDZj0TScRpyHWDbzEfvxqgMCfCDZTNg5XIR/XrsQB2dCvpodeaG15+InNji4hrXDPQFvuBBX6GpmYuf1FUA6Sxt7bcaZbGvyq6+4PZXSYZKvin8aoJI3Rr2Cdc35IlOJ9UPAG5RX0/26DNTmxi35ZjqV53k15ONLRg71VXzPJvqZO5dQxk/7VJp9RwKy7hl/bRFhYoYiA==~3223856~3228208",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909236
+                    }
+                ]
+            },
+            "dTValidationCookie": {
+                "name": "dTValidationCookie",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480910659,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dTValidationCookieValue",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910658
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dTValidationCookieValue",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480916014
+                    }
+                ]
+            },
+            "dtCookie": {
+                "name": "dtCookie",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480910661,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_4_sn_84B9LCF7EGUO24675SS213IUAAKD4KK2_app-3A010ad61344e68aed_1_ol_0_perc_100000_mul_1_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480918841
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_4_sn_84B9LCF7EGUO24675SS213IUAAKD4KK2_app-3A010ad61344e68aed_1_ol_0_perc_100000_mul_1_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480920984
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_4_sn_84B9LCF7EGUO24675SS213IUAAKD4KK2_app-3A010ad61344e68aed_1_ol_0_perc_100000_mul_1_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480920998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_4_sn_84B9LCF7EGUO24675SS213IUAAKD4KK2_app-3A010ad61344e68aed_1_ol_0_perc_100000_mul_1_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480921236
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_4_sn_84B9LCF7EGUO24675SS213IUAAKD4KK2_app-3A010ad61344e68aed_1_ol_0_perc_100000_mul_1_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480921237
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_4_sn_84B9LCF7EGUO24675SS213IUAAKD4KK2_app-3A010ad61344e68aed_1_ol_0_perc_100000_mul_1_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923002
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_4_sn_84B9LCF7EGUO24675SS213IUAAKD4KK2_app-3A010ad61344e68aed_1_ol_0_perc_100000_mul_1_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923026
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_4_sn_84B9LCF7EGUO24675SS213IUAAKD4KK2_app-3A010ad61344e68aed_1_ol_0_perc_100000_mul_1_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923277
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_4_sn_84B9LCF7EGUO24675SS213IUAAKD4KK2_app-3A010ad61344e68aed_1_ol_0_perc_100000_mul_1_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923839
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_4_sn_84B9LCF7EGUO24675SS213IUAAKD4KK2_app-3A010ad61344e68aed_1_ol_0_perc_100000_mul_1_rcs-3Acss_0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923848
+                    }
+                ]
+            },
+            "dtPC": {
+                "name": "dtPC",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480910666,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-76$480910634_133h8vHCAKAUFWJJUOCMPVBMPEDJMJHSVFBFFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911421
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-76$480910634_133h12vHCAKAUFWJJUOCMPVBMPEDJMJHSVFBFFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911474
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-76$480910634_133h13vHCAKAUFWJJUOCMPVBMPEDJMJHSVFBFFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911557
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-76$480910634_133h8vHCAKAUFWJJUOCMPVBMPEDJMJHSVFBFFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911901
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-76$480910634_133h1vHCAKAUFWJJUOCMPVBMPEDJMJHSVFBFFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911907
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480910634_133h16vHCAKAUFWJJUOCMPVBMPEDJMJHSVFBFFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480916311
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480910634_133h1vHCAKAUFWJJUOCMPVBMPEDJMJHSVFBFFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480916616
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480910634_133h18vHCAKAUFWJJUOCMPVBMPEDJMJHSVFBFFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480917718
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480910634_133h-vHCAKAUFWJJUOCMPVBMPEDJMJHSVFBFFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480917745
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4$480910634_133h-vHCAKAUFWJJUOCMPVBMPEDJMJHSVFBFFD-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923851
+                    }
+                ]
+            },
+            "dtSa": {
+                "name": "dtSa",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480910665,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910664
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923838
+                    }
+                ]
+            },
+            "forterToken": {
+                "name": "forterToken",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480910855,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760040910,
+                        "expiry": 34560000,
+                        "value": "729877616bb448c1a3f2365e91cf1374_1725480910853___23ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910854
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "729877616bb448c1a3f2365e91cf1374_1725480910853__UDF4_23ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480913084
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "729877616bb448c1a3f2365e91cf1374_1725480910853__UDF43_23ck_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480913186
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "729877616bb448c1a3f2365e91cf1374_1725480910853__UDF43_23ck_/biF0mwzDmk%3D-5152-v2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480916703
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "729877616bb448c1a3f2365e91cf1374_1725480910853__UDF43-m4_23ck_/biF0mwzDmk%3D-5152-v2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480917915
+                    }
+                ]
+            },
+            "inside-sephora": {
+                "name": "inside-sephora",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480920727,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016920,
+                        "expiry": 31536000,
+                        "value": "2569715181-70d4e9927b873eb308ffd6462dccf2f19122ddc56328a802da18e0101b95061e-8-8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480920727
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2569715181-70d4e9927b873eb308ffd6462dccf2f19122ddc56328a802da18e0101b95061e-0-0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480921521
+                    }
+                ]
+            },
+            "mbox": {
+                "name": "mbox",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480910002,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482770,
+                        "expiry": 1860,
+                        "value": "session#5e398d4c4d7a416ab13cbde5345be0ff#1725482770",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910001
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1861,
+                        "value": "session#5e398d4c4d7a416ab13cbde5345be0ff#1725482771",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910395
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1861,
+                        "value": "session#5e398d4c4d7a416ab13cbde5345be0ff#1725482772",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911582
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.2867949,
+                        "value": "session#5e398d4c4d7a416ab13cbde5345be0ff#1725482772|PC#5e398d4c4d7a416ab13cbde5345be0ff.35_0#1788725713",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480912287
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.28939605,
+                        "value": "session#5e398d4c4d7a416ab13cbde5345be0ff#1725482773|PC#5e398d4c4d7a416ab13cbde5345be0ff.35_0#1788725713",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480912291
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.29797697,
+                        "value": "session#5e398d4c4d7a416ab13cbde5345be0ff#1725482773|PC#5e398d4c4d7a416ab13cbde5345be0ff.35_0#1788725713",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480912298
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.32169604,
+                        "value": "session#5e398d4c4d7a416ab13cbde5345be0ff#1725482773|PC#5e398d4c4d7a416ab13cbde5345be0ff.35_0#1788725713",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480912322
+                    }
+                ]
+            },
+            "mboxEdgeCluster": {
+                "name": "mboxEdgeCluster",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480912290,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482772,
+                        "expiry": 1860,
+                        "value": "35",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480912290
+                    }
+                ]
+            },
+            "mp_sephora_mixpanel": {
+                "name": "mp_sephora_mixpanel",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480920699,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016920,
+                        "expiry": 31536000,
+                        "value": "%7B%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480920698
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22distinct_id%22%3A%20%22191bead6679a01-07aa8a51fcda6d-17525637-1fa400-191bead667a13dc%22%2C%22bc_persist_updated%22%3A%201725480920699%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480920700
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22distinct_id%22%3A%20%22191bead6679a01-07aa8a51fcda6d-17525637-1fa400-191bead667a13dc%22%2C%22bc_persist_updated%22%3A%201725480920699%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480920723
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22distinct_id%22%3A%20%22191bead6679a01-07aa8a51fcda6d-17525637-1fa400-191bead667a13dc%22%2C%22bc_persist_updated%22%3A%201725480920724%2C%22hasLovesList%22%3A%20false%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480920724
+                    }
+                ]
+            },
+            "rxVisitor": {
+                "name": "rxVisitor",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480910663,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725480910635GN0L3HAV048OLB94C1H4T26JJK6KUUU8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910661
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725480910635GN0L3HAV048OLB94C1H4T26JJK6KUUU8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480912648
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725480910635GN0L3HAV048OLB94C1H4T26JJK6KUUU8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480916827
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725480910635GN0L3HAV048OLB94C1H4T26JJK6KUUU8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480920986
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725480910635GN0L3HAV048OLB94C1H4T26JJK6KUUU8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480920999
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725480910635GN0L3HAV048OLB94C1H4T26JJK6KUUU8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923029
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725480910635GN0L3HAV048OLB94C1H4T26JJK6KUUU8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923850
+                    }
+                ]
+            },
+            "rxvt": {
+                "name": "rxvt",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480910665,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482710867|1725480910636",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910867
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482710884|1725480910636",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910885
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482710899|1725480910636",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910899
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482710907|1725480910636",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910907
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482710992|1725480910636",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910993
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482710998|1725480910636",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482711473|1725480910636",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911474
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482711556|1725480910636",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911557
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482716310|1725480910636",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480916310
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725482717717|1725480910636",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480917718
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480922688,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922687
+                    }
+                ]
+            },
+            "s_ecid": {
+                "name": "s_ecid",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480911580,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760040911.578922,
+                        "expiry": 34560000.57892203,
+                        "value": "MCMID%7C74376919167610070170437668336853403229",
+                        "same_site": "lax",
+                        "timestamp": 1725480911579
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.86708307,
+                        "value": "MCMID%7C74376919167610070170437668336853403229",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922868
+                    }
+                ]
+            },
+            "s_ppv": {
+                "name": "s_ppv",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480922684,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2520page%253Ahome%2520page%253An%2Fa%253A%2A%2C100%2C100%2C5142%2C1920%2C968%2C1920%2C1080%2C1%2CL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922683
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2520page%253Ahome%2520page%253An%2Fa%253A%2A%2C100%2C100%2C5142%2C1920%2C968%2C1920%2C1080%2C1%2CL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923021
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2520page%253Ahome%2520page%253An%2Fa%253A%2A%2C100%2C100%2C5142%2C1920%2C968%2C1920%2C1080%2C1%2CL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2520page%253Ahome%2520page%253An%2Fa%253A%2A%2C100%2C100%2C5142%2C1920%2C968%2C1920%2C1080%2C1%2CL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923690
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "home%2520page%253Ahome%2520page%253An%2Fa%253A%2A%2C100%2C100%2C5142%2C1920%2C968%2C1920%2C1080%2C1%2CL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923856
+                    }
+                ]
+            },
+            "s_ppvl": {
+                "name": "s_ppvl",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480922681,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%5BB%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480922680
+                    }
+                ]
+            },
+            "s_visit": {
+                "name": "s_visit",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480919954,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482719,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480919953
+                    }
+                ]
+            },
+            "ssi": {
+                "name": "ssi",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480923520,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725482723.518205,
+                        "expiry": 1800.5182049274445,
+                        "value": "86d27197-376e-4d9c-b327-37c50525247d.1725480923518",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923519
+                    }
+                ]
+            },
+            "sti": {
+                "name": "sti",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480923518,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760040923.516486,
+                        "expiry": 34560000.51648593,
+                        "value": "86d27197-376e-4d9c-b327-37c50525247d",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480923517
+                    }
+                ]
+            },
+            "test": {
+                "name": "test",
+                "domain": ".sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480909981,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909981
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909983
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909983
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1725480916139
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".www.sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480911317,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726085711,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.sephora.com&si=45952a08-3e1a-4539-a9a7-6e1ad7cf7ef5&ss=m0oas58r&sl=0&tt=0&bcn=%2F%2F17de4c1b.akstat.io%2F\"",
+                        "same_site": "lax",
+                        "timestamp": 1725480911316
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.sephora.com&si=45952a08-3e1a-4539-a9a7-6e1ad7cf7ef5&ss=m0oas58r&sl=1&tt=959&bcn=%2F%2F17de4c1b.akstat.io%2F&ld=9xf\"",
+                        "same_site": "lax",
+                        "timestamp": 1725480920527
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.sephora.com&si=45952a08-3e1a-4539-a9a7-6e1ad7cf7ef5&ss=m0oas58r&sl=1&tt=959&bcn=%2F%2F17de4c1b.akstat.io%2F&ld=9xf&hd=chm\"",
+                        "same_site": "lax",
+                        "timestamp": 1725480923848
+                    }
+                ]
+            },
+            "adbanners": {
+                "name": "adbanners",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480908531,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730664908.500655,
+                        "expiry": 5184000.500654936,
+                        "value": "on",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480908530
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.221858025,
+                        "value": "on",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909225
+                    }
+                ]
+            },
+            "akamweb": {
+                "name": "akamweb",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480908513,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481808.49941,
+                        "expiry": 900.4994099140167,
+                        "value": "H",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480908502
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900.2209858894348,
+                        "value": "C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909222
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900.2018849849701,
+                        "value": "C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910203
+                    }
+                ]
+            },
+            "akavpau_akaau": {
+                "name": "akavpau_akaau",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480908532,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725481508~id=5f8971aaaa3c2cf87d9f480304bd8fb0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480908531
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725481509~id=12d6d7ae577aefd8da45153b07cb7f9b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480909229
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725481509~id=12d6d7ae577aefd8da45153b07cb7f9b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480909974
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725481509~id=12d6d7ae577aefd8da45153b07cb7f9b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480910213
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725481509~id=12d6d7ae577aefd8da45153b07cb7f9b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480910240
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725481509~id=12d6d7ae577aefd8da45153b07cb7f9b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480910251
+                    }
+                ]
+            },
+            "current_country": {
+                "name": "current_country",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480908523,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "US",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480908521
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "US",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909223
+                    }
+                ]
+            },
+            "device_type": {
+                "name": "device_type",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480908521,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480908514
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909223
+                    }
+                ]
+            },
+            "rcps_basket": {
+                "name": "rcps_basket",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480908530,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730664908.500568,
+                        "expiry": 5184000.500567913,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480908530
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.221613884,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909224
+                    }
+                ]
+            },
+            "rcps_beauty_offers": {
+                "name": "rcps_beauty_offers",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480908529,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730664908.50054,
+                        "expiry": 5184000.500540018,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480908529
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.221457958,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909224
+                    }
+                ]
+            },
+            "rcps_product": {
+                "name": "rcps_product",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480908524,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730664908.499974,
+                        "expiry": 5184000.499974012,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480908523
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.22110796,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909223
+                    }
+                ]
+            },
+            "rcps_profile_account_group": {
+                "name": "rcps_profile_account_group",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480908525,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730664908.500013,
+                        "expiry": 5184000.500013113,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480908524
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.2211380005,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909224
+                    }
+                ]
+            },
+            "rcps_profile_bi_group": {
+                "name": "rcps_profile_bi_group",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480908526,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730664908.500051,
+                        "expiry": 5184000.500051022,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480908525
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.221169949,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909224
+                    }
+                ]
+            },
+            "rcps_profile_info_group": {
+                "name": "rcps_profile_info_group",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480908527,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730664908.500172,
+                        "expiry": 5184000.5001719,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480908526
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.22119689,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909224
+                    }
+                ]
+            },
+            "rcps_profile_shipping_group": {
+                "name": "rcps_profile_shipping_group",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480908527,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730664908.500266,
+                        "expiry": 5184000.500266075,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480908527
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.221225977,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909224
+                    }
+                ]
+            },
+            "rcps_profile_userprofile_group": {
+                "name": "rcps_profile_userprofile_group",
+                "domain": "sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480908528,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730664908.500381,
+                        "expiry": 5184000.500380993,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480908527
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.221340895,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480909224
+                    }
+                ]
+            },
+            "ConstructorioID_client_id": {
+                "name": "ConstructorioID_client_id",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480910616,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016910,
+                        "expiry": 31536000,
+                        "value": "6da62edf-b6c4-408a-8c1c-a7e878aba4c7",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910615
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "6da62edf-b6c4-408a-8c1c-a7e878aba4c7",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910619
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "6da62edf-b6c4-408a-8c1c-a7e878aba4c7",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910883
+                    }
+                ]
+            },
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480910203,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "com2-107~zPZsC+52Dhqcq5xs2Ttkoglj.com2-107",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910202
+                    }
+                ]
+            },
+            "SephSession": {
+                "name": "SephSession",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480910619,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760040910.488396,
+                        "expiry": 34560000.48839593,
+                        "value": "5f72ae9b-fbf3-4c81-8581-6bee8058b1bd",
+                        "same_site": "lax",
+                        "timestamp": 1725480910619
+                    }
+                ]
+            },
+            "ak_bmsc-kp-ssn": {
+                "name": "ak_bmsc-kp-ssn",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480910982,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725567310.980373,
+                        "expiry": 86400.98037290573,
+                        "value": "0GzkZxrLpOE28L3SMWLR92eGVAOq9XUwA1LcTsSHUTwvmjfEPSyidUA16BvtP7x0aYzT5QrlkYe1oGeZCMCFR1EoiBRdFFKDBE0CDBJCg6azKF47loOp7qB925kEJ0kenCIBvyMCIaRKfaDN9KdcPsdZg6NZsggpAE98NZQC",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480910981
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.37583208084,
+                        "value": "0L09jCQgVfvPDpDcG590VOHA0dM13vCXp67FgyepJKFoT0PnSNjpOxaoDdFoQSMC7MoSNlbZE23MF8SrrArLL1gpzSfx8Y4mClZa1iLqa5G5WiUFWU7da2SO80hHiYEpfgn0iUf6COxm00GdeyCZCNhV3XnMztHcl7ybjWge",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480911376
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.89499807358,
+                        "value": "0LQeprM8H3rW5uzwJEPzYazsuOJO0r9nYi8P00Tev26HxRyqWcpxWmsxA88pZU4Sg9j6Qph1noXSN4zr0pCVJVSbCmjvllMSA3CNBqftL3qo66DeoktAVYinkVsZO7b2z4cQzB71CmbP2VnosyW3qgtAvx12oPjoaRBcuTFO",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480911895
+                    }
+                ]
+            },
+            "ak_bmsc-kp": {
+                "name": "ak_bmsc-kp",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480910983,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567310.980452,
+                        "expiry": 86400.9804520607,
+                        "value": "0GzkZxrLpOE28L3SMWLR92eGVAOq9XUwA1LcTsSHUTwvmjfEPSyidUA16BvtP7x0aYzT5QrlkYe1oGeZCMCFR1EoiBRdFFKDBE0CDBJCg6azKF47loOp7qB925kEJ0kenCIBvyMCIaRKfaDN9KdcPsdZg6NZsggpAE98NZQC",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910982
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.37593507767,
+                        "value": "0L09jCQgVfvPDpDcG590VOHA0dM13vCXp67FgyepJKFoT0PnSNjpOxaoDdFoQSMC7MoSNlbZE23MF8SrrArLL1gpzSfx8Y4mClZa1iLqa5G5WiUFWU7da2SO80hHiYEpfgn0iUf6COxm00GdeyCZCNhV3XnMztHcl7ybjWge",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911377
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.89506793022,
+                        "value": "0LQeprM8H3rW5uzwJEPzYazsuOJO0r9nYi8P00Tev26HxRyqWcpxWmsxA88pZU4Sg9j6Qph1noXSN4zr0pCVJVSbCmjvllMSA3CNBqftL3qo66DeoktAVYinkVsZO7b2z4cQzB71CmbP2VnosyW3qgtAvx12oPjoaRBcuTFO",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911895
+                    }
+                ]
+            },
+            "bc_invalidateUrlCache_targeting": {
+                "name": "bc_invalidateUrlCache_targeting",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480920803,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481520,
+                        "expiry": 600,
+                        "value": "1725480920802",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480920803
+                    }
+                ]
+            },
+            "bluecoreNV": {
+                "name": "bluecoreNV",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480921294,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1755480921,
+                        "expiry": 30000000,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480921293
+                    }
+                ]
+            },
+            "inside-c1": {
+                "name": "inside-c1",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480920015,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "OK",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480920015
+                    }
+                ]
+            },
+            "kampyleSessionPageCounter": {
+                "name": "kampyleSessionPageCounter",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480921211,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016921,
+                        "expiry": 31536000,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480921211
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480921215
+                    }
+                ]
+            },
+            "kampyleUserSession": {
+                "name": "kampyleUserSession",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480921211,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016921,
+                        "expiry": 31536000,
+                        "value": "1725480921210",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480921210
+                    }
+                ]
+            },
+            "kampyleUserSessionsCount": {
+                "name": "kampyleUserSessionsCount",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480921212,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016921,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480921212
+                    }
+                ]
+            },
+            "kampyle_userid": {
+                "name": "kampyle_userid",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480921205,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016921,
+                        "expiry": 31536000,
+                        "value": "a8f5-2c5d-6e0c-ee19-e3df-a385-9b2d-c840",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480921204
+                    }
+                ]
+            },
+            "mdLogger": {
+                "name": "mdLogger",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480921204,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016921,
+                        "expiry": 31536000,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480921203
+                    }
+                ]
+            },
+            "sameDayCookie": {
+                "name": "sameDayCookie",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480910205,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481810.202044,
+                        "expiry": 900.2020440101624,
+                        "value": "608592271211725480909570",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910204
+                    }
+                ]
+            },
+            "site_language": {
+                "name": "site_language",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480910204,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1738584910.202016,
+                        "expiry": 13104000.202016115,
+                        "value": "en",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910204
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 13104000.237972975,
+                        "value": "en",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911239
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 13103999.543299913,
+                        "value": "en",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911543
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 13104000.887029886,
+                        "value": "en",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911887
+                    }
+                ]
+            },
+            "site_locale": {
+                "name": "site_locale",
+                "domain": "www.sephora.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480910204,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1738584910.201938,
+                        "expiry": 13104000.201937914,
+                        "value": "us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480910203
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 13104000.237795115,
+                        "value": "us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911239
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 13103999.54324603,
+                        "value": "us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911543
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 13104000.886959076,
+                        "value": "us",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480911887
+                    }
+                ]
+            }
+        }
+    },
+    "tiktok.com": {
+        "/": {
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".tiktok.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480921288,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759176921.28748,
+                        "expiry": 33696000.287480116,
+                        "value": "2lcYdpmErWlINDB4k7aig0tuNlM",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480921287
+                    }
+                ]
+            }
+        }
+    },
+    "sc-static.net": {
+        "/scevent.min.js": {
+            "X-AB": {
+                "name": "X-AB",
+                "domain": "sc-static.net",
+                "path": "/scevent.min.js",
+                "current_label": 2,
+                "label_ts": 1725480923772,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725567323.771772,
+                        "expiry": 86400.7717719078,
+                        "value": "e6c24df934334ca28844a8103b09132a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480923772
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/recaptcha": {
+            "_GRECAPTCHA": {
+                "name": "_GRECAPTCHA",
+                "domain": "www.google.com",
+                "path": "/recaptcha",
+                "current_label": 0,
+                "label_ts": 1725480918331,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741032918.331244,
+                        "expiry": 15552000.331243992,
+                        "value": "09ACY6sGyH42E2kGp_1UH2kEWERdfuDIwDJ5OozQe-vQ8nis6r-4eUbvKVn5DOesVtWzNg_WDzsYlXpvc0R8k_yww",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480918331
+                    }
+                ]
+            }
+        }
+    }
+}

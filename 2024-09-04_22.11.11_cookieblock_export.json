@@ -1,0 +1,46 @@
+{
+    "gap.com": {
+        "/": {
+            "prlb": {
+                "name": "prlb",
+                "domain": ".gap.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480656819,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "e",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480656813
+                    }
+                ]
+            },
+            "s-prlb": {
+                "name": "s-prlb",
+                "domain": ".gap.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480656812,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "e",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480656799
+                    }
+                ]
+            }
+        }
+    }
+}

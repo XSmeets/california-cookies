@@ -1,0 +1,2387 @@
+{
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533181061,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733309181.060387,
+                        "expiry": 7776000.060386896,
+                        "value": "LuYvZ3nWmHx_6jGZrBAchxxhFx23pGWykObC0TqyYjFW3HAvi9slOAwSMkkKzklGaapDDTl0n_U6EhFjGTX0pbxKr8kwJhK465jC0lpVC9c.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181060
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.206841946,
+                        "value": "LuYvZ3nWmHx_6jGZrBAchxxhFx23pGWykObC0TqyYjFW3HAvi9slOAwSMkkKzklGaapDDTl0n_U6EhFjGTX0pbxKr8kwJhK465jC0lpVC9c.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181207
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533181062,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760093181.060441,
+                        "expiry": 34560000.06044102,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181061
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.206909895,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181207
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533181062,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733309181.060457,
+                        "expiry": 7776000.060456991,
+                        "value": "7918404508011907839",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181062
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.206943035,
+                        "value": "7918404508011907839",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181208
+                    }
+                ]
+            }
+        }
+    },
+    "agkn.com": {
+        "/": {
+            "ab": {
+                "name": "ab",
+                "domain": ".agkn.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725533181110,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757069181.109503,
+                        "expiry": 31536000.10950303,
+                        "value": "0001%3A9htD9g6kMc3f7PQCeKHV9Ep9X7Lo7JlU",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181109
+                    }
+                ]
+            }
+        }
+    },
+    "bluekai.com": {
+        "/": {
+            "bkpa": {
+                "name": "bkpa",
+                "domain": ".bluekai.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533181089,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741171581.087342,
+                        "expiry": 15638400.087342024,
+                        "value": "KJy9BQeJd02pSUHknpD81ezdqsk+SUx21Yjoje68BpDN1EHCjeWNRZHM1tD0jECZjVJkjMOkBEOC1MPi1y19yq/xnx==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181088
+                    }
+                ]
+            },
+            "bku": {
+                "name": "bku",
+                "domain": ".bluekai.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533181088,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741171581.087292,
+                        "expiry": 15638400.087291956,
+                        "value": "Whz99wtntVSNw/6c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181087
+                    }
+                ]
+            }
+        }
+    },
+    "cbc.ca": {
+        "/": {
+            "AMCVS_951720B3535680CB0A490D45%40AdobeOrg": {
+                "name": "AMCVS_951720B3535680CB0A490D45%40AdobeOrg",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533176796,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533176795
+                    }
+                ]
+            },
+            "AMCV_951720B3535680CB0A490D45%40AdobeOrg": {
+                "name": "AMCV_951720B3535680CB0A490D45%40AdobeOrg",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725533175958,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760093175.957365,
+                        "expiry": 34560000.957365036,
+                        "value": "1585540135%7CMCIDTS%7C19972%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533175957
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.791194916,
+                        "value": "1585540135%7CMCIDTS%7C19972%7CMCMID%7C55691714409929422800508003724737270823%7CMCAAMLH-1726137976%7C9%7CMCAAMB-1726137976%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533176793
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.79483509,
+                        "value": "1585540135%7CMCIDTS%7C19972%7CMCMID%7C55691714409929422800508003724737270823%7CMCAAMLH-1726137976%7C9%7CMCAAMB-1726137976%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725540376s%7CNONE%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533176796
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.571523905,
+                        "value": "1585540135%7CMCIDTS%7C19972%7CMCMID%7C55691714409929422800508003724737270823%7CMCAAMLH-1726137976%7C9%7CMCAAMB-1726137976%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725540377s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533177572
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.18426895,
+                        "value": "1585540135%7CMCIDTS%7C19972%7CMCMID%7C55691714409929422800508003724737270823%7CMCAAMLH-1726137976%7C9%7CMCAAMB-1726137976%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725540377s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19979%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178186
+                    }
+                ]
+            },
+            "_awl": {
+                "name": "_awl",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533179021,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759661179.019,
+                        "expiry": 34128000.01900005,
+                        "value": "2.1725533179.5-113780d5b1cc7655bf637946ceb5c765-6763652d75732d7765737431-0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533179020
+                    }
+                ]
+            },
+            "_cb": {
+                "name": "_cb",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725533179283,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759661179,
+                        "expiry": 34128000,
+                        "value": "WLJhqC4khuCsQYo8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533179282
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179285,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725534979,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533179285
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533179285
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725533179141,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533179139
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533179142
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533179280
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533179281
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533179285
+                    }
+                ]
+            },
+            "_cc_aud": {
+                "name": "_cc_aud",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179213,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1748861179,
+                        "expiry": 23328000,
+                        "value": "ABR4nGNgYGBIu9n9mwEGmBiYT%2F4CMZhP%2FgSSAGUeBlM%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725533179213
+                    }
+                ]
+            },
+            "_cc_cc": {
+                "name": "_cc_cc",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179213,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1748861179,
+                        "expiry": 23328000,
+                        "value": "ACZ4nGNQMDJLskhMNbBMTU42N0gySbVMNrBMszQ3NjKxtDBLMkxjAIK0m92%2FGeBA5M25RjHGu%2F4M%2FxkZGdbPvCsCY796900cxt7%2Fok0Cxv7%2FrUEGxn44%2BTNczbrHK4Rg7LsfLGHM5X8KYcwLi%2BewwNifu7RgzHNHDzHD2D83ToErOXXnvAmMfRhJa8N%2FTRjz7L0eVRj70qlHbDD2zekHmGDso2ufcsPYAFf%2FZKs%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725533179212
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725533179212,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1748861179,
+                        "expiry": 23328000,
+                        "value": "26b8ae09ecc70b4e9c09f97324986b1f",
+                        "same_site": "lax",
+                        "timestamp": 1725533179211
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725533179284,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759661179,
+                        "expiry": 34128000,
+                        "value": ".1725533179281.1725533179281.1.DwE4gXDT0m8QCUrr8-CbeHXbCqVTJ5.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533179283
+                    }
+                ]
+            },
+            "_chartbeat4": {
+                "name": "_chartbeat4",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533206996,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725533266,
+                        "expiry": 60,
+                        "value": "t=8cajW-tDyiBCeoL4BpxUIz3Qnd&E=7&x=0&c=0.46&y=6860&w=890",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533206994
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533177837,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725533207,
+                        "expiry": 30,
+                        "value": "m0p5wh6476df19",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533177837
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0p5wh686zu4vb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533177840
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0p5whhsd2lp9t",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178257
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0p5wji9xu65o1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533180865
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0p5x3nyd83hw1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533206992
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533178868,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733309178,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725533178867.292951950995171760",
+                        "same_site": "lax",
+                        "timestamp": 1725533178867
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725533178257,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759661178,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0p5wh692uxr6q6a%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725533178256
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533177844,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759661177,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1725533177843
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIE4AmHgZgDZuARgCsvDhwAMAdgAsADmm8QAXyA",
+                        "same_site": "lax",
+                        "timestamp": 1725533177870
+                    }
+                ]
+            },
+            "_vf_rd_test_1725533179196": {
+                "name": "_vf_rd_test_1725533179196",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179198,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1725533179196",
+                        "same_site": "lax",
+                        "timestamp": 1725533179197
+                    }
+                ]
+            },
+            "_vf_rd_test_1725533180130": {
+                "name": "_vf_rd_test_1725533180130",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533180132,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1725533180130",
+                        "same_site": "lax",
+                        "timestamp": 1725533180131
+                    }
+                ]
+            },
+            "_vf_rd_test_1725533180131": {
+                "name": "_vf_rd_test_1725533180131",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533180133,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1725533180131",
+                        "same_site": "lax",
+                        "timestamp": 1725533180132
+                    }
+                ]
+            },
+            "_vf_rd_test_1725533180324": {
+                "name": "_vf_rd_test_1725533180324",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533180326,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1725533180324",
+                        "same_site": "lax",
+                        "timestamp": 1725533180325
+                    }
+                ]
+            },
+            "_vf_rd_test_1725533180325": {
+                "name": "_vf_rd_test_1725533180325",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533180327,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_1725533180325",
+                        "same_site": "lax",
+                        "timestamp": 1725533180326
+                    }
+                ]
+            },
+            "_vfa": {
+                "name": "_vfa",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179204,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757069179.198611,
+                        "expiry": 31536000.19861102,
+                        "value": "www%2Ecbc%2Eca.00000000-0000-4000-8000-082f79d5b829.cb946901-1655-4211-8c8d-a58bb95aa838.1725533178.1725533178.1725533178.1",
+                        "same_site": "lax",
+                        "timestamp": 1725533179203
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.203058004,
+                        "value": "www%2Ecbc%2Eca.00000000-0000-4000-8000-082f79d5b829.cb946901-1655-4211-8c8d-a58bb95aa838.1725533178.1725533178.1725533178.1",
+                        "same_site": "lax",
+                        "timestamp": 1725533179209
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.132303953,
+                        "value": "www%2Ecbc%2Eca.00000000-0000-4000-8000-082f79d5b829.cb946901-1655-4211-8c8d-a58bb95aa838.1725533178.1725533178.1725533178.1",
+                        "same_site": "lax",
+                        "timestamp": 1725533180133
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.32623291,
+                        "value": "www%2Ecbc%2Eca.00000000-0000-4000-8000-082f79d5b829.cb946901-1655-4211-8c8d-a58bb95aa838.1725533178.1725533178.1725533178.1",
+                        "same_site": "lax",
+                        "timestamp": 1725533180327
+                    }
+                ]
+            },
+            "_vfb": {
+                "name": "_vfb",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179200,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725534979.197427,
+                        "expiry": 1800.197427034378,
+                        "value": "www%2Ecbc%2Eca.00000000-0000-4000-8000-082f79d5b829.1.10.1725533178....",
+                        "same_site": "lax",
+                        "timestamp": 1725533179199
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.202842950821,
+                        "value": "www%2Ecbc%2Eca.00000000-0000-4000-8000-082f79d5b829.2.10.1725533178....",
+                        "same_site": "lax",
+                        "timestamp": 1725533179209
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.1309599876404,
+                        "value": "www%2Ecbc%2Eca.00000000-0000-4000-8000-082f79d5b829.3.10.1725533178....",
+                        "same_site": "lax",
+                        "timestamp": 1725533180132
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.3254570960999,
+                        "value": "www%2Ecbc%2Eca.00000000-0000-4000-8000-082f79d5b829.4.10.1725533178....",
+                        "same_site": "lax",
+                        "timestamp": 1725533180326
+                    }
+                ]
+            },
+            "_vfz": {
+                "name": "_vfz",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179210,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725533539.203306,
+                        "expiry": 360.20330595970154,
+                        "value": "www%2Ecbc%2Eca.00000000-0000-4000-8000-082f79d5b829.1725533178.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "lax",
+                        "timestamp": 1725533179209
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 360.1313738822937,
+                        "value": "www%2Ecbc%2Eca.00000000-0000-4000-8000-082f79d5b829.1725533178.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533180132
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 360.3256709575653,
+                        "value": "www%2Ecbc%2Eca.00000000-0000-4000-8000-082f79d5b829.1725533178.1.medium=direct|source=|sharer_uuid=|terms=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533180326
+                    }
+                ]
+            },
+            "cX_G": {
+                "name": "cX_G",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533180867,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759661180,
+                        "expiry": 34128000,
+                        "value": "cx%3A2zamjg5epkwx9l9tma8inqfow%3A2hx0wd6was8vq",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533180866
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533178258,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759661178,
+                        "expiry": 34128000,
+                        "value": "m0p5wh692uxr6q6a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178257
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0p5wh692uxr6q6a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533206992
+                    }
+                ]
+            },
+            "cbc-session": {
+                "name": "cbc-session",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725533178243,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725534978,
+                        "expiry": 1800,
+                        "value": "1725533178",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178243
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1725533178",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178246
+                    }
+                ]
+            },
+            "cbc_visitor": {
+                "name": "cbc_visitor",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725533177440,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757090103.438976,
+                        "expiry": 31556926.43897605,
+                        "value": "edfd2e3d-7362-4d6d-8462-3269bc6cb79c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533177439
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31556926.48115897,
+                        "value": "edfd2e3d-7362-4d6d-8462-3269bc6cb79c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178481
+                    }
+                ]
+            },
+            "cp-sess": {
+                "name": "cp-sess",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533177836,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728125177.835546,
+                        "expiry": 2592000.8355460167,
+                        "value": "eyJ0cmFpdHMiOltdLCJzZWxzIjp7fSwicndkcyI6e30sInZuIjoxLCJ0dnRzIjoxNzI1NTMzMTc3LCJ2dHMiOjE3MjU1MzMxNzcsInZhbHMiOnsiZHQvd3AiOnsidiI6IndkIiwidHMiOjE3MjU1MzMxNzd9fX0%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533177835
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.25364089,
+                        "value": "eyJ0cmFpdHMiOlsiY3VzdC9jLWktYS1YcUxwcVAyN0hwVTI6QiJdLCJzZWxzIjp7ImEtWHFMcHFQMjdIcFUyIjp7ImEiOiJhLVhxTHBxUDI3SHBVMiIsImMiOiJCIiwicCI6InAiLCJmcyI6WyIqIiwiZ2VvL2RtOmkiLCJ1YS9vczptIiwidWEvYnI6YyIsInVhL21vOm4iLCJkdC93cDp3ZCJdLCJ0cyI6MTcyNTUzMzE3OCwicyI6Im9rIiwiZHAiOiJwIn19LCJyd2RzIjp7fSwidm4iOjEsInR2dHMiOjE3MjU1MzMxNzcsInZ0cyI6MTcyNTUzMzE3NywidmFscyI6eyJkdC93cCI6eyJ2Ijoid2QiLCJ0cyI6MTcyNTUzMzE3N319fQ%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178255
+                    }
+                ]
+            },
+            "panoramaId_expiry": {
+                "name": "panoramaId_expiry",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179214,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725619579,
+                        "expiry": 86400,
+                        "value": "1725619579184",
+                        "same_site": "lax",
+                        "timestamp": 1725533179213
+                    }
+                ]
+            },
+            "referrerPillar": {
+                "name": "referrerPillar",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533177748,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757069177,
+                        "expiry": 31536000,
+                        "value": "feed",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533177747
+                    }
+                ]
+            },
+            "referringDepartment": {
+                "name": "referringDepartment",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533177749,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757069177,
+                        "expiry": 31536000,
+                        "value": "programming",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533177749
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725533178351,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178351
+                    }
+                ]
+            },
+            "s_ecid": {
+                "name": "s_ecid",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533177572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760093177.570711,
+                        "expiry": 34560000.5707109,
+                        "value": "MCMID%7C55691714409929422800508003724737270823",
+                        "same_site": "lax",
+                        "timestamp": 1725533177571
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.535043,
+                        "value": "MCMID%7C55691714409929422800508003724737270823",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178535
+                    }
+                ]
+            },
+            "test": {
+                "name": "test",
+                "domain": ".cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533175948,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533175948
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533175956
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533175956
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".www.cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533175138,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725540374.120541,
+                        "expiry": 7199.120541095734,
+                        "value": "A2780D6C7468A7B3BC878995EAAE3FBF~000000000000000000000000000000~YAAQlbvOFydIe8CRAQAAWL3KwRmXTW14nfmlG2SkqHXkAWc3gxTrl/sk4YCqDvTHaDBAc/wcde6gl1C3OQLXtIpTTVg7//uHuXN7gnDZydhvz4lSabrctwNLwM5rJfBeUR+LIx7GrXyqYemaXe5/PGLhQuEqtVfGjvGUeSWBRwTckHejM3v4p4CkK1Luxg9DrJiCGa2GieKqQP23Q7UA3ECRkpgM2lWxwsChyI6cEb9nZ/q7c/YCbaBHcYig+Rm5uUtLK3aRiP3lp2Jbw6k5qgXpncQzAlCFFuqcuPH2c8phJf4AiMjbjkeqS4XH5Z/TkLzTdmk+3LDUhLeHbu2xaEizLiBM+Ohx/c+OWx5vexiao+CrtB+E4xew3soGV0VASE/SBVn4hOyBLsI=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533175132
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.825172901154,
+                        "value": "69F0D8080A1003CFF8CAACCC9B3542F7~000000000000000000000000000000~YAAQlbvOF0xIe8CRAQAA/MPKwRlu1tBSfSHYqg64vuRhYqJzpwl3NlieRLk9hYvMi2k4Pp/z28yiqxp+ZC4T63F9VM3wHiPhUA8lkdhoQJxCk469YBpdHSkUhP8jak9Gp3gimKduk/zU82Bg0j5CoIO4cvdqQ0F3oamszkTWHWtBL0AQZBv2qoG4HocgbPgLWv8up1r6wZ73wINaElUXdO1MMtjORfYgDm0J4c177pENUJvPavZMQ8HUI4kQjbTKdckAc7E/JaHZau8yh2NoqVvYBeLElBH2LDYUzmmbz9M/EDGJky8yyT82RxKyhtTKpvMVUyLQ9CpNcyzAvAIlZnUCrDGknZI128dm8TBKSD6eQ+W702xCkZpTMfwrJsuUm7Bma157q35HL2etGhnNSPk26ih86bizvCo8Q8lyUDQBoKl0jUk=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533176825
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.991399049759,
+                        "value": "69F0D8080A1003CFF8CAACCC9B3542F7~000000000000000000000000000000~YAAQlbvOF05Ie8CRAQAAqMTKwRl/xmREyF3zQQL2xeiiMj1FaLjptlkxHbQ8jhzps/7jUBXVeWGoTX90ThtPrqU++tkjFhJPaFrmE2xTdkbWF0rBnEIIvHYjCYXDePEEsKhSj3WzOUkw/jiVlsKLwXSxrPU6ViURl4p3V33TztWiUJ33Wca2mVM5b1VQk1fsIl0kxcHPRyl7Rwz3SbtGUQGuVvgZaxH7INkd9/80z3/VKcI7MupLhP4vPNPaNJ7iM1THU1S8nzAWr9zMYyujZ75/P2ZZPlduFO+vxq2fdb2YCxuMWFReh4Xr/9VIzQHGCls2B2wmkM7pUvNXbMvQB+psatA5phQJns4yAyMKKGMIlnBU/BZ+JSlEzm3ZK+6/7UqPy4qqaODbuztFHj6/5A84kF/rZQKds3s6LAcGs0QeSb1+DmIPxaKY/3lzmL7k7Q==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533176991
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.131119966507,
+                        "value": "69F0D8080A1003CFF8CAACCC9B3542F7~000000000000000000000000000000~YAAQlbvOF1hIe8CRAQAAMsXKwRmpsI6SvWIJaTdQHeP/HtIDM0z6eq9zKN7q+f+pNmYGFFLFdciUD3toJ1FJg/m+MSqagBd8VuvpZGeChi6dPRfJ3LTN5uXIky46R3cZW4a+stATmgGtIMcOZUVgdyll6f8Fy4x+6RthgPbFJKNvDWgoVVhxsG4bufZs67yAnu+XDOUl3m4PpM7EZyrLr9UhX/BVgQbSYKpQmfMD3LTDlyOiXefAu5KOkM5a+iHzlkaUiqFLuYXhWFyrkUWBvFJ9EP22MM17BRbTkGGSvRZ3KeC/+gIu+hW5o9zdB2pMUudzYJ9cvlBxll4vrZTDWNz8XNSWv6xIDmHg7hqdcZk3xoyWrEcuZDyutD91bcqp3XLf5FO9Jl3368hIvbJd7zYwzy3Bdy3V9f+OH6tyXAo7V16r2dH0x1Nm7IgnL7sbvg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533177143
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.516942024231,
+                        "value": "69F0D8080A1003CFF8CAACCC9B3542F7~000000000000000000000000000000~YAAQlbvOF2NIe8CRAQAAtcbKwRnmJ3tWtRXTouwlO7JsgM+sI/SWl4Pyknowpgq6rVpHX1niT0zTkmzM2emH1OaVm7Q4ncf5daHRtmBL0axh6ESw60/Ol6txhhKRPrWKbSn5h7JP2lUdqH9QHuYRJW0l8/CrpO6fVAXK9REFQpNcPrDTyqBh+EvEfLWsFIFiKmIQrm4ISIdVy9F0lDOXbP+7Vr09I5ClNhUjqSrzS7jiOHgbdsRKfRsY2xN476LxchpM5I2fWxwap0iMi6mfBez4hNs4lg/UnpvWAZRrrahq5TU/eMaGEZM2SU/IzGOh2iXj93371NtOCtwrvxC6QKl/b8KhQunJtfAawL4bIEWN41UflYSrp2ysRzjcpdT0v9QomfwmpbxgB2u+8N5LbzulyB30D5CgJNh4u8+K8RjsrYBvaj1LFTVhSXImkOsNVi0tiCj/IwfjMIGi1A==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533177517
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".www.cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533178194,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725540378.190386,
+                        "expiry": 7200.1903860569,
+                        "value": "4D03EB91F0273F050D18C4C9E7829E12~YAAQlbvOF3RIe8CRAQAAVsnKwRmbWYH01+o1QSDymUMCOmO6E8+e8l7BOYAklAUvfRR4aXQuk/ugFYFv+J5vwfIPV6Jxu/y5X2mz4x/gEIoHUjp9y4In+r1GqcrTKXTvjC3THn2mezfkAEXoH9u23/CIgo+82fHS89Ybw549CUjXskgKm8qgoN1SASHEm9tWVDmHkgFMYlsfM0avCjgaYtKdq8AG3KRd2fPUVYoUjpQp/AT40GL8xffmcehDUqUA~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.192543029785,
+                        "value": "543C064254A6FFABCD58FC1643D6B310~YAAQlbvOF3VIe8CRAQAAV8nKwRm5qOuwl4RZLNyE+H2JKWvDPOxS7tMa+0+Wv8aUF2ojJH0kmLM4HIMsu1dn6Y6b/xBiL/n00vfQnQdyDNyThHUTAFWrdqmTGR+ZZPg+pasGSK6JM+8nrEQDIL86m8PspoZ0DLns6I2LEdu6aMfMYuijyzLPDyDCzgxRa9dTegQGql2L0t3c69g5cNgBjmbxtSOq2E2HGEZnnm4HYGC3qwlvpXEOVUfaQ84gwX5u~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.4849190711975,
+                        "value": "543C064254A6FFABCD58FC1643D6B310~YAAQlbvOF3pIe8CRAQAAfcrKwRkFm+1k2atjWArKU87rgIC5b2VWVy9Bqg76pTrELM44iZB7hyvVZMwOa29rDzZZpN583K4TP0uEQXUkMGFF7LnIMpmog8pKil96JjIVCrmEtKIO+P1LS3ZxdqAS8t1hcLLpvAe2rSR9UFgV2lLLzBe3x1Z8SsonlixafqlQ5zCuSfrYHUUOOZsB6v+aN3sUgnX0nNSZ32svq58CYkaEyyhaJW1uCsczku28cfhV~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178485
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.516984939575,
+                        "value": "543C064254A6FFABCD58FC1643D6B310~YAAQlbvOF3xIe8CRAQAAncrKwRnwzwu/ah7MKD0qPlhvvJqU4tcS1npc75qn4k1pTl/5E/57D2iMV9QhUZ2JGRPDWbrlLEKjKsFOlCMMsSstTG5PxQ3VjIPyTgD2JYLe/+QVHMgyhlP0lGP1siJ2R9AcDE3EOqNerfkRo2NH7a9aIS+6tM/iRDIcNH/N5CuLCoQ2yE9inONiLgrsaOIOiOVwWtvREj2h6u1YQ3gfSzsSq2RRTZIJ5PyGrsJVgJbr~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178517
+                    }
+                ]
+            },
+            "BCSessionID": {
+                "name": "BCSessionID",
+                "domain": "www.cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533180484,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "890fd84f-9cec-486c-8d34-66af47ebb0d1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533180484
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "b9dd38e3-d3c3-43ad-bf8f-5c801c6ddcbf",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533181282
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4e8b13b6-b42a-44de-a1f3-b7c2846b83c0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533182075
+                    }
+                ]
+            },
+            "BCTempID": {
+                "name": "BCTempID",
+                "domain": "www.cbc.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533179789,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725533779,
+                        "expiry": 600,
+                        "value": "890fd84f-9cec-486c-8d34-66af47ebb0d1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533179789
+                    }
+                ]
+            },
+            "DATA_FEATURE_LINKS": {
+                "name": "DATA_FEATURE_LINKS",
+                "domain": "www.cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533199464,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725619599,
+                        "expiry": 86400,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533199463
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533201177
+                    }
+                ]
+            },
+            "NSC_mcwt-ttm-xfcgbsn.dcd.db": {
+                "name": "NSC_mcwt-ttm-xfcgbsn.dcd.db",
+                "domain": "www.cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533175132,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725533295.120265,
+                        "expiry": 120.12026500701904,
+                        "value": "ffffffff0983169745525d5f4f58455e445a4a423660",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533175123
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.09098696708679,
+                        "value": "ffffffff0983169745525d5f4f58455e445a4a423660",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533177143
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.19029498100281,
+                        "value": "ffffffff0983169745525d5f4f58455e445a4a423660",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178191
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.19244599342346,
+                        "value": "ffffffff0983169745525d5f4f58455e445a4a423660",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178195
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.48487710952759,
+                        "value": "ffffffff0983169745525d5f4f58455e445a4a423660",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178485
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 120.51692390441895,
+                        "value": "ffffffff0983169745525d5f4f58455e445a4a423660",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178517
+                    }
+                ]
+            },
+            "SC_LINKS": {
+                "name": "SC_LINKS",
+                "domain": "www.cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533199467,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22pageName%22%3A%22homepage%3Aindex%22%2C%22linkName%22%3A%22privacy-preferences%22%2C%22concatValue%22%3A%22homepage%3Aindex%20%7C%20privacy-preferences%22%2C%22linkPosition%22%3A%22footer%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533199465
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22pageName%22%3A%22homepage%3Aindex%22%2C%22linkName%22%3A%22privacy-preferences%22%2C%22concatValue%22%3A%22homepage%3Aindex%20%7C%20privacy-preferences%22%2C%22linkPosition%22%3A%22footer%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533201177
+                    }
+                ]
+            },
+            "X-AB-VARIANT": {
+                "name": "X-AB-VARIANT",
+                "domain": "www.cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533178255,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728125178,
+                        "expiry": 2592000,
+                        "value": "a-XqLpqP27HpU2|B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178254
+                    }
+                ]
+            },
+            "_scor_uid": {
+                "name": "_scor_uid",
+                "domain": "www.cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179004,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759229179,
+                        "expiry": 33696000,
+                        "value": "8011309a83f54f2bb9fa61591bb6dc77",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533179002
+                    }
+                ]
+            },
+            "last_visit_bc": {
+                "name": "last_visit_bc",
+                "domain": "www.cbc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725533178558,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757069178,
+                        "expiry": 31536000,
+                        "value": "1725533178557",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178557
+                    }
+                ]
+            },
+            "stats_experiment_ids": {
+                "name": "stats_experiment_ids",
+                "domain": "www.cbc.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725533178253,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%22a-XqLpqP27HpU2%22%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178252
+                    }
+                ]
+            },
+            "stats_experiment_variants": {
+                "name": "stats_experiment_variants",
+                "domain": "www.cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533178254,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%5B%22a-XqLpqP27HpU2%7CB%22%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533178254
+                    }
+                ]
+            }
+        }
+    },
+    "crwdcntrl.net": {
+        "/": {
+            "_cc_aud": {
+                "name": "_cc_aud",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179203,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748861179.197746,
+                        "expiry": 23328000.19774604,
+                        "value": "\"ABR4nGNgYGBIu9n9mwEGmBiYT%2F4CMZhP%2FgSSAGUeBlM%3D\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533179203
+                    }
+                ]
+            },
+            "_cc_cc": {
+                "name": "_cc_cc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533179203,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748861179.197706,
+                        "expiry": 23328000.197705984,
+                        "value": "\"ACZ4nGNQMDJLskhMNbBMTU42N0gySbVMNrBMszQ3NjKxtDBLMkxjAIK0m92%2FGeBA5M25RjHGu%2F4M%2FxkZGdbPvCsCY796900cxt7%2Fok0Cxv7%2FrUEGxn44%2BTNczbrHK4Rg7LsfLGHM5X8KYcwLi%2BewwNifu7RgzHNHDzHD2D83ToErOXXnvAmMfRhJa8N%2FTRjz7L0eVRj70qlHbDD2zekHmGDso2ufcsPYAFf%2FZKs%3D\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533179202
+                    }
+                ]
+            },
+            "_cc_dc": {
+                "name": "_cc_dc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533179200,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748858760.197593,
+                        "expiry": 23325581.197592974,
+                        "value": "3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533179200
+                    }
+                ]
+            },
+            "_cc_domain": {
+                "name": "_cc_domain",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179201,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748858760.197649,
+                        "expiry": 23325581.197649002,
+                        "value": ".cc.cbc.ca",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533179201
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533179202,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748858760.197678,
+                        "expiry": 23325581.19767809,
+                        "value": "26b8ae09ecc70b4e9c09f97324986b1f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533179201
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23325578.38060093,
+                        "value": "26b8ae09ecc70b4e9c09f97324986b1f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533182382
+                    }
+                ]
+            }
+        }
+    },
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533180087,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757069180.085886,
+                        "expiry": 31536000.085886,
+                        "value": "15d4aqnqitqnq3lnmn6156lgyw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533180086
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.439241886,
+                        "value": "cx:2zamjg5epkwx9l9tma8inqfow:2hx0wd6was8vq",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533180439
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.864300966,
+                        "value": "cx:2zamjg5epkwx9l9tma8inqfow:2hx0wd6was8vq",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533180864
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533176791,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741085176.788945,
+                        "expiry": 15552000.78894496,
+                        "value": "55667648995125682250505668110215767374",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533176789
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.18159008,
+                        "value": "55667648995125682250505668110215767374",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533178186
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533181101,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725534081.100342,
+                        "expiry": 900.1003420352936,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181100
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533178184,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741085178.181463,
+                        "expiry": 15552000.181463003,
+                        "value": "55667648995125682250505668110215767374",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533178182
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533178004,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757069178.002017,
+                        "expiry": 31536000.00201702,
+                        "value": "g_surferid~ZtmL_QAAAB7K8AOF",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533178002
+                    }
+                ]
+            }
+        }
+    },
+    "geoip.radio-canada.ca": {
+        "/": {
+            "ARRAffinitySameSite": {
+                "name": "ARRAffinitySameSite",
+                "domain": ".geoip.radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533178886,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2d6b1d899cd6f0d4ac32583dc4b6dd3b915a17d90d48bd3d676bf40764468898",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533178884
+                    }
+                ]
+            }
+        }
+    },
+    "ml314.com": {
+        "/": {
+            "pi": {
+                "name": "pi",
+                "domain": ".ml314.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533181114,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757069181.113838,
+                        "expiry": 31536000.113837957,
+                        "value": "3646794126989459459",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181114
+                    }
+                ]
+            }
+        }
+    },
+    "scorecardresearch.com": {
+        "/": {
+            "UID": {
+                "name": "UID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533179162,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759229179.160142,
+                        "expiry": 33696000.160141945,
+                        "value": "13Ec41a1f82ee451dfbfe9b1725533179",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533179160
+                    }
+                ]
+            },
+            "XID": {
+                "name": "XID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533179163,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759229179.160199,
+                        "expiry": 33696000.16019893,
+                        "value": "13Ec41a1f82ee451dfbfe9b1725533179",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533179162
+                    }
+                ]
+            }
+        }
+    },
+    "thrtle.com": {
+        "/": {
+            "mc": {
+                "name": "mc",
+                "domain": ".thrtle.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725533181265,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1742813181.262906,
+                        "expiry": 17280000.262906075,
+                        "value": "eyJpZCI6IjA2N2M2NjM0LTY2OGItNDI3Zi1iNjJjLWZmMTVhYjNjMDE3YyIsImwiOjE3MjU1MzMxODEyNDQsInQiOjF9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181263
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 17280000.47580695,
+                        "value": "eyJpZCI6IjA2N2M2NjM0LTY2OGItNDI3Zi1iNjJjLWZmMTVhYjNjMDE3YyIsImwiOjE3MjU1MzMxODE0NTYsInQiOjF9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181477
+                    }
+                ]
+            }
+        }
+    },
+    "cbc.blueconic.net": {
+        "/": {
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "cbc.blueconic.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179376,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726137979.375363,
+                        "expiry": 604800.3753631115,
+                        "value": "d1fhF2Pb+6XCy6AN3VOHtV+gFf3Uo18uA25b+gbbKxb/bAEsGkFxrM7xYj/Dj46Whw4tU+oJuvlKfuHG+J5pZcAig7MjxSx581ge35dnfXDONbwQGcyFo3wxnfxU",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533179375
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.7155230045,
+                        "value": "8wbXw3LMYvjllxQNG5ooBUEPkwOYnRchDgHyvOwcLLDqDMM35MQIvEZOZ1C8kuA30nciCFiCP7W8EM6funq9UqJNR4uWyz+vc2slNP86NJvK94hHzIsGIRPvu3qE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533180716
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.5092060566,
+                        "value": "IA9AfgM9LXHOueuE2m4gzg+70XtL5yZrpNjqXrC9syfocz9BJlxx04KWAVuB7ZsJQKGqIvUoa+4zBu+jGF98Rx5EN2SAtwVr40X+kraZffpMolAfIuV02w4CpVKL",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181510
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.2981081009,
+                        "value": "rxV/7LakAouiFuWFtI9RNGXQPK0MRQc2Uo2ajeM0EFKue0MYbFp+x5iHxpb9aimXypprXmsq/eVKbbIOirRHegCBLk65nXRWd4m3+crk0iV3UjzB0/YKQZnbu4ZV",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533182299
+                    }
+                ]
+            }
+        },
+        "/DG/DEFAULT": {
+            "BCSessionID": {
+                "name": "BCSessionID",
+                "domain": "cbc.blueconic.net",
+                "path": "/DG/DEFAULT",
+                "current_label": 0,
+                "label_ts": 1725533180717,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757069180.715582,
+                        "expiry": 31536000.715581894,
+                        "value": "890fd84f-9cec-486c-8d34-66af47ebb0d1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533180716
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.50928092,
+                        "value": "b9dd38e3-d3c3-43ad-bf8f-5c801c6ddcbf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181511
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.298194885,
+                        "value": "4e8b13b6-b42a-44de-a1f3-b7c2846b83c0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533182299
+                    }
+                ]
+            }
+        }
+    },
+    "cdp.cbc.ca": {
+        "/": {
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "cdp.cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179778,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.8837330341,
+                        "value": "M7cPp/2RJ+nfxmedEalmbfh349lSDm1+Awju/VmQRqiisk3DhH01xliFQRZdgbiM9W026Q0my1GAehRwTAqlxb/D6/xa/LK+P/tnjKBoVEpq5GUbbrnzqmM0adHn",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533180883
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.2795119286,
+                        "value": "tlWkBgh+EG8OD/Gh83y18WJ8GnpidfB2vBZKlNVsX1S4aqrB9PQyQrtzVVevK9oIcm3NXbHoBwMvWJRSc7MMdRYr32sKJn6nBY7AS7f2E7j8YRWtCJLnxFIY/SIg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533181280
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.5216801167,
+                        "value": "GKCmkCaa939AhKb6ABMuI79ssjJuQrWOMJdmi1Rs1DS7Z9EhH2kkT0Trf7eBgBArRYaE+jhxt8f7wmZaX/nRBY9us+5nTbbXSdzJtoPpfZA4qHsNUagpTDsVZ5JK",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533181524
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.5296630859,
+                        "value": "6xlfPe43VtPurtdDMsgz+nYo/kfkMTldxutyQYY3xLdlZcfmA5019A/nwn42I8dHGog/jrGly4OsYAst4LTcaclfJqFiJdXvmefiflQHSp60OHtbGQwt9oRZs6V8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533181530
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.6752281189,
+                        "value": "2k7xeQfy845wZkYJAVCziyDcwIwsEThxGWqxq6IgL7a96q0QUyjhoTWw9tJoUFIBpX1Nf0P7/RzWmwJNYPoc1+L7j5fWOkDk9gl19VXfRNCKRc6X40zLw5ai6gqd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533181676
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.6812748909,
+                        "value": "53gpC4D3xcRhOQUmsBqhOi9Mg4RuiW3szmCoUOf3FILQtnmf/TxsvlVvtPXVHBPDt2rw18ODZqq5ARgWMtzrlUXkc+sQkQ9XW4Ex3dNY8aHq58TJBykN80cuMu1s",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533181681
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.6924259663,
+                        "value": "PsKGRqUehQG0OpWlFBHWmHn1orOQx/dyqfZ7TReRirE6d+uswBpOR1bdlLy9FcO/jrch9Q/OKTU0Wcd/CedidalwPHzifilnUg01hOCPRjKGwzkZ+spjprCyoaBY",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533181692
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.0707499981,
+                        "value": "8tJ4+QI0USFSf+U4NDnvhxKk13CCWnTnk43xPc00UQJhQrKM1uqCQ8ze/5WCQwLXBF236urzUazvikwnrzSWha+MHHv7MLAwNo/FIPbjSpaua3sv05DKg4EaLt1o",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533182071
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.3584320545,
+                        "value": "aAj1oiueI+PymKhJvMRM3wola1R4i2YNcK0BOCTROf7hWY0Hg5pKLDYJ9EtpnKV3crx/Ls/UU/+v03keLjI2FUQiyDyCp4uG51BVFzRQqBeobnCwABHoFUSGFBTF",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533182360
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.5456058979,
+                        "value": "e76L09XueBqABctukUPECYH3jGN5jKpuLmgV3rOeTHi6OeByWJbX49vn2Q/VKIa2sAmRYfs2QZxh9xCgKxwuNd8ajrNVejp1OHV6LBgAMeyvujIUFLcR7PRFXytX",
+                        "same_site": "unspecified",
+                        "timestamp": 1725533182547
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "cdp.cbc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725533179780,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.8837571144,
+                        "value": "M7cPp/2RJ+nfxmedEalmbfh349lSDm1+Awju/VmQRqiisk3DhH01xliFQRZdgbiM9W026Q0my1GAehRwTAqlxb/D6/xa/LK+P/tnjKBoVEpq5GUbbrnzqmM0adHn",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533180884
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.279624939,
+                        "value": "tlWkBgh+EG8OD/Gh83y18WJ8GnpidfB2vBZKlNVsX1S4aqrB9PQyQrtzVVevK9oIcm3NXbHoBwMvWJRSc7MMdRYr32sKJn6nBY7AS7f2E7j8YRWtCJLnxFIY/SIg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181280
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.521832943,
+                        "value": "GKCmkCaa939AhKb6ABMuI79ssjJuQrWOMJdmi1Rs1DS7Z9EhH2kkT0Trf7eBgBArRYaE+jhxt8f7wmZaX/nRBY9us+5nTbbXSdzJtoPpfZA4qHsNUagpTDsVZ5JK",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181525
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.5297439098,
+                        "value": "6xlfPe43VtPurtdDMsgz+nYo/kfkMTldxutyQYY3xLdlZcfmA5019A/nwn42I8dHGog/jrGly4OsYAst4LTcaclfJqFiJdXvmefiflQHSp60OHtbGQwt9oRZs6V8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181530
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.6753249168,
+                        "value": "2k7xeQfy845wZkYJAVCziyDcwIwsEThxGWqxq6IgL7a96q0QUyjhoTWw9tJoUFIBpX1Nf0P7/RzWmwJNYPoc1+L7j5fWOkDk9gl19VXfRNCKRc6X40zLw5ai6gqd",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181676
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.6813371181,
+                        "value": "53gpC4D3xcRhOQUmsBqhOi9Mg4RuiW3szmCoUOf3FILQtnmf/TxsvlVvtPXVHBPDt2rw18ODZqq5ARgWMtzrlUXkc+sQkQ9XW4Ex3dNY8aHq58TJBykN80cuMu1s",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181681
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.692483902,
+                        "value": "PsKGRqUehQG0OpWlFBHWmHn1orOQx/dyqfZ7TReRirE6d+uswBpOR1bdlLy9FcO/jrch9Q/OKTU0Wcd/CedidalwPHzifilnUg01hOCPRjKGwzkZ+spjprCyoaBY",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181693
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.0708808899,
+                        "value": "8tJ4+QI0USFSf+U4NDnvhxKk13CCWnTnk43xPc00UQJhQrKM1uqCQ8ze/5WCQwLXBF236urzUazvikwnrzSWha+MHHv7MLAwNo/FIPbjSpaua3sv05DKg4EaLt1o",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533182072
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.3586850166,
+                        "value": "aAj1oiueI+PymKhJvMRM3wola1R4i2YNcK0BOCTROf7hWY0Hg5pKLDYJ9EtpnKV3crx/Ls/UU/+v03keLjI2FUQiyDyCp4uG51BVFzRQqBeobnCwABHoFUSGFBTF",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533182361
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.545814991,
+                        "value": "e76L09XueBqABctukUPECYH3jGN5jKpuLmgV3rOeTHi6OeByWJbX49vn2Q/VKIa2sAmRYfs2QZxh9xCgKxwuNd8ajrNVejp1OHV6LBgAMeyvujIUFLcR7PRFXytX",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533182548
+                    }
+                ]
+            }
+        },
+        "/DG/DEFAULT": {
+            "BCSessionID": {
+                "name": "BCSessionID",
+                "domain": "cdp.cbc.ca",
+                "path": "/DG/DEFAULT",
+                "current_label": 3,
+                "label_ts": 1725533180483,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760093180.481585,
+                        "expiry": 34560000.481585026,
+                        "value": "890fd84f-9cec-486c-8d34-66af47ebb0d1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533180483
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.27988601,
+                        "value": "b9dd38e3-d3c3-43ad-bf8f-5c801c6ddcbf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181280
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.521953106,
+                        "value": "b9dd38e3-d3c3-43ad-bf8f-5c801c6ddcbf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533181525
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.0710299,
+                        "value": "4e8b13b6-b42a-44de-a1f3-b7c2846b83c0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533182072
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.54595494,
+                        "value": "4e8b13b6-b42a-44de-a1f3-b7c2846b83c0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533182548
+                    }
+                ]
+            },
+            "BCTempID": {
+                "name": "BCTempID",
+                "domain": "cdp.cbc.ca",
+                "path": "/DG/DEFAULT",
+                "current_label": 3,
+                "label_ts": 1725533179783,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725533779.775011,
+                        "expiry": 600.7750110626221,
+                        "value": "890fd84f-9cec-486c-8d34-66af47ebb0d1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725533179782
+                    }
+                ]
+            }
+        }
+    }
+}

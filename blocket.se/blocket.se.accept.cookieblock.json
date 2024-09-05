@@ -1,0 +1,498 @@
+{
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475622551,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733251622.548513,
+                        "expiry": 7776000.548512936,
+                        "value": "-Dt-Ep3DHapotF9Po2yxIHQH9Di7QGlXcFwqPRYBUfUxvBpltYK30A-HwebcIrBIljva7oLoceyqPJktNT2O2i23zNAXqE-M6qQazvkaUDk.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475622549
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.701631069,
+                        "value": "-Dt-Ep3DHapotF9Po2yxIHQH9Di7QGlXcFwqPRYBUfUxvBpltYK30A-HwebcIrBIljva7oLoceyqPJktNT2O2i23zNAXqE-M6qQazvkaUDk.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475622702
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.084189892,
+                        "value": "-Dt-Ep3DHapotF9Po2yxIHQH9Di7QGlXcFwqPRYBUfUxvBpltYK30A-HwebcIrBIljva7oLoceyqPJktNT2O2i23zNAXqE-M6qQazvkaUDk.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475623084
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.690211058,
+                        "value": "XeU3eIqcHFmLzitFYzuY5zonAfnXqJkeI6ht_TVzssYakRJlYEWLTRbbO8XCHLHhr-6bEGiK4DtZx8TUKDlENX_omqulMl3EwL-YH_uA6ZE.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475627693
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475627697,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733251627.690465,
+                        "expiry": 7776000.690464973,
+                        "value": "ChgIytVVEAoYASABKAEwq9bitgY4AUABSAEQq9bitgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475627694
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475622552,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035622.548627,
+                        "expiry": 34560000.5486269,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475622551
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.70171189,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475622702
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.08431411,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475623085
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.690534115,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475627698
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475622554,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733251622.548675,
+                        "expiry": 7776000.54867506,
+                        "value": "3155107547471651481",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475622553
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.701751947,
+                        "value": "3155107547471651481",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475622702
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.08434391,
+                        "value": "3155107547471651481",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475623085
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.690642118,
+                        "value": "3155107547471651481",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475627698
+                    }
+                ]
+            }
+        }
+    },
+    "blocket.se": {
+        "/": {
+            "_cmp_advertising": {
+                "name": "_cmp_advertising",
+                "domain": ".blocket.se",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475626203,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027626.196838,
+                        "expiry": 15552000.196837902,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475626202
+                    }
+                ]
+            },
+            "_cmp_analytics": {
+                "name": "_cmp_analytics",
+                "domain": ".blocket.se",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475626200,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027626.196505,
+                        "expiry": 15552000.19650507,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475626199
+                    }
+                ]
+            },
+            "_cmp_marketing": {
+                "name": "_cmp_marketing",
+                "domain": ".blocket.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475626198,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760035626.196182,
+                        "expiry": 34560000.19618201,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475626197
+                    }
+                ]
+            },
+            "_cmp_personalisation": {
+                "name": "_cmp_personalisation",
+                "domain": ".blocket.se",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475626204,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741027626.196919,
+                        "expiry": 15552000.196918964,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475626203
+                    }
+                ]
+            },
+            "_pulse2data": {
+                "name": "_pulse2data",
+                "domain": ".blocket.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475620947,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035620.933845,
+                        "expiry": 34560000.93384504,
+                        "value": "74467230-47b7-4f6b-ba08-ec0ba18831b8%2Cv%2C%2C1726685220000%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDktMDRUMTg6NDc6MDBaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA0VDE4OjQ3OjAwWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..jm9qVGgbRqDlbme-LI-j8g.yPxpI4nnIYMunPDl1JzsX0HkC8OSEHLhLGQDOBulbVHjwshB27e3T0R0rt0oGmofJvHxxi7OzaibuMt1uJrEqHBxNuLfAWA76BQ_VJp56JMFUkgajyuN6rogGQ9xqVk22wVroS-lCwsu2KzC_NmPhNDFa_qcl_yBzeyK93j98eER1j7Eo0joyqWtx2WjprTm5RtU-yltof2z30rWB8Fuhk8Hk4rZh5ATrCeIZ6mMEH-MYdjS7_SeIIv8L8sUhn5-WL-b7wpAPGZ0B2n4OIlUGvS1rz8r_C9PNJgYe5HoJfK39c6kNimng4X70gmRspzCJobL47QKl20zP2MUgTaClg.hREGesJXDYz2I1uLKGdEhA%2C%2C0%2Ctrue%2C%2CeyJraWQiOiIyIiwiYWxnIjoiSFMyNTYifQ..qTQ3hePYKWhBIT0Fant6DcVAQaKCB7R0U5mMsKiFCsY",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475620944
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.085696936,
+                        "value": "74467230-47b7-4f6b-ba08-ec0ba18831b8%2Cv%2C%2C1726685220000%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDktMDRUMTg6NDc6MDBaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA0VDE4OjQ3OjAwWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..jm9qVGgbRqDlbme-LI-j8g.yPxpI4nnIYMunPDl1JzsX0HkC8OSEHLhLGQDOBulbVHjwshB27e3T0R0rt0oGmofJvHxxi7OzaibuMt1uJrEqHBxNuLfAWA76BQ_VJp56JMFUkgajyuN6rogGQ9xqVk22wVroS-lCwsu2KzC_NmPhNDFa_qcl_yBzeyK93j98eER1j7Eo0joyqWtx2WjprTm5RtU-yltof2z30rWB8Fuhk8Hk4rZh5ATrCeIZ6mMEH-MYdjS7_SeIIv8L8sUhn5-WL-b7wpAPGZ0B2n4OIlUGvS1rz8r_C9PNJgYe5HoJfK39c6kNimng4X70gmRspzCJobL47QKl20zP2MUgTaClg.hREGesJXDYz2I1uLKGdEhA%2C3155107547471651481%2C1725490023085%2Ctrue%2C%2CeyJraWQiOiIyIiwiYWxnIjoiSFMyNTYifQ..qTQ3hePYKWhBIT0Fant6DcVAQaKCB7R0U5mMsKiFCsY",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475623086
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.41925907,
+                        "value": "74467230-47b7-4f6b-ba08-ec0ba18831b8%2Cv%2C%2C1726685223000%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDktMDRUMTg6NDc6MDBaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA0VDE4OjQ3OjAzWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..WjgodTjNJ2rYn_v46iYVLg.OUTOxAx_smoUIOSUBchKwuafPl3nM19oKiA9TvHvGRGZn99nVuQVoMHI4sK8XjBbD2-tQqtYvGlSl_sPLbg8E9iY74OLl2p7uAi_BkG1Se5XkjsPhtDKa9CplUb_oRl1OHlUGWuEiKutrKdD-QWyJXDrA6wzC0Fy_9m3P5cQTIkWwHAaEupIMLVIqNLBzlRDBMHIPABpIWimmNw7WQME-9jFLzXdzAPMgTON7PFgyVvwpYFGgA20pNyPhWnP9sW3V631lodIwACW27v0b_jfKOu1xkoVcy47w49BqVoiAk2er0eZcllqfZpB6xODrYYXSXZkZYHBj_27q8H0QuWNQHdvonprTybqhtjh_oOidFXSvL_LYjaod9xPw6rG8rkN.buuwismC67_ldRi1ozoXQA%2C3155107547471651481%2C1725490023419%2Ctrue%2C%2CeyJraWQiOiIyIiwiYWxnIjoiSFMyNTYifQ..qTQ3hePYKWhBIT0Fant6DcVAQaKCB7R0U5mMsKiFCsY",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475623419
+                    }
+                ]
+            },
+            "_pulse2test": {
+                "name": "_pulse2test",
+                "domain": ".blocket.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475620938,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725562020,
+                        "expiry": 86400,
+                        "value": "zrhXeAGrPEdN2xqV",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475620936
+                    }
+                ]
+            },
+            "_pulsesession": {
+                "name": "_pulsesession",
+                "domain": ".blocket.se",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725475620944,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725477420,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3A728090f6-64ec-4786-8fa6-c5b04aabee19%22%2C1725475620932%2C1725475620932%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475620942
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3A728090f6-64ec-4786-8fa6-c5b04aabee19%22%2C1725475620932%2C1725475622972%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475622972
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3A728090f6-64ec-4786-8fa6-c5b04aabee19%22%2C1725475620932%2C1725475626204%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475626207
+                    }
+                ]
+            },
+            "consentDate": {
+                "name": "consentDate",
+                "domain": ".blocket.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475626205,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741027626.198232,
+                        "expiry": 15552000.198231936,
+                        "value": "2024-09-04T18:47:06.202Z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475626204
+                    }
+                ]
+            },
+            "consentUUID": {
+                "name": "consentUUID",
+                "domain": ".blocket.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475623050,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741027623.050531,
+                        "expiry": 15552000.05053091,
+                        "value": "8ffcf23b-ba6f-452e-a453-36aeae8e6bc6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475623050
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.19807291,
+                        "value": "8ffcf23b-ba6f-452e-a453-36aeae8e6bc6_35",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475626204
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.blocket.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475618634,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475618630
+                    }
+                ]
+            }
+        }
+    },
+    "schibsted.com": {
+        "/": {
+            "cis-jwe": {
+                "name": "cis-jwe",
+                "domain": ".schibsted.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475620935,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757011620.923332,
+                        "expiry": 31536000.923331976,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDRUMTg6NDc6MDBaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA0VDE4OjQ3OjAwWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..Bx8Q6_mh03XCv-5AOPwrqg.M3ZJqpz5O_uZp7bcLkPkgoQyzXKNPHq-3qKEB6QSnhVuwzg-s8OlPig1A3pEkwo3-TMs8ro0DgpRznvoYRSNJw.eYwsYNHY19WiEij9QhOq_g",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475620924
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.92494297,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDRUMTg6NDc6MDBaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA0VDE4OjQ3OjAwWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..NE8Lz90KCc_n-MPJBl26ng.yvmsYIXURX0C-uhlROzA86awiM858xjLglhdaQdM90EPHOwmZ5JIj_b3wJzjpEyuHRxg6EICtxDnk-PTtOganA.N_V6maHe4qJWcmq7FHzo0A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475620936
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.03248191,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDRUMTg6NDc6MDBaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA0VDE4OjQ3OjAzWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..GnioKsws0SEKz50SrG_o5g.WZXrw20_p14Hu7WJwAyxD8kEX_J2HIJ7YTnWCl49Qe-ehuM3bH96tgVTYoeV8RRRJnpymUZjG5SQfXF8rsi8cXcsiCG41PwgwTAqXmFESfUNKmEqzJs-AA295qgbxFzc.6LR-cpDHrD2XfImZp8I5SQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475623033
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.417043924,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDRUMTg6NDc6MDBaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA0VDE4OjQ3OjAzWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..CrxPWkhZS5h-YW3BZtm7uQ.3QiPchWTiHkp0-3DNy3lmKvlgRbDR81nuqdG7h7zHxabA0qIVRTgGbvGyGjF4VAd2Qi9c0aU9DudSMB3DITTsg.SI3zsqgarukiarkPAT6yGA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475623418
+                    }
+                ]
+            }
+        }
+    }
+}

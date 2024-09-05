@@ -1,0 +1,403 @@
+{
+    "news.sky.com": {
+        "/": {
+            "AMCV_0ABA4673527831C00A490D45%40AdobeOrg": {
+                "name": "AMCV_0ABA4673527831C00A490D45%40AdobeOrg",
+                "domain": ".news.sky.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479591892,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039591.889433,
+                        "expiry": 34560000.88943291,
+                        "value": "T",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479591890
+                    }
+                ]
+            },
+            "adobeujs-optin": {
+                "name": "adobeujs-optin",
+                "domain": "news.sky.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479591857,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726084391,
+                        "expiry": 604800,
+                        "value": "%7B%22aam%22%3Afalse%2C%22adcloud%22%3Afalse%2C%22aa%22%3Atrue%2C%22campaign%22%3Afalse%2C%22ecid%22%3Afalse%2C%22livefyre%22%3Afalse%2C%22target%22%3Afalse%2C%22mediaaa%22%3Afalse%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479591855
+                    }
+                ]
+            },
+            "consentUUID": {
+                "name": "consentUUID",
+                "domain": "news.sky.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479591864,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031591.855563,
+                        "expiry": 15552000.855562925,
+                        "value": "3a076bba-9568-4b69-bbcf-fed88c353a51_35",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479591864
+                    }
+                ]
+            },
+            "consents": {
+                "name": "consents",
+                "domain": "news.sky.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479591866,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733349191,
+                        "expiry": 7869600,
+                        "value": ":19:3:1:10:20:18:7:8:13:12:6:5:2:9:",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479591865
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": "news.sky.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479591863,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031591.855351,
+                        "expiry": 15552000.855350971,
+                        "value": "CQEbF4AQEbF4AAGABCENBFFgAP_gAEPgACiQJjJE5G5cSSFhMHp3YLsgIYQXxVhw4sAhAhABE4AASBIEJIwEFGEgJACAIAACAAAAIFIAIAAAAABAAEAAYIABAACIAASAABACIAAACAAAAgAAAEAIgAEgEAAAAEBAEhQAgQEAQBIAQIAAAAAAAQAAAKAEAAAQAAAAAAAAQAIAAAAAgAAAgAAAAAAAAAQAABAIAAAAAAAAAAAAABA5aAkACQAGQARwBHACcAHIAOcAgABBwCOAF1AVKAtQBdAC8wGCAMWAcsAWEgOgAIAAXABQAFQAOAAeABBADQANQAiABMACqAH4AQgAiABHACWAGUAO4AfAA_QCAAEYgJEAkoBtADiAKPAZIA3MBuoEEwoAEBdA6A6AAuACgAKgAcABBADQANQAiABMACqAF0AMQAfgBEACWAFGAMoAaIA-AB-gEWAIxAR0BJQDaAHEAOoAo8BfQDJAG6gP7HACgAEAAXACgAIQAdwBCAEIAKTAbmBG8hALAAWABQAGoAVQAxACOAHOAO4A2gB1AH9kAAYACAFJgRvJQEAAEAALAAoABwAIgATAAqgBiAEQAI4AUYB1AEIAImAUeAyQkAFAAuAIQAdwB2wFJlIDoAC4AKAAqABwAEEAMgA0ACIAEwAKQAVQAxAB-AEQAKMAZQA0QBzgD9AIsARiAjoCSgG0AOoAiYBSYC-gGSAN1Af2BBMoAKAAuAFsANoAhAB3AEcAO2Af8BCADcy0AIAGoA7g.egAAAAAAAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479591857
+                    }
+                ]
+            },
+            "testGroup": {
+                "name": "testGroup",
+                "domain": "news.sky.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479586111,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733368986,
+                        "expiry": 7889400,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479586106
+                    }
+                ]
+            }
+        }
+    },
+    "sky.com": {
+        "/": {
+            "_cb": {
+                "name": "_cb",
+                "domain": ".sky.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479592677,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607592,
+                        "expiry": 34128000,
+                        "value": "D64rJrCVHhITvHhqb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479592676
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".sky.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479592679,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481392,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479592679
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".sky.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479592671,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479592670
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479592672
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479592673
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479592674
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479592679
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".sky.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479592678,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607592,
+                        "expiry": 34128000,
+                        "value": ".1725479592675.1725479592675.1.rEhRTvbADfBvcs9bDcq8XLCIrcc9.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479592677
+                    }
+                ]
+            },
+            "_sp_su": {
+                "name": "_sp_su",
+                "domain": ".sky.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479587495,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015587.494133,
+                        "expiry": 31536000.494132996,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479587494
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".sky.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479592889,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479592887
+                    }
+                ]
+            },
+            "s_fid": {
+                "name": "s_fid",
+                "domain": ".sky.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479592887,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039592.886553,
+                        "expiry": 34560000.88655305,
+                        "value": "29696B973BB18931-086F3DDA6868E2DC",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479592886
+                    }
+                ]
+            },
+            "s_vi": {
+                "name": "s_vi",
+                "domain": ".sky.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479593609,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039593.606022,
+                        "expiry": 34560000.60602188,
+                        "value": "[CS]v1|336C5D549F0EB7E2-60001E0A2170B838[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479593607
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.78523493,
+                        "value": "[CS]v1|336C5D549F0EB7E2-60001E0A2170B838[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479593788
+                    }
+                ]
+            },
+            "test": {
+                "name": "test",
+                "domain": ".sky.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479586105,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479586099
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479586106
+                    }
+                ]
+            },
+            "uuid": {
+                "name": "uuid",
+                "domain": ".sky.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479586780,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039586.779253,
+                        "expiry": 34560000.779253006,
+                        "value": "6a59fb21f55f44d51ca30cb369f6efa2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479586779
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,982 @@
+{
+    "360yield.com": {
+        "/": {
+            "tuuid": {
+                "name": "tuuid",
+                "domain": ".360yield.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474515630,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250515.629621,
+                        "expiry": 7776000.629621029,
+                        "value": "780e1d0b-3191-4864-b0c4-a6ad718aabb7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515630
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.63776207,
+                        "value": "45a070c8-346b-40a1-9217-8a02ecd74221",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515638
+                    }
+                ]
+            },
+            "tuuid_lu": {
+                "name": "tuuid_lu",
+                "domain": ".360yield.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474515631,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250515.62966,
+                        "expiry": 7776000.629659891,
+                        "value": "1725474515",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515630
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.637809038,
+                        "value": "1725474515",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515638
+                    }
+                ]
+            }
+        }
+    },
+    "3lift.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474514863,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250514.861424,
+                        "expiry": 7776000.861423969,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474514861
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.869935989,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474514870
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.939249039,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474514939
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.951675892,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474514952
+                    }
+                ]
+            },
+            "tluid": {
+                "name": "tluid",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474514940,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250514.9393,
+                        "expiry": 7776000.93930006,
+                        "value": "2127186752355201742991",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474514940
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.951713085,
+                        "value": "664522194916763369444",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474514952
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474515426,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760034515.425475,
+                        "expiry": 34560000.42547488,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515425
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474515583,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010515.583068,
+                        "expiry": 31536000.583067894,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515583
+                    }
+                ]
+            }
+        }
+    },
+    "gumgum.com": {
+        "/": {
+            "cs": {
+                "name": "cs",
+                "domain": ".gumgum.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474515511,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010515.510296,
+                        "expiry": 31536000.510296106,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515510
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.51815796,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515518
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.698932886,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515699
+                    }
+                ]
+            },
+            "vst": {
+                "name": "vst",
+                "domain": ".gumgum.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474515519,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010515.518193,
+                        "expiry": 31536000.518193007,
+                        "value": "u_b7ec8e6c-48cb-451b-9bae-5c87653678cd",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515518
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.698975086,
+                        "value": "u_02879a00-add6-46c0-b099-14ca44a71347",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515699
+                    }
+                ]
+            }
+        }
+    },
+    "rubiconproject.com": {
+        "/": {
+            "audit": {
+                "name": "audit",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474515574,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010515.572576,
+                        "expiry": 31536000.572576046,
+                        "value": "1|vAET2ryzqEGWW8nqZuMgHktAdO6oL148m+3XSeM+WCMjptlu8ra/U+vJFH8TPXhCw7y1Ix2SD2bwDYyokS0XOklXVg4cOfBLHmhiZVYgTDCOxo3vTIApMLmvMviDmQBSGHAa5aR9Tjqd3tOMVGzSw9zaNhLnNgbHAu/9PSAKVRl+K9laYjSSpqUi3Kts7QVW5TRYcPXXIRdRMuqoF7dNI7JDq0ljOwnPTIRJdoJ+HO7gZJntHV3DnD8N20Dt1QkkWPlIyFE063xZ4j1ZIiNX3/TGV7Noq3EtnNj4LVpxOq490ueYWz25zivQKIKLeHVOsvn9UhynMfoKhnbRgOMy2L9J2dZcZgRju1q0vwAlb1u1jLe4k7iQMjYq8iW2bicFlOyCXXZigKPs4+O80GBQcJTsgl12YoCjM1/NvuNWMaeR9+QFqU2UwfQRyd51TQMT5AKKVW6pRi9hisXDsQxCB30VY/ZR5koD5yccptMku7K8uzUzCtonld1f0zYINeMf1gOsaOLmz0gIlsR31gSELyKPLRELhl3x0A+VO7RH1E0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515574
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.672653913,
+                        "value": "1|vAET2ryzqEH6uQAd2DqBVEtAdO6oL148m+3XSeM+WCMjptlu8ra/U+vJFH8TPXhCw7y1Ix2SD2bwDYyokS0XOklXVg4cOfBLHmhiZVYgTDCOxo3vTIApMLmvMviDmQBSGHAa5aR9Tjqd3tOMVGzSw9zaNhLnNgbHAu/9PSAKVRl+K9laYjSSpqUi3Kts7QVW5TRYcPXXIRdRMuqoF7dNI7JDq0ljOwnPTIRJdoJ+HO7gZJntHV3DnD8N20Dt1QkkWPlIyFE063xZ4j1ZIiNX3/TGV7Noq3EtnNj4LVpxOq490ueYWz25zivQKIKLeHVOsvn9UhynMfoKhnbRgOMy2L9J2dZcZgRju1q0vwAlb1u1jLe4k7iQMjYq8iW2bicFlOyCXXZigKPs4+O80GBQcJTsgl12YoCjM1/NvuNWMaeR9+QFqU2UwfQRyd51TQMT5AKKVW6pRi9hisXDsQxCB30VY/ZR5koD5yccptMku7K8uzUzCtonld1f0zYINeMf1gOsaOLmz0gIlsR31gSELyKPLRELhl3x0A+VO7RH1E0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515673
+                    }
+                ]
+            },
+            "khaos": {
+                "name": "khaos",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474515573,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010515.572543,
+                        "expiry": 31536000.572542906,
+                        "value": "M0O6Z536-7-FBJG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515573
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.67261195,
+                        "value": "M0O6Z54X-1C-LHBN",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515673
+                    }
+                ]
+            }
+        }
+    },
+    "smartadserver.com": {
+        "/": {
+            "TestIfCookieP": {
+                "name": "TestIfCookieP",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474515110,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010516.108172,
+                        "expiry": 31536001.10817194,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515109
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.15482092,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515155
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.690527916,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515691
+                    }
+                ]
+            },
+            "pbw": {
+                "name": "pbw",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474515109,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010516.108083,
+                        "expiry": 31536001.10808301,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515108
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.154460907,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515155
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.690434933,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515690
+                    }
+                ]
+            },
+            "pid": {
+                "name": "pid",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474515111,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010516.108202,
+                        "expiry": 31536001.10820198,
+                        "value": "6279045379095516363",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515110
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.154947996,
+                        "value": "1603431903498327258",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515156
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.690762997,
+                        "value": "6066799056083735777",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515691
+                    }
+                ]
+            },
+            "sasd2": {
+                "name": "sasd2",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474515112,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560916.108279,
+                        "expiry": 86401.10827898979,
+                        "value": "q=%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6&c=1&l&lo&lt=638610713151280912&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515111
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.15506505966,
+                        "value": "q=%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6&c=1&l&lo&lt=638610713151694480&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515156
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.69082188606,
+                        "value": "q=%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6&c=1&l&lo&lt=638610713157124720&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515692
+                    }
+                ]
+            },
+            "sasd": {
+                "name": "sasd",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474515112,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560916.108492,
+                        "expiry": 86401.10849189758,
+                        "value": "%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515112
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.15514707565,
+                        "value": "%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515156
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.6911869049,
+                        "value": "%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515692
+                    }
+                ]
+            }
+        }
+    },
+    "sudinfo.be": {
+        "/": {
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474500747,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474530,
+                        "expiry": 30,
+                        "value": "m0o6ytmxxpgf01",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474500746
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6ytn91zs925",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474500758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6z56c6xib9z",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474515700
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6z56gqjygwb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474515705
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6z57aunv14g",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474515734
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6z57d9u6u7u",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474515738
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6z5tafyt9k",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474516528
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6z5wo4lbjol",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474516648
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474515736,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602515,
+                        "expiry": 34128000,
+                        "value": "m0o6ytn1ol76epdl",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474515735
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0o6ytn1ol76epdl",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474515739
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0o6ytn1ol76epdl",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474516649
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474500541,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741289300,
+                        "expiry": 15814800,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU0YjYtZmI4MS02ODU1LWJjYmMtNmRmZWNiZGZlZDRlIiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTg6Mjg6MjAuNTM2WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE4OjI4OjIwLjUzN1oiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474500538
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15814800,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU0YjYtZmI4MS02ODU1LWJjYmMtNmRmZWNiZGZlZDRlIiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTg6Mjg6MjAuNTM2WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE4OjI4OjM0LjEzMVoiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzp5b3V0dWJlIiwiYzpob3RqYXIiLCJjOmNoYXJ0YmVhdCIsImM6Z3JhcGVzaG90IiwiYzprYW1lbGVvb24iLCJjOndpc2Vwb3BzIiwiYzp2aWRlb3BsYXphIiwiYzpoZWxwaGVyby05VEJmWHR5dCIsImM6dmlkZW9sb2d5IiwiYzpvbmVzaWduYWwtcVYyQ0VwV2oiLCJjOmdvb2dsZWFuYS00VFhuSmlnUiIsImM6cWlvdGEtaFVZSEt3dzIiLCJjOmFpcnNoaXAiLCJjOmZhY2Vib29rIiwiYzpzbmFwY2hhdCIsImM6aW5zdGFncmFtIiwiYzp0d2l0dGVyIiwiYzpwaWFubyIsImM6c2Fvb3RpIiwiYzp0aWt0b2siLCJjOnNtYXJ0bG9vayIsImM6cGludGVyZXN0IiwiYzpxdWFsaWZpbyIsImM6ZnJhY3Rpb25hbC1uMmpZREZQTiIsImM6c2VsbGlnZW50LUdnd0RXZG5oIiwiYzpmcm9vbWxlIl19LCJwdXJwb3NlcyI6eyJlbmFibGVkIjpbImdlb2xvY2F0aW9uX2RhdGEiLCJkZXZpY2VfY2hhcmFjdGVyaXN0aWNzIiwiZ2VvX2FkcyIsImdlb19tYXJrZXRpbmdfc3R1ZGllcyIsInJlc2VhdXhzby1jYXpXeU5GeCJdfSwidmVuZG9yc19saSI6eyJlbmFibGVkIjpbImM6dmlkZW9sb2d5IiwiYzpmcmFjdGlvbmFsLW4yallERlBOIl19LCJ2ZXJzaW9uIjoyLCJhYyI6IkRJdUJxQUVZQUxvQWJBQTlBQ1FBRXFBTVFBbTRCUXdEUGdIbWdQY0E5NENQZ0VsZ1BWQWdPQkJzQ0pJRXRRSi1BV0hBdFNCaUlET1lHamdOWUFjMUE2Y0IxWURzSUhpUVFNQWlCQkdhQ1NjRW1vSnhRVHZRb0hDZ2dGQjRLRVFVNmdwX0JabUMyWUZ5SUxuUVhhZ3Z6aGdLR0F3TUx3WXBBeUxBLkFBQUEifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474514143
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474514146,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741289314,
+                        "expiry": 15814800,
+                        "value": "CQEbF4AQEbF4AAHABBENBFFsAP_gAELgAAAAJgJF7C7XbHFgcXZ3YPsEMA1dxNAIAsQgBAABg2QByBIQMIwGlmAQNATgBCAKAAIAIGZBIQJlCABQDUAAYAAAIwDMAAUAABIIICAAgAABAEAICAACCQgAAAAIgEIAEAAAmQoAAAoAUEBAhAAAIAAAAAAgAIABAgEAACEAQAAIAAAIQigAAQAAAAAAAAAAABAMAABAAAAAAAAABApqAOADUAZYA7gCOAI9ATEApoAUlABgACCmpSADAAEFNR0AGAAIKakIAMAAQU1CQAYAAgpq.f_wACFwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725474514143
+                    }
+                ]
+            },
+            "incognitoId": {
+                "name": "incognitoId",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474495728,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010495.716418,
+                        "expiry": 31536000.716418028,
+                        "value": "e8ce854e83292edf077c62f68bb11e16e3276cb7c4abe7acd9e3c7c067aae2df",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474495718
+                    }
+                ]
+            },
+            "jwtToken": {
+                "name": "jwtToken",
+                "domain": ".sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474495733,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725474735.716645,
+                        "expiry": 240.7166450023651,
+                        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbm9ueW1vdXNJRCI6ImU4Y2U4NTRlODMyOTJlZGYwNzdjNjJmNjhiYjExZTE2ZTMyNzZjYjdjNGFiZTdhY2Q5ZTNjN2MwNjdhYWUyZGYiLCJicmFuZElEIjoiU1BfcHJvZCIsImFjY2Vzc0xpc3QiOnsiYWJvbm5lLXZvbyI6ZmFsc2UsImVhY2YiOmZhbHNlLCJlbmEiOmZhbHNlLCJsaWdodC1lbmEiOmZhbHNlLCJsaWdodC1yZXBsaWNhIjpmYWxzZX0sImF2YWlsYWJsZUZyZWVtaXVtIjowLCJhdmFpbGFibGVSV0ZyZWVtaXVtIjowLCJpc1ZhbGlkQWNjb3VudCI6dHJ1ZSwiZXhwIjoxNzI1NDc0NzM1LCJpYXQiOjE3MjU0NzQ0OTV9.HoYD_mrMwKKl_Awxs43xsxWG8urqV4UtZ1z1IcMJFLI",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474495729
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": "www.sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474500754,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602500,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0o6ytn1ol76epdl%22%2C%22_t%22%3A%22mgclwaz4%7Cm0o6ytn4%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725474500753
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0o6ytn1ol76epdl%22%2C%22_t%22%3A%22mgclwaz4%7Cm0o6ytn4%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725474500758
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": "www.sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474500757,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602500,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAOYBjVAHdCALwAcAH34AGSgDYAnviTSQAXyA",
+                        "same_site": "lax",
+                        "timestamp": 1725474500756
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAOYBjVAHdCALwAcAH34AGSgDYAnviTSQAXyA",
+                        "same_site": "lax",
+                        "timestamp": 1725474500758
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34127985,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAWAZgAZeAdgBMQgGzjuAVmm8AHP2n9aIAPr4yAWwDmAY1QB3QgC95AHy39K4gJ74k8kAF8gA",
+                        "same_site": "lax",
+                        "timestamp": 1725474515734
+                    }
+                ]
+            },
+            "pa_privacy": {
+                "name": "pa_privacy",
+                "domain": "www.sudinfo.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474500753,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602500,
+                        "expiry": 34128000,
+                        "value": "%22optin%22",
+                        "same_site": "lax",
+                        "timestamp": 1725474500752
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%22exempt%22",
+                        "same_site": "lax",
+                        "timestamp": 1725474500754
+                    }
+                ]
+            }
+        }
+    },
+    "teads.tv": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".teads.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474515522,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1756924115.521381,
+                        "expiry": 31449600.5213809,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515522
+                    }
+                ]
+            },
+            "tt_viewer": {
+                "name": "tt_viewer",
+                "domain": ".teads.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474515522,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1756924115.52134,
+                        "expiry": 31449600.521339893,
+                        "value": "15cc39b0-7656-4651-957b-f6e458fe9451",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515521
+                    }
+                ]
+            }
+        }
+    },
+    "ultimedia.com": {
+        "/deliver/generic/iframe/mdtk/01515498/zone/55/showtitle/1/src": {
+            "TESTCOOKIESENABLED": {
+                "name": "TESTCOOKIESENABLED",
+                "domain": "www.ultimedia.com",
+                "path": "/deliver/generic/iframe/mdtk/01515498/zone/55/showtitle/1/src",
+                "current_label": 0,
+                "label_ts": 1725474515955,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474575,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515953
+                    }
+                ]
+            }
+        },
+        "/deliver/generic/iframe/src/xl05sfu/showtitle/1/mdtk/01515498/zone/3": {
+            "TESTCOOKIESENABLED": {
+                "name": "TESTCOOKIESENABLED",
+                "domain": "www.ultimedia.com",
+                "path": "/deliver/generic/iframe/src/xl05sfu/showtitle/1/mdtk/01515498/zone/3",
+                "current_label": 0,
+                "label_ts": 1725474515968,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474575,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474515968
+                    }
+                ]
+            }
+        }
+    }
+}

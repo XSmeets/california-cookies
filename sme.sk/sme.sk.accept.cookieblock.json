@@ -1,0 +1,1488 @@
+{
+    "3lift.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473697168,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249697.084591,
+                        "expiry": 7776000.084590912,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697168
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.085324049,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697170
+                    }
+                ]
+            },
+            "tluid": {
+                "name": "tluid",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473698227,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249698.223246,
+                        "expiry": 7776000.223246098,
+                        "value": "1626452438955976938652",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698226
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.437704086,
+                        "value": "1626452438955976938652",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698439
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.6610889435,
+                        "value": "1626452438955976938652",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698662
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.66209507,
+                        "value": "1626452438955976938652",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698664
+                    }
+                ]
+            },
+            "tluidp": {
+                "name": "tluidp",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473698225,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249698.223147,
+                        "expiry": 7776000.223146915,
+                        "value": "1626452438955976938652",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698224
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.437633038,
+                        "value": "1626452438955976938652",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698438
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.660445929,
+                        "value": "1626452438955976938652",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698662
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.661757946,
+                        "value": "1626452438955976938652",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698663
+                    }
+                ]
+            }
+        },
+        "/sync": {
+            "sync": {
+                "name": "sync",
+                "domain": ".3lift.com",
+                "path": "/sync",
+                "current_label": 3,
+                "label_ts": 1725473698439,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249698.437683,
+                        "expiry": 7776000.4376831055,
+                        "value": "CgoIgAIQq-b88ZsyCgoIoQEQq-b88ZsyCgoIgQIQq-b88ZsyCgoItAIQq-b88ZsyCgoIlAIQq-b88ZsyCgoI5gEQq-b88ZsyCgoIhwIQq-b88ZsyCgkIOhCr5vzxmzIKCgjeARCr5vzxmzIKCQhfEKvm_PGbMg==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698438
+                    }
+                ]
+            }
+        }
+    },
+    "ads.pubmatic.com": {
+        "/": {
+            "KCCH": {
+                "name": "KCCH",
+                "domain": ".ads.pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473698060,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560098,
+                        "expiry": 86400,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698059
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "CMID": {
+                "name": "CMID",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473698368,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009698.367326,
+                        "expiry": 31536000.36732602,
+                        "value": "ZtijotHM4C8AAH7KAE-gbQAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698367
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.540461063,
+                        "value": "ZtijotHM4C8AAH7KAE-gbQAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698541
+                    }
+                ]
+            },
+            "CMPRO": {
+                "name": "CMPRO",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473698369,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249698.367363,
+                        "expiry": 7776000.367362976,
+                        "value": "104",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698368
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.540537119,
+                        "value": "104",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698542
+                    }
+                ]
+            },
+            "CMPS": {
+                "name": "CMPS",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473698368,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249698.367352,
+                        "expiry": 7776000.367352009,
+                        "value": "104",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698368
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473697184,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009697.184002,
+                        "expiry": 31536000.184001923,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697184
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.20315194,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697203
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473696835,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760033696.834297,
+                        "expiry": 34560000.83429694,
+                        "value": "AHWqTUmmDhHPjCbmYppbnsd1I57a553G26wZC8eRF-icnM_rXJdj2gswA6k0Lx9AkjI",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473696834
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473695459,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474595.455992,
+                        "expiry": 900.4559919834137,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473695458
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.6995890140533,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473695700
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 899.872857093811,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473695873
+                    }
+                ]
+            }
+        }
+    },
+    "etargetnet.com": {
+        "/": {
+            "ckf": {
+                "name": "ckf",
+                "domain": ".etargetnet.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473697753,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009697.740834,
+                        "expiry": 31536000.740833998,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697752
+                    }
+                ]
+            },
+            "euvf": {
+                "name": "euvf",
+                "domain": ".etargetnet.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473697751,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726683297.740703,
+                        "expiry": 1209600.740703106,
+                        "value": "131072",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697751
+                    }
+                ]
+            },
+            "euvh": {
+                "name": "euvh",
+                "domain": ".etargetnet.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473697752,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728152097.740748,
+                        "expiry": 2678400.7407479286,
+                        "value": "R",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697751
+                    }
+                ]
+            },
+            "p": {
+                "name": "p",
+                "domain": ".etargetnet.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473697750,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725477297.740512,
+                        "expiry": 3600.740511894226,
+                        "value": "68512",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697750
+                    }
+                ]
+            }
+        }
+    },
+    "id5-sync.com": {
+        "/": {
+            "id5": {
+                "name": "id5",
+                "domain": ".id5-sync.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473698049,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249698.046164,
+                        "expiry": 7776000.046164036,
+                        "value": "1bacfe21-4be6-704f-830d-1df51da01984#1725473698169#1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698047
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.346600056,
+                        "value": "1bacfe21-4be6-704f-830d-1df51da01984#1725473698169#2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698347
+                    }
+                ]
+            }
+        }
+    },
+    "openx.net": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".openx.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473697412,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009697.410191,
+                        "expiry": 31536000.41019106,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697411
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.417685032,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697418
+                    }
+                ]
+            }
+        }
+    },
+    "pubmatic.com": {
+        "/": {
+            "DPSync4": {
+                "name": "DPSync4",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473698696,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249698.692317,
+                        "expiry": 7776000.692317009,
+                        "value": "1726012800%3A252_265%7C1726617600%3A263_201",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698695
+                    }
+                ]
+            },
+            "KADUSERCOOKIE": {
+                "name": "KADUSERCOOKIE",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473698685,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009698.683624,
+                        "expiry": 31536000.68362403,
+                        "value": "67EEBFAC-5225-4251-9FFC-141E5311D3B7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698684
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.692224026,
+                        "value": "391C7A93-4098-4657-A2F1-8512289DC927",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698692
+                    }
+                ]
+            },
+            "KTPCACOOKIE": {
+                "name": "KTPCACOOKIE",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473698058,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249698,
+                        "expiry": 7776000,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698058
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698157
+                    }
+                ]
+            },
+            "SyncRTB4": {
+                "name": "SyncRTB4",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473698697,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249698.692348,
+                        "expiry": 7776000.692348003,
+                        "value": "1726617600%3A231_5_220_21_71_13_54_250_3%7C1726012800%3A223",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698696
+                    }
+                ]
+            },
+            "chkChromeAb67Sec": {
+                "name": "chkChromeAb67Sec",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473698693,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249698.692274,
+                        "expiry": 7776000.692274094,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698693
+                    }
+                ]
+            },
+            "pi": {
+                "name": "pi",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473698694,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560098.692297,
+                        "expiry": 86400.69229698181,
+                        "value": "162247:2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473698694
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473697171,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249697.153369,
+                        "expiry": 7776000.15336895,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697171
+                    }
+                ]
+            }
+        }
+    },
+    "rubiconproject.com": {
+        "/": {
+            "audit": {
+                "name": "audit",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473697174,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009697.161463,
+                        "expiry": 31536000.161463022,
+                        "value": "1|vAET2ryzqEEWpBLHSNzKcktAdO6oL148m+3XSeM+WCPB2j59mSi12OgVvvCqp43cSBx2P3in8zMd6gvZt1vwaZqAChHeFB6AugloD7VkyKBMK1ISvoJLlFvIImYMSHnyooB5+k8zNShhZjX6STB9LLuQh6/Q3ffv7Kg/a7S9ecOBl0DvsnIdmwgStqQ4g5JcwXzv7t6d7sMJjVo6S3mtnh2b2cQjNgOcSVWEM2RSQTh976hqp9DK05EvO2+t+32qWivHb2ncu6GhCIeqEtAp08RShBqm/RGySpXvzMJ4L4ZKRdxgBN59EEriNYWjg0KUg0V+KxRdGUc3f4EUFuOdj0JLwbL3g3kr+XSpuxQ3NzlAymQXwmSc0YcpvgLjqBxqdLSFO9O70Y+G26J8ki0ztawO7cYqf0YBm57fazjQ+/sTRqzwzeLzie+IDcIklJlDU8jnndhytDEX1C4a8T0z4ZBiQM24MEshjDG7PT1M+5uQWuKM8kbkX7Dr7fRX4DUacsvWHO376NxMqfoR30PI+clTOcp/eBcSyGH8WONk/EAV4CX49b0ojRFTUU8o3L/ICFqkK8CHdx+w+imAdusOP+wOJ8ujxLEx+gBlztWXkG7xhRn4El4CeBsnhNtFh847EEncdwwVbeox0oQrU/zAEb9lZPE3tpk1Io8tEQuGXfGma+WVcS1g3g==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697173
+                    }
+                ]
+            },
+            "khaos": {
+                "name": "khaos",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473697173,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009697.161433,
+                        "expiry": 31536000.16143298,
+                        "value": "M0O6HLOF-1W-4XNL",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697173
+                    }
+                ]
+            }
+        }
+    },
+    "smartadserver.com": {
+        "/": {
+            "TestIfCookieP": {
+                "name": "TestIfCookieP",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473697447,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009698.44565,
+                        "expiry": 31536001.4456501,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697446
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.56361389,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697564
+                    }
+                ]
+            },
+            "pbw": {
+                "name": "pbw",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473697446,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009698.445568,
+                        "expiry": 31536001.445568085,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697446
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.56353402,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697564
+                    }
+                ]
+            },
+            "pid": {
+                "name": "pid",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473697447,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009698.445671,
+                        "expiry": 31536001.44567108,
+                        "value": "153197610017736428",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697447
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.56363392,
+                        "value": "6378879832306730680",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697564
+                    }
+                ]
+            },
+            "sasd2": {
+                "name": "sasd2",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473697448,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560098.445691,
+                        "expiry": 86401.4456911087,
+                        "value": "q=%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6&c=1&l&lo&lt=638610704975614701&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697448
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.56365704536,
+                        "value": "q=%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6&c=1&l&lo&lt=638610704975636276&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697564
+                    }
+                ]
+            },
+            "sasd": {
+                "name": "sasd",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473697449,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560098.445716,
+                        "expiry": 86401.44571590424,
+                        "value": "%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697449
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.56367897987,
+                        "value": "%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473697564
+                    }
+                ]
+            }
+        }
+    },
+    "sme.sk": {
+        "/": {
+            "FCCDCF": {
+                "name": "FCCDCF",
+                "domain": ".sme.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473695205,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759169695,
+                        "expiry": 33696000,
+                        "value": "%5Bnull%2Cnull%2Cnull%2C%5B%22CQEbF4AQEbF4AEsACBSKBFFoAP_gAEPgACRQIzJB7G_nbWFjwX7zaLtEMIlHx9BCSoQgAATJAmQBRKrWrJwTx0AQFAyyhqIKkQIAsmZBIQIECIDUTUCASAAEriCEAkCQgAEKJ6BkgFMBAiFIAF5DEwFDmAAI4Hpo9wJQ2A8M6cq0nYzyz4EFlnYx92SUWBCcA5-pDaudaROb-tAOd-R8Nwr8dF_DEW3YABBGZIPY38ra4s-Q8KbBdohhEq-PoASVCEAACZIEyAKJVS1ZGCe-gCAIkWQBRBAiAAFEyIJAABAAEIiYgQKQAAhcAUgAgCEAEhBDQMkAJgIAQIAAkIYGAocwABHA1NDoBKGSGpnBlWk6GWSTAkNs5ELnyYigIThXBgIfVhrQIiPVoFjuiJSsFJjpn4IiASAAIAA.d6AACFgAAAA%22%2C%222~70.89.93.108.122.147.149.196.236.259.310.311.313.323.358.415.449.453.486.494.495.540.574.609.827.864.981.1029.1031.1033.1048.1051.1067.1092.1095.1097.1126.1186.1205.1276.1301.1307.1365.1415.1423.1449.1514.1516.1558.1570.1577.1598.1616.1651.1712.1716.1735.1753.1765.1870.1878.1889.1917.1928.1958.1985.2010.2052.2072.2253.2299.2331.2357.2373.2406.2415.2427.2506.2526.2527.2568.2571.2575.2579.2584.2624.2669.2677.2822.2849.2860.2886.2898.2908.2929.2974.3055.3068.3236.3290.3292.3296~dv.%22%2C%2219541DC9-B33E-4CD0-B55E-E702D3CCEA34%22%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473695201
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".sme.sk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473695610,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741025695,
+                        "expiry": 15552000,
+                        "value": "ID=3dc4f20886bcbb71:T=1725473695:RT=1725473695:S=AA-AfjaISxdMLEVk-_lEj44C4to2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473695609
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "ID=dd8e2e5623de938a:T=1725473695:RT=1725473695:S=AA-AfjYm95a6DdczLcO5pxTu6XxZ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473695702
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "ID=03e98ecad8c613d5:T=1725473695:RT=1725473695:S=AA-Afjb01HXacdB23Qf7pnQx5fah",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473695875
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".sme.sk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473695607,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759169695,
+                        "expiry": 33696000,
+                        "value": "ID=06fa2f914a6298c0:T=1725473695:RT=1725473695:S=ALNI_MYoEttIKHc2IpDL2Bbkhm-bbgGTFw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473695606
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "ID=7e852d9f57117d78:T=1725473695:RT=1725473695:S=ALNI_Maa04SB_f9po2AsyaI8bv9H19s3iQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473695701
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "ID=baa7649d2a1219fb:T=1725473695:RT=1725473695:S=ALNI_MbS4Hit3u7qr4L0RFmCSKPriKFLYA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473695874
+                    }
+                ]
+            },
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".sme.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473696293,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759601696,
+                        "expiry": 34128000,
+                        "value": "NMVrFPRMUjhJqTsfCiBrNUG9W.Tf9JN3jTA6ba909Cv.c7|1725473696|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473696291
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".sme.sk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473695609,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759169695,
+                        "expiry": 33696000,
+                        "value": "UID=00000eebc178215d:T=1725473695:RT=1725473695:S=ALNI_Ma4z3-DrSVstexOd_soFrRaylmgyQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473695608
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "UID=00000eebc241cdf6:T=1725473695:RT=1725473695:S=ALNI_MbQb3JTaEGVJoaGI9cfD8gfaZPv4Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473695701
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "UID=00000eebc1d3e835:T=1725473695:RT=1725473695:S=ALNI_MbTk_sfNNyFI9CwBo9CDjMtc2ZgkQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473695874
+                    }
+                ]
+            },
+            "browser_id": {
+                "name": "browser_id",
+                "domain": ".sme.sk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473687434,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757009687,
+                        "expiry": 31536000,
+                        "value": "abadfecb-4424-43aa-8391-6295124289f5",
+                        "same_site": "lax",
+                        "timestamp": 1725473687433
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "abadfecb-4424-43aa-8391-6295124289f5",
+                        "same_site": "lax",
+                        "timestamp": 1725473687609
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "abadfecb-4424-43aa-8391-6295124289f5",
+                        "same_site": "lax",
+                        "timestamp": 1725473689303
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "abadfecb-4424-43aa-8391-6295124289f5",
+                        "same_site": "lax",
+                        "timestamp": 1725473689345
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "abadfecb-4424-43aa-8391-6295124289f5",
+                        "same_site": "lax",
+                        "timestamp": 1725473689348
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "abadfecb-4424-43aa-8391-6295124289f5",
+                        "same_site": "lax",
+                        "timestamp": 1725473689352
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "abadfecb-4424-43aa-8391-6295124289f5",
+                        "same_site": "lax",
+                        "timestamp": 1725473690726
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "abadfecb-4424-43aa-8391-6295124289f5",
+                        "same_site": "lax",
+                        "timestamp": 1725473697758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "abadfecb-4424-43aa-8391-6295124289f5",
+                        "same_site": "lax",
+                        "timestamp": 1725473698710
+                    }
+                ]
+            },
+            "campaigns": {
+                "name": "campaigns",
+                "domain": ".sme.sk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725473687508,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"ey1fL0\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"0SlGG8\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"EqHFDp\":{\"sn\":1,\"ct\":1,\"vi\":\"BrsZMu\",\"bi\":\"8sFIbg\",\"ut\":1725473689},\"IcPaLF\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"AYjGAV\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"8wcp1q\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"LvrFhR\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"MWH4sx\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"IR1jaA\":{\"sn\":0,\"ct\":1,\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689304
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"ey1fL0\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"0SlGG8\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"EqHFDp\":{\"sn\":1,\"ct\":1,\"vi\":\"BrsZMu\",\"bi\":\"8sFIbg\",\"ut\":1725473689},\"IcPaLF\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"AYjGAV\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"8wcp1q\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"LvrFhR\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ct\":1,\"vi\":\"f8pvYZ\",\"bi\":\"dEoMvd\",\"ut\":1725473689},\"IR1jaA\":{\"sn\":0,\"ct\":1,\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689342
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"ey1fL0\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"0SlGG8\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"EqHFDp\":{\"sn\":1,\"ct\":1,\"vi\":\"BrsZMu\",\"bi\":\"8sFIbg\",\"ut\":1725473689},\"IcPaLF\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"AYjGAV\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"8wcp1q\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"LvrFhR\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ct\":1,\"vi\":\"f8pvYZ\",\"bi\":\"dEoMvd\",\"ut\":1725473689},\"IR1jaA\":{\"sn\":0,\"ct\":1,\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689346
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"ey1fL0\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"0SlGG8\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"EqHFDp\":{\"sn\":1,\"ct\":1,\"vi\":\"BrsZMu\",\"bi\":\"8sFIbg\",\"ut\":1725473689},\"IcPaLF\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"AYjGAV\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"8wcp1q\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"LvrFhR\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ct\":1,\"vi\":\"f8pvYZ\",\"bi\":\"dEoMvd\",\"ut\":1725473689},\"IR1jaA\":{\"sn\":1,\"ct\":1,\"vi\":\"ExjLuM\",\"bi\":\"7yqAlU\",\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689346
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"ey1fL0\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"0SlGG8\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"EqHFDp\":{\"sn\":1,\"ct\":1,\"vi\":\"BrsZMu\",\"bi\":\"8sFIbg\",\"ut\":1725473689},\"IcPaLF\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"AYjGAV\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"8wcp1q\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"LvrFhR\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ct\":1,\"vi\":\"f8pvYZ\",\"bi\":\"dEoMvd\",\"ut\":1725473689},\"IR1jaA\":{\"sn\":1,\"ct\":1,\"vi\":\"ExjLuM\",\"bi\":\"7yqAlU\",\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689349
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"ey1fL0\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"0SlGG8\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":1,\"ct\":1,\"vi\":\"KYtfCD\",\"bi\":\"Z7PyRC\",\"ut\":1725473689},\"EqHFDp\":{\"sn\":1,\"ct\":1,\"vi\":\"BrsZMu\",\"bi\":\"8sFIbg\",\"ut\":1725473689},\"IcPaLF\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"AYjGAV\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"8wcp1q\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"LvrFhR\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ct\":1,\"vi\":\"f8pvYZ\",\"bi\":\"dEoMvd\",\"ut\":1725473689},\"IR1jaA\":{\"sn\":1,\"ct\":1,\"vi\":\"ExjLuM\",\"bi\":\"7yqAlU\",\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689350
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"ey1fL0\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"0SlGG8\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":1,\"ct\":1,\"vi\":\"KYtfCD\",\"bi\":\"Z7PyRC\",\"ut\":1725473689},\"EqHFDp\":{\"sn\":1,\"ct\":1,\"vi\":\"BrsZMu\",\"bi\":\"8sFIbg\",\"ut\":1725473689},\"IcPaLF\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"AYjGAV\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"8wcp1q\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"LvrFhR\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ct\":1,\"vi\":\"f8pvYZ\",\"bi\":\"dEoMvd\",\"ut\":1725473689},\"IR1jaA\":{\"sn\":1,\"ct\":1,\"vi\":\"ExjLuM\",\"bi\":\"7yqAlU\",\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689353
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"ey1fL0\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"0SlGG8\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":1,\"ct\":1,\"vi\":\"KYtfCD\",\"bi\":\"Z7PyRC\",\"ut\":1725473689},\"EqHFDp\":{\"sn\":1,\"ct\":1,\"vi\":\"BrsZMu\",\"bi\":\"8sFIbg\",\"ut\":1725473689},\"IcPaLF\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"AYjGAV\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"8wcp1q\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"LvrFhR\":{\"sn\":1,\"ct\":1,\"vi\":\"JNIb4A\",\"bi\":\"iCG7is\",\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ct\":1,\"vi\":\"f8pvYZ\",\"bi\":\"dEoMvd\",\"ut\":1725473689},\"IR1jaA\":{\"sn\":1,\"ct\":1,\"vi\":\"ExjLuM\",\"bi\":\"7yqAlU\",\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689353
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"ey1fL0\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"0SlGG8\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":1,\"ct\":1,\"vi\":\"KYtfCD\",\"bi\":\"Z7PyRC\",\"ut\":1725473689},\"EqHFDp\":{\"sn\":1,\"ct\":1,\"vi\":\"BrsZMu\",\"bi\":\"8sFIbg\",\"ut\":1725473689},\"IcPaLF\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"AYjGAV\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"8wcp1q\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"LvrFhR\":{\"sn\":1,\"ct\":1,\"vi\":\"JNIb4A\",\"bi\":\"iCG7is\",\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ct\":1,\"vi\":\"f8pvYZ\",\"bi\":\"dEoMvd\",\"ut\":1725473689},\"IR1jaA\":{\"sn\":1,\"ct\":1,\"vi\":\"ExjLuM\",\"bi\":\"7yqAlU\",\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689354
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"ey1fL0\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"0SlGG8\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":1,\"ct\":1,\"vi\":\"KYtfCD\",\"bi\":\"Z7PyRC\",\"ut\":1725473689},\"EqHFDp\":{\"sn\":1,\"ct\":1,\"vi\":\"BrsZMu\",\"bi\":\"8sFIbg\",\"ut\":1725473689},\"IcPaLF\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"AYjGAV\":{\"sn\":0,\"ct\":1,\"ut\":1725473689},\"8wcp1q\":{\"sn\":1,\"ct\":1,\"vi\":\"CZt94i\",\"bi\":\"h5YCCP\",\"ut\":1725473689},\"LvrFhR\":{\"sn\":1,\"ct\":1,\"vi\":\"JNIb4A\",\"bi\":\"iCG7is\",\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ct\":1,\"vi\":\"f8pvYZ\",\"bi\":\"dEoMvd\",\"ut\":1725473689},\"IR1jaA\":{\"sn\":1,\"ct\":1,\"vi\":\"ExjLuM\",\"bi\":\"7yqAlU\",\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689355
+                    }
+                ]
+            },
+            "campaigns_session": {
+                "name": "campaigns_session",
+                "domain": ".sme.sk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725473689305,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725474589,
+                        "expiry": 900,
+                        "value": "{\"EqHFDp\":{\"sn\":1,\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689304
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "{\"EqHFDp\":{\"sn\":1,\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689343
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "{\"EqHFDp\":{\"sn\":1,\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ut\":1725473689},\"IR1jaA\":{\"sn\":1,\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689347
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "{\"EqHFDp\":{\"sn\":1,\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ut\":1725473689},\"IR1jaA\":{\"sn\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":1,\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689350
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "{\"EqHFDp\":{\"sn\":1,\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ut\":1725473689},\"IR1jaA\":{\"sn\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":1,\"ut\":1725473689},\"LvrFhR\":{\"sn\":1,\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689353
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "{\"EqHFDp\":{\"sn\":1,\"ut\":1725473689},\"MWH4sx\":{\"sn\":1,\"ut\":1725473689},\"IR1jaA\":{\"sn\":1,\"ut\":1725473689},\"cHro61\":{\"sn\":1,\"ut\":1725473689},\"LvrFhR\":{\"sn\":1,\"ut\":1725473689},\"8wcp1q\":{\"sn\":1,\"ut\":1725473689}}",
+                        "same_site": "lax",
+                        "timestamp": 1725473689355
+                    }
+                ]
+            },
+            "pp_split_test": {
+                "name": "pp_split_test",
+                "domain": ".sme.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473684826,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733249684,
+                        "expiry": 7776000,
+                        "value": "6508",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473684820
+                    }
+                ]
+            },
+            "remp_session_id": {
+                "name": "remp_session_id",
+                "domain": ".sme.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473687435,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725474587,
+                        "expiry": 900,
+                        "value": "b6755dd9-b8e1-4eba-a95f-e3fd872d1f47",
+                        "same_site": "lax",
+                        "timestamp": 1725473687434
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "b6755dd9-b8e1-4eba-a95f-e3fd872d1f47",
+                        "same_site": "lax",
+                        "timestamp": 1725473689304
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "b6755dd9-b8e1-4eba-a95f-e3fd872d1f47",
+                        "same_site": "lax",
+                        "timestamp": 1725473689345
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "b6755dd9-b8e1-4eba-a95f-e3fd872d1f47",
+                        "same_site": "lax",
+                        "timestamp": 1725473689348
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "b6755dd9-b8e1-4eba-a95f-e3fd872d1f47",
+                        "same_site": "lax",
+                        "timestamp": 1725473689352
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "b6755dd9-b8e1-4eba-a95f-e3fd872d1f47",
+                        "same_site": "lax",
+                        "timestamp": 1725473690726
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "b6755dd9-b8e1-4eba-a95f-e3fd872d1f47",
+                        "same_site": "lax",
+                        "timestamp": 1725473697758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "b6755dd9-b8e1-4eba-a95f-e3fd872d1f47",
+                        "same_site": "lax",
+                        "timestamp": 1725473698711
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.sme.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473687333,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1725473687329
+                    }
+                ]
+            }
+        }
+    }
+}

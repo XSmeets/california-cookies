@@ -1,0 +1,1343 @@
+{
+    "cquotient.com": {
+        "/": {
+            "uuid": {
+                "name": "uuid",
+                "domain": ".cquotient.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481684532,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759609684.530874,
+                        "expiry": 34128000.530874014,
+                        "value": "ab0Z2iPTm5IaF8egLVIA8ijAts",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481684531
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481686134,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759177686.132789,
+                        "expiry": 33696000.1327889,
+                        "value": "74274960-7daf-40df-a398-424fc5dfc2d2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481686133
+                    }
+                ]
+            }
+        }
+    },
+    "force.com": {
+        "/": {
+            "BrowserId": {
+                "name": "BrowserId",
+                "domain": ".force.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481685321,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017685.320303,
+                        "expiry": 31536000.320302963,
+                        "value": "MJiIDGr8Ee-nrmG_wW5U_g",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481685320
+                    }
+                ]
+            }
+        }
+    },
+    "igodigital.com": {
+        "/": {
+            "igodigitalst_100023655": {
+                "name": "igodigitalst_100023655",
+                "domain": ".igodigital.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481683229,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725485283.225593,
+                        "expiry": 3600.2255930900574,
+                        "value": "2f577a6a-6afc-11ef-8c3a-b61e658c9135",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481683229
+                    }
+                ]
+            },
+            "igodigitalstdomain": {
+                "name": "igodigitalstdomain",
+                "domain": ".igodigital.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481683230,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725485283.225637,
+                        "expiry": 3600.225636959076,
+                        "value": "2000003167",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481683229
+                    }
+                ]
+            },
+            "igodigitaltc2": {
+                "name": "igodigitaltc2",
+                "domain": ".igodigital.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481683226,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041683.224289,
+                        "expiry": 34560000.22428894,
+                        "value": "2f576dea-6afc-11ef-bbab-16f14d0caa40",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481683225
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.22553301,
+                        "value": "2f577286-6afc-11ef-8c3a-b61e658c9135",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481683228
+                    }
+                ]
+            }
+        }
+    },
+    "pinterest.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481681536,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017681.534109,
+                        "expiry": 31536000.534109116,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481681534
+                    }
+                ]
+            }
+        }
+    },
+    "snapchat.com": {
+        "/": {
+            "sc_at": {
+                "name": "sc_at",
+                "domain": ".snapchat.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481686052,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759177686.049016,
+                        "expiry": 33696000.049016,
+                        "value": "v2|H4sIAAAAAAAAAAXBgQ0AIAgDsItIBBnOcwzoFRxvu5eH5nwC2BO3DNmMlLp+oJOsYrcug1OD6PEBr/C6kDIAAAA=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481686050
+                    }
+                ]
+            }
+        }
+    },
+    "toysrus.ca": {
+        "/": {
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481682709,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017682,
+                        "expiry": 31536000,
+                        "value": "2024-09-04T20:28:02.708Z",
+                        "same_site": "lax",
+                        "timestamp": 1725481682708
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481681050,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A28%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.toysrus.ca%2Fen%2Fhome",
+                        "same_site": "lax",
+                        "timestamp": 1725481681057
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A28%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.toysrus.ca%2Fen%2Fhome",
+                        "same_site": "lax",
+                        "timestamp": 1725481681220
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A28%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.toysrus.ca%2Fen%2Fhome",
+                        "same_site": "lax",
+                        "timestamp": 1725481681222
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A28%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.toysrus.ca%2Fen%2Fhome",
+                        "same_site": "lax",
+                        "timestamp": 1725481681223
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A28%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.toysrus.ca%2Fen%2Fhome",
+                        "same_site": "lax",
+                        "timestamp": 1725481681224
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A28%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.toysrus.ca%2Fen%2Fhome&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725481681240
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A28%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=https%3A%2F%2Fwww.toysrus.ca%2Fen%2Fhome&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725481681241
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A28%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725481682709
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A28%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725481682711
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+22%3A28%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725481682711
+                    }
+                ]
+            },
+            "_ScCbts": {
+                "name": "_ScCbts",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481686091,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726086486,
+                        "expiry": 604800,
+                        "value": "%5B%5D",
+                        "same_site": "lax",
+                        "timestamp": 1725481686090
+                    }
+                ]
+            },
+            "__cq_seg": {
+                "name": "__cq_seg",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481684536,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728073684.532852,
+                        "expiry": 2592000.5328519344,
+                        "value": "0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684535
+                    }
+                ]
+            },
+            "__cq_uuid": {
+                "name": "__cq_uuid",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481684535,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759609684.532765,
+                        "expiry": 34128000.53276491,
+                        "value": "ab0Z2iPTm5IaF8egLVIA8ijAts",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684533
+                    }
+                ]
+            },
+            "_ce.cch": {
+                "name": "_ce.cch",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481681601,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725481681601
+                    }
+                ]
+            },
+            "_ce.clock_data": {
+                "name": "_ce.clock_data",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481682416,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725568082,
+                        "expiry": 86400,
+                        "value": "163%2C185.152.67.230%2C1%2Cfe0673f2a48d047b912b27e2a0c02f9f%2CChrome%2CUS",
+                        "same_site": "strict",
+                        "timestamp": 1725481682416
+                    }
+                ]
+            },
+            "_ce.clock_event": {
+                "name": "_ce.clock_event",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481681790,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725568081,
+                        "expiry": 86400,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725481681789
+                    }
+                ]
+            },
+            "_ce.gtld": {
+                "name": "_ce.gtld",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481681600,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725481681598
+                    }
+                ]
+            },
+            "_ce.irv": {
+                "name": "_ce.irv",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481681784,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "new",
+                        "same_site": "strict",
+                        "timestamp": 1725481681783
+                    }
+                ]
+            },
+            "_ce.s": {
+                "name": "_ce.s",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481681782,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~66b4c6b4d164afa3fbcb753f34f068571ffb994c~lcw~1725481682956~lva~1725481681781~vpv~0~v11.fhb~1725481682419~v11.lhb~1725481682420~v11.cs~344337~v11.s~2ef9f250-6afc-11ef-93a0-2992a2328bda~v11.sla~1725481682970~gtrk.la~m0ob8rfh~lcw~1725481682970",
+                        "same_site": "strict",
+                        "timestamp": 1725481682970
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~66b4c6b4d164afa3fbcb753f34f068571ffb994c~lcw~1725481682970~lva~1725481681781~vpv~0~v11.fhb~1725481682419~v11.lhb~1725481682420~v11.cs~344337~v11.s~2ef9f250-6afc-11ef-93a0-2992a2328bda~v11.sla~1725481682984~gtrk.la~m0ob8rfh~lcw~1725481682984",
+                        "same_site": "strict",
+                        "timestamp": 1725481682984
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~66b4c6b4d164afa3fbcb753f34f068571ffb994c~lcw~1725481682984~lva~1725481681781~vpv~0~v11.fhb~1725481682419~v11.lhb~1725481682420~v11.cs~344337~v11.s~2ef9f250-6afc-11ef-93a0-2992a2328bda~v11.sla~1725481682996~gtrk.la~m0ob8rfh~lcw~1725481682996",
+                        "same_site": "strict",
+                        "timestamp": 1725481682997
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~66b4c6b4d164afa3fbcb753f34f068571ffb994c~lcw~1725481682996~lva~1725481681781~vpv~0~v11.fhb~1725481682419~v11.lhb~1725481682420~v11.cs~344337~v11.s~2ef9f250-6afc-11ef-93a0-2992a2328bda~v11.sla~1725481683010~gtrk.la~m0ob8rfh~lcw~1725481683010",
+                        "same_site": "strict",
+                        "timestamp": 1725481683010
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~66b4c6b4d164afa3fbcb753f34f068571ffb994c~lcw~1725481683010~lva~1725481681781~vpv~0~v11.fhb~1725481682419~v11.lhb~1725481682420~v11.cs~344337~v11.s~2ef9f250-6afc-11ef-93a0-2992a2328bda~v11.sla~1725481683023~gtrk.la~m0ob8rfh~lcw~1725481683024",
+                        "same_site": "strict",
+                        "timestamp": 1725481683024
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~66b4c6b4d164afa3fbcb753f34f068571ffb994c~lcw~1725481683024~lva~1725481681781~vpv~0~v11.fhb~1725481682419~v11.lhb~1725481682420~v11.cs~344337~v11.s~2ef9f250-6afc-11ef-93a0-2992a2328bda~v11.sla~1725481683036~gtrk.la~m0ob8rfh~lcw~1725481683036",
+                        "same_site": "strict",
+                        "timestamp": 1725481683037
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~66b4c6b4d164afa3fbcb753f34f068571ffb994c~lcw~1725481683036~lva~1725481681781~vpv~0~v11.fhb~1725481682419~v11.lhb~1725481682420~v11.cs~344337~v11.s~2ef9f250-6afc-11ef-93a0-2992a2328bda~v11.sla~1725481683049~gtrk.la~m0ob8rfh~lcw~1725481683049",
+                        "same_site": "strict",
+                        "timestamp": 1725481683050
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~66b4c6b4d164afa3fbcb753f34f068571ffb994c~lcw~1725481683049~lva~1725481681781~vpv~0~v11.fhb~1725481682419~v11.lhb~1725481682420~v11.cs~344337~v11.s~2ef9f250-6afc-11ef-93a0-2992a2328bda~v11.sla~1725481683063~gtrk.la~m0ob8rfh~lcw~1725481683063",
+                        "same_site": "strict",
+                        "timestamp": 1725481683063
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~66b4c6b4d164afa3fbcb753f34f068571ffb994c~lcw~1725481683063~lva~1725481681781~vpv~0~v11.fhb~1725481682419~v11.lhb~1725481682420~v11.cs~344337~v11.s~2ef9f250-6afc-11ef-93a0-2992a2328bda~v11.sla~1725481683063~gtrk.la~m0ob8rfh~v11.send~1725481686593~lcw~1725481686593",
+                        "same_site": "strict",
+                        "timestamp": 1725481686595
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~66b4c6b4d164afa3fbcb753f34f068571ffb994c~lcw~1725481686593~lva~1725481681781~vpv~0~v11.fhb~1725481682419~v11.lhb~1725481682420~v11.cs~344337~v11.s~2ef9f250-6afc-11ef-93a0-2992a2328bda~v11.sla~1725481686598~gtrk.la~m0ob8rfh~v11.send~1725481686593~lcw~1725481686598",
+                        "same_site": "strict",
+                        "timestamp": 1725481686599
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481685607,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733257685,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725481685606.585642338548627013",
+                        "same_site": "lax",
+                        "timestamp": 1725481685606
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481680839,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041680.836605,
+                        "expiry": 34560000.83660507,
+                        "value": "GA1.1.311383298.1725481681",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481680838
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.84714794,
+                        "value": "GA1.2.311383298.1725481681",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684847
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.99331188,
+                        "value": "GA1.2.311383298.1725481681",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684993
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.99604511,
+                        "value": "GA1.2.311383298.1725481681",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684996
+                    }
+                ]
+            },
+            "_ga_2ESCDTRY07": {
+                "name": "_ga_2ESCDTRY07",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481680837,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041680.836343,
+                        "expiry": 34560000.83634305,
+                        "value": "GS1.1.1725481680.1.0.1725481680.0.1.76646921",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481680837
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.563819885,
+                        "value": "GS1.1.1725481680.1.0.1725481684.0.1.76646921",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684564
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.56542611,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684565
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.56571007,
+                        "value": "GS1.1.1725481680.1.0.1725481684.0.1.76646921",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684566
+                    }
+                ]
+            },
+            "_gat_UA-121332145-1": {
+                "name": "_gat_UA-121332145-1",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481684988,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481744,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684988
+                    }
+                ]
+            },
+            "_gat_UA-121332145-8": {
+                "name": "_gat_UA-121332145-8",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481684995,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481744,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684994
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481684848,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725568084,
+                        "expiry": 86400,
+                        "value": "GA1.2.429014289.1725481685",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684847
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.429014289.1725481685",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684994
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.429014289.1725481685",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481684996
+                    }
+                ]
+            },
+            "_pin_unauth": {
+                "name": "_pin_unauth",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481681557,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017681,
+                        "expiry": 31536000,
+                        "value": "dWlkPVpXRmlNMlZoTUdNdE1HWTFNQzAwWWpVeExUbG1aVGt0TmpNeE1USTRaamM1WmpSaQ",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481681556
+                    }
+                ]
+            },
+            "_schn1": {
+                "name": "_schn1",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481685409,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481865,
+                        "expiry": 180,
+                        "value": "j453",
+                        "same_site": "lax",
+                        "timestamp": 1725481685409
+                    }
+                ]
+            },
+            "_scid": {
+                "name": "_scid",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481685412,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759668383,
+                        "expiry": 34186698,
+                        "value": "4adba8ec-4e7e-4c3e-8586-6efee80dc462",
+                        "same_site": "lax",
+                        "timestamp": 1725481685412
+                    }
+                ]
+            },
+            "_scid_r": {
+                "name": "_scid_r",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481685413,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759668383,
+                        "expiry": 34186698,
+                        "value": "4adba8ec-4e7e-4c3e-8586-6efee80dc462",
+                        "same_site": "lax",
+                        "timestamp": 1725481685413
+                    }
+                ]
+            },
+            "cebs": {
+                "name": "cebs",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481681785,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725481681784
+                    }
+                ]
+            },
+            "cebsp_": {
+                "name": "cebsp_",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481682418,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725481682417
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481686334,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759645686,
+                        "expiry": 34164000,
+                        "value": "9UAdQF9zZ0N6STFGcEd2WlFYQnRMMml4ZEt1bWNwTjh4U24zYVZmRVM1Ylk4VW1nOU50bm1xeVd1TmVZZUNWNDFlN2dwWGlMQjdzU1V5JTJCNG5ZZFpUdVAyeFJqd2tpaSUyQjZxaXJKaEVza253ZlhENkQwM1JoMjlJMDBreFBqaUh0Q1VHYW1TUXE4Wk9QRWc4R0h4SE9OTHJxenlBJTNEJTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481686331
+                    }
+                ]
+            },
+            "cto_tld_test": {
+                "name": "cto_tld_test",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481685456,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725485285,
+                        "expiry": 3600,
+                        "value": "woot",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481685456
+                    }
+                ]
+            },
+            "smtrrmkr": {
+                "name": "smtrrmkr",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481686199,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041686.196321,
+                        "expiry": 34560000.19632101,
+                        "value": "638610784860108143%5E0191beb9-13fa-4429-ad9f-958953633889%5E0191beb9-13fa-4b47-acb9-fba73b5d5628%5E0%5E185.152.67.230",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481686196
+                    }
+                ]
+            },
+            "smtrsession": {
+                "name": "smtrsession",
+                "domain": ".toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481685425,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725482885,
+                        "expiry": 1200,
+                        "value": "language%7CENGLISH",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481685425
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1199,
+                        "value": "language%7CENGLISH",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481686199
+                    }
+                ]
+            },
+            "dwsid": {
+                "name": "dwsid",
+                "domain": "toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481674561,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "DTcO697RrN0Uiuu9AXAh_nNspyLspiSNDlnLn9OYJ7lb9VrYXClwpJpbi8CG8C5HGTbbFi1GRhtzl7VYFbRl6A==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481674550
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "aEzkrRWGqBI3Rz4qgtkbIO_kdIJG-J_WcwE0KXJ9qwzHZefcZNH8SlwCbVohEInoI0OR_qzZnoLGzsEpiTy2SA==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481675189
+                    }
+                ]
+            },
+            "__cq_dnt": {
+                "name": "__cq_dnt",
+                "domain": "www.toysrus.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481675188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481675187
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481675532
+                    }
+                ]
+            },
+            "cqcid": {
+                "name": "cqcid",
+                "domain": "www.toysrus.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481675183,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ab0Z2iPTm5IaF8egLVIA8ijAts",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481675182
+                    }
+                ]
+            },
+            "cquid": {
+                "name": "cquid",
+                "domain": "www.toysrus.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481675184,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "||",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481675183
+                    }
+                ]
+            },
+            "criteo_write_test": {
+                "name": "criteo_write_test",
+                "domain": "www.toysrus.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481685457,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481695,
+                        "expiry": 10,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481685457
+                    }
+                ]
+            },
+            "dw_dnt": {
+                "name": "dw_dnt",
+                "domain": "www.toysrus.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481675188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481675188
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481675532
+                    }
+                ]
+            },
+            "dwac_fd264216e45efe15f159356bb8": {
+                "name": "dwac_fd264216e45efe15f159356bb8",
+                "domain": "www.toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481675181,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Djf67JiVms03rI4D-AQglomfasPL660Jc-o%3D|dw-only|||CAD|false|Canada%2FEastern|true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481675171
+                    }
+                ]
+            },
+            "dwanonymous_f4ef0b6176e92936ae35426d221aac92": {
+                "name": "dwanonymous_f4ef0b6176e92936ae35426d221aac92",
+                "domain": "www.toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481675186,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741033675.169916,
+                        "expiry": 15552000.169915915,
+                        "value": "ab0Z2iPTm5IaF8egLVIA8ijAts",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481675184
+                    }
+                ]
+            },
+            "sid": {
+                "name": "sid",
+                "domain": "www.toysrus.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481675187,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Djf67JiVms03rI4D-AQglomfasPL660Jc-o",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481675186
+                    }
+                ]
+            }
+        },
+        "/en": {
+            "weird_get_top_level_domain": {
+                "name": "weird_get_top_level_domain",
+                "domain": ".toysrus.ca",
+                "path": "/en",
+                "current_label": 1,
+                "label_ts": 1725481682749,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481682749
+                    }
+                ]
+            }
+        }
+    },
+    "imgs.signifyd.com": {
+        "/": {
+            "thx_guid": {
+                "name": "thx_guid",
+                "domain": "imgs.signifyd.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481680767,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041680.764997,
+                        "expiry": 34560000.764997005,
+                        "value": "6a9e6f3c4943f46dfb4350ce73a63fc1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481680765
+                    }
+                ]
+            },
+            "tmx_guid": {
+                "name": "tmx_guid",
+                "domain": "imgs.signifyd.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481680769,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041680.765084,
+                        "expiry": 34560000.76508403,
+                        "value": "AAxDbzOpr49mU_rwJ0VkG3xSib2-mPSgHrfS6rOKguxQ3n133kFbAw5kZYuFROZIjnPvjcNOq245cKhs02jEi3JdmOuc3A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481680767
+                    }
+                ]
+            }
+        }
+    },
+    "sc-static.net": {
+        "/scevent.min.js": {
+            "X-AB": {
+                "name": "X-AB",
+                "domain": "sc-static.net",
+                "path": "/scevent.min.js",
+                "current_label": 2,
+                "label_ts": 1725481685313,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725568085.311144,
+                        "expiry": 86400.31114411354,
+                        "value": "e59866ee5f5943139024f795ccfd5cb5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481685312
+                    }
+                ]
+            }
+        }
+    }
+}

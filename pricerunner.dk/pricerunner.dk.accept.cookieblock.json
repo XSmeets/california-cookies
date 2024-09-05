@@ -1,0 +1,609 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475441688,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035441.681014,
+                        "expiry": 34560000.68101406,
+                        "value": "AHWqTUmVAunGedGI0BhqyXFN0XxhqRNWjTRWeSBv99tb9zj8sho9kBo3D_lBmI80",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475441684
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475440638,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725476340.635251,
+                        "expiry": 900.635251045227,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475440636
+                    }
+                ]
+            }
+        }
+    },
+    "pricerunner.dk": {
+        "/": {
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".pricerunner.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475442418,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733251442,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725475442415.230175298717272370",
+                        "same_site": "lax",
+                        "timestamp": 1725475442417
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".pricerunner.dk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475439812,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760035439.810124,
+                        "expiry": 34560000.81012392,
+                        "value": "GA1.2.9946955949.1725475434",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475439812
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".pricerunner.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475439803,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733251439,
+                        "expiry": 7776000,
+                        "value": "1.1.1401618345.1725475440",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475439802
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775999,
+                        "value": "1.1.1401618345.1725475440",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475441033
+                    }
+                ]
+            },
+            "mptest": {
+                "name": "mptest",
+                "domain": ".pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475442526,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475442525
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475442527
+                    }
+                ]
+            },
+            "OTAdditionalConsentString": {
+                "name": "OTAdditionalConsentString",
+                "domain": ".www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475439789,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757011439,
+                        "expiry": 31536000,
+                        "value": "1~70.89.93.108.122.149.196.211.259.311.318.323.413.415.424.430.436.486.491.494.495.540.574.584.591.737.803.821.864.922.981.1027.1046.1051.1095.1097.1107.1149.1205.1215.1226.1230.1252.1276.1301.1364.1415.1423.1570.1584.1651.1659.1716.1765.1870.1878.1889.1964.2008.2072.2074.2253.2292.2337.2357.2526.2568.2575.2677.3100.3188.3194.3251.3272.4831.14332.16931.25731.25931.26031.26831.27731.27831.28031.28731.28831.29631.31631.32531.33631",
+                        "same_site": "lax",
+                        "timestamp": 1725475439786
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475439766,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757011439,
+                        "expiry": 31536000,
+                        "value": "2024-09-04T18:43:59.764Z",
+                        "same_site": "lax",
+                        "timestamp": 1725475439765
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475438182,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757011438,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A43%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0",
+                        "same_site": "lax",
+                        "timestamp": 1725475438182
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A43%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1725475438183
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A43%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725475438222
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A43%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8f12d2c9-2a0f-4e10-a380-3982cab3b748&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1725475438224
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A43%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8f12d2c9-2a0f-4e10-a380-3982cab3b748&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.pricerunner.dk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725475438226
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A43%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8f12d2c9-2a0f-4e10-a380-3982cab3b748&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.pricerunner.dk%2F&groups=C0002%3A0%2CC0001%3A1%2CC0004%3A0%2CC0003%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725475438427
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A43%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8f12d2c9-2a0f-4e10-a380-3982cab3b748&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A0%2CC0001%3A1%2CC0004%3A0%2CC0003%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725475439766
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A43%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8f12d2c9-2a0f-4e10-a380-3982cab3b748&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A1%2CC0001%3A1%2CC0004%3A1%2CC0003%3A1%2CV2STACK42%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725475439768
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A43%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8f12d2c9-2a0f-4e10-a380-3982cab3b748&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A1%2CC0001%3A1%2CC0004%3A1%2CC0003%3A1%2CV2STACK42%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725475439791
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475439786,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757011439,
+                        "expiry": 31536000,
+                        "value": "CQEa0TAQEa0TAAcABBENBFF8AP_gAEPgAAYgKMpB7C7BbWEL4HpzYOsAcAlDRMAICoQQAASBAGIBSAqQIAQCgkAQFAywBIACAAAAoCZBIQAECAAACUAAQAAAAAAAAAAAABAIJAAAgAAAAABIAAICAAAAAAAIgAIAEEAAmAgAQEIAGEBAhAAAAAQAQAAAAAAAAoEAAAAAAAIAAIAAACgEAQAACAAgAQAIAAAIAAABAAAAQAIgAAAAAABEABAAAAAOCjkEUABYADwAKgAXAA4ACQAFwAMgAeABEACOAEyAKQApgBVgC4ALoAYgA9AB8AD8AIQARAAowBgADDAGUANkAcgA5wB3gD2AH6AQgAiIBFgCOAE0ALmAXUAvoBigDPgHEAOkAdSBEwETgIvASqApEBaIC2QFyALzAX0Av8BgkDJgMnAZYA1UBtgDuQH1gQvAh6BG8CRQEowJpAUWgoyCjgAA.f_wACHwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725475439784
+                    }
+                ]
+            },
+            "__rtbh.lid": {
+                "name": "__rtbh.lid",
+                "domain": "www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475441147,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757018641,
+                        "expiry": 31543200,
+                        "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22jgyFbMQrt50labLuNCAA%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475441146
+                    }
+                ]
+            },
+            "abtest": {
+                "name": "abtest",
+                "domain": "www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475439813,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725518639.81033,
+                        "expiry": 43200.81032991409,
+                        "value": "collapsed_unavailable%7C0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475439812
+                    }
+                ]
+            },
+            "pr_access_web": {
+                "name": "pr_access_web",
+                "domain": "www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475408751,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725475468.739719,
+                        "expiry": 60.73971891403198,
+                        "value": "forbidden",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475408742
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.36369800567627,
+                        "value": "forbidden",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475414365
+                    }
+                ]
+            },
+            "pr_access_web_check": {
+                "name": "pr_access_web_check",
+                "domain": "www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475433805,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725497033.793678,
+                        "expiry": 21600.793678045273,
+                        "value": "7c8786d9d7905d7275979ae8cd6bc159f628b5bea1baacd7acaead8e1acfdb27",
+                        "same_site": "strict",
+                        "timestamp": 1725475433804
+                    }
+                ]
+            },
+            "pr_access_web_expires": {
+                "name": "pr_access_web_expires",
+                "domain": "www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475433804,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725497033.793604,
+                        "expiry": 21600.793603897095,
+                        "value": "1725497033",
+                        "same_site": "strict",
+                        "timestamp": 1725475433794
+                    }
+                ]
+            },
+            "pr_sid": {
+                "name": "pr_sid",
+                "domain": "www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475439810,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "a2b46721-6aed-11ef-8642-b347cdb3a52c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475439809
+                    }
+                ]
+            },
+            "pr_ti": {
+                "name": "pr_ti",
+                "domain": "www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475439813,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "organic%7C%7Ccollapsed_unavailable_0%7C%7C%7CReferral",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475439813
+                    }
+                ]
+            },
+            "pr_uid": {
+                "name": "pr_uid",
+                "domain": "www.pricerunner.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475439812,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757011439.809913,
+                        "expiry": 31536000.80991292,
+                        "value": "a2b46722-6aed-11ef-8642-b347cdb3a52c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475439811
+                    }
+                ]
+            }
+        }
+    },
+    "taboola.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475442476,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757011442.471712,
+                        "expiry": 31536000.471712112,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475442475
+                    }
+                ]
+            },
+            "t_gid": {
+                "name": "t_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475442474,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757011442.471606,
+                        "expiry": 31536000.471606016,
+                        "value": "6009e5b7-8a03-4c99-97c3-7b9c55248502-tuctdd22ff2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475442472
+                    }
+                ]
+            },
+            "t_pt_gid": {
+                "name": "t_pt_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475442475,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757011442.471664,
+                        "expiry": 31536000.471663952,
+                        "value": "6009e5b7-8a03-4c99-97c3-7b9c55248502-tuctdd22ff2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475442474
+                    }
+                ]
+            }
+        },
+        "/pricerunnernetwork/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/pricerunnernetwork/",
+                "current_label": 0,
+                "label_ts": 1725475442477,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_a528ea6b109f4dbb8802bf5ee186af69_6009e5b7-8a03-4c99-97c3-7b9c55248502-tuctdd22ff2_1725475442_1725475442_CIi3jgYQ34BJGKSV5_KbMiABKAEw4QE4kaQOQIuwDkiLo9kDUKMGWABgAGi7xcTSmar-r0ZwAQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475442476
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/recaptcha": {
+            "_GRECAPTCHA": {
+                "name": "_GRECAPTCHA",
+                "domain": "www.google.com",
+                "path": "/recaptcha",
+                "current_label": 0,
+                "label_ts": 1725475416910,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741027416.908977,
+                        "expiry": 15552000.908977032,
+                        "value": "09ACY6sGyVUXZGHFpPfVJyoPBCoyJ-AHKTY7g3SNez8SHCjOMfnHeq8cqNH67hLACN1hxHSaRXfLw4lC2AOdXfIu8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475416910
+                    }
+                ]
+            }
+        }
+    }
+}

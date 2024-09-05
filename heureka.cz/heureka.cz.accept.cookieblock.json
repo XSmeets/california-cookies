@@ -1,0 +1,1019 @@
+{
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473124593,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759169123.592391,
+                        "expiry": 33695999.592391014,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473124593
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473124593,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759169123.592355,
+                        "expiry": 33695999.59235501,
+                        "value": "8fffa080-f686-4338-9a0f-0421346872fc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473124592
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473122878,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760033122.877266,
+                        "expiry": 34560000.87726593,
+                        "value": "AHWqTUmCxEGmaCMvdSXi-o5mrXZ2Ap6vfQRrasR8JKQENPRXpYdvxyZbmTfhFQQeRjo",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122877
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.87933612,
+                        "value": "AHWqTUkwJIyXnIGXhDkie_NqD3HoPhcZSQhOU2jpgMn6z4o1N1WzSJ3YjlMaV7feJBs",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122884
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.88418102,
+                        "value": "AHWqTUnR5n_TK4eHOp94WtHWk_y-2dJx1s7j8rZdysN5ViStEr7xG2i0ge8yak-roCo",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122887
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.88859606,
+                        "value": "AHWqTUmngptMDMh3R8lSXdA_dlWRw6zMHP4c76OzFR237CuV65IG42adw9bAoqROp1Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122894
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473124703,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728065124.701895,
+                        "expiry": 2592000.7018949986,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473124702
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.715284109,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473124716
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473122879,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741025122.877373,
+                        "expiry": 15552000.87737298,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122878
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.879551888,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122884
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.884296894,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122887
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.88873005,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122894
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473122695,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474022.692779,
+                        "expiry": 900.6927790641785,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122693
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.6974558830261,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122707
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.7893249988556,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122789
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.8179709911346,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122827
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.8183460235596,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122831
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.8226709365845,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122834
+                    }
+                ]
+            }
+        }
+    },
+    "heureka.cz": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473109882,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474909.879694,
+                        "expiry": 1800.8796939849854,
+                        "value": "bIl4F8eNVTlQUCX._gN2u03jzgWsmm3DriHQvJINrrg-1725473110-1.0.1.1-DLRk.A14sj0_45C2.HTEJ8XSoew_IyW_ttnTnqtllG3O4wG4t.P7CgYBw.veGRCod3Imc89TCPPMkDT4fITzDw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473109881
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473122948,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741025122,
+                        "expiry": 15552000,
+                        "value": "ID=fedc7acea1e0a70e:T=1725473122:RT=1725473122:S=AA-AfjbvPU9ZHW5d6r2KKKTpslUl",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122947
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "ID=fedc7acea1e0a70e:T=1725473122:RT=1725473122:S=AA-AfjbvPU9ZHW5d6r2KKKTpslUl",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122950
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=fedc7acea1e0a70e:T=1725473122:RT=1725473122:S=AA-AfjbvPU9ZHW5d6r2KKKTpslUl",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473123085
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473122943,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759169122,
+                        "expiry": 33696000,
+                        "value": "ID=e2e15276d893f5be:T=1725473122:RT=1725473122:S=ALNI_MaodmaRjljb1I0k5fGCn_x0yS4hQg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122941
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "ID=e2e15276d893f5be:T=1725473122:RT=1725473122:S=ALNI_MaodmaRjljb1I0k5fGCn_x0yS4hQg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122946
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=e2e15276d893f5be:T=1725473122:RT=1725473122:S=ALNI_MaodmaRjljb1I0k5fGCn_x0yS4hQg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473123084
+                    }
+                ]
+            },
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473122450,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759601122,
+                        "expiry": 34128000,
+                        "value": "cofb3NjTLbo1DIDxPBZ6aqDAdd5fOLN2sm83BZVPM9j.Z7|1725473122|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122448
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473122946,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759169122,
+                        "expiry": 33696000,
+                        "value": "UID=00000eebc164b688:T=1725473122:RT=1725473122:S=ALNI_Mbk4Kaz-HKsem0ijMMgvWomZZxZ4Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473122946
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000eebc164b688:T=1725473122:RT=1725473122:S=ALNI_Mbk4Kaz-HKsem0ijMMgvWomZZxZ4Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473123085
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473122057,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033122.055837,
+                        "expiry": 34560000.055836916,
+                        "value": "GA1.1.788367377.1725473118",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122056
+                    }
+                ]
+            },
+            "_ga_K748LN4XFE": {
+                "name": "_ga_K748LN4XFE",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473122060,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033122.057239,
+                        "expiry": 34560000.057239056,
+                        "value": "GS1.1.1725473117.1.0.1725473117.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122060
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.07313299,
+                        "value": "GS1.1.1725473117.1.0.1725473122.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122073
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.087877035,
+                        "value": "GS1.1.1725473117.1.1.1725473122.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122088
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.90625191,
+                        "value": "GS1.1.1725473117.1.1.1725473124.58.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473124906
+                    }
+                ]
+            },
+            "_ga_ML533Y71RC": {
+                "name": "_ga_ML533Y71RC",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473122063,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033122.062244,
+                        "expiry": 34560000.06224394,
+                        "value": "GS1.1.1725473118.1.0.1725473118.0.0.1349884633",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122063
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.077267885,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122077
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.0779109,
+                        "value": "GS1.1.1725473118.1.0.1725473122.0.0.1349884633",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122078
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.12901497,
+                        "value": "GS1.1.1725473118.1.1.1725473122.0.0.1349884633",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122129
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.90909004,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473124909
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.90932202,
+                        "value": "GS1.1.1725473118.1.1.1725473124.0.0.1349884633",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473124909
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473122045,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733249122,
+                        "expiry": 7776000,
+                        "value": "1.1.1429638802.1725473122",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122044
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.1429638802.1725473122",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122045
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.1429638802.1725473122",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122052
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.1429638802.1725473122",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122061
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.1429638802.1725473122",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122064
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473124789,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759169124,
+                        "expiry": 33696000,
+                        "value": "oJr9919QendPJTJGOVJqSG94WWdpQnpiQkE0YWRhN0NxUCUyRkNNVGlvaGlUJTJGTlpZU2tERVRZcDJuNnYwVWh2QzVMdVJnOUxsTTlDeDRSNjUzY2NWTDM0SHpuakJLZGZmQ3VBTHo5M3N6WElZdVI2alhnaFByNWhkZnFuWVN5a3JSRGtJTiUyRnZBVklUQSUyQnFCWkxlTHNWcnFjMDRySG04czVtSHNYSkpzZWJNJTJGQkFXZ2VGZTJQU0dhYjgwUm1MYUJpTlRQRW84dkZxTVd4QU1Xd2VQNGxDVWZWMFgxckNnJTNEJTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473124787
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473123887,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725476723,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473123886
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473123884,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725476723,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473123883
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473115666,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757095515,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmUzNjQtZTBlMS02OWJiLWJhYjEtZWM4MDI5NGY5ZmUxIiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTg6MDU6MTUuNjYyWiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE4OjA1OjE1LjY2MloiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725473115663
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmUzNjQtZTBlMS02OWJiLWJhYjEtZWM4MDI5NGY5ZmUxIiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTg6MDU6MTUuNjYyWiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE4OjA1OjIxLjk4MloiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwic2FsZXNmb3JjZSIsImM6c2VudHJ5IiwiYzpiaW5nLWFkcyIsImM6eWFob28tYWQtZXhjaGFuZ2UiLCJjOnlhaG9vLWFuYWx5dGljcyIsImM6eW91dHViZSIsImM6aG90amFyIiwiYzp5YWhvby1hZC1tYW5hZ2VyLXBsdXMiLCJjOnNhcyIsImM6Z29vZ2xlYW5hLTRUWG5KaWdSIiwiYzpoZXVyZWthIiwiYzpzdGFydHF1ZXN0LUM0NlZLWXFIIiwiYzp5b3R0bHktdzk5aUdkRzMiLCJjOmx1bmRlZ2FhcmQtZmNlM3RVa0YiLCJjOm9uZXNpZ25hbC02RDJVcHJpZiIsImM6Y21lbWVkaWEtZ2ZwUEd0WDgiLCJjOnR2bm92YXMtdGM2TDJNaksiLCJjOmFkZWxwaGljYi05UEtXVVAyNCIsImM6cHJlYmlkb3JnLUhpamlyWWRiIiwiYzptZWlyby1wUm5DYnlRNyIsImM6ZGlkb21pIiwiYzpzbWFydHNlbGwtQUpwNmJXbk0iXX0sInB1cnBvc2VzIjp7ImVuYWJsZWQiOlsiZ2VvbG9jYXRpb25fZGF0YSIsImRldmljZV9jaGFyYWN0ZXJpc3RpY3MiLCJjb252ZXJzaW9uLU55eWFxd3lWIl19LCJ2ZW5kb3JzX2xpIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzpoZXVyZWthIiwiYzpzdGFydHF1ZXN0LUM0NlZLWXFIIiwiYzp5b3R0bHktdzk5aUdkRzMiLCJjOmx1bmRlZ2FhcmQtZmNlM3RVa0YiLCJjOm9uZXNpZ25hbC02RDJVcHJpZiJdfSwicHVycG9zZXNfbGkiOnsiZW5hYmxlZCI6WyJnZW9fbWFya2V0aW5nX3N0dWRpZXMiXX0sInZlcnNpb24iOjIsImFjIjoiQkVtQUVBRmtDSklBLkJFbUFFQUZrQ0pJQSJ9",
+                        "same_site": "lax",
+                        "timestamp": 1725473121991
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473121994,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757095521,
+                        "expiry": 31622400,
+                        "value": "CQEbF4AQEbF4AAHABBENBFFsAP_gAEPgAATIJsQKQAFAAMAAgABUADAAIAAWgAyABpAEQARQAjgBJACYAFAAKgAWwAvgBlgEGAQgAjgBPgDDAGkAOQAeIBCACOAFIARqAjoBSECywLMAW4AuEBcwC8wGMgQFAgQBGYCbAJ1wEgAKgAgABkADQAIgARwAmACEAEcAMMAcgBCACOAKQAW4AvMCbAE6wAAA.f_wACHwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725473121992
+                    }
+                ]
+            },
+            "heureka_css": {
+                "name": "heureka_css",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473111373,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726682711.357033,
+                        "expiry": 1209600.3570330143,
+                        "value": "df6212%2C7408e6%2C570f73%2C30b93e%2C826212",
+                        "same_site": "lax",
+                        "timestamp": 1725473111369
+                    }
+                ]
+            },
+            "heureka_gtm_dv_adb": {
+                "name": "heureka_gtm_dv_adb",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473122087,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728065122,
+                        "expiry": 2592000,
+                        "value": "no",
+                        "same_site": "strict",
+                        "timestamp": 1725473122086
+                    }
+                ]
+            },
+            "heureka_gtm_dv_browser": {
+                "name": "heureka_gtm_dv_browser",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473122087,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728065122,
+                        "expiry": 2592000,
+                        "value": "Chrome128",
+                        "same_site": "strict",
+                        "timestamp": 1725473122087
+                    }
+                ]
+            },
+            "heureka_gtm_ga_info": {
+                "name": "heureka_gtm_ga_info",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473122133,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757009122,
+                        "expiry": 31536000,
+                        "value": "1725473117|1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473122132
+                    }
+                ]
+            },
+            "heureka_user_split_id": {
+                "name": "heureka_user_split_id",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473111368,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726682711.356931,
+                        "expiry": 1209600.3569309711,
+                        "value": "6070",
+                        "same_site": "lax",
+                        "timestamp": 1725473111357
+                    }
+                ]
+            },
+            "hgSCI_GNOT2KYU2PQRJHAE": {
+                "name": "hgSCI_GNOT2KYU2PQRJHAE",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473111375,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757009111.357071,
+                        "expiry": 31536000.357070923,
+                        "value": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjNja3k4Z1AxVVRVSWRZUDdlcURydC1MR09LajNvWnpvVE1hQW1YU0c1Z2MiLCJ0eXAiOiJKV1QifQ.eyJpYXQiOiAxNzI1NDczMTExLCAiYXpwIjogImhldXJla2EuY3oiLCAic2NvcGUiOiBbImNvb2tpZSJdLCAidHJhY2tfaWQiOiAiZmE2M2IxYmI1ZTA3NDg3ZWFiZWRhMmJkYzc5MzQ4YWMifQ.Pc7tljfbvkg83oxM5wTKCcga_d7uVyMl1hbAVBXZmk1kJqWcfgypVS1XjOPA4IV5cLjvxTE_JMr3rNETQpyMjg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473111373
+                    }
+                ]
+            },
+            "ocm_consent": {
+                "name": "ocm_consent",
+                "domain": ".heureka.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473115879,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1756577115.873242,
+                        "expiry": 31104000.8732419,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473115878
+                    }
+                ]
+            },
+            "__rtbh.lid": {
+                "name": "__rtbh.lid",
+                "domain": "www.heureka.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473124574,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016324,
+                        "expiry": 31543200,
+                        "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%221BTcGKlSDWDw4v0ljXiA%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473124574
+                    }
+                ]
+            },
+            "__rtbh.uid": {
+                "name": "__rtbh.uid",
+                "domain": "www.heureka.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473124573,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016324,
+                        "expiry": 31543200,
+                        "value": "%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22undefined%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473124572
+                    }
+                ]
+            },
+            "lux_uid": {
+                "name": "lux_uid",
+                "domain": "www.heureka.cz",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473112816,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725474912.815086,
+                        "expiry": 1800.815085887909,
+                        "value": "172547311281494584",
+                        "same_site": "lax",
+                        "timestamp": 1725473112815
+                    }
+                ]
+            }
+        }
+    },
+    "heureka.group": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".heureka.group",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473112224,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474912.223312,
+                        "expiry": 1800.2233119010925,
+                        "value": "zLUQJKIFja9MbDkkAqRmqK9FasXrJK70cxSFpkYTfbQ-1725473112-1.0.1.1-7IzSqgIcTWEUvUpH8NJgYryR_22gDCC5__fugTWrR60Kzhtqo3wBWG7N6XPHZXj3SXd1Sj5Wg7W5fECqwy9tQg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473112224
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.3694849014282,
+                        "value": "gBuFoPiywzi2k941KsZO5uTQU.hogfmxuRCbrzpTayg-1725473112-1.0.1.1-OPx3UDFOyiO7T7cahA8QxfQkQw0HnRkU5lN8xXfCGPk0H57sdf1d0ROCJ9DsYNgtQ4XfRGef46JZJJuW8tssHA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473112370
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.3703050613403,
+                        "value": "JlusdxVmbMwFurLDgH1maxzKAyB.7NJF4druM1wDaoA-1725473112-1.0.1.1-55muOyh7r60wJ5fNhn9EA909ZuatYu4J9A06R_HkBHzN_8i.avnKaKg4jPvnE9AQbCBmfBMBhvHdPJXS6TzGaw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473112371
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.3850500583649,
+                        "value": "yXE5Dad9tY37iJj31GxDGCASIGO4t0oDORB_.bGA2vE-1725473112-1.0.1.1-jVGQplxDKsxk.ArIpZA52qgZDRpvFMbT4gV._ih38DksrVhNvXFFs0DZ_.ovVZsBADqSJ1Vp.vO.4nBiOJsJdQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473112386
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.6362490653992,
+                        "value": "31YxJNJLulUVDXbWyiqAaal6sGordY_wTrtQcoIRR8Y-1725473112-1.0.1.1-NujrM1QMpi.WwsjFiyjUZgxKySIh_m2TJHWysMFx2hfJTC3N_obWf1IJinvdZ2ct2.3nxv8R.fkyvY8uKe_Mzw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473112636
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.678570985794,
+                        "value": "BSEHuFoKBgzgyhH5Q0qDgloNVmT5r0phTTQ.VmE9prg-1725473112-1.0.1.1-7xV9d8B6zo3rSzG5.Gj9Jz1auTdUK4OmDotLke0mVZITxfHSvXertI7RsRmDbMVS0Jezm4goIZ7k9qIuSbv4sA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473112679
+                    }
+                ]
+            }
+        }
+    }
+}

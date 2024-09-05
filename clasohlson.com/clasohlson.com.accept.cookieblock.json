@@ -1,0 +1,342 @@
+{
+    "clasohlson.com": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".clasohlson.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475951612,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760035951.609295,
+                        "expiry": 34560000.60929489,
+                        "value": "GA1.1.866301560.1725475952",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475951611
+                    }
+                ]
+            },
+            "_ga_5BXK34H7H2": {
+                "name": "_ga_5BXK34H7H2",
+                "domain": ".clasohlson.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725475951610,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760035951.608993,
+                        "expiry": 34560000.60899305,
+                        "value": "GS1.1.1725475951.1.0.1725475951.0.0.2045652812",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475951610
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".clasohlson.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725475950940,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733251950,
+                        "expiry": 7776000,
+                        "value": "1.1.11730490.1725475951",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475950939
+                    }
+                ]
+            },
+            "ad-opt-out": {
+                "name": "ad-opt-out",
+                "domain": "www.clasohlson.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475937344,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035937.342694,
+                        "expiry": 34560000.342694044,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475937343
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.352705,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475937353
+                    }
+                ]
+            },
+            "anonymous-consents": {
+                "name": "anonymous-consents",
+                "domain": "www.clasohlson.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725475934046,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757011934.025967,
+                        "expiry": 31536000.025966883,
+                        "value": "%5B%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475934045
+                    }
+                ]
+            },
+            "apptus.customerKey": {
+                "name": "apptus.customerKey",
+                "domain": "www.clasohlson.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475934043,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035934.025846,
+                        "expiry": 34560000.025846004,
+                        "value": "3d62d1f5-7ebf-4dfe-a37a-2f5fb90f54d5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475934039
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.68709111,
+                        "value": "3d62d1f5-7ebf-4dfe-a37a-2f5fb90f54d5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475937687
+                    }
+                ]
+            },
+            "apptus.sessionKey": {
+                "name": "apptus.sessionKey",
+                "domain": "www.clasohlson.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475934044,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "fd0bd6d1-3d0a-4dbb-baef-4e4d8379a366",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475934043
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "fd0bd6d1-3d0a-4dbb-baef-4e4d8379a366",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475937687
+                    }
+                ]
+            },
+            "cookie-notification": {
+                "name": "cookie-notification",
+                "domain": "www.clasohlson.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725475934046,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035934.025992,
+                        "expiry": 34560000.02599192,
+                        "value": "NOT_ACCEPTED",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475934046
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.90254903,
+                        "value": "ACCEPTED",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475950903
+                    }
+                ]
+            },
+            "gtm-opt-out": {
+                "name": "gtm-opt-out",
+                "domain": "www.clasohlson.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475937344,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035937.342888,
+                        "expiry": 34560000.34288812,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475937344
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.35274911,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475937353
+                    }
+                ]
+            }
+        },
+        "/se": {
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "www.clasohlson.com",
+                "path": "/se",
+                "current_label": 0,
+                "label_ts": 1725475934038,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "29BE61201B63D4EB4CA6EE3EDF4B1273.prodccom9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475934027
+                    }
+                ]
+            },
+            "SessionSiteView": {
+                "name": "SessionSiteView",
+                "domain": "www.clasohlson.com",
+                "path": "/se",
+                "current_label": 0,
+                "label_ts": 1725475934045,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B2C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475934044
+                    }
+                ]
+            },
+            "pdpCacheCookie": {
+                "name": "pdpCacheCookie",
+                "domain": "www.clasohlson.com",
+                "path": "/se",
+                "current_label": 0,
+                "label_ts": 1725475934045,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725562334.025939,
+                        "expiry": 86400.02593898773,
+                        "value": "B2C-A-true-sv",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475934045
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.68747496605,
+                        "value": "B2C-A-true-sv",
+                        "same_site": "unspecified",
+                        "timestamp": 1725475937687
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725475952527,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725476852.520136,
+                        "expiry": 900.5201361179352,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725475952522
+                    }
+                ]
+            }
+        }
+    }
+}

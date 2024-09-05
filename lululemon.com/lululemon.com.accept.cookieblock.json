@@ -1,0 +1,2475 @@
+{
+    "bat.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".bat.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532566252,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726137366.248246,
+                        "expiry": 604800.2482459545,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532566251
+                    }
+                ]
+            }
+        }
+    },
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532566250,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759228566.248092,
+                        "expiry": 33696000.248091936,
+                        "value": "223700DF6AED642F0FBB142E6B0365FF",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532566249
+                    }
+                ]
+            }
+        }
+    },
+    "celtraidentity.com": {
+        "/6c8f8b42": {
+            "cuid": {
+                "name": "cuid",
+                "domain": ".celtraidentity.com",
+                "path": "/6c8f8b42",
+                "current_label": 3,
+                "label_ts": 1725532569986,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733308569.983466,
+                        "expiry": 7776000.98346591,
+                        "value": "188e5b2c-1ec0-423e-8cbd-5f280127be8f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532569984
+                    }
+                ]
+            }
+        }
+    },
+    "ct.pinterest.com": {
+        "/": {
+            "_pinterest_ct_ua": {
+                "name": "_pinterest_ct_ua",
+                "domain": ".ct.pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532554387,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757068554.385532,
+                        "expiry": 31536000.385531902,
+                        "value": "\"TWc9PSZKeW9TaW9vMm5Ham5kUExtUnlyV0tsZzVwY1M0UFBkc3RWNGR2Tnd2aThzR1dJWEsvdWtDYzlqYkJtZm5BRXoyU3ZYa2lGTDh5MGV0b1JXQVloV21yUDFEMmQ1Z1VCNThTTnk0RUJCNDRIVT0mRUZ5bVRmMkRLUzJqY01mS3FCQlErN0RwRXVnPQ==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532554387
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532555183,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741084555.180724,
+                        "expiry": 15552000.180723906,
+                        "value": "43432887432879335031554755688745023718",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532555181
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.233432055,
+                        "value": "43432887432879335031554755688745023718",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532556235
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.484487057,
+                        "value": "43432887432879335031554755688745023718",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532557486
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.147727966,
+                        "value": "43432887432879335031554755688745023718",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532558150
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.526397943,
+                        "value": "43432887432879335031554755688745023718",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532564528
+                    }
+                ]
+            },
+            "dextp": {
+                "name": "dextp",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532556208,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741084556,
+                        "expiry": 15552000,
+                        "value": "771-1-1725532556207",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532556207
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "771-1-1725532556207|992-1-1725532556309",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532556309
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532556851,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725533456.847849,
+                        "expiry": 900.8478488922119,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532556849
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532556234,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741084556.233405,
+                        "expiry": 15552000.233405113,
+                        "value": "43432887432879335031554755688745023718",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532556233
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.484314919,
+                        "value": "43432887432879335031554755688745023718",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532557485
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.147582054,
+                        "value": "43432887432879335031554755688745023718",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532558149
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532556052,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757068556.051112,
+                        "expiry": 31536000.051111937,
+                        "value": "g_surferid~ZtmJjAAAAEqmWQOF",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532556051
+                    }
+                ]
+            }
+        }
+    },
+    "lululemon.com": {
+        "/": {
+            "AMCVS_A92B3BC75245B1030A490D4D%40AdobeOrg": {
+                "name": "AMCVS_A92B3BC75245B1030A490D4D%40AdobeOrg",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532555195,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555193
+                    }
+                ]
+            },
+            "AMCV_A92B3BC75245B1030A490D4D%40AdobeOrg": {
+                "name": "AMCV_A92B3BC75245B1030A490D4D%40AdobeOrg",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725532554353,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760092554.35046,
+                        "expiry": 34560000.35046005,
+                        "value": "179643557%7CMCIDTS%7C19972%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532554352
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.18440008,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C39935018342623193782215252960153756619%7CMCAAMLH-1726137355%7C9%7CMCAAMB-1726137355%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555185
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.19468403,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C39935018342623193782215252960153756619%7CMCAAMLH-1726137355%7C9%7CMCAAMB-1726137355%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725539755s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555195
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.1959219,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C39935018342623193782215252960153756619%7CMCAAMLH-1726137355%7C9%7CMCAAMB-1726137355%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725539755s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.56016588,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C39935018342623193782215252960153756619%7CMCAAMLH-1726137355%7C9%7CMCAAMB-1726137355%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725539755s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555561
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.234097004,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C39935018342623193782215252960153756619%7CMCAAMLH-1726137355%7C9%7CMCAAMB-1726137355%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725539755s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19979%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532556235
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.528733015,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C39935018342623193782215252960153756619%7CMCAAMLH-1726137364%7C9%7CMCAAMB-1725532563%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725539755s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19979%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532564529
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.52947998,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C39935018342623193782215252960153756619%7CMCAAMLH-1726137364%7C9%7CMCAAMB-1726137364%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725539755s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19979%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532564530
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.535218,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C39935018342623193782215252960153756619%7CMCAAMLH-1726137364%7C9%7CMCAAMB-1726137364%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725539764s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19979%7CMCCIDH%7C-1296007868%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532564535
+                    }
+                ]
+            },
+            "Country": {
+                "name": "Country",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532550489,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728124550.479661,
+                        "expiry": 2592000.479660988,
+                        "value": "US",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532550488
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532556278,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757068556,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=2024-09-05T10%3A35%3A56.274Z&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=847b6388-30dc-4fc5-afc8-3d9ceddfe374&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1725532556278
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=2024-09-05T10%3A35%3A56.276Z&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=847b6388-30dc-4fc5-afc8-3d9ceddfe374&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fshop.lululemon.com%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725532556280
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=2024-09-05T10%3A35%3A56.464Z&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=847b6388-30dc-4fc5-afc8-3d9ceddfe374&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fshop.lululemon.com%2F&groups=TAB01%3A1%2CC0004%3A1%2CC0001%3A1%2CC0003%3A1%2CC0002%3A1%2CTAB02%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725532556465
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=2024-09-05T10%3A35%3A56.464Z&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=847b6388-30dc-4fc5-afc8-3d9ceddfe374&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fshop.lululemon.com%2F&groups=TAB01%3A1%2CC0004%3A1%2CC0001%3A1%2CC0003%3A1%2CC0002%3A1%2CTAB02%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725532556465
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=2024-09-05T10%3A36%3A11.035Z&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=847b6388-30dc-4fc5-afc8-3d9ceddfe374&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fshop.lululemon.com%2F&groups=TAB01%3A1%2CC0004%3A1%2CC0001%3A1%2CC0003%3A1%2CC0002%3A1%2CTAB02%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725532571035
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=2024-09-05T10%3A36%3A11.035Z&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=847b6388-30dc-4fc5-afc8-3d9ceddfe374&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fshop.lululemon.com%2F&groups=TAB01%3A1%2CC0004%3A1%2CC0001%3A1%2CC0003%3A1%2CC0002%3A1%2CTAB02%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725532571036
+                    }
+                ]
+            },
+            "QuantumMetricSessionID": {
+                "name": "QuantumMetricSessionID",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532559648,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725534359,
+                        "expiry": 1800,
+                        "value": "25f0303abeacb6ffcc920639c9e2e7f0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532559647
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "25f0303abeacb6ffcc920639c9e2e7f0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532568959
+                    }
+                ]
+            },
+            "QuantumMetricUserID": {
+                "name": "QuantumMetricUserID",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532559649,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757068559,
+                        "expiry": 31536000,
+                        "value": "8a2e9bb2af9f2e030bea894b4a172b89",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532559648
+                    }
+                ]
+            },
+            "TEST_AMCV_COOKIE_WRITE": {
+                "name": "TEST_AMCV_COOKIE_WRITE",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725532554351,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532554351
+                    }
+                ]
+            },
+            "UsrLocale": {
+                "name": "UsrLocale",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725532550488,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728124550.479085,
+                        "expiry": 2592000.4790849686,
+                        "value": "en_US",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532550485
+                    }
+                ]
+            },
+            "_ScCbts": {
+                "name": "_ScCbts",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532560379,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726137360,
+                        "expiry": 604800,
+                        "value": "%5B%5D",
+                        "same_site": "lax",
+                        "timestamp": 1725532560378
+                    }
+                ]
+            },
+            "__tld__": {
+                "name": "__tld__",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725532553614,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553614
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553615
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553617
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553618
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532554063
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532554063
+                    }
+                ]
+            },
+            "_abck": {
+                "name": "_abck",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532549844,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757068549.826706,
+                        "expiry": 31536000.826705933,
+                        "value": "51BF6206530E37E0BD97F0FCFF31CDDB~-1~YAAQl2zTF0tl5L+RAQAAxDLBwQyvnfVEGVbQQVhoQh11I2eh0MCTS6PkEMyXaIJaRH0ylzqfOu18NaGrdcKDYqeNoQXVpTdYrtj8xwpOyD/9Fs4ZSBK0mRWOntWpUc6F5BGV3cwCsR1MRQF+JnHLQv8habVk8+rg/mR0bvmI8w838Tel62B7fEEAG0Az/jTgyC9YCw7jqPlQGjQx78a9vbtSZUzuPFlpg5sW8bzlYG1qlM4Z/tjjhQF22Zc5GeQgVr4hoGfOG3XzwIZrubnlRj3o+IFeU7OGisdYRl8k1/cbGpJPTVdabjumjf6d2yOVfr24GcBAVoZPmMlG5JNsuMEgoCn7ceUTGbGmSTyojHdy5K3AgrashiqSSBXfK8QYWi0n5fiUa2YFr1vSQhUsGsVESiT+KnlY/b2caDLYsNc=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532549830
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.446053028,
+                        "value": "51BF6206530E37E0BD97F0FCFF31CDDB~-1~YAAQDAwtF+YrAsGRAQAAZTjBwQx3rdDMYiBQIvVbmKvO/rTGJCB0nWqAP7kiFxjSUC6mdvIOzQnrWcdVFSgLDYBPGvEvpQhqF8AfHtMXdF3XlROxJgQRK7M8EWC8jgtuYhmE8xubhTtuKbqWQyhXyj7f7UdtcCJhnrb1X0R+I/CBMHlNv5p5Nw1zGW+6hyeJifQjQptFQrZmYo+MozJFouvhksFmK1lomRpZvKtMgpHUlwDKM1O4ZyWapWSObhT3LDutwRDPB2MpIo+5vC3Ky1TiIka+vUWWiVcEK28KOCXMCEWsYg4q7b4ZQ6uaWU60AVwPvXee88vI4WfXzF52Cpcx81ehG0Q1f8x2VEjhhBa16IQAVkgRcBGIe+ebJE1XczzRmY6L/XIwo0j3VBY5SYY3ooEXL1akrkvKmGes+dFo73iq7Rixuy6kTpLDxQ==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532551446
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.86038494,
+                        "value": "51BF6206530E37E0BD97F0FCFF31CDDB~0~YAAQDAwtF+grAsGRAQAAszrBwQxwI+9/BGCTEt7e5hdKo/wHM5NSWk3U9XFZcuFYnLSmHcDZLUHovQqetE7rX+TqqF3+OVAaPduVyM6r7xLUMO9exswIaBHMZG0k5x4Xb2BqxXhjw2JOb0GAbGsuMA8P4AaBICMMN554/YfnABTkgWyzwJpJc6I7mNYJbbBAM/U09EH3v+/0ivkU4Py05AWiyyAJ+JPWTknwV9qpCVGHgpVceYlUQoYbiC4cpBhMpKDo0TDppppAQ0ozsQloeUDM6kXPUg3blq8HW+W+45dZdZrk2jNXszgym1TS0NdRcEQWt8jkL/n3d2bEoWsK8WVMm36gsFS+/0SVUxTV27OL4cpqVAuiQtnuldy6REe0Ifc/kvfqhpZYXboLc+wK4gSjeWbI0Lgrrrkb+R0+YqZCZ2qKO3lTQACXVqD1J2tu2OuH7QXrDDA40lLv~-1~||0||~1725536151",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532551860
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725532568793,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760092568.791922,
+                        "expiry": 34560000.79192209,
+                        "value": "GA1.1.138612277.1725532569",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532568793
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.32014704,
+                        "value": "GA1.2.138612277.1725532569",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532569320
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.01616812,
+                        "value": "GA1.1.138612277.1725532569",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532571018
+                    }
+                ]
+            },
+            "_ga_4ZRJ21056F": {
+                "name": "_ga_4ZRJ21056F",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532571017,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760092571.014905,
+                        "expiry": 34560000.014904976,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532571015
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.01542997,
+                        "value": "GS1.1.1725532571.1.0.1725532571.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532571017
+                    }
+                ]
+            },
+            "_ga_CCD7VVYPZ7": {
+                "name": "_ga_CCD7VVYPZ7",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725532568792,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760092568.791628,
+                        "expiry": 34560000.791627884,
+                        "value": "GS1.1.1725532568.1.0.1725532568.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532568792
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.7962749,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532568796
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.79648805,
+                        "value": "GS1.1.1725532568.1.1.1725532568.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532568796
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.80325389,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532568803
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.80347395,
+                        "value": "GS1.1.1725532568.1.1.1725532568.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532568803
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.033277035,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532571033
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.03366995,
+                        "value": "GS1.1.1725532568.1.1.1725532571.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532571034
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725532569321,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725618969,
+                        "expiry": 86400,
+                        "value": "GA1.2.1599561385.1725532569",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532569320
+                    }
+                ]
+            },
+            "_schn1": {
+                "name": "_schn1",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725532559689,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725532739,
+                        "expiry": 180,
+                        "value": "2ve2",
+                        "same_site": "lax",
+                        "timestamp": 1725532559688
+                    }
+                ]
+            },
+            "_scid": {
+                "name": "_scid",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532559690,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759719257,
+                        "expiry": 34186698,
+                        "value": "9289542f-6647-4e44-9281-a437bb4d9125",
+                        "same_site": "lax",
+                        "timestamp": 1725532559689
+                    }
+                ]
+            },
+            "_scid_r": {
+                "name": "_scid_r",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532559690,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759719257,
+                        "expiry": 34186698,
+                        "value": "9289542f-6647-4e44-9281-a437bb4d9125",
+                        "same_site": "lax",
+                        "timestamp": 1725532559690
+                    }
+                ]
+            },
+            "_sctr": {
+                "name": "_sctr",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532562750,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759719260,
+                        "expiry": 34186698,
+                        "value": "1%7C1725487200000",
+                        "same_site": "lax",
+                        "timestamp": 1725532562748
+                    }
+                ]
+            },
+            "_uetsid": {
+                "name": "_uetsid",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532558906,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725618958,
+                        "expiry": 86400,
+                        "value": "null|1lt4wbf|2|fox|0|1709",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532558905
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "a7fdac506b7211efac69fbd8e7c4d637|1lt4wbf|2|fox|0|1709",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532566065
+                    }
+                ]
+            },
+            "_uetvid": {
+                "name": "_uetvid",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532559278,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759228559,
+                        "expiry": 33696000,
+                        "value": "null|1gkkbfo|1725532559275|1|1|bat.bing.com/p/insights/c/s",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532559277
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "a7fdefd06b7211efad066d6a8b4f6026|1gkkbfo|1725532559275|1|1|bat.bing.com/p/insights/c/s",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532566066
+                    }
+                ]
+            },
+            "ajs_anonymous_id": {
+                "name": "ajs_anonymous_id",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725532553621,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757068553,
+                        "expiry": 31536000,
+                        "value": "e09816d9-1640-4d72-8388-540a092a1821",
+                        "same_site": "lax",
+                        "timestamp": 1725532553621
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "e09816d9-1640-4d72-8388-540a092a1821",
+                        "same_site": "lax",
+                        "timestamp": 1725532554062
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532550688,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.9940938949585,
+                        "value": "E8D218054E7710073280BDA633FF83B8~000000000000000000000000000000~YAAQDAwtF/IrAsGRAQAAIT/BwRlKWsvEGaJJglJ26Xw40IHpF3UsF0XfAMyILCAacauemYiTwKckDa8psuHa7ZEx/jINdvKxTNlTbV4whkYJjI3iIlCdbHawhZfnX5RbXcEF3pRmmLC+Cq76Ow6FPZwEUhv9Q90DLF2cRhAMp/H3WejxiSbhOtVCs1l6xBj0B3aZedTy7nJRIUIy606gefkvhxssBWR4MiMlMaT4hquukx5euikitdNz4WfYyfLLO7ED4kd1p6FBVd+pKXwWAAAW1p3yt5TOw6KpFvWuYL8x9Lmwh1hbzmwL9YimwkoIwiqNHkJlh87SiIFMVSINZ6x/3u94f0F34DilZ3IKTUMY3pmf66sj2yw17gCKPm3ppjNvQRWODuT1TA4s3Xvlf8Cn7xQcVVdRQwuCBV08b9EGt8pYggr0I7o=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532552995
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.169392108917,
+                        "value": "E8D218054E7710073280BDA633FF83B8~000000000000000000000000000000~YAAQDAwtF/YrAsGRAQAA0D/BwRmqvmHweZGGois8wPKrfD9TaD8LF9ZTw2YWLvsU3yOf9ym5YKgcElN/U75VL09LBvxxN7CmNBrkEBWNQqlPylc7qn/apvyPp/UiEqRKoKlxv5MzA0EBl0cnGyJu/9PSAH7V5h0bnNLx1GChQCHJjrFW2BOna17g3+8Sc+l3TJveEn0dr74aDj7GT7eOv+4TxSwSGoKhJEDVy58k7zNPfzeHEcCbnEHkzMLRjEJdYCA6Ktxcbph4S41PJCdc7OtO8vBTGlLsKwdTGlJaoUYvO/DtwHev1O/0UVEoUhhg4aqLqtq2AI6Y1Km176VbJHcIPdgkngNGuHHu2G5s96VuSXlia+m2dO3xf/Ty8XB8FEsFXiBD4hE+gP5Z3GLXFfZsPRKeOfl/ekPA7Tgmc/b4Q+zi1fRfRGaxYb8X3XbPTQhKEQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553172
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.189097881317,
+                        "value": "E8D218054E7710073280BDA633FF83B8~000000000000000000000000000000~YAAQDAwtF/crAsGRAQAA4z/BwRkCMPpgtrAWpJfbKzn7toi1hIP/h7pTKDo8S+p/SrNX4U15M0jjNbZ2i9sw+a83gcCXQDsuJJy/i3DEpC+y7Rl1pCGV16FeTY/cgK0cuVCjwnce9Uj6MTFk7JPJGtEJk3dfUSpZ4ey1K8KxAaxvUKtMph3Aeh5a0AXVfQHQ4bqUVWEMa9K6tjFoI2HXpUAhqWJ0cNsoXMjTQ1LIoSWAjVall+3pemzhBnrZQZ6YhbjGt0yLStyG6ZmIv5Nv1DE2sk55fUfF0alEtbAorrW7pNWCmTYIDsAwc7OyA9kGcalca/NrloHNt4aA7HY2TzpdTKYv/s9vDHVhBmYOg2pkD1Enl4doHi8WNkQXM9VS/2su6OJXuB+FL3KhlGUgG/gJRGsn7YZ0sverArtvd5MaYg2dJyxVOwegOs+oWKjKqMQCpQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553189
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.222287893295,
+                        "value": "E8D218054E7710073280BDA633FF83B8~000000000000000000000000000000~YAAQDAwtF/grAsGRAQAABUDBwRm9s28iF79a35ak3utqt6KNxunwdPU75JPFeQ9/nYuIppvMP3P0LibAPHu7BgDv8iBGmNr656/Lb9pbfMSLs8XuDzSWzKfx9amUGtV7ElEBLLS3wse2ij+CpN58P/Avec2WwJaxOFkC+M4/fc5TQq52u8bf7M59hVNKSZJQfamUOvNQdUc1UMK5aFO5CdFdF1GPNJERFmiv93SxRthQWtxMrrlxyeNCALibwlst5A6046OOgiuhvc4Szwccy4pq6sckKqWZvTGA0OlR14Lu6oPxcG0DyTT/1FJMvw9+U9OiomClmNLiW5luybfE3hlkwNA/iqdH55xUqJASHcCHqrohcIHFTgmizF3AhaD+/ieEa82DkmR+TKr+CSEHVgBVguBSWt3RidrkMW13xjxCbAStMAp85vndP2/W1Rk0uWcdZQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553222
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.2389578819275,
+                        "value": "E8D218054E7710073280BDA633FF83B8~000000000000000000000000000000~YAAQDAwtF/orAsGRAQAAFkDBwRkAyPpCR6pBGoW2Ka0xTHT32Sl/Dy0gWkN7+LcqBdHINgxHNaTuktD52fl1BEPTC2Wllwy9AS14Nl6ZexdX2qJK8VLxse6Uw4ZQsxe49mY21MzvQBtnliVgOJUABmFjxOjG18NQ9Wj1AmBNu4cUkUhWmqGrRn8dRoLcyU0YkKno0Lm/iJOxfND/pXtxp+VIv/m4BcrTrmhOoJaLjCZkqDUDNp3KlPYutBLc2LPfSiJP76biVmHhXnWdAc2UL7t+54ab4IPlCS/UHZISVRq8cNyVAjWMuFkBOiuv8VHd43Hc2+rocbL1LoJFoU2O+2+lUdOU0BNMfGB6+XssOezZYCIVwarwAexL1xsGpJAhZz0os+iXnT02LPJbfhOG1DlMMqPWhaewdaZk5tNMv3RccOvSvWhF6nAwc/cj49VQWgEbDw==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553239
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.239684104919,
+                        "value": "E8D218054E7710073280BDA633FF83B8~000000000000000000000000000000~YAAQDAwtF/srAsGRAQAAFkDBwRn31+B+3pX06NHSR2I5feTSMkclYvGu81lgQU7ACb9hpVT0Pd4s2qE3leZCM3v2WIUJeRLNf0/XJ1g4dT5Rd5fuRvgIdiqjmPhLV0yBoJ8v982vLqieQZNmtGQhXxyfVeN4KnfZ242/hbABnEuulHR+pE7ejOMPK1L7LqUB/bYZeOu6ZWfYanTVznoWepbMXGhJ2qdkK8Et/T2mxcuAUSc+ulZ+mWjxWw1AJiwKHLX4OM1BZSeezuSU4IRdDIj338R0XvxFinlLNSYjycFQzS/Pi6PtCB/gHeht9P2dboYGqPMBZTiRMkEK8lyRj+ugS3ynbjbTGf90CKvYnZO3E73YgBOLeWcQAoIvhwaQBXCTZt5CqOiM+vhuzJsEq6qenokkXaQyyYuW66PtymSfQwxqq0yqi0HBhhVZvy7CIlTRKA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553239
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.240406990051,
+                        "value": "E8D218054E7710073280BDA633FF83B8~000000000000000000000000000000~YAAQDAwtF/wrAsGRAQAAFkDBwRmZ66M5DW4KJhkFrBO+NkOMExSk+HHDXtaTqnPRPfWDS/FgNgoDGhV0f1Wre9rg/9l47FBBKbROcsUa87jOeKjUiYwCx3YY0JNJSZzDofemeNhhi6PdRNt3YUv5MSwv51+qzJu5jiXgqc+Dc2eGl+bZSBx3x+si2n4XNLCiqHz2Ct8G6de4K0HgyHcOvcmYCfAErBoSsBWxTGp/MSIMGxlbSaL0tCE7D1x+yHyfg0IIBnsq0M66WzQZ9xlbR5kTgHVgKfrFdSZLhZuueAQ9y03nNRqOVXMKHUci+d6R7xaTpVpsYLPw09C9IbLlphuRfjZZSVxRw87VxAgonn06iI0NX6bY/+A+Y1VW1jhSH32gldmL8/5JemrNCx/qL3GOPScZqtMxPnJHh1zRfhjFPu+EcPzOpSneKpsm0ao9ffv/HA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553240
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.3910439014435,
+                        "value": "E8D218054E7710073280BDA633FF83B8~000000000000000000000000000000~YAAQDAwtF/8rAsGRAQAAp0DBwRnK5sCYRqO03ojCEUKMjF3do0NM5W6q39hGQ8vhMoU7UYMK6eg6IhLhD+pSHkiEtwhrAW2wybSoeibTDD8hygo1loKGS8Boof5HY9Tk7HZFLeJhYfmPxKYUz7A1J/CSNOdiURawqP09w4ErMxdW/laWJljkHT1y0bswsPkkh++2vRiwSL4NJiuss0+bGYKkg8e/Lldo7Xdf2Nes2D8blup0KGITtHAKkFhIhcXtXRaF30q9TMyjpSXKIsed+m/Tch1UxPwD2YUU9rxhMACvO9Z9JuX5L6Xav+7LAFci1hpCtPjunMNVvyjVpT34yhvRGQIoPr8ZSpr5TbdjFAbx+Bk2sRzOQokIm1knn1YYFoA/dSE+w7auOYjb0VSR3Bco160+cNyYyQ50Tgu59871kItiGIiid3hfL1zBjgvDbvtsgzG6X7Ux",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553391
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.44042301178,
+                        "value": "E8D218054E7710073280BDA633FF83B8~000000000000000000000000000000~YAAQDAwtFwEsAsGRAQAAxUDBwRmiOwmrWqasODVmCF3taGNSblrzB6fRP4QbkxMXlMQd4K8Ohw31AfaS0kWzt1ZvPr0ieA5Jo7e4xfLEmAz7CEb/nnshM9XqP6mH9RXCW4OKAAcNaEpglJu5H0ZPcrVNlK96NNdaH5TK7NCHwfWdlUCvni+35VX7c6D8KIr8SMNIsmqws+EU3ze+em4oCyP9WHbrf5+6roLjxRCWV8w6qRFkXSN+U6DTqj3XLA6LZeTfjY0zmETtvu8b0eOKIWup137dOCywmZ1rMjNt538ofB2mkKIrvpkCAimG25AajnWdVrVLDHSdZHMQtmRZfzCqc2tBww1Bu06MT868D0eBnsZw0mk11H+5dadfFt+RviDlEZ7U0p2Lpa/HT/LJnsPI1SCFsfSQWIkoqsqostSOcLwEG4cGJrNhC+ZhlDSJ1tMQhb/9plVt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553440
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.907721996307,
+                        "value": "E8D218054E7710073280BDA633FF83B8~000000000000000000000000000000~YAAQDAwtFwUsAsGRAQAAs0LBwRloH6RSavhtte0uy3T1VYMCSTn/SHG4ZxRlfVL54/cF5WYJwUSKpYMtZxOZ6elHGqUxJ1KNpyVFVOK+uqVm17oxDWe2npuaYLoniIK6SRCI3NvIrl/51FZgo4eBNNL2UY+l6Y5jYwE/R7Iv46XUvf2e19VrXbGxL/xEcHYtcBG019MRpkfOUpoCtEPJ3SqpZR9yge2twbntA7e6XFMkkkPr9QJZ+wDYIlzC9FwYIay+mVZFB/3KVrpLkSVAOFWPxQHoyRuTlD9Y4oSgpgFO414RuaV9QR9pR9JyBnJsYZMsSvplhYP+eCVv9wzkjMaXYV8FGmMT8W/uDCWLOK/NSxXcfMiJQp4uRw655hNYpi98+eEvb1KQDIXJuadb+A+Km70n6O9fE44oG1tBdZ6Bpu0QVWzn42j23RGx3CU8ZxRgsZsi8RbFbsottN2Xzg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553908
+                    }
+                ]
+            },
+            "apigeeToken": {
+                "name": "apigeeToken",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532564358,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728124564.3536,
+                        "expiry": 2592000.353600025,
+                        "value": "eyJqa3UiOiJodHRwczpcL1wvcHJvZC5hcGlzLmxsbGV4dC5jb21cL2FwaW1cL3YxXC9qd3R2ZXJpZmljYXRpb25cL2p3a3MiLCJraWQiOiJyc2FfXzNkbmdqZWJ1YjBudm9ib2Z0MCIsInR5cCI6IkpXVCIsImFsZyI6IlJTMjU2In0.eyJpc3MiOiJodHRwczpcL1wvcHJvZC5hcGlzLmxsbGV4dC5jb21cL2p3dFwvdjEiLCJJRCI6InhWR1NVZXVndm9nUHRnaUprYmo4aUY3U2FjYW5WSUE5IiwiVVVJRCI6IjdiZDM2NGUyLWQyNTktNDI0NC1hMzI4LTQ1MWQ3NTZkZmEwMSIsImV4cCI6MTcyNTUzOTc2MywiaWF0IjoxNzI1NTMyNTYzLCJqdGkiOiJkMTQ0NDMxMC01ZDk5LTRkMDAtODg0MS1mYjA2MTViMWY3YjAifQ.V1lPqEVaJG3070VPuRDzSnpMbIPXIIn1LSRqzFo88kTkvEf5jpEok6Q7jo1i6sMl5575LteMHuLqrmD2MYwwg6gwTEqOKOwV_2vv9RmxvLr6E7eYx4u-em_n3Ewdgk-6-2ic7tTW86kklixFOT-USZjK8krdWn0-aV-oOx_KG_Ed7-O1SBOIzteLVyqO6N6WlIpGEqU9ZrbbAwVMnRPsBm-cOmDt5aNjdxcqMp-Uh52dSfgqotRv2Glp9NjyC8_Ahgrbc5qzGwAeG0UIngYsYLCmw8818SZmyk3n3bfQMBjg9p0U7C_q69opWo3zBYCWSqevDvgM0Mf7emUGzFqCJQ",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532564354
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532553392,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725539753.391083,
+                        "expiry": 7200.39108300209,
+                        "value": "5FC54373044AF4640B6EB2CE8201AEC3~YAAQDAwtFwAsAsGRAQAAp0DBwRl8SSAJvk9EEGGClrRbsAsq5EngYGSW/Q+th7siFghbRcTi31B3dvWDTv7L8tMKR+0fuM1LLJd/jLmgqhjUcx170Ezkr+VfcGWZZpx/TyOF16QbspzQDZspjz1BYFfYLIdw8RSeBQxZZO9LJWLoVpxKYT7IWODPhY0yh04saJ2scju+l2GRQ9zlMgh6tUV0hu72/ZXbbDRGyxfkS5bSfjQzBx9Np07weXl8vS/EfQdl~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553391
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.440476894379,
+                        "value": "6A49C94913B9B943E90EE5273281E78C~YAAQDAwtFwIsAsGRAQAAxUDBwRnu/pN7OL60jaEhKL2tK2A89x1rTx0ZioEMgUK3IckyKynKwh8KcLGHt4JYDIbhstHvoVE8QxjLEiZkzom0BLdCDCKHUrsaqkiPe9U0UIclDw45XiDw5+od3fEGGW/UMkhk5Am7Uyd8y1xF5yTRhC4j7pv6vF9xXuvJPXbJol43H+ONCVNlXhn0lDqwu/biiXZi/T3lmXEM79PvwEqMrmiKtt/mw+PT7aMWRSvdv9J2~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553441
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.0147750377655,
+                        "value": "6A49C94913B9B943E90EE5273281E78C~YAAQDAwtFwYsAsGRAQAAHkPBwRnhxRbqXCBl8h+doMP94uUsnsxFQKACUHi0Hfh2SRBsIRzHFGvb0jkx/gHqcijWRFUzg93oWOqbpkwn5SPHoLL0geBX5xmhHKSV527Cg52XoqDy5gXYEIclvjixBwl+xNtfYYZnKdqev/ZAoyAtLK2pLg8mQmY5DFI4aFH+FMjnsgefg4Shg7v4UIcYBpzJ99Ucg1is7AKdpYr4H9oLoFJtF63+JNIhYWLgift5kt3y~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532554015
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7198.597738981247,
+                        "value": "6A49C94913B9B943E90EE5273281E78C~YAAQDAwtFw4sAsGRAQAAS0nBwRlx/IpUuEmlBm4snP1t4lI8PruUvpnh4N8gdNCdNJOITm96DGzz2QxOfoHZkiEkjkt+IeC2IL17+cVAeLDHNhMpPiAFs4kjqC59hk9MG4J19XsjgwEhfwfwvWvaWTlR7IcNUiY/Q9mzgElv8elpygxMASDstM0YaCdUUDoZbiV02mt4hRXoMBdYwETPhSGs2Cagxb/t1LA51VzmHfDOgOK1hq0Hgb/1xqZZRS/s36ND~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555599
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7198.633647918701,
+                        "value": "6A49C94913B9B943E90EE5273281E78C~YAAQDAwtFxAsAsGRAQAAb0nBwRkUNwFaFDzXQxA69M4/Aa/Sl3ADyEWd9YcNc2Er1QHJw8ZlwC+d1cCo/YbTwAY0A1YcM6G4C4CA5yDaSJUXH/7vhSqP4tmOW5M0w8qny/ZBV+RnQfUXILXMviPDaL7od0EFAYHzU1TAiTV2QVSmQOBa4PmqS0kUeZ8hvTjaW2iBOPXM3UyMgoASj2xe7RBbsog1JGrnf0FK9JiQ69G0PqW61Cy7lXcmlvLe5w6Ejlk1~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555634
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7189.353674888611,
+                        "value": "6A49C94913B9B943E90EE5273281E78C~YAAQDAwtF50sAsGRAQAAfmvBwRkUNG3jOFhLeNWtaaMp3a7ALFWviraCCftPNdOf/dt8cYi1K8LCF75hqhYs4Y0NOed+K0ttDZUtun3SAhWIJ/dsAM5eHOsPmSRNSt7MfKK71a+LgmAvsipXOmDDgz0W2Dw7YdFzihHdMpfUGcKrg2XWIz2e0w3+CCWrkmJY3D8ppHBYgUs7/UTs2+KpeJb31aXePy9Cm5JZVJoQ/sf3iQFjBoY1PCZutddi4zrLblh8~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532564359
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7185.879271030426,
+                        "value": "6A49C94913B9B943E90EE5273281E78C~YAAQDAwtF8ksAsGRAQAALn3BwRnLVu30WXnQJ9DI0YdLNmEF+lZHgouvTExdWeUHCKQ/ftHCSdO1EanSduTr8tYsvn5KXFHhndolef4gNM4AoPK8f1khUGdC3BL++xegSj3VmmpdH80Jpy3Id+rH+gKSaHMX7JmWd2uep1UoKkD1sMT9m3CuP9klT8sv7zwINQKVrdDpfR3y0tNwj0ZF9l5wz3iFO0Pj7bQptvnWuEeNTKEoDL55moBOC2U+jQeRK4PL~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532568879
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532549857,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725546949.827074,
+                        "expiry": 14400.827074050903,
+                        "value": "954518FFC5DC7B4E751A83103F084647~YAAQl2zTF0xl5L+RAQAAxDLBwRkMfimTxkW2QoMsNBWSQYT0qow8EhLxBA2J8DsShez9yBlk0Oq68NCWSxEhgjVXNOFoZmBFQXXZHEme3g2tiFnosfDoBeqBDLcx6wpkSdRisgX0SSFqkVxDtjudhQK/FnMevR0Yz+On8QjrCTzF54FCC6Mh0qpcBFvU1tUdXUA1tbulNjt+QsnteTEjDJcmnG7HNGbZVc7WxcN2dqS/6H1Pje6w0p2LVPbwdBABzdNolkg8fzGfgDgOegys3QRTKsO670HSMDWRxRSGdBzirud4K1nJhXSrdn/qB4Dj4xr4qx6kZgm1HbIZRgmqbQQZKRO2dmGp+AqznSaSEALiaaSgYVfmMsYRMOe/64JSmpOA76u89V0=~3360069~4408114",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532549845
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14399.480084896088,
+                        "value": "954518FFC5DC7B4E751A83103F084647~YAAQDAwtF9krAsGRAQAASzXBwRndK1VOJif1ISZuDwrucP6RNn8FrZyWTtrmIeEHaulVw1ynZA7jIbpS5K6abXgXkLxQL0Us2gf1iekghy7DD/JnVlikb+pnXl4LVfLtFx0PVl1n35We9sTC7mTj4FF4uigHJwy5hD4sFvRii7Dt2v0pAOyjSRD9JN/1P0f+SfS0P2of4qIaUBv2XlbGgiE3jtQIc8h3Z4QTegaxygo9v8ogGPKgI6bZkaNbFGpJVK50di3X5bnUp8fj+rH/3QS+YYBPhLf6x/55YlFLgBmmwNxrmXScLS+LCFAf0gHLj4AC91fvzMfCzI5IdbkvrFBJpJMSpMHprRlx7C96qnK/IK4yM+tm5/I6LyIGz6HUyFaDa7H0fah64lCntA==~3360069~4408114",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532550493
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14399.683167934418,
+                        "value": "954518FFC5DC7B4E751A83103F084647~YAAQDAwtF90rAsGRAQAAGTbBwRldeW7l/87ZnGMGeNZoVyGqe/b3FonE0uCbyuevmWeMaOjWbPn834IRVgSi1wUMkvm4QB9UyARBerjU99WP0PqEiQJB5OgcV3h0PolTbRqgZQLytDl9F1oIOTOeoLPN04tpt4Yrk/nJcOXb2D+LHwsI0Jr3tKkQtiEdkuCY6+HsM2M6xUSTyRDLaeNCBavLa1KUZZbE08hLMDgSCVyrrPRWIQIDU+vZ/AG4EGm82Ul70nJkKrq6VDRJv7FKmHz5VT2Zi7UZPW5dzZQ8c9plnR4pjMpAV0wYHZzztgQFYTtpyjQWuqE+T2et+vRNTpmKCg3oAigkaCrQSvdUmFMsZAD+80cIpLkU0SZyFcmbjGhpAElV1xvlipI3YLy8ZE8W~3360069~4408114",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532550696
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14398.860450983047,
+                        "value": "954518FFC5DC7B4E751A83103F084647~YAAQDAwtF+krAsGRAQAAszrBwRmMXK4Dpx+S9Qkkj4pOV4WzAn4I+6tfbsi4wToxz5eskbJZy3vEoeifeE9muX/TaKDmJOztQM1U3chkUFW5mbhQEZwpAcbu8Rvln0sIbadQtQKIr+cgV5ia9pSOH1c7niyRz0IOlOTrix7WbYUNNY2fc7x7WmSqYI2UNEHn86HrjZ5DV1lSTp4oK7zA0dbx/A++zw3lGQbMVqkZadrgRe/gmrIEtUMbKYykFPdqdXgEmaIDHjjcC8lKWxkVG84ssAgvrm3O54lZOSKGXQmHNqA5ffhA7NxrZwdE8ceAdH1ps5pxlEJVH8jMTveZSySqelhmoTW5UHphVWmLVJzgVSnCfA8ZJi6l6AbMxjzUWpmCe6sk3PwH1u+jYj3vKkK5Yd0kEeK6LGE2~3360069~4408114",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532551861
+                    }
+                ]
+            },
+            "digitalData.page.a1Token": {
+                "name": "digitalData.page.a1Token",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532558347,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1734761952,
+                        "expiry": 9229394,
+                        "value": "$2a$10$pje5PkH02gWWvG4c0qWQ3.4RiGh2WNjCseHRJZwwvH6oZuo2tpANa",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532558346
+                    }
+                ]
+            },
+            "lll_adobe_geo_city": {
+                "name": "lll_adobe_geo_city",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532555657,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "los%20angeles",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555656
+                    }
+                ]
+            },
+            "lll_adobe_geo_country": {
+                "name": "lll_adobe_geo_country",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532555655,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "united%20states",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555654
+                    }
+                ]
+            },
+            "lll_adobe_geo_latitude": {
+                "name": "lll_adobe_geo_latitude",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532555657,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "34.01",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555657
+                    }
+                ]
+            },
+            "lll_adobe_geo_longitude": {
+                "name": "lll_adobe_geo_longitude",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532555658,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-118.26",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555657
+                    }
+                ]
+            },
+            "lll_adobe_geo_postal_zip": {
+                "name": "lll_adobe_geo_postal_zip",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725532555657,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "90011",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555657
+                    }
+                ]
+            },
+            "lll_adobe_geo_state": {
+                "name": "lll_adobe_geo_state",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725532555656,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "california",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555656
+                    }
+                ]
+            },
+            "ltmo": {
+                "name": "ltmo",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532550483,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532550479
+                    }
+                ]
+            },
+            "mbox": {
+                "name": "mbox",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532555198,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760092555.197639,
+                        "expiry": 34560000.19763899,
+                        "value": "session#1725532555197_bfa2a03b-3dfb-40d9-a097-3dabda07098a#",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555197
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.601300955,
+                        "value": "session#1725532555197_bfa2a03b-3dfb-40d9-a097-3dabda07098a#|PC#1725532555197_bfa2a03b-3dfb-40d9-a097-3dabda07098a.35_0#",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555602
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.65339303,
+                        "value": "session#1725532555197_bfa2a03b-3dfb-40d9-a097-3dabda07098a#|PC#1725532555197_bfa2a03b-3dfb-40d9-a097-3dabda07098a.35_0#",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555653
+                    }
+                ]
+            },
+            "mboxEdgeCluster": {
+                "name": "mboxEdgeCluster",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532555604,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725640555,
+                        "expiry": 108000,
+                        "value": "35",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555602
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 108000,
+                        "value": "35",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532555654
+                    }
+                ]
+            },
+            "qm-rc": {
+                "name": "qm-rc",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725532558220,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532558219
+                    }
+                ]
+            },
+            "qm-ssc": {
+                "name": "qm-ssc",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725532558221,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532558220
+                    }
+                ]
+            },
+            "s_ac": {
+                "name": "s_ac",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532564532,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532564531
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725532564534,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532564533
+                    }
+                ]
+            },
+            "s_ecid": {
+                "name": "s_ecid",
+                "domain": ".lululemon.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532555559,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760092555.555828,
+                        "expiry": 34560000.555828094,
+                        "value": "MCMID%7C39935018342623193782215252960153756619",
+                        "same_site": "lax",
+                        "timestamp": 1725532555557
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.78327489,
+                        "value": "MCMID%7C39935018342623193782215252960153756619",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532564784
+                    }
+                ]
+            }
+        }
+    },
+    "media6degrees.com": {
+        "/": {
+            "acs": {
+                "name": "acs",
+                "domain": ".media6degrees.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532557968,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741084557.963327,
+                        "expiry": 15552000.963326931,
+                        "value": "012020k1sjc5fxxzt10",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532557967
+                    }
+                ]
+            },
+            "clid": {
+                "name": "clid",
+                "domain": ".media6degrees.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532557966,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741084557.962988,
+                        "expiry": 15552000.9629879,
+                        "value": "2sjc5fx01171rf1d98060mxv000000016x011001901",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532557964
+                    }
+                ]
+            }
+        }
+    },
+    "mgln.ai": {
+        "/": {
+            "arc_id": {
+                "name": "arc_id",
+                "domain": ".mgln.ai",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532559524,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730716559.522174,
+                        "expiry": 5184000.5221738815,
+                        "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkltUTFZelJsTTJJMkxXWmlOemt0TkRSbE5TMWlOV05oTFRVNU1XRmxZekpqWVRKaU9DST0iLCJleHAiOiIyMDI0LTExLTA0VDEwOjM1OjU5LjQ1MVoiLCJwdXIiOiJjb29raWUuYXJjX2lkIn19--079fc9692ccc018a14b88e3048ad083c92612170",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532559522
+                    }
+                ]
+            }
+        }
+    },
+    "pinterest.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532554387,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757068554.385488,
+                        "expiry": 31536000.385488033,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532554386
+                    }
+                ]
+            }
+        }
+    },
+    "shop.lululemon.com": {
+        "/": {
+            "": {
+                "name": "",
+                "domain": ".shop.lululemon.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725532569323,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "GA1.3.138612277.1725532569",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532569322
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".shop.lululemon.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725532569323,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725618969,
+                        "expiry": 86400,
+                        "value": "GA1.3.965135134.1725532569",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532569323
+                    }
+                ]
+            },
+            "_sfid_cc29": {
+                "name": "_sfid_cc29",
+                "domain": ".shop.lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532559586,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760092559.585182,
+                        "expiry": 34560000.58518195,
+                        "value": "{%22anonymousId%22:%2268f8f484e9ba4846%22}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532559585
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.58984399,
+                        "value": "{%22anonymousId%22:%2268f8f484e9ba4846%22%2C%22consents%22:[]}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532559590
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.72042799,
+                        "value": "{%22anonymousId%22:%2268f8f484e9ba4846%22%2C%22consents%22:[]}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532566722
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.73354292,
+                        "value": "{%22anonymousId%22:%2268f8f484e9ba4846%22%2C%22consents%22:[]}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532566734
+                    }
+                ]
+            },
+            "lll-ecom-correlation-id": {
+                "name": "lll-ecom-correlation-id",
+                "domain": ".shop.lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532550492,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "DBD8383B-DEBA-49A6-D8E0-F414639A8072",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532550490
+                    }
+                ]
+            },
+            "__pdst": {
+                "name": "__pdst",
+                "domain": "shop.lululemon.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725532558926,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757068558,
+                        "expiry": 31536000,
+                        "value": "bcfd8f644638462a835fa320e2ccd936",
+                        "same_site": "strict",
+                        "timestamp": 1725532558925
+                    }
+                ]
+            },
+            "_evga_8f06": {
+                "name": "_evga_8f06",
+                "domain": "shop.lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532559587,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760092559.586327,
+                        "expiry": 34560000.586327076,
+                        "value": "{%22uuid%22:%2268f8f484e9ba4846%22}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532559586
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.32360196,
+                        "value": "{%22uuid%22:%2268f8f484e9ba4846%22}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532560324
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.72440791,
+                        "value": "{%22uuid%22:%2268f8f484e9ba4846%22}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532566726
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.92416501,
+                        "value": "{%22uuid%22:%2268f8f484e9ba4846%22}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532566925
+                    }
+                ]
+            },
+            "cookiecookie": {
+                "name": "cookiecookie",
+                "domain": "shop.lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532551733,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookiecookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532551732
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookiecookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553288
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookiecookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553394
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookiecookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553478
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookiecookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532553739
+                    }
+                ]
+            },
+            "kampyleSessionPageCounter": {
+                "name": "kampyleSessionPageCounter",
+                "domain": "shop.lululemon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725532559118,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757068559,
+                        "expiry": 31536000,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532559118
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532559121
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532565425
+                    }
+                ]
+            },
+            "kampyleUserSession": {
+                "name": "kampyleUserSession",
+                "domain": "shop.lululemon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725532559118,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757068559,
+                        "expiry": 31536000,
+                        "value": "1725532559116",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532559117
+                    }
+                ]
+            },
+            "kampyleUserSessionsCount": {
+                "name": "kampyleUserSessionsCount",
+                "domain": "shop.lululemon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725532559119,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757068559,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532559119
+                    }
+                ]
+            },
+            "kampyle_userid": {
+                "name": "kampyle_userid",
+                "domain": "shop.lululemon.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725532559112,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757068559,
+                        "expiry": 31536000,
+                        "value": "6c51-c967-16df-1258-bd31-ae29-e6e6-2d6d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532559111
+                    }
+                ]
+            },
+            "mdLogger": {
+                "name": "mdLogger",
+                "domain": "shop.lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532559111,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757068559,
+                        "expiry": 31536000,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532559109
+                    }
+                ]
+            },
+            "pers_seg": {
+                "name": "pers_seg",
+                "domain": "shop.lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532554384,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJnZW5kZXJBZmZpbml0eSI6ImFsbCJ9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532554383
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJnZW5kZXJBZmZpbml0eSI6ImFsbCJ9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532554386
+                    }
+                ]
+            },
+            "sat_track": {
+                "name": "sat_track",
+                "domain": "shop.lululemon.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532554349,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760092554.34824,
+                        "expiry": 34560000.3482399,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532554348
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.3485589,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725532554349
+                    }
+                ]
+            }
+        }
+    },
+    "snapchat.com": {
+        "/": {
+            "sc_at": {
+                "name": "sc_at",
+                "domain": ".snapchat.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532560341,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759228560.337609,
+                        "expiry": 33696000.33760905,
+                        "value": "v2|H4sIAAAAAAAAAAXBiQ3AMAgEsImQeA5IxqGITMHwta2Eu6bIcJKAcLoSh1Rn+nZ+eNiVVHdTD17+AQf7KQoyAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532560338
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.916203976,
+                        "value": "v2|H4sIAAAAAAAAAE3GyQ3AMAgEwIqQOBaw0w1BuAoXn2/mNVbCXVNkWElAOG2JRaozvTtfHFwBP5Lqbuoh91f+AC0vAJBAAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532561918
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.73900795,
+                        "value": "v2|H4sIAAAAAAAAAE3GyQ3AMAgEwIqQOBaw0w1BuAoXn2/mNVbCXVNkWElAOG2JRaozvTtfHFwBP5Lqbuqh91f+AK+0J+5AAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532562744
+                    }
+                ]
+            }
+        }
+    },
+    "tapad.com": {
+        "/": {
+            "TapAd_3WAY_SYNCS": {
+                "name": "TapAd_3WAY_SYNCS",
+                "domain": ".tapad.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532560632,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730716560.628008,
+                        "expiry": 5184000.628007889,
+                        "value": "",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532560630
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.536535978,
+                        "value": "",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532562540
+                    }
+                ]
+            },
+            "TapAd_DID": {
+                "name": "TapAd_DID",
+                "domain": ".tapad.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532560452,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730716560.447734,
+                        "expiry": 5184000.4477341175,
+                        "value": "9897c149-6404-4d8e-9a03-77d9ed451891",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532560451
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.62789011,
+                        "value": "9897c149-6404-4d8e-9a03-77d9ed451891",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532560630
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.536468983,
+                        "value": "9897c149-6404-4d8e-9a03-77d9ed451891",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532562538
+                    }
+                ]
+            },
+            "TapAd_TS": {
+                "name": "TapAd_TS",
+                "domain": ".tapad.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725532560450,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730716560.447584,
+                        "expiry": 5184000.447583914,
+                        "value": "1725532560437",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532560449
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.627600908,
+                        "value": "1725532560437",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532560629
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.536293983,
+                        "value": "1725532560437",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532562538
+                    }
+                ]
+            }
+        }
+    },
+    "lululemoncanada.us-4.evergage.com": {
+        "/": {
+            "AWSALBTGCORS": {
+                "name": "AWSALBTGCORS",
+                "domain": "lululemoncanada.us-4.evergage.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725532560321,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726137360.31673,
+                        "expiry": 604800.3167300224,
+                        "value": "mSaGVJm22KEdkA8Hlh6PX1DhxrH57Ac2HCQ16BLhwCdMhcIBBSH+U+K/11OQXvNpIcKhht5rAqPK0Tvd/Vf5xW8sXMoqa8dYOMxBn3OHD0sX2sTkLRWpYn0J1rabr+mrnEWkuThtAMRnbv8xJQgVXK1HrN8S+FbOufXT+KqnBQLDSk/Uodg=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532560318
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.5053060055,
+                        "value": "NgON0Sz9LwBNq3tXuPMB4iKFL/1wWIdJ32TPKEExRltDX8Q02kyZzKlvcZWcIxsSYxdUsLv7l7BGiX+UN+4Tp8DCR8z2pToxYLiyH9nzCqIdMt2xviS+CImpNThpm/ThK2fcRAz4ojObLPh58wdQLd/CqzobTWsOjylItYmbdxj6Wrokyvw=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532560512
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.9106531143,
+                        "value": "m7dvsPB9LggQEHvBVrTQnrGrsrzC8c2y262BxlYePX811dfJZgR+ll4obw6AXvbNUVsIgcx0GljysPCeMcQ7AEOMCx32D8TB1wCTgNz+0WenMfGDheDFJ8e0Xdil0KNSzBfjrykrEE8c2QzK33o8Yih843NOZ1ejkp3A/IPI17AX6+zuBrk=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532566912
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.9194149971,
+                        "value": "8Q1qymTKIuvReaiteJffT0IjSBXi+U60Xl6WRk/3sZQAvAWS3XdxEMikIE/2IoalY3gFBl3Zd5XHV9QTKG5DAFXipV7kmJqG3kvCYLrNzng8DGC7pDRLL00wgGEFIi9bWOcXK2DWp5u7pU6tfMuUHKEABg1UTMHqv9f+Yz4jzSosUKgypCU=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532566921
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.106801033,
+                        "value": "RgbpG2n3YWiHu6KxJGDPyoYDafiugPZJo5p9K/pzlcasmH/YBjL0BUYXGrXqJv4nyuGdHQp2dEjQGUaS0wyIB90Uv6F36EUc5hM+/Ppzjt+buoIyxQkWnm1jasIA9WZLh12mwE27siwZXqou1UJyPH9olqyDGrqYn2wsL2DsHgibPsPATBA=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532567109
+                    }
+                ]
+            }
+        }
+    },
+    "sc-static.net": {
+        "/scevent.min.js": {
+            "X-AB": {
+                "name": "X-AB",
+                "domain": "sc-static.net",
+                "path": "/scevent.min.js",
+                "current_label": 2,
+                "label_ts": 1725532559644,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725618959.644051,
+                        "expiry": 86400.64405107498,
+                        "value": "d3f8a745e43c4e739e2ceae8f70e11cd",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725532559644
+                    }
+                ]
+            }
+        }
+    }
+}

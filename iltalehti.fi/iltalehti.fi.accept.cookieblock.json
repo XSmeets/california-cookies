@@ -1,0 +1,627 @@
+{
+    "adform.net": {
+        "/": {
+            "C": {
+                "name": "C",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474121207,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728066121.206503,
+                        "expiry": 2592000.2065029144,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121206
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474121425,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730658121.423644,
+                        "expiry": 5184000.423644066,
+                        "value": "4648901457421995369",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121424
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474121850,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725475021.847085,
+                        "expiry": 900.8470849990845,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121848
+                    }
+                ]
+            }
+        }
+    },
+    "gravito.net": {
+        "/": {
+            "gravitoOPUid": {
+                "name": "gravitoOPUid",
+                "domain": ".gravito.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474110433,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250110.431027,
+                        "expiry": 7776000.431026936,
+                        "value": "%7B%22id%22%3A%2299a7b948-bb70-47f1-893a-ddecc6fb6108-p920%22%2C%22isMerged%22%3Afalse%2C%22version%22%3A%221%22%2C%22isDev%22%3Afalse%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474110431
+                    }
+                ]
+            }
+        }
+    },
+    "iltalehti.fi": {
+        "/": {
+            "1p-data-v3": {
+                "name": "1p-data-v3",
+                "domain": ".iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474111714,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010111.710199,
+                        "expiry": 31536000.710199118,
+                        "value": "LYvBCoAgEAXvQv%2bw7DkjMdP8leiwWZHkKcKL%2bO%2bReZs3zEsNA0CPFpDWQ0rSjitniA%2bGBCcxOC421RuahDZqxLb099f78FDYz8d3h68%2bfj7Kuna0kPL%2fuNDCvPzsCjcsvw%3d%3d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474111711
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".iltalehti.fi",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474121176,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034121.173586,
+                        "expiry": 34560000.17358589,
+                        "value": "GA1.1.399126061.1725474121",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474121175
+                    }
+                ]
+            },
+            "_ga_3L539PMN3X": {
+                "name": "_ga_3L539PMN3X",
+                "domain": ".iltalehti.fi",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474121175,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034121.173171,
+                        "expiry": 34560000.17317104,
+                        "value": "GS1.1.1725474121.1.0.1725474121.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474121174
+                    }
+                ]
+            },
+            "il_ga": {
+                "name": "il_ga",
+                "domain": ".iltalehti.fi",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474121196,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034121.193158,
+                        "expiry": 34560000.19315791,
+                        "value": "GA1.1.399126061.1725474121",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474121195
+                    }
+                ]
+            },
+            "il_ga_MXGFE8FV2J": {
+                "name": "il_ga_MXGFE8FV2J",
+                "domain": ".iltalehti.fi",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474121194,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034121.192875,
+                        "expiry": 34560000.19287491,
+                        "value": "GS1.1.1725474121.1.0.1725474121.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474121194
+                    }
+                ]
+            },
+            "ILAppInstallPopupPageViews": {
+                "name": "ILAppInstallPopupPageViews",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474107308,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726683707,
+                        "expiry": 1209600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474107304
+                    }
+                ]
+            },
+            "TcString": {
+                "name": "TcString",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474119892,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759170119,
+                        "expiry": 33696000,
+                        "value": "CQEbF4AQEbF4ABUASAFIBFFsAP_gAEPgAApAICwJAAFgAQAAqABkADwAIAAZAA0AB8AEQAI8ATABOACoAFsAL4AYQA5gB-AEFAIQAhQBogDZAIQAREAiwBIgCdgFZALSAYEAxQB1AEyALzAfEBAUE0oDQACwAKgAeABAADIAGgARAAjgBMAD8AIQAaIA2QCEAERAIsASIAxQBnwDqAJkAWyAvMBggD4gJpAChIBoACwAKgAeABBADIANAAiABMAD8AIQAbIBIgDFALzHQDwAFgAVABBADIANAAiABMAD8ANEAbIBFgCRAGKAOoAmQBeZCAGAAsAxQB1CUAcABYARAAmADZAMUAdQBeZSAcAAsACoAIIAZABoAEQAJgAfgBogDZAIsASIAxQB1AF5gAAA.YAAAAAAAAMAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474119889
+                    }
+                ]
+            },
+            "alma-geo-v5-errorcount": {
+                "name": "alma-geo-v5-errorcount",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474120553,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560520,
+                        "expiry": 86400,
+                        "value": "0",
+                        "same_site": "strict",
+                        "timestamp": 1725474120551
+                    }
+                ]
+            },
+            "almad-da_prmtv_dsv2": {
+                "name": "almad-da_prmtv_dsv2",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474120431,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725517320,
+                        "expiry": 43200,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474120430
+                    }
+                ]
+            },
+            "almad-daily-adform-sync": {
+                "name": "almad-daily-adform-sync",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474120422,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725560520,
+                        "expiry": 86400,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474120421
+                    }
+                ]
+            },
+            "cookie-test-18b66a4e-5697-4ed0-af66-211100ce5532": {
+                "name": "cookie-test-18b66a4e-5697-4ed0-af66-211100ce5532",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474110310,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie-test-value-22b5d524-99f7-4c00-ac40-483ab2b4764f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474110304
+                    }
+                ]
+            },
+            "cookie-test-75df8179-dbbb-4552-8fb9-8eef05aa3506": {
+                "name": "cookie-test-75df8179-dbbb-4552-8fb9-8eef05aa3506",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474110313,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie-test-value-2b8c6ff3-894c-4ae5-bd54-cbac450ca3af",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474110312
+                    }
+                ]
+            },
+            "cookie-test-77b43d2d-47cf-4d44-9401-3687b16de2aa": {
+                "name": "cookie-test-77b43d2d-47cf-4d44-9401-3687b16de2aa",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474110314,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie-test-value-602169bc-e5b5-422a-a188-fcfbf49d23e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474110314
+                    }
+                ]
+            },
+            "cookie-test-82925ad4-8c95-49d6-9532-7055b7f303ea": {
+                "name": "cookie-test-82925ad4-8c95-49d6-9532-7055b7f303ea",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474110311,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie-test-value-917ee4d7-e31b-40c8-a326-39b97304c5be",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474110310
+                    }
+                ]
+            },
+            "gravitoData": {
+                "name": "gravitoData",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474119896,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759170119,
+                        "expiry": 33696000,
+                        "value": "{\"TCString\":\"CQEbF4AQEbF4ABUASAFIBFFsAP_gAEPgAApAICwJAAFgAQAAqABkADwAIAAZAA0AB8AEQAI8ATABOACoAFsAL4AYQA5gB-AEFAIQAhQBogDZAIQAREAiwBIgCdgFZALSAYEAxQB1AEyALzAfEBAUE0oDQACwAKgAeABAADIAGgARAAjgBMAD8AIQAaIA2QCEAERAIsASIAxQBnwDqAJkAWyAvMBggD4gJpAChIBoACwAKgAeABBADIANAAiABMAD8AIQAbIBIgDFALzHQDwAFgAVABBADIANAAiABMAD8ANEAbIBFgCRAGKAOoAmQBeZCAGAAsAxQB1CUAcABYARAAmADZAMUAdQBeZSAcAAsACoAIIAZABoAEQAJgAfgBogDZAIsASIAxQB1AF5gAAA.YAAAAAAAAMAA\",\"NonTCFVendors\":[{\"id\":1,\"name\":\"Facebook\",\"consent\":true},{\"id\":2,\"name\":\"Salesforce\",\"consent\":true},{\"id\":3,\"name\":\"Google\",\"consent\":true},{\"id\":4,\"name\":\"Chartbeat\",\"consent\":true},{\"id\":5,\"name\":\"Giosg\",\"consent\":true},{\"id\":6,\"name\":\"Hotjar\",\"consent\":true},{\"id\":7,\"name\":\"Qualifio\",\"consent\":true},{\"id\":8,\"name\":\"Questback\",\"consent\":true},{\"id\":9,\"name\":\"Twitter\",\"consent\":true},{\"id\":10,\"name\":\"Wordpress\",\"consent\":true},{\"id\":15,\"name\":\"Linkedin\",\"consent\":true},{\"id\":16,\"name\":\"Microsoft\",\"consent\":true},{\"id\":17,\"name\":\"OneSignal\",\"consent\":true},{\"id\":18,\"name\":\"AppCues\",\"consent\":true},{\"id\":19,\"name\":\"Vimeo\",\"consent\":true},{\"id\":21,\"name\":\"Finnchat\",\"consent\":true},{\"id\":22,\"name\":\"Lekane\",\"consent\":true},{\"id\":23,\"name\":\"Zendesk\",\"consent\":true},{\"id\":24,\"name\":\"Serviceform\",\"consent\":true},{\"id\":25,\"name\":\"Smilee\",\"consent\":true},{\"id\":26,\"name\":\"Calendly\",\"consent\":true},{\"id\":27,\"name\":\"Apple\",\"consent\":true},{\"id\":29,\"name\":\"Selligent\",\"consent\":true},{\"id\":30,\"name\":\"Echobox\",\"consent\":true},{\"id\":31,\"name\":\"AB Tasty\",\"consent\":true},{\"id\":32,\"name\":\"Spotify\",\"consent\":true},{\"id\":33,\"name\":\"Sentry\",\"consent\":true},{\"id\":34,\"name\":\"Kilkaya\",\"consent\":true}]}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474119894
+                    }
+                ]
+            },
+            "sammio-bsid": {
+                "name": "sammio-bsid",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474110312,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034110.305011,
+                        "expiry": 34560000.305011034,
+                        "value": "27c9f99c-d331-4465-9713-e6e712079aea",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474110311
+                    }
+                ]
+            },
+            "sammio-init-time": {
+                "name": "sammio-init-time",
+                "domain": "www.iltalehti.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474110314,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034110.305588,
+                        "expiry": 34560000.30558801,
+                        "value": "2024-09-04T18:21:50.305Z",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474110313
+                    }
+                ]
+            }
+        }
+    },
+    "userreport.com": {
+        "/": {
+            "__bpn_uid": {
+                "name": "__bpn_uid",
+                "domain": ".userreport.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474121940,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010121,
+                        "expiry": 31536000,
+                        "value": "4044baa8-18f0-4094-a27b-8912396b1778",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121939
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "4044baa8-18f0-4094-a27b-8912396b1778",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121945
+                    }
+                ]
+            },
+            "__ur_dc": {
+                "name": "__ur_dc",
+                "domain": ".userreport.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474121943,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010121,
+                        "expiry": 31536000,
+                        "value": "1725474121938",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121942
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1725474121938",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121945
+                    }
+                ]
+            },
+            "__ur_i": {
+                "name": "__ur_i",
+                "domain": ".userreport.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474121941,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010121,
+                        "expiry": 31536000,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121941
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121945
+                    }
+                ]
+            },
+            "__ur_ttl": {
+                "name": "__ur_ttl",
+                "domain": ".userreport.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474121946,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010121,
+                        "expiry": 31536000,
+                        "value": "1757010121942",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121945
+                    }
+                ]
+            }
+        }
+    },
+    "tag.userreport.com": {
+        "/": {
+            "cookies.js": {
+                "name": "cookies.js",
+                "domain": "tag.userreport.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474121935,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121933
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121937
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121938
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474121945
+                    }
+                ]
+            }
+        }
+    }
+}

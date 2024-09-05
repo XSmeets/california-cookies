@@ -1,0 +1,1295 @@
+{
+    "ct.pinterest.com": {
+        "/": {
+            "_pinterest_ct_ua": {
+                "name": "_pinterest_ct_ua",
+                "domain": ".ct.pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479516708,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015516.706298,
+                        "expiry": 31536000.706298113,
+                        "value": "\"TWc9PSYrN3lzZ0pXYmtTS3J2NzJzbWUwSVFMK1NyNHVySUY0Q2pPbUVvTnhGUHFKZFJQZFg0TFdnTDhUVkdNL01LaEMvQnFpWEN0Ni8xQjhvOVRsaWV4SmtBV1hJRFFwS0RSQ0NNRnA4bzFwQnBTVT0mSjlUb0RsalJ0MGVScFFXY3p3VFYrb0pRdkhzPQ==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479516707
+                    }
+                ]
+            }
+        }
+    },
+    "jumbo.com": {
+        "/": {
+            "FPID": {
+                "name": "FPID",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479511420,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039511.419415,
+                        "expiry": 34560000.419415,
+                        "value": "FPID2.2.u7UX4EInJvBs%2BPMHJFVnOWoNPZUng7z5EbNf1nhuA1Q%3D.1725479510",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479511420
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.11527109,
+                        "value": "FPID2.2.u7UX4EInJvBs%2BPMHJFVnOWoNPZUng7z5EbNf1nhuA1Q%3D.1725479510",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479516116
+                    }
+                ]
+            },
+            "FPLC": {
+                "name": "FPLC",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479511422,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725551511.419458,
+                        "expiry": 72000.41945791245,
+                        "value": "NIByfxk3Yz0n2rjgp%2BsJx0YRh5WoZhHLHWdPgBXnVjvV%2Bz7czvSO5xCwZToDc%2FQdb3k2wOO8LO13Vf2BuKk2v%2BDpWb3N8M%2Bcaav2tCD2y5g2kUeW8RGNXqt3XoWx0g%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479511421
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479515274,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015515,
+                        "expiry": 31536000,
+                        "value": "2024-09-04T19:51:55.273Z",
+                        "same_site": "lax",
+                        "timestamp": 1725479515273
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479513688,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A51%3A53+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63b849ab-dfa2-4fd8-abaf-1bfc5b9e698d&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1725479513719
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A51%3A53+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63b849ab-dfa2-4fd8-abaf-1bfc5b9e698d&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.jumbo.com%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725479513725
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A51%3A53+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63b849ab-dfa2-4fd8-abaf-1bfc5b9e698d&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.jumbo.com%2F&groups=J1000%3A1%2CJ2000%3A0%2CJ3000%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725479513923
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A51%3A53+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63b849ab-dfa2-4fd8-abaf-1bfc5b9e698d&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.jumbo.com%2F&groups=J1000%3A1%2CJ2000%3A0%2CJ3000%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725479513924
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A51%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63b849ab-dfa2-4fd8-abaf-1bfc5b9e698d&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=J1000%3A1%2CJ2000%3A0%2CJ3000%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725479515275
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A51%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63b849ab-dfa2-4fd8-abaf-1bfc5b9e698d&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=J1000%3A1%2CJ2000%3A1%2CJ3000%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725479515278
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A51%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63b849ab-dfa2-4fd8-abaf-1bfc5b9e698d&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=J1000%3A1%2CJ2000%3A1%2CJ3000%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725479515291
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A51%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63b849ab-dfa2-4fd8-abaf-1bfc5b9e698d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=J1000%3A1%2CJ2000%3A1%2CJ3000%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725479515297
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A51%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63b849ab-dfa2-4fd8-abaf-1bfc5b9e698d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=J1000%3A1%2CJ2000%3A1%2CJ3000%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725479515297
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A51%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63b849ab-dfa2-4fd8-abaf-1bfc5b9e698d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=J1000%3A1%2CJ2000%3A1%2CJ3000%3A1&intType=1",
+                        "same_site": "lax",
+                        "timestamp": 1725479515299
+                    }
+                ]
+            },
+            "SSID_2rnq": {
+                "name": "SSID_2rnq",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479507569,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015506.562779,
+                        "expiry": 31535999.56277895,
+                        "value": "CQCI_R0qAAAAAABSuthmMHxAA1K62GYBAAAAAAAAAAAAUrrYZgBAF3dKAQHd0SgAUrrYZgEARUABAS75JwBSuthmAQCFSAEBVaIoAFK62GYBAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479507567
+                    }
+                ]
+            },
+            "SSLB": {
+                "name": "SSLB",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479507567,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479507565
+                    }
+                ]
+            },
+            "SSRT_2rnq": {
+                "name": "SSRT_2rnq",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479507574,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015506.563832,
+                        "expiry": 31535999.563832045,
+                        "value": "UrrYZgABAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479507572
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.91777706,
+                        "value": "VrrYZgADAA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479510918
+                    }
+                ]
+            },
+            "SSSC_2rnq": {
+                "name": "SSSC_2rnq",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479507572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1003.G7410878048242793520.1|81989.2619694:84101.2662997:84599.2675165",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479507569
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479516733,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733255516,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725479516731.782949617492585040",
+                        "same_site": "lax",
+                        "timestamp": 1725479516732
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725479516731.782949617492585040",
+                        "same_site": "lax",
+                        "timestamp": 1725479517246
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479510467,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039510.465683,
+                        "expiry": 34560000.46568298,
+                        "value": "GA1.1.456730858.1725479510",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479510467
+                    }
+                ]
+            },
+            "_ga_9DQT1PWLFM": {
+                "name": "_ga_9DQT1PWLFM",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479510466,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039510.465103,
+                        "expiry": 34560000.46510291,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479510465
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.465293884,
+                        "value": "GS1.1.1725479510.1.0.1725479510.0.0.1793744415",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479510466
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.255017996,
+                        "value": "GS1.1.1725479510.1.0.1725479515.0.0.1793744415",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479515255
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.27214193,
+                        "value": "GS1.1.1725479510.1.0.1725479515.0.0.1793744415",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479515272
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.06916189,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479519069
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.06966305,
+                        "value": "GS1.1.1725479510.1.0.1725479519.0.0.1793744415",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479519070
+                    }
+                ]
+            },
+            "_pin_unauth": {
+                "name": "_pin_unauth",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479516489,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015516,
+                        "expiry": 31536000,
+                        "value": "dWlkPU1tSTJNRE13TVRndFl6SXlaQzAwTXpRMkxUaG1PR0l0WW1Sak5UZzVOR05tTXpGaA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479516488
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479507578,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725486706.565265,
+                        "expiry": 7199.565264940262,
+                        "value": "888B6AB51CC593269A6AD0CA266B8018~000000000000000000000000000000~YAAQo7vOF7zSkbqRAQAABNaXvhluEOms/RQxnPRUep/0z1qFjdPzlSELfVscXDmBOuD5dDNSpqePkc9YIizD7dmz7izh8AxopvCY4XISOsCR/GNvbCxPIsI/XFd/zWZ+vSFR3Tc8MJYoQpDEJLl46OJLg2BURF+O13l29zNTsg50fnoTDv0IEMO86MUKPJ4rP/yU/lujnUZS3H0Ey9TZC8dy1BESRDrsmWxn0voGYQkEzNt7pbQVF58rFWNbVCr0MPg25G03W5PddO2bqg8u+zY9ZRBkv4MMpHGSURca0yU/xrWHDrrl0sRIxU1ulPJov/00EqqUEGtb2uCfIzItEytya1tozG1TqjivB6J24zFO/LOcQ30OjlsFS6y+3kT/09vbA5MxwQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479507575
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479508946,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725486708.943505,
+                        "expiry": 7200.943505048752,
+                        "value": "D7DD642D0B66346ED6E209257EB2AD09~YAAQo7vOF4HVkbqRAQAATtuXvhkVKbfZNFCz5I2THI3qdPnInX7hs7ly+ZJSFB0aWf1g+7cSEZ4jXcWSod2Dv1YcqAem7JVELaJwnKll2shBlEp8mzFdZRxCZhxzXaXf+cA7cCz5CF2K+W2BsYikSvFVF7z2jxaeZYGwtiZOHQ6RJjRr3lsdMG4i9SPSlHwTEiR1sVRbdtC9OVZQXJzAznuYhiw8Tni4FotdXcwiQxIBcMvprsIeUJWMjq8x2V0=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479508944
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.527309894562,
+                        "value": "3492B3B3E6C42A566498A8DF4983BD70~YAAQo7vOF7fWkbqRAQAAu92XvhmB6fIU1zUbpLkLfAln7EEOGIOjJuzqT2pPE5+nuJUhvzHz5YW76t91P15seq4Y/Jm7Tk0qJ4GsJqzb6p/HKlxGJQPBts4PkuE5QxSNqS4bbFHvTaTpGjrCxBaceeKgymgUWpSR4EALAuQTm7zqrxR04vUG2BWoBJ2KMok7f8HkUq4Uw9KSdya7YUV0tQe7ytUtvDV+SG0QknK09y1tmxLsBvnmRcBV40n7/T4=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509534
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.574559926987,
+                        "value": "B3CE821E939BEF0D18E18C1C8A396326~YAAQo7vOF9HWkbqRAQAA6t2XvhnDn9ts24f7tZK5OXqmLjaIJN0pOQT3n2jJZtySbKykkxcAZx7qkTcXs89i3QbvQgg1DUwLkHJwMQSknpobc5Y5nfE2E4M5+EAY1zDAGr1L+IjMFmPZUeDeIjv6wBC2KdvyDWb7430oCYga8pDvoOyqHqm8TkhWzzO9m3Bj9YFrdAKKq8mPPhhgGr03+5RxLn75jryPP6ELht6s6Yh1Aex9qDNg8ikx/dQlbLA=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509577
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.625346899033,
+                        "value": "E6C34BCD4602A4CFAE00B71500AA988B~YAAQo7vOF+7WkbqRAQAACd6XvhkUdMnQ66h/2z4AVb8Rnk+wbO7yp2i73hpeLnCnuVTfsHCTV/cAvjszQUhmtsDOwDbYPzQ5Rv9d9wZHmdF+F/HEqbv+irfga1ALpLzFFsLPA72M1rbzu0kTCKR6Cg4WcNAcch3i7nxNX0wp9rw6c8gln+TqNHpKKr/y7KDIkh1R3tFLw1F3t6YPDwPr6pXmtSWFv7Txq8uci6eACuj/od+CoYLmh0spZYyktb4=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509626
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.62952709198,
+                        "value": "0EBB1EABF9C1134032A1F8188417E84D~YAAQo7vOF/3WkbqRAQAAId6Xvhn4mzutW/Jc8A5hmS/ZU1MY6vFbjC2hAldxSyUOo4Y135Fmc2ydur/tLbujmXhw4Rydxg+LCJfb8D3xYxPZO0dlTg20gI046iTMh0ZZJR9GraMzT7g+8gWlT0Q4jFluL9IgOPCFZByrm+eiC68ONlg4fatU2dpi6/VM0tpziYXAyTiGHIcy24AbTuDB860bhLryMubVEWYg8owSEtbHsefrC1Y1n4JLQNV/PwA=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509631
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.713562965393,
+                        "value": "D7DD642D0B66346ED6E209257EB2AD09~YAAQo7vOFy7XkbqRAQAAdt6XvhkTADXAcn+9iewS6es/HtLJlYZcshHPcdEnJ8rV0cZbZKXioaD7V4qNLZymhJ6uqVNocFKpRFOBTYyOKLUqN1ZxdYYFzcj3HvlDPZnasEumkPOVfIbHIhZ0rrlWBPshhOEIJgg/ouPaWf8mGekBohMlESik2oOq9G0YaAd1zvKOMkK5l0eOEEwEr5u2Vqtfu2IizJDfSJPuKVQ6B51/5uAjQp5ILE+AgXUF80g=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509714
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.174813985825,
+                        "value": "3492B3B3E6C42A566498A8DF4983BD70~YAAQo7vOFwjYkbqRAQAAQuCXvhkqYv2e/ErJPe7GB4pdoZ8aJcqpuom57PV6cREsjDQtwpie8vnZrXaBoKSMewVi4p8Hkb53XNXK+KrhKzhLAnhsbB2BU0OFiOGYNLCTedvCHfV4kI2ZfZbw2vdGvRkMr3OFH5VciK7AHMQobEhXovr80WwuDJYf2saxILjXPje5BYUvRsJm70rjs3hf8QY0hHXq4O8RypJ/mFfI4atFPuCa2tNiwYIYjIo54go=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479510175
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.5679540634155,
+                        "value": "3492B3B3E6C42A566498A8DF4983BD70~YAAQo7vOF9rYkbqRAQAAy+GXvhkE9vCokFnzeVXgSfOBGT77/ssAem+01YMylH74v7cRMSIH6mxj80hplm55V3Lvna1fy6fOdsXCifRdXI7XaSabFXtos0MCQBCpj37CvBRuhXtVMcGldCFR2uChfUmLlj/QlMHA6ljvPDb6Oe4OnmO7F4yd1kE/XvZjoqTKboAdpXikMo0IPPksIOj4awrELROwKsbGDx/Q0U0Jz6eb2O6iGv22h+R5hm79jwk=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479510568
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7198.825078964233,
+                        "value": "3492B3B3E6C42A566498A8DF4983BD70~YAAQo7vOF8TbkbqRAQAAleaXvhleTef1JiEiH7HXi5IR5J8CfxfzJ3HFyuyM20cyajXde0zZbChfrf8V3jZbLAObEHEabCM+ShRNxjLTaRs0C538LMk3s66Xs7K0403hTjJKXej7DDWXwHMK/pIFh6fFamwuZrZs3/wdRC595bNeL7Ai5n03hYzVsXlAhwKS9gVi0E3oheYYTZ0wo8Om3GytcUsGaC8+2lWX4F/z9qvDMS6Owyv3tMabE91kiKg=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479511825
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479515291,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015515,
+                        "expiry": 31536000,
+                        "value": "CQEa0TAQEa0TAAcABBNLBFFwAP_gAAAAAAYgKaAABCAEAAFAAGBwAAAAAAAGgEAAAAAAAAAAAAAAAAAAIAQAEEAAEAAAAAAAAAAAIAIAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAgAABAAAIAAAAAAAAEAAAAAAQAAAAkAAAAAIAEAAAAAAAAAQAAAAAAAAAAA-tDfv9bROb-9IOd_x8v4v8_F_rE2_eT1l_tevp7D9-cts7_XW-9_fff_9Ln_-uB_-_wAAADBIA4AFQAQQAyADQAIgATAB-gLzHQCAAKgAggBkAGgARAAmAD9AIsAvMcACAIQAmIlADACIAEwBeZSAQABUAEEAMgA0ACIAEwAfoBFgF5lAAQBdQExAA.f_wAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725479515290
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".www.jumbo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479509792,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726084309,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.jumbo.com&si=686ef243-6377-4737-91ea-1796194f376e&ss=m0o9y2zh&sl=0&tt=0\"",
+                        "same_site": "lax",
+                        "timestamp": 1725479509791
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.jumbo.com&si=686ef243-6377-4737-91ea-1796194f376e&ss=m0o9y2zh&sl=0&tt=0&rl=1\"",
+                        "same_site": "lax",
+                        "timestamp": 1725479513472
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.jumbo.com&si=686ef243-6377-4737-91ea-1796194f376e&ss=m0o9y2zh&sl=1&tt=6hs&rl=1&ld=6hv\"",
+                        "same_site": "lax",
+                        "timestamp": 1725479513473
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.jumbo.com&si=686ef243-6377-4737-91ea-1796194f376e&ss=m0o9y2zh&sl=1&tt=6hs&rl=1&ld=6hv&hd=at1\"",
+                        "same_site": "lax",
+                        "timestamp": 1725479519061
+                    }
+                ]
+            },
+            "akaas_as": {
+                "name": "akaas_as",
+                "domain": "jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479505743,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2147483647~rv=58~id=f4660423bcd001a67e4e12506c62b9f4~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479505741
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2147483647~rv=45~id=2c5e0dbb3a555240cee58694d13ef88b~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479507575
+                    }
+                ]
+            },
+            "country": {
+                "name": "country",
+                "domain": "jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479505733,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479505722
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479507574
+                    }
+                ]
+            },
+            "language": {
+                "name": "language",
+                "domain": "jumbo.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479505741,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "nl_nl",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479505733
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "nl_nl",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479507574
+                    }
+                ]
+            },
+            "SecureSessionID-DFMKYx4XUhUAAAFISx4r3jVo": {
+                "name": "SecureSessionID-DFMKYx4XUhUAAAFISx4r3jVo",
+                "domain": "www.jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479509534,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "30bae0008300dc33e5a13fd026bee45f8381ca4f997821ce57d6c5e4c78fbca2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509533
+                    }
+                ]
+            },
+            "authentication-token": {
+                "name": "authentication-token",
+                "domain": "www.jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479509533,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "\"encryption0@PBEWithMD5AndTripleDES:Enkz4sw4VnE=|LNceEM/rszONxoY9ZT1S0KO1smiMlFwmV3PH2GXm24Rtzcv6KyA8QQ==\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509530
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "\"encryption0@PBEWithMD5AndTripleDES:TXi3R10l08k=|F6Nnux7qXyKKjuwojD7jEJTQXHGJiwkB6FdWwFTNQcfS28X+zB1jCQ==\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509575
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "\"encryption0@PBEWithMD5AndTripleDES:/Rd1kR7rHN8=|VciOYeYvlcFc4gIw8KLrfRT9zjK09d/RZiNXfigGqhvEvWrufeivvg==\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509625
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "\"encryption0@PBEWithMD5AndTripleDES:53uyaSMbg6o=|dcZwNi2ScHnjApJ26wIeOCx/z5xTIBSw5MjEwfNMV+r+q1va5LYOLQ==\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509629
+                    }
+                ]
+            },
+            "fep_jodpsid": {
+                "name": "fep_jodpsid",
+                "domain": "www.jumbo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479508704,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481308.703001,
+                        "expiry": 1800.7030010223389,
+                        "value": "167361632-1725481308702",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479508703
+                    }
+                ]
+            },
+            "fep_jodpuid": {
+                "name": "fep_jodpuid",
+                "domain": "www.jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479508398,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039508.397785,
+                        "expiry": 34560000.39778495,
+                        "value": "J791818750-1725479508",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479508398
+                    }
+                ]
+            },
+            "i18n_redirected": {
+                "name": "i18n_redirected",
+                "domain": "www.jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479508400,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015508,
+                        "expiry": 31536000,
+                        "value": "nl-NL",
+                        "same_site": "lax",
+                        "timestamp": 1725479508399
+                    }
+                ]
+            },
+            "pgid-Jumbo-Grocery-Site": {
+                "name": "pgid-Jumbo-Grocery-Site",
+                "domain": "www.jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479509530,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4KGjCzZXDgdSRpFC3faC3NbL0000olOLAUNL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509529
+                    }
+                ]
+            },
+            "quantity-button-timeout-ms": {
+                "name": "quantity-button-timeout-ms",
+                "domain": "www.jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479509023,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1730663509,
+                        "expiry": 5184000,
+                        "value": "3000",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509023
+                    }
+                ]
+            },
+            "sid": {
+                "name": "sid",
+                "domain": "www.jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479509529,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "qEURUXnVSHpPUR8NEhCr4hrfO6OYgDJGXdYrNSaP",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509527
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dwoy3Y30rh1Z3esszV9TaO7-5Oy7DMZngpmKbXh2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509575
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6OkcjJQ4ONcRjfLgUrymP_cyo3rpHwfeYTjHihON",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509625
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dwHcls4NyRjRlqjVzVS9I60H5OdVR13r_tBkJjuP",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509629
+                    }
+                ]
+            },
+            "user-session": {
+                "name": "user-session",
+                "domain": "www.jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479509577,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1fbf1ea0-6af7-11ef-869b-ffd6fc173514",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509575
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1fbcd4b0-6af7-11ef-9be6-91cddc2943f5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509626
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1fc2ef30-6af7-11ef-810f-5379849d5ea3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479509629
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "20166660-6af7-11ef-8aa8-3d2ebfb55eac",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479510175
+                    }
+                ]
+            }
+        }
+    },
+    "pinterest.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479516487,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015516.484931,
+                        "expiry": 31536000.484930992,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479516485
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.70618105,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479516707
+                    }
+                ]
+            }
+        }
+    },
+    "product-lists-static.jumbo.com": {
+        "/": {
+            "akaas_as": {
+                "name": "akaas_as",
+                "domain": "product-lists-static.jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479512190,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2147483647~rv=30~id=ded5fb05458b23f3016b85df7e24e80c~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479512189
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2147483647~rv=42~id=588464808d174173dcafe9a40a2c5bde~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479512248
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2147483647~rv=58~id=f4660423bcd001a67e4e12506c62b9f4~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479512378
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2147483647~rv=59~id=de8179ac32001c7d3ce2f68c34442a81~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479512486
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2147483647~rv=85~id=e545ce30359054fc202c01534d69e6f6~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479512538
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2147483647~rv=84~id=63fe327a39cb5ac85114042d118b6c79~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479512597
+                    }
+                ]
+            }
+        },
+        "/product-list/thumbnails": {
+            "country": {
+                "name": "country",
+                "domain": "product-lists-static.jumbo.com",
+                "path": "/product-list/thumbnails",
+                "current_label": 1,
+                "label_ts": 1725479512189,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479512187
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479512248
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479512377
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479512486
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479512538
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479512596
+                    }
+                ]
+            }
+        }
+    },
+    "static-images.jumbo.com": {
+        "/": {
+            "akaas_as": {
+                "name": "akaas_as",
+                "domain": "static-images.jumbo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479512664,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2147483647~rv=48~id=6eb143987f107a5ea9e481a87f96a79a~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479512663
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2147483647~rv=3~id=7970de6278588fc1b97df7f9081ccf5a~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479512690
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2147483647~rv=52~id=b7b470c18b4d5a3621e3d3e87d1041ba~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479512700
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2147483647~rv=76~id=5271462edc772a818b7e9c7a22343b87~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479512724
+                    }
+                ]
+            }
+        },
+        "/product_images": {
+            "country": {
+                "name": "country",
+                "domain": "static-images.jumbo.com",
+                "path": "/product_images",
+                "current_label": 1,
+                "label_ts": 1725479512663,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479512662
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479512690
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479512700
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NL",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479512724
+                    }
+                ]
+            }
+        }
+    }
+}

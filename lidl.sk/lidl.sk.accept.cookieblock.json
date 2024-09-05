@@ -1,0 +1,597 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473795572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474695.571073,
+                        "expiry": 900.5710730552673,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473795571
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.5713849067688,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473795573
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473789921,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741284989.920595,
+                        "expiry": 15811200.92059493,
+                        "value": "517=DXJqwn5s7821kGdW4mYIOhJBQNXNvxw5_f5wjCJtVDdxaJacIBGkcjpCzSWbIb08GBzzDbdwL256SE-OYT-AShDYOlLgFfOWdBYZ3V7uPS2m8EEUa0zS1SNbHfuEP1XrjY_uEotXG-tmYjkWqQ94XD1sRM8mqxj6iM-Ym9LdycE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473789921
+                    }
+                ]
+            }
+        }
+    },
+    "heureka.sk": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".heureka.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473784615,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725475584.614596,
+                        "expiry": 1800.6145958900452,
+                        "value": "g1pM0a.purzNjHwMqOjHNlNxOl2tYXeAsh4V26G2100-1725473784-1.0.1.1-PnSWZ8Igv4jIkBrzD6vmj9zMxby5DIaeXIjptpliWHpu9wYBNb.trM_nI1fh.aaAtmmmMOUKnnPvKKnQ4zZYMg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473784615
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.073124885559,
+                        "value": "uvt7W2m99NOcmtf0dMOgSQNh1mCY9a9XWgcomVH.vmE-1725473785-1.0.1.1-I.glhNIJTxLqFZJKnOKCwNjHhXKhIeRpdXCn3PqDf7_Jg8ptsusoQC4O6Nt0mIjeu4g5HXo9TlsPTGOnHCU3cA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473785074
+                    }
+                ]
+            }
+        }
+    },
+    "lidl.sk": {
+        "/": {
+            "FPGSID": {
+                "name": "FPGSID",
+                "domain": ".lidl.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473795663,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725475595.658307,
+                        "expiry": 1800.6583070755005,
+                        "value": "1.1725473795.1725473795.G-SN4HWYXQE7.vuVkYfOoIUzDtU4BX7qT3Q",
+                        "same_site": "strict",
+                        "timestamp": 1725473795662
+                    }
+                ]
+            },
+            "FPID": {
+                "name": "FPID",
+                "domain": ".lidl.sk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473795659,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760033795.658253,
+                        "expiry": 34560000.658252954,
+                        "value": "FPID2.2.aJx7CKD3KdbyirqI8xMdD5gMdqHHdPwlczvIFl8Jmq8%3D.1725473795",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473795658
+                    }
+                ]
+            },
+            "FPLC": {
+                "name": "FPLC",
+                "domain": ".lidl.sk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473795662,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725545795.65829,
+                        "expiry": 72000.65828990936,
+                        "value": "LDb%2B0lU%2BqeNK5t6EJMaiBc0KqGp7qtNaAbiqdiopnND9ZZ8mlX9Zv6gUHarx0sGi%2FcshikGax3xxtfl3D0b29Fn3HkCUAoNd6KVIoiGuw04pV%2BLqTMvbZ9z154vN1w%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473795659
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".lidl.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473792918,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757009792,
+                        "expiry": 31536000,
+                        "value": "2024-09-04T18:16:32.912Z",
+                        "same_site": "lax",
+                        "timestamp": 1725473792912
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".lidl.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473784325,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757009784,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A16%3A24+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0",
+                        "same_site": "lax",
+                        "timestamp": 1725473784325
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A16%3A24+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1725473784326
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A16%3A24+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725473784327
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A16%3A24+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0e5d52ce-9189-470c-ba87-f78679d2190c&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1725473784328
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A16%3A24+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0e5d52ce-9189-470c-ba87-f78679d2190c&interactionCount=0&landingPath=https%3A%2F%2Fwww.lidl.sk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725473784329
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A16%3A24+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0e5d52ce-9189-470c-ba87-f78679d2190c&interactionCount=0&landingPath=https%3A%2F%2Fwww.lidl.sk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725473784511
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A16%3A24+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0e5d52ce-9189-470c-ba87-f78679d2190c&interactionCount=0&landingPath=https%3A%2F%2Fwww.lidl.sk%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725473784513
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A16%3A24+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0e5d52ce-9189-470c-ba87-f78679d2190c&interactionCount=0&landingPath=https%3A%2F%2Fwww.lidl.sk%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725473784530
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A16%3A32+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0e5d52ce-9189-470c-ba87-f78679d2190c&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725473792919
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A16%3A32+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0e5d52ce-9189-470c-ba87-f78679d2190c&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725473792923
+                    }
+                ]
+            },
+            "_detectRootDomain": {
+                "name": "_detectRootDomain",
+                "domain": ".lidl.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473792920,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725560192,
+                        "expiry": 86400,
+                        "value": "testRootDomain",
+                        "same_site": "lax",
+                        "timestamp": 1725473792919
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".lidl.sk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473795109,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760033795.106627,
+                        "expiry": 34560000.10662699,
+                        "value": "GA1.1.1499570508.1725473795",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473795108
+                    }
+                ]
+            },
+            "_ga_SN4HWYXQE7": {
+                "name": "_ga_SN4HWYXQE7",
+                "domain": ".lidl.sk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473795108,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760033795.10643,
+                        "expiry": 34560000.10643005,
+                        "value": "GS1.1.1725473795.1.0.1725473795.0.0.1314153162",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473795107
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.10985088,
+                        "value": "GS1.1.1725473795.1.0.1725473795.0.0.1314153162",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473795110
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.11132693,
+                        "value": "deleted",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473795111
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.11173391,
+                        "value": "GS1.1.1725473795.1.0.1725473795.0.0.1314153162",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473795111
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".lidl.sk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473794596,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733249794,
+                        "expiry": 7776000,
+                        "value": "1.1.558678619.1725473795",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473794595
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776001,
+                        "value": "1.1.558678619.1725473795",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473794920
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.558678619.1725473795",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473795153
+                    }
+                ]
+            },
+            "cto_tld_test": {
+                "name": "cto_tld_test",
+                "domain": ".lidl.sk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473795954,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725477395,
+                        "expiry": 3600,
+                        "value": "woot",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473795953
+                    }
+                ]
+            },
+            "kameleoonVisitorCode": {
+                "name": "kameleoonVisitorCode",
+                "domain": ".lidl.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473792921,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757009792,
+                        "expiry": 31536000,
+                        "value": "ky7ys03bladqczjm",
+                        "same_site": "lax",
+                        "timestamp": 1725473792920
+                    }
+                ]
+            },
+            "LidlID": {
+                "name": "LidlID",
+                "domain": "www.lidl.sk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473794923,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757033794.92217,
+                        "expiry": 31560000.922169924,
+                        "value": "8b19cc68-7245-47c8-8f1d-c6f951170f1f",
+                        "same_site": "strict",
+                        "timestamp": 1725473794922
+                    }
+                ]
+            },
+            "UserVisits": {
+                "name": "UserVisits",
+                "domain": "www.lidl.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473794593,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757009794,
+                        "expiry": 31536000,
+                        "value": "current_visit_date:04.09.2024",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473794592
+                    }
+                ]
+            },
+            "__rtbh.lid": {
+                "name": "__rtbh.lid",
+                "domain": "www.lidl.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473795363,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016995,
+                        "expiry": 31543200,
+                        "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22odtasIhelrylsdXHLgSK%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473795361
+                    }
+                ]
+            },
+            "adSessionId": {
+                "name": "adSessionId",
+                "domain": "www.lidl.sk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725473794608,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760033794.607126,
+                        "expiry": 34560000.607126,
+                        "value": "35157F81-0B76-4421-9DAE-5B71988A5865",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473794607
+                    }
+                ]
+            },
+            "criteo_write_test": {
+                "name": "criteo_write_test",
+                "domain": "www.lidl.sk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473795955,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725473805,
+                        "expiry": 10,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473795955
+                    }
+                ]
+            },
+            "inSession": {
+                "name": "inSession",
+                "domain": "www.lidl.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473780240,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473780235
+                    }
+                ]
+            }
+        }
+    }
+}

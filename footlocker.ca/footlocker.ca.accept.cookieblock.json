@@ -1,0 +1,1609 @@
+{
+    "bat.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".bat.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481419135,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726086219.132646,
+                        "expiry": 604800.1326460838,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481419134
+                    }
+                ]
+            }
+        }
+    },
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481419134,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759177419.132563,
+                        "expiry": 33696000.132563114,
+                        "value": "09B912ADD0B76D0219E6065DD1256C7C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481419133
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481399770,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741033399.768254,
+                        "expiry": 15552000.768254042,
+                        "value": "75777744560104580581014072995786889886",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481399769
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.239739895,
+                        "value": "56214943913643414332576865529942627521",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481413240
+                    }
+                ]
+            }
+        }
+    },
+    "footlocker.ca": {
+        "/": {
+            "AMCVS_40A3741F578E26BA7F000101%40AdobeOrg": {
+                "name": "AMCVS_40A3741F578E26BA7F000101%40AdobeOrg",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481399776,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481399775
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481413244
+                    }
+                ]
+            },
+            "AMCV_40A3741F578E26BA7F000101%40AdobeOrg": {
+                "name": "AMCV_40A3741F578E26BA7F000101%40AdobeOrg",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481398796,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041398.79433,
+                        "expiry": 34560000.79432988,
+                        "value": "179643557%7CMCIDTS%7C19971%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481398795
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.77105188,
+                        "value": "179643557%7CMCIDTS%7C19971%7CMCMID%7C76056772670850607541060549960135062470%7CMCAAMLH-1726086199%7C9%7CMCAAMB-1726086199%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481399772
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.77354002,
+                        "value": "179643557%7CMCIDTS%7C19971%7CMCMID%7C76056772670850607541060549960135062470%7CMCAAMLH-1726086199%7C9%7CMCAAMB-1726086199%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725488599s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481399776
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.29505706,
+                        "value": "179643557%7CMCIDTS%7C19971%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481412295
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.24150896,
+                        "value": "179643557%7CMCIDTS%7C19971%7CMCMID%7C56674786285407047372551217851519991193%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481413242
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.24326897,
+                        "value": "179643557%7CMCIDTS%7C19971%7CMCMID%7C56674786285407047372551217851519991193%7CMCAAMLH-1726086213%7C9%7CMCAAMB-1726086213%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725488613s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481413244
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.244451046,
+                        "value": "179643557%7CMCIDTS%7C19971%7CMCMID%7C56674786285407047372551217851519991193%7CMCAAMLH-1726086213%7C9%7CMCAAMB-1726086213%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725488613s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481413246
+                    }
+                ]
+            },
+            "IR_11224": {
+                "name": "IR_11224",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481421006,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725481421000%7C0%7C1725481421000%7C%7C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421006
+                    }
+                ]
+            },
+            "IR_gbd": {
+                "name": "IR_gbd",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481421005,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "footlocker.ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421004
+                    }
+                ]
+            },
+            "TEST_AMCV_COOKIE_WRITE": {
+                "name": "TEST_AMCV_COOKIE_WRITE",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481398793,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481398786
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481398794
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481405374
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481412293
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481412293
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481412294
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481417716
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481417716
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481417717
+                    }
+                ]
+            },
+            "__tld__": {
+                "name": "__tld__",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481418726,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481418725
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481418729
+                    }
+                ]
+            },
+            "_crbx": {
+                "name": "_crbx",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481421125,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017421,
+                        "expiry": 31536000,
+                        "value": "4QB_-UZkQQC_mIwADLgjRg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421124
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "4QB_-UZkQQC_mIwADLgjRg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481422161
+                    }
+                ]
+            },
+            "_crbx_tld_": {
+                "name": "_crbx_tld_",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481421112,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725481421110",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421111
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481419018,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041419.016471,
+                        "expiry": 34560000.01647091,
+                        "value": "GA1.1.335786988.1725481419",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481419018
+                    }
+                ]
+            },
+            "_ga_P17EJH61P2": {
+                "name": "_ga_P17EJH61P2",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481419017,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041419.016265,
+                        "expiry": 34560000.016264915,
+                        "value": "GS1.1.1725481419.1.0.1725481419.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481419017
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.18366003,
+                        "value": "GS1.1.1725481419.1.0.1725481423.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481423184
+                    }
+                ]
+            },
+            "_uetsid": {
+                "name": "_uetsid",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481418961,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567818,
+                        "expiry": 86400,
+                        "value": "91f0e5606afb11ef8330cb6e765f0eeb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481418960
+                    }
+                ]
+            },
+            "_uetvid": {
+                "name": "_uetvid",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481418961,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759177418,
+                        "expiry": 33696000,
+                        "value": "91f11db06afb11efa7cbe5080e138fbb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481418961
+                    }
+                ]
+            },
+            "at_check": {
+                "name": "at_check",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481417754,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481417754
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481417758
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481417933
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418756
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418894
+                    }
+                ]
+            },
+            "datadome": {
+                "name": "datadome",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481397935,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.362217903,
+                        "value": "DyWgaCmKBTfVuONo92EBq6TLmfZI8VnbDjxGAfzYRcBUlOfv9xCuTSfcNj5~adidlGmrzr3Jdkk2EE9GMqGmjAEi2CE_BU~Iwaetg2aOxuJe0MLiJzCG1u13ikbA7riP",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481405363
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.430907965,
+                        "value": "H8ahpQcnwVKzaftaEk74OsD_Omhn87DUaM33P9zy6QdMlMD0NgxT3lLggoubrpYNJ8NZcbiJW4d1HpWLknMa5Oc9TGL4shAxg0~5BFoPWBP6kZlO1kQydQsymk3TU5BG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481411432
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.684981108,
+                        "value": "H8ahpQcnwVKzaftaEk74Ossqej6wkGI022hSS_z8a7OEgYJ6VQ4scrKjIEAyjnafcWPfXUwHbRT3OYHrtBK9gn7X~qbHl0rkKhnaMbRJlne8GpJKfsp00zbZCCdMFEx0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481414685
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.336385965,
+                        "value": "IYeV2P~AHauedhhOdPgjfQ9iXEHib06yTktQHlYmil~6cYuxL7FbfC9e8BANmJM3vAzQ0AMmT9yzJXdvD0npUgXHqlMRJZZfCIrDponWLQI7dseI9kco6g5jKYQHr_Tm",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481415337
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.445128918,
+                        "value": "HX7nOQoP2B8qNkosPv3vVvBgpiMKHgGy_BnQ4PF6C257RlrLjiuoXtZVIhKZ1KcBEtcR8DVkytl_B1A3tl3R7VtN4TfUAozNjruewnoHHqoTQ4a5zNP039aGQWgSFjh4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481417445
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.114620924,
+                        "value": "3d0NmACYZxmdUvvCKiIe~VBD6fB8ltwIM7VETInxwe~YWA824bwIyuSu3XKSrh8wrmk0DS2Etpp4jRAcaae9WZEN~X2KT6hTKQjELxkiRtGKFSRZCMcnVUjomEw9_mET",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418120
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.13240695,
+                        "value": "fbwMwhpx3drQQA1bA9QuS1aCahzOb_wBW75JTjDp7YnP2K6QinX1mar2OHo84qFCg7EAeh2FreilWT1pNftfwNG78Xe~g5tmMgfoGgv1KvXo3tTgjwa31hcxCWU9EPAh",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418132
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.587817907,
+                        "value": "uqRMOW6XmnHxPqWDjaB1N0Mg5cI2DjSe9mmzxV27JyYuiDHozXB0Hc0F03Qi0WDyTQ50QcbzGKYCgBHtReO1yt2LTS3gD4CDie5miS1c8jR5YUtSvTEjf3lD5WEEmSk6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418588
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.03024292,
+                        "value": "~~bIb_mZuCNnI0HKykWHjnMtdaY6D7db3kdWv4qdkrRcGfEu3ceCdT07g5kPW3i24UbfOhH9Br56J1CBP~F2GsZjejsSn89m9rSVy8s55BFC7iX_wZ6ezl741Lz9AnwE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481420031
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.035099983,
+                        "value": "2TqLvjD6UqRFd4lDezQf82qS7uGTCRminvSFpWI0goMijKLNuqVf7ugUhX7MPXrf9gHeWSdo5oxRYvVS8gEvOxtrqCqZMMpeh97SRu5mAXgpHtthwNX_7wCfMp_hIuqZ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481420035
+                    }
+                ]
+            },
+            "mbox": {
+                "name": "mbox",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481417757,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1861,
+                        "value": "session#f6d344b403c94168bd6a3feb11fe36b5#1725483278",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481417766
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1861,
+                        "value": "session#f6d344b403c94168bd6a3feb11fe36b5#1725483278",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481417933
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.751019,
+                        "value": "session#f6d344b403c94168bd6a3feb11fe36b5#1725483278|PC#f6d344b403c94168bd6a3feb11fe36b5.35_0#1788726219",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418751
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.75571489,
+                        "value": "session#f6d344b403c94168bd6a3feb11fe36b5#1725483279|PC#f6d344b403c94168bd6a3feb11fe36b5.35_0#1788726219",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418757
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.75780296,
+                        "value": "session#f6d344b403c94168bd6a3feb11fe36b5#1725483279|PC#f6d344b403c94168bd6a3feb11fe36b5.35_0#1788726219",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418759
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.76164603,
+                        "value": "session#f6d344b403c94168bd6a3feb11fe36b5#1725483279|PC#f6d344b403c94168bd6a3feb11fe36b5.35_0#1788726219",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418765
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.891243935,
+                        "value": "session#f6d344b403c94168bd6a3feb11fe36b5#1725483279|PC#f6d344b403c94168bd6a3feb11fe36b5.35_0#1788726219",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418892
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.89328003,
+                        "value": "session#f6d344b403c94168bd6a3feb11fe36b5#1725483279|PC#f6d344b403c94168bd6a3feb11fe36b5.35_0#1788726219",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418894
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.895239115,
+                        "value": "session#f6d344b403c94168bd6a3feb11fe36b5#1725483279|PC#f6d344b403c94168bd6a3feb11fe36b5.35_0#1788726219",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418895
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.92021704,
+                        "value": "session#f6d344b403c94168bd6a3feb11fe36b5#1725483279|PC#f6d344b403c94168bd6a3feb11fe36b5.35_0#1788726219",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418920
+                    }
+                ]
+            },
+            "mboxEdgeCluster": {
+                "name": "mboxEdgeCluster",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481418753,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725483278,
+                        "expiry": 1860,
+                        "value": "35",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418753
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1860,
+                        "value": "35",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418759
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1860,
+                        "value": "35",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418892
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1860,
+                        "value": "35",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481418894
+                    }
+                ]
+            },
+            "mp_footlocker_ca_mixpanel": {
+                "name": "mp_footlocker_ca_mixpanel",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481421413,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017421,
+                        "expiry": 31536000,
+                        "value": "%7B%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421412
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421413
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22distinct_id%22%3A%20%22191beb50a64233e-04d313b7fbea8e-17525637-1fa400-191beb50a6528c1%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421414
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22distinct_id%22%3A%20%22191beb50a64233e-04d313b7fbea8e-17525637-1fa400-191beb50a6528c1%22%2C%22bc_persist_updated%22%3A%201725481421414%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421415
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22distinct_id%22%3A%20%22191beb50a64233e-04d313b7fbea8e-17525637-1fa400-191beb50a6528c1%22%2C%22bc_persist_updated%22%3A%201725481421426%2C%22event_lang%22%3A%20%22en%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421427
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22distinct_id%22%3A%20%22191beb50a64233e-04d313b7fbea8e-17525637-1fa400-191beb50a6528c1%22%2C%22bc_persist_updated%22%3A%201725481421426%2C%22event_lang%22%3A%20%22en%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421427
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22distinct_id%22%3A%20%22191beb50a64233e-04d313b7fbea8e-17525637-1fa400-191beb50a6528c1%22%2C%22bc_persist_updated%22%3A%201725481421426%2C%22event_lang%22%3A%20%22en%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421428
+                    }
+                ]
+            },
+            "rl_anonymous_id": {
+                "name": "rl_anonymous_id",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481418739,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017418,
+                        "expiry": 31536000,
+                        "value": "RudderEncrypt%3AU2FsdGVkX18ykjZWHidy4ncRfSYQ7vYOyCTVt0fsX1QifSA4KFVdIo65GzJcgZ0pa4mzcBdl6BJhvnyXqxFVrw%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725481418737
+                    }
+                ]
+            },
+            "rl_group_id": {
+                "name": "rl_group_id",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481418735,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017418,
+                        "expiry": 31536000,
+                        "value": "RudderEncrypt%3AU2FsdGVkX18L81Y8xiygXfFNsHeLcNpMBlobt2OaCTE%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725481418734
+                    }
+                ]
+            },
+            "rl_group_trait": {
+                "name": "rl_group_trait",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481418736,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017418,
+                        "expiry": 31536000,
+                        "value": "RudderEncrypt%3AU2FsdGVkX18MnG5pgmm2NCU2w%2BSCqmiwojkqH5%2F734U%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725481418735
+                    }
+                ]
+            },
+            "rl_page_init_referrer": {
+                "name": "rl_page_init_referrer",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481418739,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017418,
+                        "expiry": 31536000,
+                        "value": "RudderEncrypt%3AU2FsdGVkX1%2B9fhKRwWPpBOjM7bDmy%2B2c7Yv76MUCPiJJd7qeTmJiBrYSf8fEHJpb",
+                        "same_site": "lax",
+                        "timestamp": 1725481418739
+                    }
+                ]
+            },
+            "rl_page_init_referring_domain": {
+                "name": "rl_page_init_referring_domain",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481418740,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017418,
+                        "expiry": 31536000,
+                        "value": "RudderEncrypt%3AU2FsdGVkX19eWnoAwSJ%2BZe8DU9yWK2b6%2B7Qv%2B08c6gWkTBCzs%2Bto02g1Srf4uMVt",
+                        "same_site": "lax",
+                        "timestamp": 1725481418739
+                    }
+                ]
+            },
+            "rl_session": {
+                "name": "rl_session",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481418731,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017418,
+                        "expiry": 31536000,
+                        "value": "RudderEncrypt%3AU2FsdGVkX1%2FobaaganIvPkKalsgeqVM%2B4h5%2FR33qWbIQbxIZKijDrvVvBCj0LdyM7TYCDriea0n1dSvNNbN%2BAfUOKNQmu0fZ8Q6gb4DA3x2Ol9jVs9TMWcqEYIQkVjAddJsZnRSubKhCqEXa6UlHJg%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725481418730
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "RudderEncrypt%3AU2FsdGVkX1%2FKRp6zx%2BQMXYZ%2FhIYauMBZ2nR5uIKW%2BEc374WgXHtZrpgZaIVTz2BUkamv7UFOtd0regdJJy%2FPIMp3FL1654akk5gSFk%2FUfHe8MRHNcFu7OHAiIdorPOJ41%2Bn27ijAQGoKXquPXa5bSQ%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725481419573
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "RudderEncrypt%3AU2FsdGVkX19eLc5Bw1%2BVkR5szpRLKE9ymdk2Bk8d8cobAzpHb0%2B3Y9q1WBevsT4zneZrUpFXfcTxiFrSX486oLHGwNMKzWugFQVxvCRw5dusyfiZiPy0hC%2Bh0dtQGoshAi9xjS8CXmqjZdOILds3Rg%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725481419579
+                    }
+                ]
+            },
+            "rl_trait": {
+                "name": "rl_trait",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481418734,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017418,
+                        "expiry": 31536000,
+                        "value": "RudderEncrypt%3AU2FsdGVkX18Fv4G4YVPwygZ17oYWKMc6abcj0IdN2V0%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725481418734
+                    }
+                ]
+            },
+            "rl_user_id": {
+                "name": "rl_user_id",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481418733,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017418,
+                        "expiry": 31536000,
+                        "value": "RudderEncrypt%3AU2FsdGVkX1825nBi2GRa0mN3Dv3viNz2f5zwyYQO77Y%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725481418732
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481400260,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481400259
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481405893
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481414726
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481418137
+                    }
+                ]
+            },
+            "s_lv": {
+                "name": "s_lv",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481418135,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041418.134838,
+                        "expiry": 34560000.134838104,
+                        "value": "1725481418134",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481418135
+                    }
+                ]
+            },
+            "s_lv_s": {
+                "name": "s_lv_s",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481418136,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725483218,
+                        "expiry": 1800,
+                        "value": "First%20Visit",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481418136
+                    }
+                ]
+            },
+            "s_pr_tbe65": {
+                "name": "s_pr_tbe65",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481418137,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725481418135",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481418136
+                    }
+                ]
+            },
+            "test_rudder_cookie": {
+                "name": "test_rudder_cookie",
+                "domain": ".footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481418728,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017418,
+                        "expiry": 31536000,
+                        "value": "true",
+                        "same_site": "lax",
+                        "timestamp": 1725481418727
+                    }
+                ]
+            },
+            "Cookie-Test": {
+                "name": "Cookie-Test",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481417759,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481417759
+                    }
+                ]
+            },
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481418116,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "97ef89b6-d1b6-4a2f-a05a-7176838a8bc3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481418115
+                    }
+                ]
+            },
+            "ZGWID": {
+                "name": "ZGWID",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481418120,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eyJhbGciOiJIUzUxMiJ9.eyJndWVzdElkIjoiYzNmMWMxYzEtNzJkMy00ODFlLWJhZTEtOWI1MjBjNzU3NjJmIiwiaWF0IjoxNzI1NDgxNDE3LCJleHAiOjE3NTcwMTc0MTd9.3Hr_Ne1sdb3B2lZb2IvcLuNKH7c3-JORJJb-B7QxBo8wElkH_0nXODNJDYc_sw0szz7UnwiAevpKfVTrPJksBQ",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481418117
+                    }
+                ]
+            },
+            "__attentive_cco": {
+                "name": "__attentive_cco",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481421134,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041421.131969,
+                        "expiry": 34560000.131968975,
+                        "value": "1725481421131",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421133
+                    }
+                ]
+            },
+            "__attentive_dv": {
+                "name": "__attentive_dv",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481421986,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725567821,
+                        "expiry": 86400,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421985
+                    }
+                ]
+            },
+            "__attentive_id": {
+                "name": "__attentive_id",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481421133,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041421.131758,
+                        "expiry": 34560000.131757975,
+                        "value": "054e954166fc4500aa0eb5b2b9ede8d1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421133
+                    }
+                ]
+            },
+            "__attentive_pv": {
+                "name": "__attentive_pv",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481421290,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725483221,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421289
+                    }
+                ]
+            },
+            "__attentive_ss_referrer": {
+                "name": "__attentive_ss_referrer",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481421291,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725483221,
+                        "expiry": 1800,
+                        "value": "https://www.footlocker.ca/",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421291
+                    }
+                ]
+            },
+            "_attn_": {
+                "name": "_attn_",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481421131,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041421.13031,
+                        "expiry": 34560000.13031006,
+                        "value": "e30=",
+                        "same_site": "strict",
+                        "timestamp": 1725481421130
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.131042,
+                        "value": "eyJ1Ijoie1wiY29cIjoxNzI1NDgxNDIxMTMwLFwidW9cIjoxNzI1NDgxNDIxMTMwLFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjA1NGU5NTQxNjZmYzQ1MDBhYTBlYjViMmI5ZWRlOGQxXCJ9In0=",
+                        "same_site": "strict",
+                        "timestamp": 1725481421133
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.13287997,
+                        "value": "eyJ1Ijoie1wiY29cIjoxNzI1NDgxNDIxMTMwLFwidW9cIjoxNzI1NDgxNDIxMTMwLFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjA1NGU5NTQxNjZmYzQ1MDBhYTBlYjViMmI5ZWRlOGQxXCJ9In0=",
+                        "same_site": "strict",
+                        "timestamp": 1725481421135
+                    }
+                ]
+            },
+            "_mibhv": {
+                "name": "_mibhv",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481420988,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017420,
+                        "expiry": 31536000,
+                        "value": "anon-1725481420983-6027299363_6177",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481420986
+                    }
+                ]
+            },
+            "bc_invalidateUrlCache_targeting": {
+                "name": "bc_invalidateUrlCache_targeting",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481421472,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482021,
+                        "expiry": 600,
+                        "value": "1725481421470",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481421471
+                    }
+                ]
+            },
+            "bluecoreNV": {
+                "name": "bluecoreNV",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481422167,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1755481422,
+                        "expiry": 30000000,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481422165
+                    }
+                ]
+            },
+            "dd_testcookie": {
+                "name": "dd_testcookie",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481416204,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1725481416203
+                    }
+                ]
+            },
+            "userStatus": {
+                "name": "userStatus",
+                "domain": "www.footlocker.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481418126,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "guest",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481418125
+                    }
+                ]
+            }
+        }
+    },
+    "mathtag.com": {
+        "/": {
+            "uuid": {
+                "name": "uuid",
+                "domain": ".mathtag.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481422282,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759436622.279992,
+                        "expiry": 33955200.2799921,
+                        "value": "7b1a66d8-c1ce-4b00-a8c9-b1bc529b25be",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481422281
+                    }
+                ]
+            }
+        }
+    },
+    "c212.net": {
+        "/c": {
+            "c": {
+                "name": "c",
+                "domain": "c212.net",
+                "path": "/c",
+                "current_label": 0,
+                "label_ts": 1725481421547,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741465421.545415,
+                        "expiry": 15984000.545414925,
+                        "value": "0%3A7fffffff%3Ae4bc2475%3A66d8c1cd%3Ae786",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481421546
+                    }
+                ]
+            }
+        }
+    }
+}

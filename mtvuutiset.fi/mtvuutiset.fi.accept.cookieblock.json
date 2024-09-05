@@ -1,0 +1,540 @@
+{
+    "adform.net": {
+        "/": {
+            "C": {
+                "name": "C",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474178847,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728066178.844589,
+                        "expiry": 2592000.844588995,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474178845
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474179061,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730658179.057997,
+                        "expiry": 5184000.057996988,
+                        "value": "4311164494946889202",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474179058
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474179193,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250179.190384,
+                        "expiry": 7776000.190383911,
+                        "value": "BPwL7fVJtge08aOTV25FyW04-l_MOvWhPNN-zeVfAvmEZy26CY3xbCZXEnbSC0KjIdcYm3Xa_FsErDstlzBHA3oclC47RhXps7S9D04KxXw.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474179191
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474179196,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250179.190454,
+                        "expiry": 7776000.190454006,
+                        "value": "ChgIvIVREAoYASABKAEwg8vitgY4AUABSAEQg8vitgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474179194
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474179197,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760034179.190531,
+                        "expiry": 34560000.190531015,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474179196
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474179198,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250179.190858,
+                        "expiry": 7776000.190857887,
+                        "value": "7199180118252558604",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474179197
+                    }
+                ]
+            }
+        }
+    },
+    "mtvuutiset.fi": {
+        "/": {
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".mtvuutiset.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474179188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474209,
+                        "expiry": 30,
+                        "value": "m0o6rxiok6dh6f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474179186
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6rxj2mxhvls",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474179199
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6rxk2n0wjx",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474179236
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o6rxwq4ww6jy",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474179692
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".mtvuutiset.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474179235,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602179,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0o6rxj47rt8jebz%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725474179234
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".mtvuutiset.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474179206,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602179,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1725474179205
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOBmAdgBZuABgCc3fgA4hE-gDYArGIkgAvkA",
+                        "same_site": "lax",
+                        "timestamp": 1725474179233
+                    }
+                ]
+            },
+            "_rdc1725474178360": {
+                "name": "_rdc1725474178360",
+                "domain": ".mtvuutiset.fi",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474178361,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725474188,
+                        "expiry": 10,
+                        "value": "writeable",
+                        "same_site": "lax",
+                        "timestamp": 1725474178360
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".mtvuutiset.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474179238,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602179,
+                        "expiry": 34128000,
+                        "value": "m0o6rxj47rt8jebz",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474179236
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0o6rxj47rt8jebz",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474179692
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".www.mtvuutiset.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474177009,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010177,
+                        "expiry": 31536000,
+                        "value": "2024-09-04T18:22:57.005Z",
+                        "same_site": "lax",
+                        "timestamp": 1725474177005
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".www.mtvuutiset.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474169607,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010169,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A22%3A49+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1725474169607
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A22%3A49+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725474169656
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A22%3A49+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db250c8a-f973-4912-b230-d82fd42c5251",
+                        "same_site": "lax",
+                        "timestamp": 1725474169657
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A22%3A49+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db250c8a-f973-4912-b230-d82fd42c5251&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1725474169657
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A22%3A49+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db250c8a-f973-4912-b230-d82fd42c5251&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.mtvuutiset.fi%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725474169660
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A22%3A49+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db250c8a-f973-4912-b230-d82fd42c5251&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.mtvuutiset.fi%2F&groups=1%3A1%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2CV2STACK8%3A0%2CV2STACK16%3A0%2CV2STACK1%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725474169848
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A22%3A57+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db250c8a-f973-4912-b230-d82fd42c5251&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A1%2C5%3A1%2CV2STACK8%3A1%2CV2STACK16%3A1%2CV2STACK1%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725474177010
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A22%3A57+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db250c8a-f973-4912-b230-d82fd42c5251&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A1%2C5%3A1%2CV2STACK8%3A1%2CV2STACK16%3A1%2CV2STACK1%3A1&intType=1",
+                        "same_site": "lax",
+                        "timestamp": 1725474177048
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".www.mtvuutiset.fi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474177047,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010177,
+                        "expiry": 31536000,
+                        "value": "CQEa0TAQEa0TAAcABBFIBFFsAP_gAEPgAApAJtQMIAFAAWABAACoAGQAPAAgABaADIAGgAPgAiwBMAE4AKgAWwAvgBhADeAHMAQEAgwCEAE0AKAAXAA0QB-gEIAIiARQAjoBIgCdgFZAMCAYoAzgCNQExAJlAVYAt4BdIC8wGMgMsAamA-ICMwE2gS4gQAALAAqAB4AEAAMgAaABMADeAH4AQgAmgBogD9AIQAREAigBFgCOgEiAMUAZ8A-wCYoEyATKAqwBbIC8wGCAMsAamA-ICXAAAAAA.f_wACHwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725474177042
+                    }
+                ]
+            }
+        }
+    },
+    "rubiconproject.com": {
+        "/": {
+            "audit": {
+                "name": "audit",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474179219,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010179.215191,
+                        "expiry": 31536000.215190887,
+                        "value": "1|bkkeSz5hU3yO6GbhKlWf6EtAdO6oL148m+3XSeM+WCPZQCHkKur5UocRnbDQgbekHoh1jueyC5rgcRgjl6Eitf+nWDDXqsD4sGVqGogRQkwlB70RZeVeBxArhpP6YZSI3oH4/T0Ymb5y0jXo6dgBg9NK2W1wCAyXeEnT3LVnlOcJ3goNZFFmjngWZupJmLqNJM7YR60NtZe3z6NlIzZBH2SHgbm4TeZiBOMk5CK3wdoSRU83Gn+hptvyzvbdRttO+TpM42+FULmIfawWD5uV3NqLfpFq09hst4ittyjPOyjMYM2e4x9j9H83rSvaZkPQfGf3OGwew5AyqI98+U0L5xzB2sChCSYEnwqpI3sn4W7fJvIQjQalDsUlPrp4yuEGOo3LgogoBA5+yCizONg7eqmRfXjJCmOlNA67UF5OMvFhnDFDiuPPHPN3oGJ4uZayRHwIRRhGDxQ1rkZ+RYIBwUSA2eHlQmmiMAzWyOFqtIRalOUYctRmHr7FQD2yB//h40Qpx8nGAQE=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474179218
+                    }
+                ]
+            },
+            "khaos": {
+                "name": "khaos",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474179217,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010179.21516,
+                        "expiry": 31536000.215159893,
+                        "value": "M0O6RXHR-12-5XF1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474179215
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474178323,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741026178.322609,
+                        "expiry": 15552000.322608948,
+                        "value": "ikTYlAvJPFc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474178323
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474178324,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741026178.322646,
+                        "expiry": 15552000.322645903,
+                        "value": "CgJVUxIEGgAgUQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474178323
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474178323,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "8VmdR77ppJM",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474178323
+                    }
+                ]
+            }
+        }
+    }
+}

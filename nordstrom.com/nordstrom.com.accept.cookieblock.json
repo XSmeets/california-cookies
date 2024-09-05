@@ -1,0 +1,2080 @@
+{
+    "app.link": {
+        "/": {
+            "_s": {
+                "name": "_s",
+                "domain": ".app.link",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480764088,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016764.087272,
+                        "expiry": 31536000.08727193,
+                        "value": "C5DJZZkBAB8ekTvCJrk67AyEel4l4IWMS%2B68apGFY%2F5I8RFoQ2N38%2BJEJ12rDWUF",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764087
+                    }
+                ]
+            }
+        }
+    },
+    "bat.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".bat.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480764187,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726085565.185889,
+                        "expiry": 604801.1858890057,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764187
+                    }
+                ]
+            }
+        }
+    },
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480764186,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759176765.185848,
+                        "expiry": 33696001.185848,
+                        "value": "378FF6875AB96F050EB3E2775B2B6ED2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764186
+                    }
+                ]
+            }
+        }
+    },
+    "ct.pinterest.com": {
+        "/": {
+            "_pinterest_ct_ua": {
+                "name": "_pinterest_ct_ua",
+                "domain": ".ct.pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480765020,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016765.019254,
+                        "expiry": 31536000.01925397,
+                        "value": "\"TWc9PSZQa0Z3V3p4TXFxcG1jc3N0V0FkYlJEM3ArcjgxQ0xQbjA2bnRhNzF4UXg0aFdJQ2o3NXZtQno5SU5TQmYzWGhwaFdycXNZZG51YStSVDd0YWlYZDB3eVF5blM0ZisyQXlLczJTYUhFL1VDZz0mWk8vcG9CZ0dCaCtKdnVLSGFMSEt3TVhOejNNPQ==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480765019
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480764345,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040764.344337,
+                        "expiry": 34560000.34433699,
+                        "value": "AHWqTUmokZ6-M2xCr6iO7HEHKJGs9lvMk10qKbTgfnVJz4QZ4gbqI4stLiwdiRvX7o8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764344
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480764161,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728072764.160455,
+                        "expiry": 2592000.1604549885,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764160
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.5976219177,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480765598
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480764346,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741032764.344398,
+                        "expiry": 15552000.344398022,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764346
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.931328058,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480765934
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480763887,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481663.886122,
+                        "expiry": 900.8861219882965,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763886
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.9499928951263,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763950
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.0364799499512,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764036
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.041708946228,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764042
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.0554869174957,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764057
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.0606000423431,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764061
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.0641129016876,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764065
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.074273109436,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764075
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.0847890377045,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764086
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.1604969501495,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764161
+                    }
+                ]
+            }
+        }
+    },
+    "nordstrom.com": {
+        "/": {
+            "Ad34bsY56": {
+                "name": "Ad34bsY56",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480757995,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040757.981739,
+                        "expiry": 34560000.981739044,
+                        "value": "A0Hqqr6RAQAAHvvhsUytV6i8wePguBlZgeLzBbv1NqKdFf7PD5fGjhCrLAtMAS2EnxuucngSwH9eCOfvosJeCA|1|0|075e66c842834c554264fc119555ea98d9cc678e",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480757987
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34559999.996006966,
+                        "value": "A0Hqqr6RAQAAHvvhsUytV6i8wePguBlZgeLzBbv1NqKdFf7PD5fGjhCrLAtMAS2EnxuucngSwH9eCOfvosJeCA|1|1|a379b2005c87ff850d43e7c9b822ac918d2cb3e4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759026
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.00967789,
+                        "value": "A0Hqqr6RAQAAHvvhsUytV6i8wePguBlZgeLzBbv1NqKdFf7PD5fGjhCrLAtMAS2EnxuucngSwH9eCOfvosJeCA|1|1|a379b2005c87ff850d43e7c9b822ac918d2cb3e4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480760010
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.604398966,
+                        "value": "A0Hqqr6RAQAAHvvhsUytV6i8wePguBlZgeLzBbv1NqKdFf7PD5fGjhCrLAtMAS2EnxuucngSwH9eCOfvosJeCA|1|0|075e66c842834c554264fc119555ea98d9cc678e",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480760604
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.97802591,
+                        "value": "A0Hqqr6RAQAAHvvhsUytV6i8wePguBlZgeLzBbv1NqKdFf7PD5fGjhCrLAtMAS2EnxuucngSwH9eCOfvosJeCA|1|0|075e66c842834c554264fc119555ea98d9cc678e",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764978
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.01115203,
+                        "value": "A0Hqqr6RAQAAHvvhsUytV6i8wePguBlZgeLzBbv1NqKdFf7PD5fGjhCrLAtMAS2EnxuucngSwH9eCOfvosJeCA|1|0|075e66c842834c554264fc119555ea98d9cc678e",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480765011
+                    }
+                ]
+            },
+            "FPID": {
+                "name": "FPID",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480764012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040764.011977,
+                        "expiry": 34560000.01197696,
+                        "value": "FPID2.2.nQaW6KaMZE5IGNBkJwNClwnnnv0knRyMkGmPeLO6%2FSE%3D.1725480764",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764012
+                    }
+                ]
+            },
+            "FPLC": {
+                "name": "FPLC",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480764013,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725552764.011996,
+                        "expiry": 72000.01199603081,
+                        "value": "leCLZ7L5Yjnof0c7S84gZhMP4hJb8kwOjUi4egbPMq40EmuYshLs93NEjyhjFZosnoZrATOW4erfuIrcKzjBR3JHR9Mpr%2FUSPSkY1ChxWaHsCfh%2FdeTZqiyyro5Rrg%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764012
+                    }
+                ]
+            },
+            "IR_23920": {
+                "name": "IR_23920",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480763732,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725480763442%7C5261518%7C1725480763442%7C%7C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763732
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725480763442%7C5261518%7C1725480763442%7C%7C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764683
+                    }
+                ]
+            },
+            "IR_PI": {
+                "name": "IR_PI",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480764682,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040764.681683,
+                        "expiry": 34560000.68168306,
+                        "value": "0baab689-6afa-11ef-95ce-e752e0185da2%7C1725480763442",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764682
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.80863404,
+                        "value": "0baab689-6afa-11ef-95ce-e752e0185da2%7C1725480763442",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764809
+                    }
+                ]
+            },
+            "IR_gbd": {
+                "name": "IR_gbd",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480763727,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "nordstrom.com",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763726
+                    }
+                ]
+            },
+            "Tld-kampyleSessionPageCounter": {
+                "name": "Tld-kampyleSessionPageCounter",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480766761,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016766,
+                        "expiry": 31536000,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480766760
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480766764
+                    }
+                ]
+            },
+            "Tld-kampyleUserPercentile": {
+                "name": "Tld-kampyleUserPercentile",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480766767,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016766,
+                        "expiry": 31536000,
+                        "value": "1.9901375474209448",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480766766
+                    }
+                ]
+            },
+            "Tld-kampyleUserSession": {
+                "name": "Tld-kampyleUserSession",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480766760,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016766,
+                        "expiry": 31536000,
+                        "value": "1725480766759",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480766760
+                    }
+                ]
+            },
+            "Tld-kampyleUserSessionsCount": {
+                "name": "Tld-kampyleUserSessionsCount",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480766762,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016766,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480766761
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480763932,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741032763,
+                        "expiry": 15552000,
+                        "value": "ID=9ccd1a308525ba95:T=1725480763:RT=1725480763:S=AA-AfjYZ9iU_8uCpb3tUrziiP5gj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763931
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480763929,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759176763,
+                        "expiry": 33696000,
+                        "value": "ID=565f74cefc87fc82:T=1725480763:RT=1725480763:S=ALNI_MatC4OR_Dx-UjRORCo6kfDHrgoAbw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763928
+                    }
+                ]
+            },
+            "__podscribe_did": {
+                "name": "__podscribe_did",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480763557,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016763,
+                        "expiry": 31536000,
+                        "value": "pscrb_2805e803-ba29-44a2-e4fb-06606bbfc34b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763556
+                    }
+                ]
+            },
+            "__podscribe_nordstrom_landing_url": {
+                "name": "__podscribe_nordstrom_landing_url",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480763556,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016763,
+                        "expiry": 31536000,
+                        "value": "https://www.nordstrom.com/",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763556
+                    }
+                ]
+            },
+            "__podscribe_nordstrom_referrer": {
+                "name": "__podscribe_nordstrom_referrer",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480763555,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016763,
+                        "expiry": 31536000,
+                        "value": "_",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763554
+                    }
+                ]
+            },
+            "__tc_xazF3__": {
+                "name": "__tc_xazF3__",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480764011,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "495418287",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764011
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480763816,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733256763,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725480763815.79861081699780048",
+                        "same_site": "lax",
+                        "timestamp": 1725480763816
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725480763815.79861081699780048",
+                        "same_site": "lax",
+                        "timestamp": 1725480763817
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480763591,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040763.589654,
+                        "expiry": 34560000.58965397,
+                        "value": "GA1.1.1511133349.1725480764",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763591
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.6427269,
+                        "value": "GA1.1.1511133349.1725480764",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763643
+                    }
+                ]
+            },
+            "_ga_11111111": {
+                "name": "_ga_11111111",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480763590,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040763.589344,
+                        "expiry": 34560000.589344025,
+                        "value": "GS1.1.1725480763.1.0.1725480763.0.0.356296661",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763590
+                    }
+                ]
+            },
+            "_ga_FFQMSLD0QC": {
+                "name": "_ga_FFQMSLD0QC",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480763642,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760040763.641717,
+                        "expiry": 34560000.64171696,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763642
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.642441034,
+                        "value": "GS1.1.1725480763.1.0.1725480763.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763643
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.96405411,
+                        "value": "GS1.1.1725480763.1.0.1725480763.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763964
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.053725004,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480765054
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.053967,
+                        "value": "GS1.1.1725480763.1.0.1725480765.58.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480765054
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480759945,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733256759,
+                        "expiry": 7776000,
+                        "value": "1.1.2099214312.1725480760",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759945
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775997,
+                        "value": "1.1.2099214312.1725480760",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763453
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775997,
+                        "value": "1.1.2099214312.1725480760",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763498
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775997,
+                        "value": "1.1.2099214312.1725480760",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763564
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775995,
+                        "value": "1.1.2099214312.1725480760",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480765444
+                    }
+                ]
+            },
+            "_imp_apg_r_": {
+                "name": "_imp_apg_r_",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480764014,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728072764.012301,
+                        "expiry": 2592000.012300968,
+                        "value": "%7B%22c%22%3A%20%22YjNYSVF6WDl4dkpaUG5kdw%3D%3Dyd20u9GXP0pgdpmIDkG7_06O7eT6qe7KiZXkMvk9z1u0OsLb3DVqyQLZyyBWRLz4PYCGxNdZbSDPYz5mHN2CcHx2O6Y7XyvJ7PBXklqxa6fVh4S_Mg%3D%3D%22%2C%20%22dc%22%3A%200%2C%20%22mf%22%3A%200%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764013
+                    }
+                ]
+            },
+            "_pin_unauth": {
+                "name": "_pin_unauth",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480764686,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016764,
+                        "expiry": 31536000,
+                        "value": "dWlkPVlqWXpaVGswT1dVdE1qWmpaaTAwTXpCbExXSXpaamN0WmprME1qVTFNemhqTXpCbQ",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764685
+                    }
+                ]
+            },
+            "_tt_enable_cookie": {
+                "name": "_tt_enable_cookie",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480764005,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759176764,
+                        "expiry": 33696000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764004
+                    }
+                ]
+            },
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480764006,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759176764,
+                        "expiry": 33696000,
+                        "value": "JsBSOvrYAATf7EEETcgex38Soba",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764005
+                    }
+                ]
+            },
+            "_uetsid": {
+                "name": "_uetsid",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480764014,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567164,
+                        "expiry": 86400,
+                        "value": "0b901dd06afa11ef8f86f709364dace9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764014
+                    }
+                ]
+            },
+            "_uetvid": {
+                "name": "_uetvid",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480764015,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759176764,
+                        "expiry": 33696000,
+                        "value": "0b900c606afa11ef8237fb48386b7bb5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764015
+                    }
+                ]
+            },
+            "experiments": {
+                "name": "experiments",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480759025,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040758.995594,
+                        "expiry": 34559999.995594025,
+                        "value": "ExperimentId=bbd9e780-ef24-437e-bfef-5e98237defae",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759024
+                    }
+                ]
+            },
+            "forterToken": {
+                "name": "forterToken",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480759320,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760040759,
+                        "expiry": 34560000,
+                        "value": "b8a0bca32c7444648f02bfd1ed46ff11_1725480759317___17ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759319
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "b8a0bca32c7444648f02bfd1ed46ff11_1725480759317__UDF4_17ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480760389
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "b8a0bca32c7444648f02bfd1ed46ff11_1725480759317__UDF43_17ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480760396
+                    }
+                ]
+            },
+            "ftr_blst_1h": {
+                "name": "ftr_blst_1h",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480763212,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725485083,
+                        "expiry": 4320,
+                        "value": "1725480763211",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763212
+                    }
+                ]
+            },
+            "mp_nordstrom_com_mixpanel": {
+                "name": "mp_nordstrom_com_mixpanel",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480763616,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757016763,
+                        "expiry": 31536000,
+                        "value": "%7B%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763616
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763617
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22distinct_id%22%3A%20%22191beab00e016de-035fde75b025-17525637-1fa400-191beab00e1df1%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763618
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "%7B%22distinct_id%22%3A%20%22191beab00e016de-035fde75b025-17525637-1fa400-191beab00e1df1%22%2C%22bc_persist_updated%22%3A%201725480763619%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763619
+                    }
+                ]
+            },
+            "n.com_shopperId": {
+                "name": "n.com_shopperId",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480759956,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728072759,
+                        "expiry": 2592000,
+                        "value": "cbad7398d2f3444d8e3362f75db044cc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480759955
+                    }
+                ]
+            },
+            "pageviewCount": {
+                "name": "pageviewCount",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725480759957,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482559,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759956
+                    }
+                ]
+            },
+            "trx": {
+                "name": "trx",
+                "domain": ".nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480763595,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016763.594662,
+                        "expiry": 31536000.59466195,
+                        "value": "5598211838826971205",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763594
+                    }
+                ]
+            },
+            "Bd34bsY56": {
+                "name": "Bd34bsY56",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480759026,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757037710.995799,
+                        "expiry": 31556951.995799065,
+                        "value": "Aw3tqr6RAQAAWjOkNM1tO6A7pzSj2F_dkChlNfzSJBO6INdGgev0i0G5M1ftAS2EnxuucngSwH9eCOfvosJeCA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759025
+                    }
+                ]
+            },
+            "audience": {
+                "name": "audience",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480759006,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759608758.993803,
+                        "expiry": 34128000.993803024,
+                        "value": "audiences=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480758996
+                    }
+                ]
+            },
+            "bc_invalidateUrlCache_targeting": {
+                "name": "bc_invalidateUrlCache_targeting",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480763743,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481363,
+                        "expiry": 600,
+                        "value": "1725480763742",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763742
+                    }
+                ]
+            },
+            "bluecoreNV": {
+                "name": "bluecoreNV",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480764687,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1755480764,
+                        "expiry": 30000000,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480764686
+                    }
+                ]
+            },
+            "client": {
+                "name": "client",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480759761,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040759.760331,
+                        "expiry": 34560000.760330915,
+                        "value": "viewport=5_XLARGE",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759760
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.3684299,
+                        "value": "viewport=5_XLARGE",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763368
+                    }
+                ]
+            },
+            "internationalshippref": {
+                "name": "internationalshippref",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480759011,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040758.994728,
+                        "expiry": 34559999.99472809,
+                        "value": "preferredcountry=US&preferredcurrency=USD&preferredcountryname=United%20States",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759009
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.67314601,
+                        "value": "preferredcountry=US&preferredcurrency=USD&preferredcountryname=United%20States",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759673
+                    }
+                ]
+            },
+            "kampyle_userid": {
+                "name": "kampyle_userid",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480766755,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016766,
+                        "expiry": 31536000,
+                        "value": "92fa-9300-a63e-1bc6-a195-15a3-a9e4-8c69",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480766755
+                    }
+                ]
+            },
+            "mdLogger": {
+                "name": "mdLogger",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480766754,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016766,
+                        "expiry": 31536000,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480766753
+                    }
+                ]
+            },
+            "no-track": {
+                "name": "no-track",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480759012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040758.994797,
+                        "expiry": 34559999.99479699,
+                        "value": "ccpa=false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759011
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.674005985,
+                        "value": "ccpa=false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759674
+                    }
+                ]
+            },
+            "nordstrom": {
+                "name": "nordstrom",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480759015,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040758.994861,
+                        "expiry": 34559999.99486089,
+                        "value": "bagcount=0&firstname=&ispinned=False&isSocial=False&shopperattr=||0|False|-1&shopperid=cbad7398d2f3444d8e3362f75db044cc&USERNAME=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759012
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.67365289,
+                        "value": "bagcount=0&firstname=&ispinned=False&isSocial=False&shopperattr=||0|False|-1&shopperid=cbad7398d2f3444d8e3362f75db044cc&USERNAME=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759673
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.01444006,
+                        "value": "bagcount=0&firstname=&ispinned=False&isSocial=False&shopperattr=||0|False|-1&shopperid=cbad7398d2f3444d8e3362f75db044cc&USERNAME=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480760014
+                    }
+                ]
+            },
+            "nui": {
+                "name": "nui",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480759016,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040758.994936,
+                        "expiry": 34559999.99493599,
+                        "value": "firstVisit=2024-09-04T20%3A12%3A38.641Z&geoLocation=&isModified=false&lme=false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759015
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.674352884,
+                        "value": "firstVisit=2024-09-04T20%3A12%3A38.641Z&geoLocation=&isModified=false&lme=false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759674
+                    }
+                ]
+            },
+            "rfx-forex-rate": {
+                "name": "rfx-forex-rate",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480759008,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725484358.994588,
+                        "expiry": 3599.9945878982544,
+                        "value": "currencyCode=USD&exchangeRate=1&quoteId=0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759007
+                    }
+                ]
+            },
+            "session": {
+                "name": "session",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480759017,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "FILTERSTATE=&RESULTBACK=&RETURNURL=http%3A%2F%2Fshop.nordstrom.com&SEARCHRETURNURL=http%3A%2F%2Fshop.nordstrom.com&FLSEmployeeNumber=&FLSRegisterNumber=&FLSStoreNumber=&FLSPOSType=&gctoken=&CookieDomain=&IsStoreModeActive=0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759016
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "FILTERSTATE=&RESULTBACK=&RETURNURL=http%3A%2F%2Fshop.nordstrom.com&SEARCHRETURNURL=http%3A%2F%2Fshop.nordstrom.com&FLSEmployeeNumber=&FLSRegisterNumber=&FLSStoreNumber=&FLSPOSType=&gctoken=&CookieDomain=&IsStoreModeActive=0&",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763753
+                    }
+                ]
+            },
+            "shoppertoken": {
+                "name": "shoppertoken",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480759023,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040758.995212,
+                        "expiry": 34559999.99521208,
+                        "value": "shopperToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjYmFkNzM5OGQyZjM0NDRkOGUzMzYyZjc1ZGIwNDRjYyIsImF1ZCI6Imd1ZXN0IiwiaXNzIjoibm9yZHN0cm9tLWd1ZXN0LWF1dGgiLCJleHAiOjIwNDEwMTM1NTgsInJlZnJlc2giOjE3MjU0OTUxNTgsImp0aSI6ImZhYzlmYWZhLTkyZmYtNDRiZC1iNGM4LTcwOGMxOWE0MWU5ZiIsImlhdCI6MTcyNTQ4MDc1OH0.EHKx-jkFFfx5FNMkHcmYkDUtMiFtiKYGIS44_ZuSAvFifu8ZzdOwXX7uhtLJcKaXJDHA8ayXymsz7OsE4f2TdZA9L9e_fKRc6kMCV8FJ9gVGPiy3OZGqZP_1wXML4Vb3JRhryr3VBxbM-62SwUkg5xK3nbnfwRTWz6cITTf9cAB4rcCVyf3THvpoYahEBfbZ85FWVrX37ltua7AWqq6KZxjmZoftxSy0v3Cczh2u12aneNMm70R0yNLsSHDOP6gKzkbi0PCksJxizT8iiyJ4VFHP3sD8kbjNVU0PSLlyAJZ4uEcDOvH6QeHcHY3SGxHea82BNjhWsllexWkzH19TM5Z9OnYL3j9xAM-SfPb4NPQXE_p59prj9OIWrGQc-faO97JiBssEHwN10d8nvkX5pPg_WHOz2_ekLCFS3QxU1ak8HHFzJdegwErnh1q_fECN21CRhL9vtnqfoeyS_84aNu9WCLB2cWNAoix2bRMdRFeydZrFAgkFjh1rOgk7nGFAJXy5TRhvOx4j6Z3-ad-e9cn8uxNbkRsDb3Ic202VoGf5JTlIbOio0vzLFFeyxOvUOp-Nut956OJO3BAelVZA4UTTntIecbhQ2Apo6jPixw0pExu8m-OxI1b3NwDH48fIhVn-5peBkFfwssm5jCoIJHYSrOzwEks7YSsHXU9DcNk",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759018
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.67474699,
+                        "value": "shopperToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjYmFkNzM5OGQyZjM0NDRkOGUzMzYyZjc1ZGIwNDRjYyIsImF1ZCI6Imd1ZXN0IiwiaXNzIjoibm9yZHN0cm9tLWd1ZXN0LWF1dGgiLCJleHAiOjIwNDEwMTM1NTgsInJlZnJlc2giOjE3MjU0OTUxNTgsImp0aSI6ImZhYzlmYWZhLTkyZmYtNDRiZC1iNGM4LTcwOGMxOWE0MWU5ZiIsImlhdCI6MTcyNTQ4MDc1OH0.EHKx-jkFFfx5FNMkHcmYkDUtMiFtiKYGIS44_ZuSAvFifu8ZzdOwXX7uhtLJcKaXJDHA8ayXymsz7OsE4f2TdZA9L9e_fKRc6kMCV8FJ9gVGPiy3OZGqZP_1wXML4Vb3JRhryr3VBxbM-62SwUkg5xK3nbnfwRTWz6cITTf9cAB4rcCVyf3THvpoYahEBfbZ85FWVrX37ltua7AWqq6KZxjmZoftxSy0v3Cczh2u12aneNMm70R0yNLsSHDOP6gKzkbi0PCksJxizT8iiyJ4VFHP3sD8kbjNVU0PSLlyAJZ4uEcDOvH6QeHcHY3SGxHea82BNjhWsllexWkzH19TM5Z9OnYL3j9xAM-SfPb4NPQXE_p59prj9OIWrGQc-faO97JiBssEHwN10d8nvkX5pPg_WHOz2_ekLCFS3QxU1ak8HHFzJdegwErnh1q_fECN21CRhL9vtnqfoeyS_84aNu9WCLB2cWNAoix2bRMdRFeydZrFAgkFjh1rOgk7nGFAJXy5TRhvOx4j6Z3-ad-e9cn8uxNbkRsDb3Ic202VoGf5JTlIbOio0vzLFFeyxOvUOp-Nut956OJO3BAelVZA4UTTntIecbhQ2Apo6jPixw0pExu8m-OxI1b3NwDH48fIhVn-5peBkFfwssm5jCoIJHYSrOzwEks7YSsHXU9DcNk",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759675
+                    }
+                ]
+            },
+            "storeeligiblepromise": {
+                "name": "storeeligiblepromise",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725480763754,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725484363,
+                        "expiry": 3600,
+                        "value": "eligiblePromises=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763754
+                    }
+                ]
+            },
+            "storemode": {
+                "name": "storemode",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480763752,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040763.75151,
+                        "expiry": 34560000.751509905,
+                        "value": "version=5&postalCode=&selectedStoreIds=&storesById=&localMarketId=&localMarketsById=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763751
+                    }
+                ]
+            },
+            "storeprefs": {
+                "name": "storeprefs",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480763754,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040763.7522,
+                        "expiry": 34560000.75219989,
+                        "value": "|100|||2024-09-04T20:12:43.752Z",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480763753
+                    }
+                ]
+            },
+            "usersession": {
+                "name": "usersession",
+                "domain": "www.nordstrom.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480759024,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CookieDomain=nordstrom.com&SessionId=baf66531-a523-4fbf-9b8b-d36a3a33d441",
+                        "same_site": "unspecified",
+                        "timestamp": 1725480759023
+                    }
+                ]
+            }
+        }
+    },
+    "ojrq.net": {
+        "/": {
+            "brwsr": {
+                "name": "brwsr",
+                "domain": ".ojrq.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480765784,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040765.782825,
+                        "expiry": 34560000.78282499,
+                        "value": "0c890819-6afa-11ef-9bc5-155ef829c745",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480765783
+                    }
+                ]
+            }
+        }
+    },
+    "pinterest.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480764438,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016764.437083,
+                        "expiry": 31536000.437083006,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764437
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.019207954,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480765019
+                    }
+                ]
+            }
+        }
+    },
+    "podscribe.com": {
+        "/": {
+            "_podscribe_did": {
+                "name": "_podscribe_did",
+                "domain": ".podscribe.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480766303,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757020766.298075,
+                        "expiry": 31540000.29807496,
+                        "value": "pscrb_2805e803-ba29-44a2-e4fb-06606bbfc34b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480766302
+                    }
+                ]
+            },
+            "_podscribe_nordstrom_landing_url": {
+                "name": "_podscribe_nordstrom_landing_url",
+                "domain": ".podscribe.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480766301,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757020766.29792,
+                        "expiry": 31540000.29791999,
+                        "value": "https%3A%2F%2Fwww.nordstrom.com%2F",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480766299
+                    }
+                ]
+            },
+            "_podscribe_nordstrom_referrer": {
+                "name": "_podscribe_nordstrom_referrer",
+                "domain": ".podscribe.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480766302,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757020766.29802,
+                        "expiry": 31540000.298019886,
+                        "value": "_",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480766301
+                    }
+                ]
+            }
+        }
+    },
+    "revjet.com": {
+        "/": {
+            "trx": {
+                "name": "trx",
+                "domain": ".revjet.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480763837,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016763.836154,
+                        "expiry": 31536000.836153984,
+                        "value": "5025515814337052988",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763836
+                    }
+                ]
+            }
+        }
+    },
+    "sjv.io": {
+        "/": {
+            "brwsr": {
+                "name": "brwsr",
+                "domain": ".sjv.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480764327,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760040764.326161,
+                        "expiry": 34560000.32616091,
+                        "value": "0baab689-6afa-11ef-95ce-e752e0185da2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764326
+                    }
+                ]
+            },
+            "irtps": {
+                "name": "irtps",
+                "domain": ".sjv.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480764328,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725567164.326202,
+                        "expiry": 86400.32620191574,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764328
+                    }
+                ]
+            }
+        }
+    },
+    "smartnordstrom.com": {
+        "/": {
+            "trx": {
+                "name": "trx",
+                "domain": ".smartnordstrom.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480761869,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757016761.867923,
+                        "expiry": 31536000.86792302,
+                        "value": "5598211838826969481",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480761868
+                    }
+                ]
+            }
+        }
+    },
+    "tiktok.com": {
+        "/": {
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".tiktok.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480761335,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759176761.334341,
+                        "expiry": 33696000.33434105,
+                        "value": "2lcYJhobNRejf1naRtEIqAJoDNX",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480761334
+                    }
+                ]
+            }
+        }
+    },
+    "w55c.net": {
+        "/": {
+            "matchgoogle": {
+                "name": "matchgoogle",
+                "domain": ".w55c.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480763361,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728072763.360849,
+                        "expiry": 2592000.3608489037,
+                        "value": "2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763361
+                    }
+                ]
+            },
+            "wfivefivec": {
+                "name": "wfivefivec",
+                "domain": ".w55c.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480762087,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759644762.08649,
+                        "expiry": 34164000.086489916,
+                        "value": "T2kA2neM1SLWmR2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480762086
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34164000.360722065,
+                        "value": "T2kA2neM1SLWmR2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480763361
+                    }
+                ]
+            }
+        }
+    },
+    "google-analytics.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".www.google-analytics.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480765824,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733256765.822775,
+                        "expiry": 7776000.822774887,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480765823
+                    }
+                ]
+            }
+        }
+    },
+    "yahoo.com": {
+        "/": {
+            "A3": {
+                "name": "A3",
+                "domain": ".yahoo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725480764957,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757038364.955651,
+                        "expiry": 31557600.955651045,
+                        "value": "d=AQABBDy_2GYCENREvHRIlTmSTcLZHwTIQqYFEgEBAQEQ2mbiZtwr0iMA_eMAAA&S=AQAAAqcE4FFrp_bXRT7_DTPVbAM",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764956
+                    }
+                ]
+            }
+        }
+    },
+    "nordstrom.sjv.io": {
+        "/": {
+            "irld": {
+                "name": "irld",
+                "domain": "nordstrom.sjv.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725480764327,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741032764.326191,
+                        "expiry": 15552000.326190948,
+                        "value": "LWb5Utc1gNywOUCFXtkS0S18aTpL3OC2V-zhHTaJUBy0MOyBB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725480764327
+                    }
+                ]
+            }
+        }
+    }
+}

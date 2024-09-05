@@ -1,0 +1,1318 @@
+{
+    "adsrvr.org": {
+        "/": {
+            "TDID": {
+                "name": "TDID",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479784233,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015784.232738,
+                        "expiry": 31536000.232738018,
+                        "value": "479805c2-493e-4aaf-8877-a9cc2b8d1b61",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784233
+                    }
+                ]
+            }
+        }
+    },
+    "crwdcntrl.net": {
+        "/": {
+            "_cc_cc": {
+                "name": "_cc_cc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479786401,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ctst",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479786400
+                    }
+                ]
+            },
+            "_cc_dc": {
+                "name": "_cc_dc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479786563,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748804760.560619,
+                        "expiry": 23324974.560619116,
+                        "value": "3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479786562
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479786564,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748804760.560756,
+                        "expiry": 23324974.560755968,
+                        "value": "3c0fd9640d1e87e7e2e201ff400e6ab2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479786563
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479784075,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031784.074607,
+                        "expiry": 15552000.074606895,
+                        "value": "52443851348675328292355438177235532298",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784075
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.132196903,
+                        "value": "52443851348675328292355438177235532298",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479785133
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479784423,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039784.422145,
+                        "expiry": 34560000.42214489,
+                        "value": "AHWqTUmw9bfBhn4iKJHNA22bExvbTRfYu5ojyC9sIoWyDsUDK9IWzfRoDZUzaC7iVMQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784422
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.48884511,
+                        "value": "AHWqTUkhCcw1E_pjfyPI5NF8h7-jGQyKAAMdtwAWPUWMIl9Jmkl722fgepN-UUlHFcs",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784492
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479784249,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728071784.24876,
+                        "expiry": 2592000.248759985,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784249
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.248965025,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784250
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479784425,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031784.422284,
+                        "expiry": 15552000.422283888,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784424
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.489018917,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784493
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479783886,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725480683.885434,
+                        "expiry": 900.8854339122772,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479783885
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.2065510749817,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784208
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.2093179225922,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784210
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.212769985199,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784213
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.2491209506989,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784250
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.2549810409546,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784255
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479785133,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031785.132155,
+                        "expiry": 15552000.132154942,
+                        "value": "52443851348675328292355438177235532298",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479785132
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479784931,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015784.930402,
+                        "expiry": 31536000.93040204,
+                        "value": "g_surferid~Zti7aAAAAGc7VwNx",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784930
+                    }
+                ]
+            }
+        }
+    },
+    "geoip.radio-canada.ca": {
+        "/": {
+            "ARRAffinity": {
+                "name": "ARRAffinity",
+                "domain": ".geoip.radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479782900,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2d6b1d899cd6f0d4ac32583dc4b6dd3b915a17d90d48bd3d676bf40764468898",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479782899
+                    }
+                ]
+            },
+            "ARRAffinitySameSite": {
+                "name": "ARRAffinitySameSite",
+                "domain": ".geoip.radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479782901,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2d6b1d899cd6f0d4ac32583dc4b6dd3b915a17d90d48bd3d676bf40764468898",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479782900
+                    }
+                ]
+            }
+        }
+    },
+    "ici.radio-canada.ca": {
+        "/": {
+            "_awl": {
+                "name": "_awl",
+                "domain": ".ici.radio-canada.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479784589,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607784.587,
+                        "expiry": 34128000.58699989,
+                        "value": "3.1725479784.5-da3a79024a50fed03b08673a036d748a-6763652d75732d7765737431-0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784588
+                    }
+                ]
+            },
+            "BCSessionID": {
+                "name": "BCSessionID",
+                "domain": "ici.radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479785787,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "652e7800-32a7-450d-b297-40e2e1eb31da",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479785786
+                    }
+                ]
+            },
+            "BCTempID": {
+                "name": "BCTempID",
+                "domain": "ici.radio-canada.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479785083,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725480385,
+                        "expiry": 600,
+                        "value": "652e7800-32a7-450d-b297-40e2e1eb31da",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479785082
+                    }
+                ]
+            },
+            "RCF1": {
+                "name": "RCF1",
+                "domain": "ici.radio-canada.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479782599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479782598
+                    }
+                ]
+            },
+            "last_visit_bc": {
+                "name": "last_visit_bc",
+                "domain": "ici.radio-canada.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479783891,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015783,
+                        "expiry": 31536000,
+                        "value": "1725479783889",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479783890
+                    }
+                ]
+            }
+        }
+    },
+    "radio-canada.ca": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479780918,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725483380.914229,
+                        "expiry": 3600.914228916168,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479780916
+                    }
+                ]
+            },
+            "AMCVS_55E654E45894AF350A495CFE%40AdobeOrg": {
+                "name": "AMCVS_55E654E45894AF350A495CFE%40AdobeOrg",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479784080,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479784080
+                    }
+                ]
+            },
+            "AMCV_55E654E45894AF350A495CFE%40AdobeOrg": {
+                "name": "AMCV_55E654E45894AF350A495CFE%40AdobeOrg",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479783077,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039783.07587,
+                        "expiry": 34560000.07587004,
+                        "value": "T",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479783076
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.07659793,
+                        "value": "1406116232%7CMCIDTS%7C19971%7CvVersion%7C2.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479783077
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.076786995,
+                        "value": "1406116232%7CMCIDTS%7C19971%7CMCMID%7C47584685011535530003062033331924151423%7CvVersion%7C2.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479784077
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.07726908,
+                        "value": "1406116232%7CMCIDTS%7C19971%7CMCMID%7C47584685011535530003062033331924151423%7CMCAAMLH-1726084584%7C9%7CMCAAMB-1726084584%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CvVersion%7C2.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479784077
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.07887912,
+                        "value": "1406116232%7CMCIDTS%7C19971%7CMCMID%7C47584685011535530003062033331924151423%7CMCAAMLH-1726084584%7C9%7CMCAAMB-1726084584%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725486984s%7CNONE%7CvVersion%7C2.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479784081
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.83436108,
+                        "value": "1406116232%7CMCIDTS%7C19971%7CMCMID%7C47584685011535530003062033331924151423%7CMCAAMLH-1726084584%7C9%7CMCAAMB-1726084584%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725486984s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C2.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479784835
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.132865906,
+                        "value": "1406116232%7CMCIDTS%7C19971%7CMCMID%7C47584685011535530003062033331924151423%7CMCAAMLH-1726084584%7C9%7CMCAAMB-1726084584%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725486984s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19978%7CvVersion%7C2.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479785133
+                    }
+                ]
+            },
+            "RC_CDM_REGION": {
+                "name": "RC_CDM_REGION",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479780922,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015780.915149,
+                        "expiry": 31536000.915148973,
+                        "value": "8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479780921
+                    }
+                ]
+            },
+            "RC_CDM_REGION_OHDIO": {
+                "name": "RC_CDM_REGION_OHDIO",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479780919,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015780.914967,
+                        "expiry": 31536000.91496706,
+                        "value": "8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479780918
+                    }
+                ]
+            },
+            "RC_CDM_REGION_TELE": {
+                "name": "RC_CDM_REGION_TELE",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479780921,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015780.915072,
+                        "expiry": 31536000.915071964,
+                        "value": "8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479780919
+                    }
+                ]
+            },
+            "RC_NOTIFICATION_VIE_PRIVEE": {
+                "name": "RC_NOTIFICATION_VIE_PRIVEE",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479802334,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015802,
+                        "expiry": 31536000,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479802332
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479784299,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733255784,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725479784297.10545246222743506",
+                        "same_site": "lax",
+                        "timestamp": 1725479784298
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725479784297.10545246222743506",
+                        "same_site": "lax",
+                        "timestamp": 1725479802327
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479783249,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733255783,
+                        "expiry": 7776000,
+                        "value": "1.1.205644718.1725479783",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479783249
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.205644718.1725479783",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479783593
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.205644718.1725479783",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479783618
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.205644718.1725479783",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479783717
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479780924,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.257630109787,
+                        "value": "3D7E4FC774FB17456980C1F1E8AD3B58~000000000000000000000000000000~YAAQr7vOFxG9lqyRAQAACwecvhlVD5/UELlk7K8OXMOjBr8flrnYZ2P2phC37hi2gqbh+qpGuQzXuMYWFPeczRdgRlXdpkD2Fcf5i4hLR7TrySX/aZ3x3EX7HGoUIpBqh6hWlqAU0P9LNTjM4mzIanKyxcQ8AyqyRADn28O8SYJGyH7Blt936yeIMHHckbDPEaZj4Gx7wwOA1H7wDpBaWJ3jo/1kDcxHZrFCTmdWxMhLcvhSyeqXHLmesFiXOgwQG28hTRgn4E42i/yEqeY+0OziR6t4J8tU64hJRrUU4/CZmdw/hlAEYxvjClSJRf2VeDq/qVEdqPTKErtG6R5LX+JoNpp0Jd4spDW7LbRGaCs5f/rrZ8Z0t2UxUhcj2RBR/4nQBq5zb8S1uhOQ2EdMemnrQz7uI7yG/M2QZffgjohEemZK4zOxNNdZ7trb3D6H9bjrk5qs",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479782258
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.262578964233,
+                        "value": "3D7E4FC774FB17456980C1F1E8AD3B58~000000000000000000000000000000~YAAQr7vOFw69lqyRAQAAAQecvhnSY1d6IAP3OR4Tv9Cglp8WiqbsoI60MiF19zZkQY3ipxlXiUcQ/5dPk+lYM5rBaEaWYHuAhp4523kgApLW8QhIG9670w7jlJ9h6ujJCACNunZsLsx2691EWABV5Uvn1XlvCDP5qIaOe/xwj3vpXd3/W94942ZeYnuNTiiw/W0QZgCNUMoY5DH8TzxPAtuHCMF+GkdQCFxldV8D3FEwmFvctDSrI3Cd1W584/WYYNd/JBhOqCqlP3xq5s2lzec9D2XuJAwxAYBNRCR6Ktpesujn0tw7fgxpvls0Lfc2UantwEyUkyrEA5BiGo9056LwZrfledmrFmR6uWCW38DUifMmNV2cG1+RHq0rnMoLty/Av6uw5RFvMpr4H9d+gC4v1VUyBuM2BYhXUB31iYGOHKUFsuWOFw6tZ8GVTsV0eIUUAOeu",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479782262
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.263053894043,
+                        "value": "3D7E4FC774FB17456980C1F1E8AD3B58~000000000000000000000000000000~YAAQr7vOFxC9lqyRAQAACgecvhkwtTHbzsadnOP0S2CzZgUgwYzt5ExTFOI+kY2CMIjvIsJsZy4GXTDibe3ZV9FMppzp5oHqBVp6CHjsxRYQ3CZJsfK/wcfHeuGYa56bMiV3PcpGLfwEn4Nigi+RCO3eeue36kPUJXmnFiON2G8kuan72cF8GiZkOSPzPaaZzVGPJ/el4QXN1MxQjh3qBm62uDeKp5CntPkpkLbJn9rxtqshKC8NLyFvBM85Wm5eRW+ko/PfcLt9iqYzIJF7H5/MjvbK+n477cVFsETV43RhtJViTEXN6QnNvz1hCpXkCZshUl0PYwUeneg/66G5UiIyrlJzx3bJUMuFZr7Qb/DxnRRnB4Tq1bhT99Un4lqG4jvBP5Fz4gwQK1Ad3db6ygHhBmoIbWJZzL5Xu3hz45QxNS/t7F0sMOjsxaHfsMkbZ0pxcioW",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479782263
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.263716936111,
+                        "value": "3D7E4FC774FB17456980C1F1E8AD3B58~000000000000000000000000000000~YAAQr7vOFw+9lqyRAQAACgecvhlhDLG4A54qXPjgb27QSCc5sKPP5SPkVvkjEvqbof7D2DWecC+YBQOLGy93O+9kzy4dNXGC0X+ONw/Gpj5dFTznKBjdv2PC8mwkFfXxw7KZsEWiBlXdPNX3MqxqxE67lVYgVnQ/0LxeBRmNRhVuq8nJn0HDec1bDWHcgT/jSK4LLPcZ408vXAGdIu9tNWshHBv3aJFHNm56cTZ4SNEcP6HDSlhT54HGgnzQCLtoo+jB+fJhlOGfoU4u2Jm2oP+N7h5mFqjTcZPYQ2PkIRzuJnEkFb1oH6GOXs8lwePqTF/yezF7JVpNSKG4w7KlaZT/MQpcxZeZbWgxDV579q00Y19uPdiJYeeO6w1NlAnDJkhrH8uFbCfZQRvoqDYEAJmjGmaSZQHQ9+ljP3XfZIrVY2KIuoOF7KMxNxQh6s4iy+FRF27T",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479782264
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.264355897903,
+                        "value": "3D7E4FC774FB17456980C1F1E8AD3B58~000000000000000000000000000000~YAAQr7vOFxO9lqyRAQAAFQecvhmnbqoMta3OAf8oyJKgErQ0LUCh12VkAA9g4XYIKUionXz1aLSJbs8Qqz7wqf9ZSKCtEUb1uBSRo5uDV6dzEGApnXQu+A3ojhvVl5YDlP1UdCOFfAU+sPtTbZKHn9G54zVfj0mclqfxRIHy4+yQKSEfL0Rdn+Q0XkQJgY4RAfPyP3lTcHBKhOQdHFA6+yK/LgBOl9B1/P2NPdbmWSlfHwbJws+AsFdanSfWoGkEQg/G3vxoOYOiQW1JeP/NLHS4Lrav25y7nugsnK5shRAX5WTKHYMEx+GBgYF4Hn58kp15Las18wvSc9oq1kbrtzLwhyDvdejwBRo7t/FwLzTIOk047+QeB1wvqDRvP2aHZdvdFCfog2COu5HI1U5/2sl+f1cPQmdpahUDIlmjGLRwHOJCBEylhwvKnpILtYGAzvKF4++R",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479782264
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.266405105591,
+                        "value": "3D7E4FC774FB17456980C1F1E8AD3B58~000000000000000000000000000000~YAAQr7vOFxW9lqyRAQAAFwecvhkUBXeptBsTCONFQ/OEaLgUojBn/Bps+U1QLEY519FrXs8VM0T22vY8va/pw7qoq9A8wROsBW3JPFxmNfOWREqnCIMzUHwzjcnlsTzB8hb/hEz/f4yW29Zy3McaDtWSojWOHoi+AfGIMOmfwKOUHbEQnKAdhyQjcJkBkW0OnVFl5mcxQefyIBd7/lw/EyyQGCiyQVshe7Nbppn67EVhQtQqrjP6FdgQc2ocnrysIlg7HF/ZB0E9Jy5N4as16bKaGxAVajunNeyPHfB8NvmMGoY3JNp010P4bn4zzMoPEGBvMuKWeCxNReNmg35cFqdzy1MJ2o4R0SjQVSc1CUJW3UqXXaN1nzalQTGpazS2z9qN2/rhkUY8g6zlezB68+PhQljTzeqf9yxAeNx7ZA5Wa54Ag+Abn2a2rS0x3COazKpUSCM4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479782266
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.272842884064,
+                        "value": "3D7E4FC774FB17456980C1F1E8AD3B58~000000000000000000000000000000~YAAQr7vOFxa9lqyRAQAAGAecvhnh6jGYL5w+qztNatm+VZciV+290bXBQ17AdLZyBT3+OCJbCzlz+BrE3ng+/B4XO388EgHpsVMteX/sahsabjlnRs2mQcykDstosgmRM6PFKAl0j74a/sFhHWZ4U4LVac3KOjGAtJacM0nf+aFDpQTYkQeu18rinLCu/fDLg77z52ZPXywFnbgO9kYa6bR4k9q4+JCUEUmqXZNP6e2nsfkUelvoASKXg0IyLWiOHBEKExpVEvaY++WpzuXqSAfQjnGbCRgzIc4NZGRuRSNoxfC9HaZfv7do46teLrqQ+elOyNxh7CmAy2hBVrO10pb9Y5cTQrLByfbu8OQ4izjx3rO8uEIzRj1HLF6YGsJyA5KMiuAJIDwN8g/oaa2IzgG8ERAYUpTPG8l9Cr30SamoNGKr5oDMkFb8KZDLvNADcmCAW7qX",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479782273
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.289079904556,
+                        "value": "3D7E4FC774FB17456980C1F1E8AD3B58~000000000000000000000000000000~YAAQr7vOFxu9lqyRAQAALgecvhmIOzej7/uU1yMKPnQuyf0MPnJCYA6rSzomFLNnepvMe67bTFPGQdhrWyEybpXn59jy9ImRwuFtxXMJcvSHEI7k3bVAMEDMcKGDCnKqooIXi0h88z0s2LYJVP4vzVjRftOy1INdI1ssePRREQEdxKbbDIOOtVM/R8SNfOdsF4pdAAipOH/RlZfxbXXj+9JdeTuWkgI0AjkXmcUItXSANA21YxHWQj1+4+YGEW5bSRt5PE+83bZ+BEcBfHJDiuNm5mpjJXzVbepZRo61GLJ60b9Kd2Xc081iIDc2XfGrMhA9OXhVN80t/2Y46RvGGEQVOsaNp6VuaF03T5EwGsiNkNeCpNyBqTn5dWxneOX7cGRz48fH9PIMqqDYPveNZ0K9LmibIr0Ox5BXD5lPIOR0/02StYQZVB7ItuhvqP70O4rxC/MK",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479782289
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.297441005707,
+                        "value": "3D7E4FC774FB17456980C1F1E8AD3B58~000000000000000000000000000000~YAAQr7vOFxy9lqyRAQAANgecvhkr5IF2BE6O4Eo2dcN9ag0fLMcuxUHrFuiZETJ73BWrkYX4q5mhIJx1r3MfzYMNd+2P0rTs4iRLhPF2jXyAY15UzkcSwA4NhiTej0hqVixmz5Wz9GPXx64i+zpoReFjdMKyBm0nt3qqdKTK2p16c8GaWAiqTHodcJisJuUw+GsplX6sATL0yNJ6/ix3QOIGLAof3L/4KUto8VzJpwvE+jAcBsGJ32IblQO/TuRxvnJyaHuzZ2YX4cxn+zJ2hsXEEZ6Ol0A7IuGWNP3tUdwNWd2DxB83VEMCCFD3/Wm4pJkoXIJz0Dh/ON3S/UVuT6JuAw1kPEBc9AvLIw/0S2TscWwMyZxiPxgAmC0dKR6cISQYqM5km0Q9yERKkHGWZicOyOlgcSNHi3rF7NJNZSDuDz/n9KvEGWOeLrn62QtQ9ZqRRAl1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479782298
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.85996389389,
+                        "value": "3D7E4FC774FB17456980C1F1E8AD3B58~000000000000000000000000000000~YAAQr7vOF1a9lqyRAQAAaQmcvhlwk68T/inm7xm3ZfkhVltberr567Oj3leui4iC+UGpWThD1cUEtw4kjAtNBZ3gYntsfJ3l8Pr6pi9uVZYxMnmZTmlbeb1CV7B5S8rQMyufQ0ffg6isEPR88WNhuyOgD/3CJf0SLqnZ9haeTFfWmu/tr3D7CTRtJ0pfWaIl0VBYvs9zkG+nSu+nVsAcch8BUvu/ZJnv8/xqall728Mk7kWEt13XQJrY1ZcZAaZmHY0Sj1o5uUuDeOox7wr2qUyckIz0xpiO8ILBQWSvpeC0+rvW6dmlBmdMstUiOBA2EcivyoAEIx/zZrQcCfQohs5xCIZ7nZfzEX0K380YnVJBtO9HxjnK0ogXGuZqfdWtQ4jDeIs9PMf+qG5ppc+lkHewJBfXwt1mANCvmhi6p5oSZ9TCNaRJ4wTygNsD+yEcC5ShSDzYAud1yfibtUDfZIOn",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479782860
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479784848,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725486984.846768,
+                        "expiry": 7200.846767902374,
+                        "value": "F6C606B84A107A02538D58C5A66C259F~YAAQr7vOF2e+lqyRAQAALBGcvhlMlieXkrEWHAlZ1XHqIDD3wMMFqJNxIh0WEzV4ihGykdvuSA/T9OxyXVkvDeAN+ZMYT/JyqrSewp7POGvScu4qQevdOghahoSlwhcZ7l3B0AhVOEqGfBhUgU4xFG4b4bclRo9zXOKlkQiy3tz5/SQG69UfSShkI4qoux/spuZiwUfcKK1yCXHBn3rw4ndyj/rjjfMNRCnMg97dXuSFvXxp8F0GUS19I08a4LQbrOnKfx8=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479784847
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.933583021164,
+                        "value": "F6C606B84A107A02538D58C5A66C259F~YAAQr7vOF2C/lqyRAQAAOB2cvhnOxxGKDekWOZEBasn4V9/nifFD4mUnFVxJDDXMC/j50E9xGUA4BldZRILuxmcEyjrQz2OovOp1lF6q11dhmKFyYnKbTlwcbcrLa0ggnz+53v8LOyBGgXrRpzAUfNkgrQg8lBdo5tOzl1BgGWLRDn1XWYQS8vsIa/1HgOn/BTFCcGBbzlc5XJSSbFHyhnaP8wJJW9HTZd/Uj0C7OFQ2przNYgnVq9Toc8XU5W7tBUR02Ng=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479787934
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479784836,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479784836
+                    }
+                ]
+            },
+            "s_ecid": {
+                "name": "s_ecid",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479784834,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039784.833469,
+                        "expiry": 34560000.833468914,
+                        "value": "MCMID%7C47584685011535530003062033331924151423",
+                        "same_site": "lax",
+                        "timestamp": 1725479784833
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.01541996,
+                        "value": "MCMID%7C47584685011535530003062033331924151423",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479785015
+                    }
+                ]
+            },
+            "s_sq": {
+                "name": "s_sq",
+                "domain": ".radio-canada.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479802332,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "rc-prod01%3D%2526c.%2526a.%2526activitymap.%2526page%253Dppage%25253Aaccueil%25253Aaccueil%2526link%253DACCEPTER%252520ET%252520FERMER%252520L%252527ALERTE%2526region%253DBODY%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479802330
+                    }
+                ]
+            },
+            "44RaA0CDpzZd2krwpx80YSQF6Aai4tUKoJou87Cb": {
+                "name": "44RaA0CDpzZd2krwpx80YSQF6Aai4tUKoJou87Cb",
+                "domain": "radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479780311,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725486980.285699,
+                        "expiry": 7200.285698890686,
+                        "value": "eyJpdiI6InM4RTFQVVdXR3JoTGcyam1mM2doNlE9PSIsInZhbHVlIjoiM2JnNE4zbnN5Q2dnbVVUaXcvK0lyWVVsb0pSTkV4ZmpYeHFtTjd5bE5FME93RUtrSVU0MUozdkt0eXphWG5tSGNtS3dLeHFwbVl2VnVPbE1oTFRKRDBWcGhIS055VVdFc1pmRXU1Wkw5akpZZm5OWnN1aDlZWi9naEJ5V0daNzFaR2RTajlNL0pZUXdNeVFRc044Mng0blFlUTZGMGNzT3diVnR5YUp1SEhEK1NhcFQ3YkI4QUFLVG1ubWJTRnl4Z0NhcWlLbWU3SjJMNDUxR0o1RDkxeGtIUXQwai9JeU1iR1ppd0hNVlRYZFVJVzVFS0xzNWVpaitnUXBtM1NYenlwbmlJVmF1dk5FbmZsUk9BN1NjZGo3QXdzeDh6MkFzK2p2Sm90ZGdiRFpzQ0xXWitHbkdwRlhNYXcraXFORTYxY1BCMUJjQ2JNL0pLQ1dwdVF2VVNkelNibEo1S3ZxWlA0ZW9YYnBwNFpJPSIsIm1hYyI6ImQ5NDkyNDVmMDFiZmYyNzA3ODMzODI5NDIwNDEyMGYzNDcxZGU2NDJmNDE5MmNlN2ZiOWE5ZTk5MjQzN2RmMDAiLCJ0YWciOiIifQ%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725479780308
+                    }
+                ]
+            },
+            "XSRF-TOKEN": {
+                "name": "XSRF-TOKEN",
+                "domain": "radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479780299,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725486980.285388,
+                        "expiry": 7200.285387992859,
+                        "value": "eyJpdiI6InJueUZDRkNJQitBQ0ZmcHZzcG1Qd1E9PSIsInZhbHVlIjoiVnRKWmd5MnAvdmM2QnRST2RSSm54Ym0vVzQ0eWg0YXpYM1ZQbGxBVUFoSCtiL29HRC8yRnBmb2svd0tQZUpsMVpBdm94ampqU3cwSnNNb0tvNFlJOGFjdi9GdSsvRWhyWFBoMzBPbEhtMTJwT1B5YWd1Y3VyZWFIdGNxVUN4SzgiLCJtYWMiOiIzYjIxYTExZDAzNmQ3YzAxNWM3ODk0NTVlZGIxYzhjYWVjYzdmMDZjMDQ3Y2YwZmM2YThkY2I4YjBlMGE3NDczIiwidGFnIjoiIn0%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725479780288
+                    }
+                ]
+            },
+            "__Host-authentic-web-redirect-session": {
+                "name": "__Host-authentic-web-redirect-session",
+                "domain": "radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479780308,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725486980.285623,
+                        "expiry": 7200.285623073578,
+                        "value": "eyJpdiI6ImxEYnN6enB1d0hCbHBWa3hOMEE3dHc9PSIsInZhbHVlIjoiYkdTT1Qrd3gwWnQ1eWNOQnBsZmY4ZWF3VUduR0poemw4ZHE0Z25MSGFCRVBvUFFmdnhpb2JuY0dmVVgzTkdSb1dKazBPdTlwSFYxYlNrZVNadEpCODdEd1I0NllIWjJyc3l5UDhQdGJodU0yc0dpVW1MT1NDRGdzaWxUaGIzODQiLCJtYWMiOiI5ZWQxMGQwYmRiYTJmN2QwYjlhOGUzN2Q4ODAyMWI4MmYzZWNlYzM4ZWYyYTQwYjlmMzY0MTI0MjYxNzJhYjRjIiwidGFnIjoiIn0%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725479780299
+                    }
+                ]
+            }
+        }
+    },
+    "scorecardresearch.com": {
+        "/": {
+            "UID": {
+                "name": "UID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479784014,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759175784.01298,
+                        "expiry": 33696000.012979984,
+                        "value": "1D97718b599ebe81084c7861725479783",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784013
+                    }
+                ]
+            },
+            "XID": {
+                "name": "XID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479784014,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759175784.013012,
+                        "expiry": 33696000.01301193,
+                        "value": "1D97718b599ebe81084c7861725479783",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784014
+                    }
+                ]
+            }
+        }
+    },
+    "cbc.blueconic.net": {
+        "/": {
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "cbc.blueconic.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479784688,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726084584.684933,
+                        "expiry": 604800.6849329472,
+                        "value": "8jPz/cuC3fkWWyOos1mxx1bkZyqsgliufxs+MvwvGc9wts1rLRczOk9xWiFyTLjhyArXJVolMTOSsIf6BGgF60P1Ojh/TKGBxiX//Q5VX4UEoLC93pRZarYy+uWU",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479784686
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.0135540962,
+                        "value": "AH4TBsS79YStAm8C3qRm/J7xpQAlbA4oE7DE6PRDstNZDpVTMwPGo7t6MWfYuKgcWyQG5yjx7ZVV1Usw+r8BiK/7Y3Yi39U0Exv9opscR8lHD/EZkMIQShv5rhjb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479786014
+                    }
+                ]
+            }
+        },
+        "/DG/DEFAULT": {
+            "BCSessionID": {
+                "name": "BCSessionID",
+                "domain": "cbc.blueconic.net",
+                "path": "/DG/DEFAULT",
+                "current_label": 0,
+                "label_ts": 1725479786016,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015786.013615,
+                        "expiry": 31536000.013614893,
+                        "value": "652e7800-32a7-450d-b297-40e2e1eb31da",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479786015
+                    }
+                ]
+            }
+        }
+    },
+    "cdp.radio-canada.ca": {
+        "/": {
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "cdp.radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479785079,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726084585.077884,
+                        "expiry": 604800.0778839588,
+                        "value": "R0DiLUP2jWjRJULCkFezw1ln1mX6QQi9FZ7Cejvapgq51D69SmDhmJZpr22btQkMMjtn5sftoTjKD9tQ8yeHMR47G4c0i8FLUvaDdWvfdSxqPvA9zOf8oM4/T7zz",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479785078
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.1938199997,
+                        "value": "4xhJ4JkVXeV8hkOnrmNHgaeOoG/VMZboY6rhuYNnbNPPZfapNTJ/yc9pZRCAJXvnp29V24gi8BcZdB5uZDUXFb06QPOLwSVGjPj5LJ6N0wom67OBLt95K16WYW6H",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479786194
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.1988739967,
+                        "value": "e1cZoIXctHt4aBvrhERKewmrGe+tm/pUVapUc1hWcqJUHTJN580HHbn4Id8jNoBfzlcrwicBc+YyWvu87pWqaP7H0uG2YwubjJEpU2R76DpkJqcXFTo11ELIEdPh",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479786199
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.2017068863,
+                        "value": "NC+TVmfZuKzEd7ifv9+sjr/Ded9gX2hxCnTTPrj+dqsdGdSqBQKoSeUFl+7ehdBiZdI3UQqwJO8FosuscRbAUuoOlmYOe1PIfLzeeXh1mq+Z7fsWAZOzJ8kTnKj7",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479786202
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "cdp.radio-canada.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479785080,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726084585.077939,
+                        "expiry": 604800.0779390335,
+                        "value": "R0DiLUP2jWjRJULCkFezw1ln1mX6QQi9FZ7Cejvapgq51D69SmDhmJZpr22btQkMMjtn5sftoTjKD9tQ8yeHMR47G4c0i8FLUvaDdWvfdSxqPvA9zOf8oM4/T7zz",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479785079
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.1939411163,
+                        "value": "4xhJ4JkVXeV8hkOnrmNHgaeOoG/VMZboY6rhuYNnbNPPZfapNTJ/yc9pZRCAJXvnp29V24gi8BcZdB5uZDUXFb06QPOLwSVGjPj5LJ6N0wom67OBLt95K16WYW6H",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479786194
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.1989579201,
+                        "value": "e1cZoIXctHt4aBvrhERKewmrGe+tm/pUVapUc1hWcqJUHTJN580HHbn4Id8jNoBfzlcrwicBc+YyWvu87pWqaP7H0uG2YwubjJEpU2R76DpkJqcXFTo11ELIEdPh",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479786199
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.2018070221,
+                        "value": "NC+TVmfZuKzEd7ifv9+sjr/Ded9gX2hxCnTTPrj+dqsdGdSqBQKoSeUFl+7ehdBiZdI3UQqwJO8FosuscRbAUuoOlmYOe1PIfLzeeXh1mq+Z7fsWAZOzJ8kTnKj7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479786203
+                    }
+                ]
+            }
+        },
+        "/DG/DEFAULT": {
+            "BCSessionID": {
+                "name": "BCSessionID",
+                "domain": "cdp.radio-canada.ca",
+                "path": "/DG/DEFAULT",
+                "current_label": 3,
+                "label_ts": 1725479785785,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039785.779868,
+                        "expiry": 34560000.77986789,
+                        "value": "652e7800-32a7-450d-b297-40e2e1eb31da",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479785784
+                    }
+                ]
+            },
+            "BCTempID": {
+                "name": "BCTempID",
+                "domain": "cdp.radio-canada.ca",
+                "path": "/DG/DEFAULT",
+                "current_label": 3,
+                "label_ts": 1725479785081,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725480385.077975,
+                        "expiry": 600.0779750347137,
+                        "value": "652e7800-32a7-450d-b297-40e2e1eb31da",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479785080
+                    }
+                ]
+            }
+        }
+    }
+}

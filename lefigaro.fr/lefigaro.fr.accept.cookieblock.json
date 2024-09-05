@@ -1,0 +1,1542 @@
+{
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474430205,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250430.203884,
+                        "expiry": 7776000.203883886,
+                        "value": "ncv-YuBF05y7ch_tDPrbw5HH821ymYPuu-CHNqbpKWEmX0GWQmuAL9NpoKAK9xuGWg0DD0wWTlexaCpZ41eYcO-a6mctDTA4K6RmwtJ3pNI.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430204
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.3567221165,
+                        "value": "ncv-YuBF05y7ch_tDPrbw5HH821ymYPuu-CHNqbpKWEmX0GWQmuAL9NpoKAK9xuGWg0DD0wWTlexaCpZ41eYcO-a6mctDTA4K6RmwtJ3pNI.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430357
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474430205,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760034430.203935,
+                        "expiry": 34560000.20393491,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430205
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.356803894,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430357
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474430206,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250430.203956,
+                        "expiry": 7776000.203955889,
+                        "value": "3381060418374629437",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430206
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.356823921,
+                        "value": "3381060418374629437",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430357
+                    }
+                ]
+            }
+        }
+    },
+    "bat.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".bat.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474429722,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726079229.719923,
+                        "expiry": 604800.7199230194,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429722
+                    }
+                ]
+            }
+        }
+    },
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474429722,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759170429.719843,
+                        "expiry": 33696000.71984291,
+                        "value": "15EDDC6D4E9066CC2091C89D4F026768",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429720
+                    }
+                ]
+            }
+        }
+    },
+    "dmp.3lift.com": {
+        "/": {
+            "ope_uidp": {
+                "name": "ope_uidp",
+                "domain": ".dmp.3lift.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474430074,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010430.071958,
+                        "expiry": 31536000.071958065,
+                        "value": "33a1cde8-49c1-4b1c-b870-53de5f420a4f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430072
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474428674,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760034428.673236,
+                        "expiry": 34560000.67323589,
+                        "value": "AHWqTUmilaAYSgwRKmHiB46jbnedZk-ZP1lEfrfdMEaaLmP64amUplyOjR2C7uv3RkE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474428673
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.69406605,
+                        "value": "AHWqTUnh0Ut-GJZegThcRUia2VsR1E93vxG0yJeKnJZdUUitA38rxGGkjsRw0my_",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474428695
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474429316,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741026429.315739,
+                        "expiry": 15552000.315738916,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429316
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474428455,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725475328.454149,
+                        "expiry": 900.4541490077972,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474428454
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.4548211097717,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474428456
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.462611913681,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474428463
+                    }
+                ]
+            }
+        }
+    },
+    "lefigaro.fr": {
+        "/": {
+            "_MFB_": {
+                "name": "_MFB_",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474429381,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1756578429,
+                        "expiry": 31104000,
+                        "value": "fHx8fHx8fHx8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429381
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "fHwxfHx8W118fHx8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429382
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "fHwyfHx8W118fHx8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429536
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "fHwyfHx8W118fHx8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429537
+                    }
+                ]
+            },
+            "_ScCbts": {
+                "name": "_ScCbts",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474429402,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726079229,
+                        "expiry": 604800,
+                        "value": "%5B%5D",
+                        "same_site": "lax",
+                        "timestamp": 1725474429402
+                    }
+                ]
+            },
+            "___nrbi": {
+                "name": "___nrbi",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474427823,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741116427,
+                        "expiry": 15642000,
+                        "value": "%7B%22firstVisit%22%3A1725474423%2C%22userId%22%3A%22e382cee0-aba4-4ded-9531-abe2956df330%22%2C%22userVars%22%3A%5B%5D%2C%22futurePreviousVisit%22%3A1725474423%2C%22timesVisited%22%3A1%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474427822
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15642000,
+                        "value": "%7B%22firstVisit%22%3A1725474423%2C%22userId%22%3A%22e382cee0-aba4-4ded-9531-abe2956df330%22%2C%22userVars%22%3A%5B%5D%2C%22futurePreviousVisit%22%3A1725474423%2C%22timesVisited%22%3A1%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429262
+                    }
+                ]
+            },
+            "___nrbic": {
+                "name": "___nrbic",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474427820,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22isNewUser%22%3Atrue%2C%22previousVisit%22%3A1725474423%2C%22currentVisitStarted%22%3A1725474423%2C%22sessionId%22%3A%224911056c-0f2a-4621-b026-46d21005bb3d%22%2C%22sessionVars%22%3A%5B%5D%2C%22visitedInThisSession%22%3Atrue%2C%22pagesViewed%22%3A1%2C%22landingPage%22%3A%22https%3A//www.lefigaro.fr/%22%2C%22referrer%22%3A%22%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474427819
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22isNewUser%22%3Atrue%2C%22previousVisit%22%3A1725474423%2C%22currentVisitStarted%22%3A1725474423%2C%22sessionId%22%3A%224911056c-0f2a-4621-b026-46d21005bb3d%22%2C%22sessionVars%22%3A%5B%5D%2C%22visitedInThisSession%22%3Atrue%2C%22pagesViewed%22%3A1%2C%22landingPage%22%3A%22https%3A//www.lefigaro.fr/%22%2C%22referrer%22%3A%22%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429262
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474428946,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250428,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725474428944.724233982699698324",
+                        "same_site": "lax",
+                        "timestamp": 1725474428945
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725474428944.724233982699698324",
+                        "same_site": "lax",
+                        "timestamp": 1725474429129
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474428524,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759638428,
+                        "expiry": 34164000,
+                        "value": "GA1.1.ccd.JXoKvqbLMF3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474428523
+                    }
+                ]
+            },
+            "_ga_NLLLBBNGFK": {
+                "name": "_ga_NLLLBBNGFK",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474428523,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759638428,
+                        "expiry": 34164000,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474428522
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34164000,
+                        "value": "GS1.1.1725474428.1.0.1725474428.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474428523
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474428494,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250428,
+                        "expiry": 7776000,
+                        "value": "1.1.1435101735.1725474428",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474428493
+                    }
+                ]
+            },
+            "_schn1": {
+                "name": "_schn1",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474428703,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725474608,
+                        "expiry": 180,
+                        "value": "k5ll",
+                        "same_site": "lax",
+                        "timestamp": 1725474428702
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 180,
+                        "value": "d5ccf",
+                        "same_site": "lax",
+                        "timestamp": 1725474428707
+                    }
+                ]
+            },
+            "_scid": {
+                "name": "_scid",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474428704,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759661126,
+                        "expiry": 34186698,
+                        "value": "hZ41DcwboVnLxWvw-m8PX42j8YaHk0vf",
+                        "same_site": "lax",
+                        "timestamp": 1725474428704
+                    }
+                ]
+            },
+            "_scid_r": {
+                "name": "_scid_r",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474428706,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759661126,
+                        "expiry": 34186698,
+                        "value": "hZ41DcwboVnLxWvw-m8PX42j8YaHk0vf",
+                        "same_site": "lax",
+                        "timestamp": 1725474428704
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34186698,
+                        "value": "hZ41DcwboVnLxWvw-m8PX42j8YaHk0vf",
+                        "same_site": "lax",
+                        "timestamp": 1725474428708
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34186698,
+                        "value": "nh41DcwboVnLxWvw-m8PX42j8YaHk0vftVccng",
+                        "same_site": "lax",
+                        "timestamp": 1725474428708
+                    }
+                ]
+            },
+            "_tt_enable_cookie": {
+                "name": "_tt_enable_cookie",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474429336,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759170429,
+                        "expiry": 33696000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429335
+                    }
+                ]
+            },
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474429336,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759170429,
+                        "expiry": 33696000,
+                        "value": "NuJBf5PpuG-uHpOnypKYJdsniwz",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429336
+                    }
+                ]
+            },
+            "_uetsid": {
+                "name": "_uetsid",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474429541,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725560829,
+                        "expiry": 86400,
+                        "value": "4bec10606aeb11efa1deedc0d987e557",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429540
+                    }
+                ]
+            },
+            "_uetvid": {
+                "name": "_uetvid",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474429542,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759170429,
+                        "expiry": 33696000,
+                        "value": "4bec24f06aeb11ef9d5febe4c5610ae3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429541
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474419600,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481619.587458,
+                        "expiry": 7200.587457895279,
+                        "value": "04DCB2AD125E4319900398F74ACC4A3F~000000000000000000000000000000~YAAQTqrWF9sqArmRAQAABjRKvhlU4jNM/i8znie1r8g0So9nFak3xiavEGERXrOrv0MN2Po8O7Lj2FAHtYCUdzu+7K+YCZPwDSr3p8aOkLOK9NpEZsr7pT661+hZc2JAAggOZPRLGQ3U46BIO97/+heKEfHrZ7uMoSKPY1O39PwCdN+NAGA9aOqnwDAN52fIT5EtjLS/P21wJ3Lh7HDt82ArWqnZEchETIF2W1gNNUPis5JKKvro4Fg1lYHOPLcggQ/yZh2YimlTot/6IRNb5huZ9fIIS6bCNd6zn7sVgwufmRYw/kOtdp5Dxd8xPxRTxygL9AMxxYjbHdyiui9nI4GhgfJ+W5F2NKKUbO6UhoEoshIDmoWVkXxlRS6tOMPQ4VoC/+ijpvDx5FKk",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474419589
+                    }
+                ]
+            },
+            "compass_uid": {
+                "name": "compass_uid",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474427827,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741116427,
+                        "expiry": 15642000,
+                        "value": "e382cee0-aba4-4ded-9531-abe2956df330",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474427826
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15642000,
+                        "value": "e382cee0-aba4-4ded-9531-abe2956df330",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429262
+                    }
+                ]
+            },
+            "fig_firstparty": {
+                "name": "fig_firstparty",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474428881,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010428.880568,
+                        "expiry": 31536000.880568027,
+                        "value": "btmFKxHZQoazSxQhg4VVocgvqlo0I8H0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474428880
+                    }
+                ]
+            },
+            "fig_save_consent": {
+                "name": "fig_save_consent",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474420188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010420.182009,
+                        "expiry": 31536000.18200898,
+                        "value": "PgMpxn4OpdrSu9ybpzcuB7wgvzXmMPIt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474420182
+                    }
+                ]
+            },
+            "fig_session_started": {
+                "name": "fig_session_started",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474427859,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725476227.858608,
+                        "expiry": 1800.858608007431,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474427859
+                    }
+                ]
+            },
+            "fig_sessions_cpt": {
+                "name": "fig_sessions_cpt",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474427860,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010427.858679,
+                        "expiry": 31536000.858679056,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474427860
+                    }
+                ]
+            },
+            "ga_helper_consent": {
+                "name": "ga_helper_consent",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474427827,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1756578427,
+                        "expiry": 31104000,
+                        "value": "eyJzZENpZCI6IjIyNzk1MjIyMjkuMTcyNTQwMDgwMCIsInNkU2lkIjoiMTcyNTQwMDgwMCIsInNkVHMiOiIxNzI1NDc0NDI2IiwidmVyc2lvbiI6MTN9",
+                        "same_site": "lax",
+                        "timestamp": 1725474427827
+                    }
+                ]
+            },
+            "trc_cookie_storage": {
+                "name": "trc_cookie_storage",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474429102,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010429,
+                        "expiry": 31536000,
+                        "value": "taboola%2520global%253Asession-data%3Dv2_495dbb6bdb716898351d4764a6de6627_bd328562-073f-4249-99f1-d7568548f0b6-tuctdd22bfc_1725474428_1725474428_CIi3jgYQ9cFFGNz1qPKbMiABKAEw4QE4kaQOQIuwDkiLo9kDUKMGWABgAGi7xcTSmar-r0ZwAQ",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429102
+                    }
+                ]
+            },
+            "uhz": {
+                "name": "uhz",
+                "domain": ".lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474427847,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733340427,
+                        "expiry": 7866000,
+                        "value": "JXoKvqbLMF3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474427846
+                    }
+                ]
+            },
+            "m_cnt": {
+                "name": "m_cnt",
+                "domain": ".www.lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474429846,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429845
+                    }
+                ]
+            },
+            "m_ses": {
+                "name": "m_ses",
+                "domain": ".www.lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474429845,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "20240904202709",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474429844
+                    }
+                ]
+            },
+            "Wysistat": {
+                "name": "Wysistat",
+                "domain": "www.lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474421611,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759602421,
+                        "expiry": 34128000,
+                        "value": "0.5669243583494183_1725474421605%C3%AF%C2%BF%C5%931%C3%AF%C2%BF%C5%931725474421605%C3%AF%C2%BF%C5%931%C3%AF%C2%BF%C5%931725474421%C3%AF%C2%BF%C5%930.5669243583494183_1725474421605%C3%AF%C2%BF%C5%931759602421605",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474421607
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "0.5669243583494183_1725474421605%C3%AF%C2%BF%C5%931%C3%AF%C2%BF%C5%931725474421749%C3%AF%C2%BF%C5%931%C3%AF%C2%BF%C5%931725474421%C3%AF%C2%BF%C5%930.5669243583494183_1725474421605%C3%AF%C2%BF%C5%931759602421605",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474421749
+                    }
+                ]
+            },
+            "WysistatAC": {
+                "name": "WysistatAC",
+                "domain": "www.lefigaro.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474421607,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728066421,
+                        "expiry": 2592000,
+                        "value": "WysistatAC",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474421605
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "WysistatAC",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474421749
+                    }
+                ]
+            }
+        }
+    },
+    "linkedin.com": {
+        "/": {
+            "AnalyticsSyncHistory": {
+                "name": "AnalyticsSyncHistory",
+                "domain": ".linkedin.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474430146,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728066430.144236,
+                        "expiry": 2592000.144236088,
+                        "value": "AQLHKDfdvOrsSQAAAZG-Sl0bFjK8z5ORTrhyIjaD_YpIIPkJU1xR-hjYnP868ntyO0VL73elYk2M1D3kcCHl9Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430146
+                    }
+                ]
+            },
+            "UserMatchHistory": {
+                "name": "UserMatchHistory",
+                "domain": ".linkedin.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474430145,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728066430.144177,
+                        "expiry": 2592000.14417696,
+                        "value": "AQJrKmIpNK0Z4wAAAZG-Sl0blrgJp8pd9GbOSJgDQqbMMGAbD_gkPtmKTN-cFUhtFlvxI5o0u1aZBQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430144
+                    }
+                ]
+            },
+            "bcookie": {
+                "name": "bcookie",
+                "domain": ".linkedin.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474429905,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010430.903457,
+                        "expiry": 31536001.903456926,
+                        "value": "\"v=2&86c08d1b-3bc4-496e-813d-46a6e8567daf\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429905
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.14440489,
+                        "value": "\"v=2&86c08d1b-3bc4-496e-813d-46a6e8567daf\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430146
+                    }
+                ]
+            },
+            "li_sugr": {
+                "name": "li_sugr",
+                "domain": ".linkedin.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474429904,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250429.903409,
+                        "expiry": 7776000.903409004,
+                        "value": "6e0a66b6-d9d4-4756-98b1-42a669cd1830",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429904
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.144079924,
+                        "value": "6e0a66b6-d9d4-4756-98b1-42a669cd1830",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430144
+                    }
+                ]
+            },
+            "lidc": {
+                "name": "lidc",
+                "domain": ".linkedin.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474429905,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560830.903544,
+                        "expiry": 86401.90354394913,
+                        "value": "\"b=VGST04:s=V:r=V:a=V:p=V:g=3336:u=1:x=1:i=1725474430:t=1725560830:v=2:sig=AQG73Yh4gSILebUBkX5Ed8UhRo64kxCr\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429905
+                    }
+                ]
+            },
+            "bscookie": {
+                "name": "bscookie",
+                "domain": ".www.linkedin.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474430538,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010430.538015,
+                        "expiry": 31536000.53801489,
+                        "value": "\"v=1&20240904182710027fd16f-255d-4313-873f-dd5312587792AQF6TYUAfOIumRqCUdTTnmYPFxN0SbCB\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430538
+                    }
+                ]
+            }
+        }
+    },
+    "snapchat.com": {
+        "/": {
+            "sc_at": {
+                "name": "sc_at",
+                "domain": ".snapchat.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474429361,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759170429.36071,
+                        "expiry": 33696000.360709906,
+                        "value": "v2|H4sIAAAAAAAAAAXBgQkAMQgDwImEGGLVceRLp3D4vxv2oGrsXZSJSqvoYwGkO/Lww64nQymxFz+ZrLqaMgAAAA==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429361
+                    }
+                ]
+            }
+        }
+    },
+    "taboola.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474429095,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010428.093135,
+                        "expiry": 31535999.09313512,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429095
+                    }
+                ]
+            },
+            "t_gid": {
+                "name": "t_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474429265,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010429.264071,
+                        "expiry": 31536000.264070988,
+                        "value": "bd328562-073f-4249-99f1-d7568548f0b6-tuctdd22bfc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429265
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.27496195,
+                        "value": "bd328562-073f-4249-99f1-d7568548f0b6-tuctdd22bfc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430275
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.447280884,
+                        "value": "bd328562-073f-4249-99f1-d7568548f0b6-tuctdd22bfc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430447
+                    }
+                ]
+            },
+            "t_pt_gid": {
+                "name": "t_pt_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474429266,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010429.264135,
+                        "expiry": 31536000.264134884,
+                        "value": "bd328562-073f-4249-99f1-d7568548f0b6-tuctdd22bfc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429265
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.275154114,
+                        "value": "bd328562-073f-4249-99f1-d7568548f0b6-tuctdd22bfc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430275
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.44730091,
+                        "value": "bd328562-073f-4249-99f1-d7568548f0b6-tuctdd22bfc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474430447
+                    }
+                ]
+            }
+        },
+        "/lefigaro-lefigaro/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/lefigaro-lefigaro/",
+                "current_label": 0,
+                "label_ts": 1725474429096,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_495dbb6bdb716898351d4764a6de6627_bd328562-073f-4249-99f1-d7568548f0b6-tuctdd22bfc_1725474428_1725474428_CIi3jgYQ9cFFGNz1qPKbMiABKAEw4QE4kaQOQIuwDkiLo9kDUKMGWABgAGi7xcTSmar-r0ZwAQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429095
+                    }
+                ]
+            }
+        }
+    },
+    "tagger.opecloud.com": {
+        "/": {
+            "ope_uid": {
+                "name": "ope_uid",
+                "domain": ".tagger.opecloud.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474428964,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010428.963234,
+                        "expiry": 31536000.963233948,
+                        "value": "2-jtOQR075gElYxEUz57tJGkMyuEDKBniMTu6k3xuLDLCGN0c/mvaAZM98yBNMgA7zlpNgMA==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474428963
+                    }
+                ]
+            },
+            "ope_uidp": {
+                "name": "ope_uidp",
+                "domain": ".tagger.opecloud.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474428965,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010428.963377,
+                        "expiry": 31536000.963377,
+                        "value": "1a9bd4e0-a1b1-45b0-bb41-3d74d71f5e4a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474428964
+                    }
+                ]
+            }
+        }
+    },
+    "tiktok.com": {
+        "/": {
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".tiktok.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474428861,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759170428.860316,
+                        "expiry": 33696000.86031604,
+                        "value": "2lcLTuhIffCLChlq9nRROM5rX1q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474428860
+                    }
+                ]
+            }
+        }
+    },
+    "events.newsroom.bi": {
+        "/": {
+            "2256_lv": {
+                "name": "2256_lv",
+                "domain": "events.newsroom.bi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474429259,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728066429.256592,
+                        "expiry": 2592000.2565920353,
+                        "value": "null",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429259
+                    }
+                ]
+            },
+            "2256_s": {
+                "name": "2256_s",
+                "domain": "events.newsroom.bi",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474429258,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4911056c-0f2a-4621-b026-46d21005bb3d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429258
+                    }
+                ]
+            },
+            "2256_u": {
+                "name": "2256_u",
+                "domain": "events.newsroom.bi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474429258,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741026429.256455,
+                        "expiry": 15552000.256454945,
+                        "value": "e382cee0-aba4-4ded-9531-abe2956df330",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429257
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.816194057,
+                        "value": "e382cee0-aba4-4ded-9531-abe2956df330",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429816
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.818681955,
+                        "value": "e382cee0-aba4-4ded-9531-abe2956df330",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429818
+                    }
+                ]
+            },
+            "2256_ut": {
+                "name": "2256_ut",
+                "domain": "events.newsroom.bi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474429260,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728066429.256651,
+                        "expiry": 2592000.2566509247,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429259
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.81644392,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429817
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.8187499046,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429819
+                    }
+                ]
+            }
+        }
+    },
+    "sc-static.net": {
+        "/scevent.min.js": {
+            "X-AB": {
+                "name": "X-AB",
+                "domain": "sc-static.net",
+                "path": "/scevent.min.js",
+                "current_label": 2,
+                "label_ts": 1725474428645,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560828.644202,
+                        "expiry": 86400.64420199394,
+                        "value": "e6c24df934334ca28844a8103b09132a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474428644
+                    }
+                ]
+            }
+        }
+    },
+    "trc.taboola.com": {
+        "/": {
+            "t_pid": {
+                "name": "t_pid",
+                "domain": "trc.taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474429094,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010428.093078,
+                        "expiry": 31535999.093077898,
+                        "value": "bd328562-073f-4249-99f1-d7568548f0b6-tuctdd22bfc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474429093
+                    }
+                ]
+            }
+        }
+    }
+}

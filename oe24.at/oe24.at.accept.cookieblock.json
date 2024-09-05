@@ -1,0 +1,1312 @@
+{
+    "360yield.com": {
+        "/": {
+            "tuuid": {
+                "name": "tuuid",
+                "domain": ".360yield.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478527971,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733254526.969912,
+                        "expiry": 7775999.969912052,
+                        "value": "e71318a3-e1dc-41fb-ae11-dc096258fb8d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478527970
+                    }
+                ]
+            },
+            "tuuid_lu": {
+                "name": "tuuid_lu",
+                "domain": ".360yield.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478527972,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733254526.969982,
+                        "expiry": 7775999.969981909,
+                        "value": "1725478527",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478527971
+                    }
+                ]
+            }
+        }
+    },
+    "4dex.io": {
+        "/": {
+            "uids": {
+                "name": "uids",
+                "domain": ".4dex.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478527961,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730662527.958041,
+                        "expiry": 5184000.958040953,
+                        "value": "eyJzeW5jcyI6eyJmcmVld2hlZWwiOiIyMDI0LTA5LTA0VDE5OjM1OjI4LjAxNTA0NjkyMloiLCJydWJpY29uIjoiMjAyNC0wOS0wNFQxOTozNToyOC4wMTQ3NTIxMzJaIiwidHJpcGxlbGlmdCI6IjIwMjQtMDktMDRUMTk6MzU6MjguMDE0OTk5MjIyWiIsInVucnVseSI6IjIwMjQtMDktMDRUMTk6MzU6MjguMDE0ODUwMTkyWiJ9LCJ1aWRzIjp7ImFkYWdpbyI6eyJ1aWQiOiIzNDJkODUyMy0zMTgxLTQxODUtODhkOS0zNDk2NjA3YjE5NWEiLCJleHBpcmVzIjoiMjAyNC0xMS0wM1QxOTozNToyNy42OTEwMzg2ODhaIn19LCJiZGF5IjoiMjAyNC0wOS0wNFQxOTozNToyNy42OTA4ODc4NTlaIn0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478527958
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478528052,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733254528.051211,
+                        "expiry": 7776000.051211119,
+                        "value": "zeV1oBLHxxGIX-vOlJDySsUnEwz3ATnD-0Wk8wC6lk3D8E7BsrnVUFLuC38aJJSILZgyoSNaBLSdprIM59LIgxZKkkmfzz08JEP_1mKF0a8.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478528051
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478528052,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733254528.051244,
+                        "expiry": 7776000.05124402,
+                        "value": "ChkIp-qNARAKGAEgASgBMP_s4rYGOAFAAUgBEP_s4rYGGAA.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478528052
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478528053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760038528.051259,
+                        "expiry": 34560000.05125904,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478528053
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478528054,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733254528.051273,
+                        "expiry": 7776000.0512731075,
+                        "value": "7850365498783306544",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478528053
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478527758,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757014527.757677,
+                        "expiry": 31536000.75767708,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478527757
+                    }
+                ]
+            }
+        }
+    },
+    "connectad.io": {
+        "/": {
+            "uid": {
+                "name": "uid",
+                "domain": ".connectad.io",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478527776,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728106527.775929,
+                        "expiry": 2628000.775928974,
+                        "value": "e609b4ba-c6c7-4515-bd62-9b4189840f96",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478527776
+                    }
+                ]
+            }
+        }
+    },
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478528345,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757014528.34424,
+                        "expiry": 31536000.34423995,
+                        "value": "1c9dt8gzpn17k2lcp8qfpvdwix",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478528344
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.349464893,
+                        "value": "4p7ctuefz73jvhkpxcy50mkz",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478528349
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478527902,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725479427.900687,
+                        "expiry": 900.9006869792938,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478527901
+                    }
+                ]
+            }
+        }
+    },
+    "oe24.at": {
+        "/": {
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478525967,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757014525,
+                        "expiry": 31536000,
+                        "value": "2024-09-04T19:35:25.962Z",
+                        "same_site": "lax",
+                        "timestamp": 1725478525962
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478520929,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757014520,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A35%3A20+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0",
+                        "same_site": "lax",
+                        "timestamp": 1725478520929
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A35%3A20+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1725478520930
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A35%3A21+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725478521312
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A35%3A21+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.oe24.at%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725478521334
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A35%3A21+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.oe24.at%2F&groups=C0002%3A0%2CC0004%3A0%2CC0005%3A0%2CC0003%3A0%2CC0001%3A1%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725478521674
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A35%3A25+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A0%2CC0004%3A0%2CC0005%3A0%2CC0003%3A0%2CC0001%3A1%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725478525968
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A35%3A25+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A1%2CC0004%3A1%2CC0005%3A1%2CC0003%3A1%2CC0001%3A1%2CV2STACK42%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725478525989
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A35%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A1%2CC0004%3A1%2CC0005%3A1%2CC0003%3A1%2CC0001%3A1%2CV2STACK42%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725478526012
+                    }
+                ]
+            },
+            "__pat": {
+                "name": "__pat",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478527586,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728070527,
+                        "expiry": 2592000,
+                        "value": "7200000",
+                        "same_site": "lax",
+                        "timestamp": 1725478527585
+                    }
+                ]
+            },
+            "__pvi": {
+                "name": "__pvi",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478527587,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564927,
+                        "expiry": 86400,
+                        "value": "eyJpZCI6InYtbTBvOWQ0N3B3ZTF0eW92cCIsImRvbWFpbiI6Ii5vZTI0LmF0IiwidGltZSI6MTcyNTQ3ODUyNzU4Mn0%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725478527586
+                    }
+                ]
+            },
+            "__tbc": {
+                "name": "__tbc",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478527584,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760038527.5807,
+                        "expiry": 34560000.58069992,
+                        "value": "%7Bkpex%7DmBHMQcPy5zBERpfn3iZWVfYjYv0KHR5zmEhBobmQlzG40kgLBQzFfXy_jkDWp3Q8",
+                        "same_site": "lax",
+                        "timestamp": 1725478527581
+                    }
+                ]
+            },
+            "_cb": {
+                "name": "_cb",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478526921,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759606526,
+                        "expiry": 34128000,
+                        "value": "D0a6-j--f8xhfUKe",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526920
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478526923,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725480326,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526923
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725478526907,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526906
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526908
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526923
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478526922,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759606526,
+                        "expiry": 34128000,
+                        "value": ".1725478526908.1725478526908.1.D59xLpD834EACLK3ExB5lp9Nhe0rY.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526921
+                    }
+                ]
+            },
+            "_chartbeat4": {
+                "name": "_chartbeat4",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478528702,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725478588,
+                        "expiry": 60,
+                        "value": "t=CwqbkwB1zLb4DAkBiXBh8VwBBrGCR9&E=1&x=0&c=0.03&y=25656&w=890",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528701
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478526835,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9d496wbgl3n",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526924
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9d49aoknwhm",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526927
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9d4a5ntevjd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526957
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9d4a6qm9okl",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526959
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9d4rhndyesu",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527585
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9d4scnxt0y4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527612
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9d4t4aus9hn",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527641
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9d5lb7vvkff",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528656
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9d5liekiopp",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528662
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9d5mmqdvmnr",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528703
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478527277,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760038527.275857,
+                        "expiry": 34560000.27585697,
+                        "value": "GA1.1.1659669694.1725478527",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527277
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.03015089,
+                        "value": "GA1.1.1659669694.1725478527",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528031
+                    }
+                ]
+            },
+            "_ga_EENFXFE82P": {
+                "name": "_ga_EENFXFE82P",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478527277,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760038527.275532,
+                        "expiry": 34560000.27553201,
+                        "value": "GS1.1.1725478527.1.0.1725478527.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527276
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.28200412,
+                        "value": "GS1.1.1725478527.1.0.1725478527.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527282
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.28333998,
+                        "value": "GS1.1.1725478527.1.1.1725478527.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527283
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.60202789,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527602
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.602494955,
+                        "value": "GS1.1.1725478527.1.1.1725478527.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527603
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.60561609,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527605
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.60587311,
+                        "value": "GS1.1.1725478527.1.1.1725478527.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527606
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.70458698,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528704
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.70472002,
+                        "value": "GS1.1.1725478527.1.1.1725478528.59.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528705
+                    }
+                ]
+            },
+            "_ga_H6MEHCHJY0": {
+                "name": "_ga_H6MEHCHJY0",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478528031,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760038528.029904,
+                        "expiry": 34560000.02990389,
+                        "value": "GS1.1.1725478528.1.0.1725478528.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528030
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725478526884,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759606526,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0o9d47lppvbe6jn%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725478526883
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725478526869,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759606526,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOBmATgHZuADg68ArGI78ATGIBso7iAC%2BQA",
+                        "same_site": "lax",
+                        "timestamp": 1725478526868
+                    }
+                ]
+            },
+            "_rdc1725478526972": {
+                "name": "_rdc1725478526972",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725478526973,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725478536,
+                        "expiry": 10,
+                        "value": "writeable",
+                        "same_site": "lax",
+                        "timestamp": 1725478526973
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478526958,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759606526,
+                        "expiry": 34128000,
+                        "value": "m0o9d47lppvbe6jn",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526957
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0o9d47lppvbe6jn",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526959
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0o9d47lppvbe6jn",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527613
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0o9d47lppvbe6jn",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528703
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478528499,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482128,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528498
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478528498,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482128,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528497
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478526012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757014526,
+                        "expiry": 31536000,
+                        "value": "CQEa0TAQEa0TAAcABBDEBFFsAP_gAEPgAChQKaNV_G__bWlj8X71aftkeY1P9_h7rsQxBhfJE-4FyLvW_JwXx2ExNA36pqIKmRIAu3bBIQNlGIDUTUCgaogVryDMak2MoTNKJ6BkiFMRO2dYCF5vmwlD-QKY5vr991dx2B-t7dr83dzyz4VHn3a5_2a0WJCdA58tDfv9bROb-9IMd_x8vwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA_fff_9Ln_-uB_-_wU1AJMNCogDLIkJCDQMIIEAKgrCAiAQAAAAkDRAQAkDAp2BgEusJEAIAUAAwQAgABRkACAAASABCIAIACgQAAQCBQABgAQDAQAEDAAGACwEAgABAdAhCAggUCwASMyIhTAhCASCAlsqEEgCBBXCEIs8CCAREwUAAAJABWAAICwWBxJICViAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbRlaYFo-YLntMAyQAA.f_wACHwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725478526010
+                    }
+                ]
+            },
+            "xbc": {
+                "name": "xbc",
+                "domain": ".oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478527589,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760038527.583575,
+                        "expiry": 34560000.58357501,
+                        "value": "%7Bkpex%7DOZcddXIyvrBSzoLv6YTteY-kzFOxFKAR691xh3Skvls",
+                        "same_site": "lax",
+                        "timestamp": 1725478527588
+                    }
+                ]
+            },
+            "ioam2018": {
+                "name": "ioam2018",
+                "domain": ".www.oe24.at",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725478527249,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1753644927,
+                        "expiry": 28166400,
+                        "value": "000324060654e0b4266d8b67f%3A1753644927247%3A1725478527247%3A.www.oe24.at%3A1%3Aat_w_atoe24%3ARedCont%2FHomepage%2FHomepage%2F%3Anoevent%3A1725478527247%3A41gyin",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478527248
+                    }
+                ]
+            },
+            "__adblocker": {
+                "name": "__adblocker",
+                "domain": "www.oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478517131,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725478817,
+                        "expiry": 300,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478517125
+                    }
+                ]
+            },
+            "__pnahc": {
+                "name": "__pnahc",
+                "domain": "www.oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478526888,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733258126,
+                        "expiry": 7779600,
+                        "value": "0",
+                        "same_site": "lax",
+                        "timestamp": 1725478526887
+                    }
+                ]
+            },
+            "_pbjs_userid_consent_data": {
+                "name": "_pbjs_userid_consent_data",
+                "domain": "www.oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478526972,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728070526,
+                        "expiry": 2592000,
+                        "value": "8975321963725452",
+                        "same_site": "lax",
+                        "timestamp": 1725478526972
+                    }
+                ]
+            },
+            "oe24ppid": {
+                "name": "oe24ppid",
+                "domain": "www.oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478526686,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760038526.680287,
+                        "expiry": 34560000.680286884,
+                        "value": "TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyOC4wLjAuMCBTYWZhcmkvNTM3LjM2MTcyNTQ3ODUyNjY4MA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478526683
+                    }
+                ]
+            },
+            "pnespsdk_ssn": {
+                "name": "pnespsdk_ssn",
+                "domain": "www.oe24.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478528428,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22%24s%22%3A1725478528425%2C%22visitNumber%22%3A1%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528426
+                    }
+                ]
+            },
+            "pnespsdk_visitor": {
+                "name": "pnespsdk_visitor",
+                "domain": "www.oe24.at",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725478528429,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757014528,
+                        "expiry": 31536000,
+                        "value": "m0o9d47lppvbe6jn",
+                        "same_site": "unspecified",
+                        "timestamp": 1725478528428
+                    }
+                ]
+            }
+        }
+    },
+    "onesignal.com": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".onesignal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478515938,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725480315.936071,
+                        "expiry": 1800.9360709190369,
+                        "value": "eeXeb6nBhwP8JJVpbpA1sYL4JT20mOw9SG9KZKXTvqQ-1725478516-1.0.1.1-R0vkrJsB82ChP7RtLSpxoHkehiejGCDRggCa8bnobThoYWsbGB6wTer0FuMNjn8dT08QZyErOHaNYJjt2j6A7Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478515937
+                    }
+                ]
+            }
+        }
+    },
+    "openx.net": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".openx.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478527713,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757014527.712813,
+                        "expiry": 31536000.7128129,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478527713
+                    }
+                ]
+            }
+        }
+    },
+    "piano.io": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".piano.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478527491,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725480327.491152,
+                        "expiry": 1800.491152048111,
+                        "value": "nnj0_.fKo0NHLGdy4wJg6ivox1oauNSuzo3E8ga2MJE-1725478527-1.0.1.1-gQ5CDarCCXO1if9ik1B_w64y5CzwnwmQghEQqvSOymf.1kQOhdcsJwPo1yui85O6vLsSYkjWeMIOWPIeLl9mrg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478527491
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.5751628875732,
+                        "value": "Qq5cRKIsWuu3auBpcXXv4SJtyz1hxAyM8vstZcyVtac-1725478527-1.0.1.1-iGbTY4SYdjby3GZ7W91juepaRbGEGM94whsQS8rKgUnQH.XECchqAHxDz9TvOWGNlGKwOzh_1_n1kAUHhAMMLw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478527577
+                    }
+                ]
+            }
+        }
+    },
+    "rubiconproject.com": {
+        "/": {
+            "audit": {
+                "name": "audit",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725478527734,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757014527.731262,
+                        "expiry": 31536000.73126197,
+                        "value": "1|iVcdDQ/JV7nCoRceV3aPGEtAdO6oL148m+3XSeM+WCMeI7Q4Q3N1gY2sWLpmfszQeqnkYzxJIoPKneXnydm7kZasZYpBKl0PWQEejUrOX921TvmSjPjddWLlD6tikjLEmSB4sy0fXHA1moJRLpStbNlAF6RlDShNubSo2ihHwqq/VRUmVGSF6X+XbbfsRUf5WSJmXC+24hyKdHdt+Vidl0o0UE+ClbEw62Nyjihxno9rGtADqBquCDjnITI3UjM7jQxeWiEkxs7VcAl7VbdpULkeQj3oQEM+kG8rA2+2/PRlGUy1LPMaEaDGgPB7Tj2cq78tOyvAGkZxk83i3hwPTIAI6DpA/frJi1ctcaXxzDqrh2cJ2UiDIaMHkC5KK9AblOyCXXZigKOU7IJddmKAo5Tsgl12YoCjiuOpAtrSVEukdNBhq8CnD5IetZQmIzl1xwHiQXsuLgtXz7XuWomCDmoPfOGXFih0AiVehQsXMpNGtk5NumO+6pbSfFsddTn6FmBt17nvZLX1CvB/CTeewBnJvawFcw1Srp0ucRtFscHtWGc/TB+HA9Lj3/ToY7ZFGwlWqKvWGF83vfwRLZ01+Ew3RJnSxCh1WFTuKSF54k/vhL33zkjS7Ii+XW6Psd4b17IEXxITSkzOxyJj0lFb/agKwtoyqu4fAq9weDi7kYGU7IJddmKAo5Tsgl12YoCjlOyCXXZigKMh3r73/gIoSADm0Ri6NAXwAiIf2lhhYSKt8n0Js2dYTw4ljJUQ3xdlvsVAPbIH/+E=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478527733
+                    }
+                ]
+            },
+            "khaos": {
+                "name": "khaos",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725478527733,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757014527.731247,
+                        "expiry": 31536000.73124695,
+                        "value": "M0O9D4UY-W-88MB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725478527733
+                    }
+                ]
+            }
+        }
+    }
+}

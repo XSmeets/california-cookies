@@ -1,0 +1,1368 @@
+{
+    "cbsnews.com": {
+        "/": {
+            "AAMC_cbsi_0": {
+                "name": "AAMC_cbsi_0",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725531558555,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741083558,
+                        "expiry": 15552000,
+                        "value": "REGION%7C9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558555
+                    }
+                ]
+            },
+            "AMCVS_10D31225525FF5790A490D4D%40AdobeOrg": {
+                "name": "AMCVS_10D31225525FF5790A490D4D%40AdobeOrg",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725531557621,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557621
+                    }
+                ]
+            },
+            "AMCV_10D31225525FF5790A490D4D%40AdobeOrg": {
+                "name": "AMCV_10D31225525FF5790A490D4D%40AdobeOrg",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725531556778,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760091556.774551,
+                        "expiry": 34560000.774550915,
+                        "value": "1075005958%7CMCIDTS%7C19972%7CvVersion%7C4.4.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531556778
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.618468046,
+                        "value": "1075005958%7CMCIDTS%7C19972%7CMCMID%7C12790990414749705972155181991115465702%7CMCAAMLH-1726136357%7C9%7CMCAAMB-1726136357%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CvVersion%7C4.4.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557619
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.62083912,
+                        "value": "1075005958%7CMCIDTS%7C19972%7CMCMID%7C12790990414749705972155181991115465702%7CMCAAMLH-1726136357%7C9%7CMCAAMB-1726136357%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725538757s%7CNONE%7CvVersion%7C4.4.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557622
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.36262393,
+                        "value": "1075005958%7CMCIDTS%7C19972%7CMCMID%7C12790990414749705972155181991115465702%7CMCAAMLH-1726136357%7C9%7CMCAAMB-1726136357%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725538757s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.4.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558364
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.36551809,
+                        "value": "1075005958%7CMCIDTS%7C19972%7CMCMID%7C12790990414749705972155181991115465702%7CMCAAMLH-1726136357%7C9%7CMCAAMB-1726136357%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725538758s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.4.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558365
+                    }
+                ]
+            },
+            "CBS_INTERNAL": {
+                "name": "CBS_INTERNAL",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725531551525,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725531851.506939,
+                        "expiry": 300.5069389343262,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531551524
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.0981390476227,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552098
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.228404045105,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552229
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.8409209251404,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552841
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.8434579372406,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552844
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.9928729534149,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552994
+                    }
+                ]
+            },
+            "OTGPPConsent": {
+                "name": "OTGPPConsent",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531555885,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757067555,
+                        "expiry": 31536000,
+                        "value": "DBABLA~BVQqAAAAAgA.QA",
+                        "same_site": "lax",
+                        "timestamp": 1725531555883
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "DBABLA~BVQqAAAAAgA.QA",
+                        "same_site": "lax",
+                        "timestamp": 1725531559015
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531555876,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757067555,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A19%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0",
+                        "same_site": "lax",
+                        "timestamp": 1725531555876
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A19%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725531555879
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A19%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8d3789c-a2a7-4f5a-b1cf-08e703ef94c4&interactionCount=0&landingPath=https%3A%2F%2Fwww.cbsnews.com%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725531555880
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A19%3A15+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8d3789c-a2a7-4f5a-b1cf-08e703ef94c4&interactionCount=0&landingPath=https%3A%2F%2Fwww.cbsnews.com%2F&GPPCookiesCount=1",
+                        "same_site": "lax",
+                        "timestamp": 1725531555883
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A19%3A16+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8d3789c-a2a7-4f5a-b1cf-08e703ef94c4&interactionCount=0&landingPath=https%3A%2F%2Fwww.cbsnews.com%2F&GPPCookiesCount=1&groups=1%3A1%2CBG1259%3A1%2C5%3A1%2C4%3A1%2C2%3A1%2C3%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725531556067
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A19%3A19+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8d3789c-a2a7-4f5a-b1cf-08e703ef94c4&interactionCount=1&landingPath=https%3A%2F%2Fwww.cbsnews.com%2F&GPPCookiesCount=1&groups=1%3A1%2CBG1259%3A1%2C5%3A1%2C4%3A1%2C2%3A1%2C3%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725531559014
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A19%3A19+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8d3789c-a2a7-4f5a-b1cf-08e703ef94c4&interactionCount=1&landingPath=https%3A%2F%2Fwww.cbsnews.com%2F&GPPCookiesCount=1&groups=1%3A1%2CBG1259%3A1%2C5%3A1%2C4%3A1%2C2%3A1%2C3%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725531559015
+                    }
+                ]
+            },
+            "_awl": {
+                "name": "_awl",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725531553806,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759659553.804,
+                        "expiry": 34128000.8039999,
+                        "value": "2.1725531553.5-a0c0571844571839e02082eaaa459f40-6763652d75732d7765737431-0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725531553804
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.8039999,
+                        "value": "2.1725531553.5-aa1db8867603d3c5613e891d2abfb0d0-6763652d75732d7765737431-0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725531553807
+                    }
+                ]
+            },
+            "_cb": {
+                "name": "_cb",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531557063,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759659557,
+                        "expiry": 34128000,
+                        "value": "DpgxJ4Bmz2MJygxI8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557062
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531557065,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725533357,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557064
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557065
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725531556892,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531556891
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531556892
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557060
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557061
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557065
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725531557064,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759659557,
+                        "expiry": 34128000,
+                        "value": ".1725531557061.1725531557061.1.BACaq4CqaUeo6oeLaCWESGvDiFCLI.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557063
+                    }
+                ]
+            },
+            "_chartbeat4": {
+                "name": "_chartbeat4",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725531559016,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725531619,
+                        "expiry": 60,
+                        "value": "t=J7x5JD0os-BxEeSnBBQVxdDXYIlG&E=0&x=0&c=0.03&y=14768&w=890",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531559016
+                    }
+                ]
+            },
+            "_gd1725531558507_sharedId": {
+                "name": "_gd1725531558507_sharedId",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531558509,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558509
+                    }
+                ]
+            },
+            "_pubcid": {
+                "name": "_pubcid",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725531558507,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757067558,
+                        "expiry": 31536000,
+                        "value": "27f98485-d2c2-409d-bb09-0a69588aa9bf",
+                        "same_site": "lax",
+                        "timestamp": 1725531558506
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "27f98485-d2c2-409d-bb09-0a69588aa9bf",
+                        "same_site": "lax",
+                        "timestamp": 1725531558509
+                    }
+                ]
+            },
+            "_pubcid_cst": {
+                "name": "_pubcid_cst",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531558507,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757067558,
+                        "expiry": 31536000,
+                        "value": "GyzrLGMsgQ%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725531558507
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "GyzrLGMsgQ%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725531558509
+                    }
+                ]
+            },
+            "_vapi1725531556770": {
+                "name": "_vapi1725531556770",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531556774,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_vapi1725531556770",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531556772
+                    }
+                ]
+            },
+            "aam_uuid": {
+                "name": "aam_uuid",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531558556,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728123558,
+                        "expiry": 2592000,
+                        "value": "12677096778321936932143489583712200350",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558556
+                    }
+                ]
+            },
+            "aamgam": {
+                "name": "aamgam",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725531558556,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728123558,
+                        "expiry": 2592000,
+                        "value": "segid%3D1631413%2C17327703",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558555
+                    }
+                ]
+            },
+            "first_page_today": {
+                "name": "first_page_today",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531556758,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725595199,
+                        "expiry": 63643,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531556756
+                    }
+                ]
+            },
+            "fly_device": {
+                "name": "fly_device",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725531551518,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.474328994751,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552474
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.4936430454254,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552494
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.8374009132385,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552839
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.84060502052307,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552841
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.84239292144775,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552843
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.8433449268341,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552844
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.9912109375,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552992
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.9923539161682,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552994
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.4425790309906,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531553442
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.7044429779053,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531554706
+                    }
+                ]
+            },
+            "fly_geo": {
+                "name": "fly_geo",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531551524,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725531851.506549,
+                        "expiry": 300.50654888153076,
+                        "value": "{\"countryCode\": \"US\", \"region\": \"CA\", \"dma\": \"803\", \"connection\": { \"type\": \"broadband\"}}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531551519
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.09809494018555,
+                        "value": "{\"countryCode\": \"US\", \"region\": \"CA\", \"dma\": \"803\", \"connection\": { \"type\": \"broadband\"}}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552098
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.2283821105957,
+                        "value": "{\"countryCode\": \"US\", \"region\": \"CA\", \"dma\": \"803\", \"connection\": { \"type\": \"broadband\"}}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552228
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.8407099246979,
+                        "value": "{\"countryCode\": \"US\", \"region\": \"CA\", \"dma\": \"803\", \"connection\": { \"type\": \"broadband\"}}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552841
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.8434329032898,
+                        "value": "{\"countryCode\": \"US\", \"region\": \"CA\", \"dma\": \"803\", \"connection\": { \"type\": \"broadband\"}}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552844
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 300.9925549030304,
+                        "value": "{\"countryCode\": \"US\", \"region\": \"CA\", \"dma\": \"803\", \"connection\": { \"type\": \"broadband\"}}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552994
+                    }
+                ]
+            },
+            "fly_vid": {
+                "name": "fly_vid",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725531556072,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757067556.070778,
+                        "expiry": 31536000.070777893,
+                        "value": "777aad51-e678-4c5e-b83d-608ae4bef5c9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531556071
+                    }
+                ]
+            },
+            "prevPageName": {
+                "name": "prevPageName",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531556772,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cbsnews:/",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531556771
+                    }
+                ]
+            },
+            "prevPageType": {
+                "name": "prevPageType",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531556770,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "front_door",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531556769
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725531558364,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558364
+                    }
+                ]
+            },
+            "s_ecid": {
+                "name": "s_ecid",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531558363,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760091558.362031,
+                        "expiry": 34560000.36203098,
+                        "value": "MCMID%7C12790990414749705972155181991115465702",
+                        "same_site": "lax",
+                        "timestamp": 1725531558362
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.55343604,
+                        "value": "MCMID%7C12790990414749705972155181991115465702",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558553
+                    }
+                ]
+            },
+            "s_getNewRepeat": {
+                "name": "s_getNewRepeat",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725531557646,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728123557,
+                        "expiry": 2592000,
+                        "value": "1725531557643-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557645
+                    }
+                ]
+            },
+            "s_invisit": {
+                "name": "s_invisit",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725531557645,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725533357,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557645
+                    }
+                ]
+            },
+            "s_lv_cbsnews": {
+                "name": "s_lv_cbsnews",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725531557646,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760091557.644134,
+                        "expiry": 34560000.644134045,
+                        "value": "1725531557644",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557646
+                    }
+                ]
+            },
+            "s_lv_cbsnews_s": {
+                "name": "s_lv_cbsnews_s",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725531557646,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725533357,
+                        "expiry": 1800,
+                        "value": "First%20Visit",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557646
+                    }
+                ]
+            },
+            "s_vnum": {
+                "name": "s_vnum",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725531557644,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728123557,
+                        "expiry": 2592000,
+                        "value": "1728123557643%26vn%3D1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531557644
+                    }
+                ]
+            },
+            "test": {
+                "name": "test",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531556777,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531556777
+                    }
+                ]
+            },
+            "utag_main": {
+                "name": "utag_main",
+                "domain": ".cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531556762,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757067556,
+                        "expiry": 31536000,
+                        "value": "v_id:0191c1b20b950007636dd529fa9d05075001806d00bd0$_sn:1$_se:1$_ss:1$_st:1725533356758$ses_id:1725531556758%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531556760
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191c1b20b950007636dd529fa9d05075001806d00bd0$_sn:1$_se:1$_ss:1$_st:1725533356758$ses_id:1725531556758%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:cbsnews.com",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531556775
+                    }
+                ]
+            },
+            "_gd1725531558505_sharedId": {
+                "name": "_gd1725531558505_sharedId",
+                "domain": ".www.cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531558506,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558505
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558506
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": "www.cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531556013,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0000-00-00T00:00:00.000Z",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531556011
+                    }
+                ]
+            },
+            "_BB.bs": {
+                "name": "_BB.bs",
+                "domain": "www.cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531558475,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "b|4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558474
+                    }
+                ]
+            },
+            "_BB.d": {
+                "name": "_BB.d",
+                "domain": "www.cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531558476,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725595200,
+                        "expiry": 63642,
+                        "value": "1|||1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558475
+                    }
+                ]
+            },
+            "_lr_env_src_ats": {
+                "name": "_lr_env_src_ats",
+                "domain": "www.cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531558511,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728123558,
+                        "expiry": 2592000,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558511
+                    }
+                ]
+            },
+            "_lr_retry_request": {
+                "name": "_lr_retry_request",
+                "domain": "www.cbsnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725531558511,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725535158,
+                        "expiry": 3600,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531558510
+                    }
+                ]
+            },
+            "fly_js_debug": {
+                "name": "fly_js_debug",
+                "domain": "www.cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531552178,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "[]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531552177
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "[]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725531553305
+                    }
+                ]
+            },
+            "usprivacy": {
+                "name": "usprivacy",
+                "domain": "www.cbsnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725531556850,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1YNN",
+                        "same_site": "lax",
+                        "timestamp": 1725531556850
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725531557618,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741083557.616928,
+                        "expiry": 15552000.6169281,
+                        "value": "12677096778321936932143489583712200350",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725531557617
+                    }
+                ]
+            }
+        }
+    },
+    "scorecardresearch.com": {
+        "/": {
+            "UID": {
+                "name": "UID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725531557404,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759227557.403088,
+                        "expiry": 33696000.40308809,
+                        "value": "1E113aff889f2e497c628711725531557",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725531557403
+                    }
+                ]
+            },
+            "XID": {
+                "name": "XID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725531557404,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759227557.403118,
+                        "expiry": 33696000.403117895,
+                        "value": "1E113aff889f2e497c628711725531557",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725531557404
+                    }
+                ]
+            }
+        }
+    },
+    "at.cbsi.com": {
+        "/": {
+            "_BB.abStr": {
+                "name": "_BB.abStr",
+                "domain": "at.cbsi.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725531557162,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "none",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725531557161
+                    }
+                ]
+            }
+        }
+    }
+}

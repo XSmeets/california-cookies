@@ -1,0 +1,1465 @@
+{
+    "33across.com": {
+        "/": {
+            "33x_ps": {
+                "name": "33x_ps",
+                "domain": ".33across.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479867325,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015868.323905,
+                        "expiry": 31536001.32390499,
+                        "value": "u%3D212586322709497%3As1%3D1725479867196%3Ats%3D1725479867196",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479867324
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479863178,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733255863.176564,
+                        "expiry": 7776000.176563978,
+                        "value": "5Bn4OypZi4QaTuwMjAcykLN10A8RnpaD70fIIzrYBZnwxGN5x4Im3OYbk_V8DojWRyiZfvCwke7nzStblPr4iIBJGbdVa4o9rkgsgksQK5Y.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863177
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.319586992,
+                        "value": "5Bn4OypZi4QaTuwMjAcykLN10A8RnpaD70fIIzrYBZnwxGN5x4Im3OYbk_V8DojWRyiZfvCwke7nzStblPr4iIBJGbdVa4o9rkgsgksQK5Y.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863320
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479863182,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039863.17665,
+                        "expiry": 34560000.17665005,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863179
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.31967497,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863320
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479863183,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733255863.176712,
+                        "expiry": 7776000.176712036,
+                        "value": "7022244793587465798",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863183
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.319714069,
+                        "value": "7022244793587465798",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863320
+                    }
+                ]
+            }
+        }
+    },
+    "agkn.com": {
+        "/": {
+            "ab": {
+                "name": "ab",
+                "domain": ".agkn.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479862814,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015862.813025,
+                        "expiry": 31536000.813024998,
+                        "value": "0001%3Arlqo15wF4okGLU3I%2BsYWMbvfFB0Vjmml",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479862813
+                    }
+                ]
+            }
+        }
+    },
+    "calgary.citynews.ca": {
+        "/": {
+            "RT": {
+                "name": "RT",
+                "domain": ".calgary.citynews.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479861892,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726084661,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=calgary.citynews.ca&si=610e57e1-f4b7-4106-a8ab-0b26db65c9dc&ss=m0oa5nxz&sl=0&tt=0\"",
+                        "same_site": "lax",
+                        "timestamp": 1725479861890
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=calgary.citynews.ca&si=610e57e1-f4b7-4106-a8ab-0b26db65c9dc&ss=m0oa5nxz&sl=0&tt=0&rl=1\"",
+                        "same_site": "lax",
+                        "timestamp": 1725479866891
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=calgary.citynews.ca&si=610e57e1-f4b7-4106-a8ab-0b26db65c9dc&ss=m0oa5nxz&sl=1&tt=68i&rl=1&ld=68k\"",
+                        "same_site": "lax",
+                        "timestamp": 1725479866892
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=calgary.citynews.ca&si=610e57e1-f4b7-4106-a8ab-0b26db65c9dc&ss=m0oa5nxz&sl=1&tt=68i&rl=1&ld=68k&ul=7t8\"",
+                        "same_site": "lax",
+                        "timestamp": 1725479868932
+                    }
+                ]
+            }
+        }
+    },
+    "citynews.ca": {
+        "/": {
+            "AMCVS_D7FD34FA53D63B860A490D44%40AdobeOrg": {
+                "name": "AMCVS_D7FD34FA53D63B860A490D44%40AdobeOrg",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479861161,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479861160
+                    }
+                ]
+            },
+            "AMCV_D7FD34FA53D63B860A490D44%40AdobeOrg": {
+                "name": "AMCV_D7FD34FA53D63B860A490D44%40AdobeOrg",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479860174,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760039860.172925,
+                        "expiry": 34560000.172924995,
+                        "value": "179643557%7CMCIDTS%7C19971%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479860173
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.15578389,
+                        "value": "179643557%7CMCIDTS%7C19971%7CMCMID%7C50866745329402030104279449460362802549%7CMCAAMLH-1726084661%7C9%7CMCAAMB-1726084661%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479861157
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.159943104,
+                        "value": "179643557%7CMCIDTS%7C19971%7CMCMID%7C50866745329402030104279449460362802549%7CMCAAMLH-1726084661%7C9%7CMCAAMB-1726084661%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725487061s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479861161
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.74122691,
+                        "value": "179643557%7CMCIDTS%7C19971%7CMCMID%7C50866745329402030104279449460362802549%7CMCAAMLH-1726084661%7C9%7CMCAAMB-1726084661%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725487061s%7CNONE%7CMCSYNCSOP%7C411-19978%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479863741
+                    }
+                ]
+            },
+            "TEST_AMCV_COOKIE_WRITE": {
+                "name": "TEST_AMCV_COOKIE_WRITE",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479860163,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479860161
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479860171
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479860171
+                    }
+                ]
+            },
+            "_cb": {
+                "name": "_cb",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479864805,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607864,
+                        "expiry": 34128000,
+                        "value": "caQH8BgyWM1B7Fm-L",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479864804
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479864808,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481664,
+                        "expiry": 1800,
+                        "value": "https%3A%2F%2Fwww.citynews.ca%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479864807
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "https%3A%2F%2Fwww.citynews.ca%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479864809
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479864655,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479864654
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479864656
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479864796
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479864797
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479864808
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479864806,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607864,
+                        "expiry": 34128000,
+                        "value": ".1725479864799.1725479864799.1.D-RhgJC3Oz74g_fJVCZ695lCgaMk9.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479864805
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479864476,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733255864,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725479864475.407930871334999332",
+                        "same_site": "lax",
+                        "timestamp": 1725479864475
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725479864475.407930871334999332",
+                        "same_site": "lax",
+                        "timestamp": 1725479864816
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479863889,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733255863,
+                        "expiry": 7776000,
+                        "value": "1.1.1048759277.1725479864",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479863888
+                    }
+                ]
+            },
+            "check": {
+                "name": "check",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479850671,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479850664
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479850672
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479852219
+                    }
+                ]
+            },
+            "citynewsregion": {
+                "name": "citynewsregion",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479858808,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015858,
+                        "expiry": 31536000,
+                        "value": "calgary",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479858807
+                    }
+                ]
+            },
+            "com.adobe.alloy.getTld": {
+                "name": "com.adobe.alloy.getTld",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479860176,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "com.adobe.alloy.getTld",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479860176
+                    }
+                ]
+            },
+            "kndctr_D7FD34FA53D63B860A490D44_AdobeOrg_cluster": {
+                "name": "kndctr_D7FD34FA53D63B860A490D44_AdobeOrg_cluster",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479864646,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481664,
+                        "expiry": 1800,
+                        "value": "or2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864645
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "or2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479865389
+                    }
+                ]
+            },
+            "kndctr_D7FD34FA53D63B860A490D44_AdobeOrg_identity": {
+                "name": "kndctr_D7FD34FA53D63B860A490D44_AdobeOrg_identity",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479864647,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607864,
+                        "expiry": 34128000,
+                        "value": "CiY1MDg2Njc0NTMyOTQwMjAzMDEwNDI3OTQ0OTQ2MDM2MjgwMjU0OVIQCMuR9fSbMhgBKgNPUjIwA_ABy5H19Jsy",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864646
+                    }
+                ]
+            },
+            "mbox": {
+                "name": "mbox",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479850678,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481711,
+                        "expiry": 1861,
+                        "value": "session#4aaca79cb0184db9a3f3de6b9a9847bb#1725481711",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479850672
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1861,
+                        "value": "session#4aaca79cb0184db9a3f3de6b9a9847bb#1725481713",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479852217
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.217176914,
+                        "value": "session#4aaca79cb0184db9a3f3de6b9a9847bb#1725481713|PC#4aaca79cb0184db9a3f3de6b9a9847bb.37_0#1788724653",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479852219
+                    }
+                ]
+            },
+            "s_ivc": {
+                "name": "s_ivc",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479863912,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481663,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479863911
+                    }
+                ]
+            },
+            "s_vnc365": {
+                "name": "s_vnc365",
+                "domain": ".citynews.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479863911,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757023199,
+                        "expiry": 31543336,
+                        "value": "1757015863909%26vn%3D1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479863910
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479861154,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031861.152793,
+                        "expiry": 15552000.15279293,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479861153
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.28737402,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863289
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.497266054,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863498
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.739989996,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863740
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.642364979,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864643
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.747627974,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864749
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.596323967,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479865597
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.505765915,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479867506
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.370784044,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479868373
+                    }
+                ]
+            },
+            "dextp": {
+                "name": "dextp",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479862154,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031862,
+                        "expiry": 15552000,
+                        "value": "21-1-1725479862152",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479862153
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "21-1-1725479862152|358-1-1725479862589",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479862590
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "21-1-1725479862152|358-1-1725479862589|445-1-1725479863589",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863591
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "21-1-1725479862152|358-1-1725479862589|445-1-1725479863589|477-1-1725479864589",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864590
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "21-1-1725479862152|358-1-1725479862589|445-1-1725479863589|477-1-1725479864589|481-1-1725479865589",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479865590
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "21-1-1725479862152|358-1-1725479862589|445-1-1725479863589|477-1-1725479864589|481-1-1725479865589|601-1-1725479866589",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479866590
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "21-1-1725479862152|358-1-1725479862589|445-1-1725479863589|477-1-1725479864589|481-1-1725479865589|601-1-1725479866589|771-1-1725479867590",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479867592
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "21-1-1725479862152|358-1-1725479862589|445-1-1725479863589|477-1-1725479864589|481-1-1725479865589|601-1-1725479866589|771-1-1725479867590|782-1-1725479868589",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479868592
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479864694,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039864.693014,
+                        "expiry": 34560000.69301391,
+                        "value": "AHWqTUmojSnGCFyIVZzv2q6i1APeaD9KO6vU2tcZb0Ht86aGAlgPWnVSMX6kDX6rtGs",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864693
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479864522,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728071864.521869,
+                        "expiry": 2592000.521868944,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864522
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479864695,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031864.693109,
+                        "expiry": 15552000.693109035,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864694
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479864496,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725480764.49474,
+                        "expiry": 900.4947400093079,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864495
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.5219230651855,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864523
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479863289,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741031863.287294,
+                        "expiry": 15552000.287293911,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863288
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.4971869,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863498
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.739836931,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863740
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.74754095,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864748
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.596232891,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479865597
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.505558968,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479867506
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.370696068,
+                        "value": "51063505730881640034263134095754426836",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479868373
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479863528,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015863.52687,
+                        "expiry": 31536000.526870012,
+                        "value": "g_surferid~Zti7twAAAF_k-wNx",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479863527
+                    }
+                ]
+            }
+        }
+    },
+    "rlcdn.com": {
+        "/": {
+            "pxrc": {
+                "name": "pxrc",
+                "domain": ".rlcdn.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479865217,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730663865.214189,
+                        "expiry": 5184000.214189053,
+                        "value": "CAA=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479865216
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.407320976,
+                        "value": "CLn34rYGEgUI6AcQABIGCPHrARAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479865408
+                    }
+                ]
+            },
+            "rlas3": {
+                "name": "rlas3",
+                "domain": ".rlcdn.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479865216,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015865.214084,
+                        "expiry": 31536000.21408391,
+                        "value": "C2CGvuGCefvjfhGFM6VasKkVF7nAt3u+8I7sFn2ms34=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479865214
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.407219887,
+                        "value": "C2CGvuGCefvjfhGFM6VasKkVF7nAt3u+8I7sFn2ms34=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479865408
+                    }
+                ]
+            }
+        }
+    },
+    "rogersmedia.com": {
+        "/": {
+            "au3p": {
+                "name": "au3p",
+                "domain": ".rogersmedia.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479859868,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479859866
+                    }
+                ]
+            }
+        }
+    },
+    "rubiconproject.com": {
+        "/": {
+            "audit": {
+                "name": "audit",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479866359,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015866.353709,
+                        "expiry": 31536000.353708982,
+                        "value": "1|m8eWAFsb/VOMDcxEq0f+v8UIlBrrrcS9hWodDfteSqMfJ67QhUM0UDxZFkP+tFdNE76Bx4ALlOvyUhTWCqUS/Lu8MdjV0SuEWqlTaMF9lM2TsQfqZL96kEYnjMr9ehw63y6Wud3h1CBbLrT8tEmoEzl4pGOFSlcooxw3IrM1QdF01qAbJMnMkX2NFdeBSG8D5IYzazhYCkuma+WVcS1g3g==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479866358
+                    }
+                ]
+            },
+            "audit_p": {
+                "name": "audit_p",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479866356,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015866.353433,
+                        "expiry": 31536000.353432894,
+                        "value": "1|m8eWAFsb/VOMDcxEq0f+v8UIlBrrrcS9hWodDfteSqMfJ67QhUM0UDxZFkP+tFdNE76Bx4ALlOvyUhTWCqUS/Lu8MdjV0SuEWqlTaMF9lM2TsQfqZL96kEYnjMr9ehw63y6Wud3h1CBbLrT8tEmoEzl4pGOFSlcooxw3IrM1QdF01qAbJMnMkX2NFdeBSG8D5IYzazhYCkuma+WVcS1g3g==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479866354
+                    }
+                ]
+            },
+            "khaos": {
+                "name": "khaos",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479866357,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015866.353543,
+                        "expiry": 31536000.353543043,
+                        "value": "M0OA5TOM-M-6LJ4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479866356
+                    }
+                ]
+            },
+            "khaos_p": {
+                "name": "khaos_p",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479866358,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015866.353658,
+                        "expiry": 31536000.35365796,
+                        "value": "M0OA5TOM-M-6LJ4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479866357
+                    }
+                ]
+            }
+        }
+    },
+    "scorecardresearch.com": {
+        "/": {
+            "UID": {
+                "name": "UID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479865422,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759175865.420426,
+                        "expiry": 33696000.42042589,
+                        "value": "113ad4c04439cddc228eab01725479865",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479865421
+                    }
+                ]
+            },
+            "XID": {
+                "name": "XID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479865423,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759175865.420525,
+                        "expiry": 33696000.420525074,
+                        "value": "113ad4c04439cddc228eab01725479865",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479865422
+                    }
+                ]
+            }
+        }
+    },
+    "t.co": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".t.co",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479864239,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481664.237442,
+                        "expiry": 1800.2374420166016,
+                        "value": "1FN_XbDfmqhmhyZFGMdi8lCE9sVinY.n7WOMVYuC3VA-1725479864-1.0.1.1-WwEoS3dODKBnJW5ZM9dwbEmmHTKice4Cva4T_BamVJKzVVoplXFmkIeVjOlCdyqw0GXyJTXxt_xgv5YyrWbvHg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864239
+                    }
+                ]
+            },
+            "muc_ads": {
+                "name": "muc_ads",
+                "domain": ".t.co",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479864238,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039864.237398,
+                        "expiry": 34560000.23739791,
+                        "value": "095c744a-576b-4239-a511-e8ab0f4fab98",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864237
+                    }
+                ]
+            }
+        }
+    },
+    "tidaltv.com": {
+        "/": {
+            "sync-his": {
+                "name": "sync-his",
+                "domain": ".tidaltv.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479864560,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015864.558421,
+                        "expiry": 31536000.558420897,
+                        "value": "\"H4sIAAAAAAAAADM0tjQztDI0tAAA6Cn48wkAAAA=\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864559
+                    }
+                ]
+            },
+            "tidal_ttid": {
+                "name": "tidal_ttid",
+                "domain": ".tidaltv.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479864354,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015864.352203,
+                        "expiry": 31536000.352202892,
+                        "value": "a8ab79c6-8e50-4240-865b-b13a305a83ee",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864352
+                    }
+                ]
+            }
+        }
+    },
+    "twitter.com": {
+        "/": {
+            "personalization_id": {
+                "name": "personalization_id",
+                "domain": ".twitter.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479864250,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039864.249897,
+                        "expiry": 34560000.249897,
+                        "value": "\"v1_rc/05M2CUMr2CEzpq5Hcvw==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479864250
+                    }
+                ]
+            }
+        }
+    }
+}

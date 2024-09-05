@@ -1,0 +1,1350 @@
+{
+    "adform.net": {
+        "/": {
+            "C": {
+                "name": "C",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479277232,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728071277.231171,
+                        "expiry": 2592000.2311708927,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277231
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479277446,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730663277.44376,
+                        "expiry": 5184000.443759918,
+                        "value": "6959501803821120361",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277444
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479276571,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733255276.567853,
+                        "expiry": 7776000.567852974,
+                        "value": "yUXMAc0XIT7Wnk9OxNUXPMTDviLtX67i6vzce-AXIOnEa1pvZoRw5rXdzGjxwA3TsEeBecOG1guFqMYGbn4Hpv0FxwfvnzrFEaVQ2aSA9XE.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479276569
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.861906052,
+                        "value": "m18XCQRcJktMAEo-9JUw3UpTJgQWFA6W-pdQSZK4c9dVlPvBRImmGgfYI2BZXj2pljkugxt3KrJMCRutdKDb1VuE_Wp4b_HxnEAz2gwShFI.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479276863
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.863364935,
+                        "value": "yUXMAc0XIT7Wnk9OxNUXPMTDviLtX67i6vzce-AXIOnEa1pvZoRw5rXdzGjxwA3TsEeBecOG1guFqMYGbn4Hpv0FxwfvnzrFEaVQ2aSA9XE.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479276868
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.77978611,
+                        "value": "yUXMAc0XIT7Wnk9OxNUXPMTDviLtX67i6vzce-AXIOnEa1pvZoRw5rXdzGjxwA3TsEeBecOG1guFqMYGbn4Hpv0FxwfvnzrFEaVQ2aSA9XE.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277781
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.092744112,
+                        "value": "yUXMAc0XIT7Wnk9OxNUXPMTDviLtX67i6vzce-AXIOnEa1pvZoRw5rXdzGjxwA3TsEeBecOG1guFqMYGbn4Hpv0FxwfvnzrFEaVQ2aSA9XE.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479279095
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479276865,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733255276.862007,
+                        "expiry": 7776000.862006903,
+                        "value": "ChkI_KOFARAKGAEgASgBMOzy4rYGOAFAAUgBEOzy4rYGGAA.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479276863
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479276147,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039276.146133,
+                        "expiry": 34560000.146132946,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479276146
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.56794,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479276571
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.86203599,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479276865
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.863869905,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479276870
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.77992892,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277782
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.09291792,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479279096
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479276572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733255276.567985,
+                        "expiry": 7776000.567985058,
+                        "value": "3732944259413184360",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479276571
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.864053011,
+                        "value": "3732944259413184360",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479276870
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.779994965,
+                        "value": "3732944259413184360",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277782
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.092989922,
+                        "value": "3732944259413184360",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479279096
+                    }
+                ]
+            }
+        }
+    },
+    "adsrvr.org": {
+        "/": {
+            "TDCPM": {
+                "name": "TDCPM",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479277116,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015277.113209,
+                        "expiry": 31536000.11320901,
+                        "value": "CAEYBSgCMgsI8JXtyKbJpj0QBTgB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277115
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.287360907,
+                        "value": "CAEYBSABKAIyCwjwle3IpsmmPRAFOAE.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277289
+                    }
+                ]
+            },
+            "TDID": {
+                "name": "TDID",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479277115,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015277.113062,
+                        "expiry": 31536000.113061905,
+                        "value": "e8721e44-2300-4c58-af35-150025c8e3bf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277114
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.28719902,
+                        "value": "e8721e44-2300-4c58-af35-150025c8e3bf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277288
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479276252,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015276.250392,
+                        "expiry": 31536000.25039196,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479276251
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479279124,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759175279.120694,
+                        "expiry": 33696000.12069392,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479279123
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479279122,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759175279.120619,
+                        "expiry": 33696000.12061906,
+                        "value": "e75adfe6-5700-4c0f-9d8c-fa8ee09cf211",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479279121
+                    }
+                ]
+            }
+        }
+    },
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479277405,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015277.403154,
+                        "expiry": 31536000.403153896,
+                        "value": "q4qgd5x41vnqe4r8dzjcc8u5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277404
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.766011953,
+                        "value": "cx:s60h2w1d9gbd6vcve8ineaud:2loh5s1qxdunn",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277767
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.18875289,
+                        "value": "cx:s60h2w1d9gbd6vcve8ineaud:2loh5s1qxdunn",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479278190
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479278883,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039278.879065,
+                        "expiry": 34560000.87906504,
+                        "value": "AHWqTUkOQOjpK5uYYxXVNN-qpoluftNLVdg4-z72z2k3xT2QIOeUg810wT_J6x1fyb4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479278880
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479276914,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725480176.911933,
+                        "expiry": 900.9119329452515,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479276912
+                    }
+                ]
+            }
+        }
+    },
+    "graphql.rtl.nl": {
+        "/": {
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".graphql.rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479271452,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725486470.439554,
+                        "expiry": 7199.439553976059,
+                        "value": "6664C19FC4ADB29CA1E440076F504DA1~000000000000000000000000000000~YAAQZNEnFxmP95mRAQAAuzuUvhkIziuMEkqYADDHXWsz8cI8Lbsa8IxljXfTpztFpuaefcvw2XbLlDKbzg8ckkImDY0zEVHU5EQ0d/R7tO0V8FpBstGsgsLYS9nt/EB+xLzgxoB4HYulEVUhpNmHMTTvdtb3xHaRW8gui7rXLNAY4xUcmzx/CYN1jWfnAmfBiGXVCWHTDCYcRSETOepqEbJ/RvaZLPLamhuEn5Otrd2y8LTIgoJZjGSdaWh300G4wNAAQAdiZBlkSffbDYhLFGgqMiC9VaoLZzvkAKVxty999wCdU2kqJdX9aznHlSVodOzenIHL6d826OmsUvnuKozy6zoTef4y7zGWCG8vIyh6b5imfN3wQtWlAOHfTIAM+XR1GiTejhTf3xr0VkYb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479271440
+                    }
+                ]
+            }
+        }
+    },
+    "rtl.nl": {
+        "/": {
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479274582,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015274,
+                        "expiry": 31536000,
+                        "value": "2024-09-04T19:47:54.580Z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479274581
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479272735,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A47%3A52+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a61fb9e-4b19-4b8a-8ca8-a453a223cc7b&interactionCount=0&isAnonUser=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479272770
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A47%3A52+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a61fb9e-4b19-4b8a-8ca8-a453a223cc7b&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.rtl.nl%2F",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479272773
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A47%3A52+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a61fb9e-4b19-4b8a-8ca8-a453a223cc7b&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.rtl.nl%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0%2CC0005%3A0%2CV2STACK1%3A0%2CV2STACK14%3A0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479272953
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A47%3A52+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a61fb9e-4b19-4b8a-8ca8-a453a223cc7b&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.rtl.nl%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0%2CC0005%3A0%2CV2STACK1%3A0%2CV2STACK14%3A0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479272954
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A47%3A54+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a61fb9e-4b19-4b8a-8ca8-a453a223cc7b&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0%2CC0005%3A0%2CV2STACK1%3A0%2CV2STACK14%3A0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479274583
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A47%3A54+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a61fb9e-4b19-4b8a-8ca8-a453a223cc7b&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A1%2CC0001%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1%2CV2STACK1%3A1%2CV2STACK14%3A1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479274587
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A47%3A54+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a61fb9e-4b19-4b8a-8ca8-a453a223cc7b&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A1%2CC0001%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1%2CV2STACK1%3A1%2CV2STACK14%3A1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479274606
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A47%3A54+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a61fb9e-4b19-4b8a-8ca8-a453a223cc7b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A1%2CC0001%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1%2CV2STACK1%3A1%2CV2STACK14%3A1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479274613
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A47%3A54+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a61fb9e-4b19-4b8a-8ca8-a453a223cc7b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A1%2CC0001%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1%2CV2STACK1%3A1%2CV2STACK14%3A1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479274614
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+21%3A47%3A54+GMT%2B0200+(Central+European+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a61fb9e-4b19-4b8a-8ca8-a453a223cc7b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A1%2CC0001%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1%2CV2STACK1%3A1%2CV2STACK14%3A1&intType=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479274614
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479278888,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759175278,
+                        "expiry": 33696000,
+                        "value": "ID=38f5fb49677d0b8f:T=1725479278:RT=1725479278:S=ALNI_MZtK3kso-ccomEx_0_HuJvUvPZfIg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479278886
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479278890,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759175278,
+                        "expiry": 33696000,
+                        "value": "UID=00000eda3326e58a:T=1725479278:RT=1725479278:S=ALNI_MbdBMEwTVCXoZGO9-RNGDdLFizALw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479278888
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479275498,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725479305,
+                        "expiry": 30,
+                        "value": "m0o9t5uvu8ffyv",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479275497
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9t5v3qeovdq",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479275504
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9t5w9b6vkst",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479275547
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9t7xrhv2uhh",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479278192
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0o9t8pcdbybf8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479279185
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479274607,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1727898474,
+                        "expiry": 2419200,
+                        "value": "GA1.1.803094573.1725479272",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479274606
+                    }
+                ]
+            },
+            "_ga_R60G792H9S": {
+                "name": "_ga_R60G792H9S",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479274608,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1727898474,
+                        "expiry": 2419200,
+                        "value": "GS1.1.1725479271.1.0.1725479271.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479274608
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2419200,
+                        "value": "GS1.1.1725479271.1.0.1725479274.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479274610
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2419200,
+                        "value": "GS1.1.1725479271.1.0.1725479279.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479279182
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479275546,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607275,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0o9t5v590o2msus%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725479275545
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479275510,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607275,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1725479275509
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYBmAVi4HYuXAEzCBAFi4BOAAxSO4gGwgAvkA",
+                        "same_site": "lax",
+                        "timestamp": 1725479275545
+                    }
+                ]
+            },
+            "_pubcid": {
+                "name": "_pubcid",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479275530,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015275,
+                        "expiry": 31536000,
+                        "value": "a23d065c-9e63-45d1-a3a3-04025bd1f604",
+                        "same_site": "lax",
+                        "timestamp": 1725479275529
+                    }
+                ]
+            },
+            "_pubcid_cst": {
+                "name": "_pubcid_cst",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479275530,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757015275,
+                        "expiry": 31536000,
+                        "value": "tCwWLFos3Q%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725479275530
+                    }
+                ]
+            },
+            "_sp_id.1c66": {
+                "name": "_sp_id.1c66",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479271615,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039271.611866,
+                        "expiry": 34560000.611866,
+                        "value": "3602ff35-20af-41ee-a3b0-987b96c66987.1725479272.1.1725479272..64cc6200-041f-4d2e-8602-e0584a781ec2....0",
+                        "same_site": "lax",
+                        "timestamp": 1725479271613
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.87364411,
+                        "value": "3602ff35-20af-41ee-a3b0-987b96c66987.1725479272.1.1725479273..64cc6200-041f-4d2e-8602-e0584a781ec2..55135ec1-363d-47a2-b2aa-d5ac48b89f4a.1725479272873.1",
+                        "same_site": "lax",
+                        "timestamp": 1725479272874
+                    }
+                ]
+            },
+            "_sp_root_domain_test_1725479271609": {
+                "name": "_sp_root_domain_test_1725479271609",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479271611,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_value_1725479271609",
+                        "same_site": "lax",
+                        "timestamp": 1725479271610
+                    }
+                ]
+            },
+            "_sp_ses.1c66": {
+                "name": "_sp_ses.1c66",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725479271613,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481071,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725479271612
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725479272874
+                    }
+                ]
+            },
+            "cX_G": {
+                "name": "cX_G",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479278195,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607278,
+                        "expiry": 34128000,
+                        "value": "cx%3As60h2w1d9gbd6vcve8ineaud%3A2loh5s1qxdunn",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479278193
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479275548,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759607275,
+                        "expiry": 34128000,
+                        "value": "m0o9t5v590o2msus",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479275547
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0o9t5v590o2msus",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479279186
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479278412,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482878,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479278411
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479278410,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725482878,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479278408
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479274605,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757015274,
+                        "expiry": 31536000,
+                        "value": "CQEa0TAQEa0TAAcABBNLBFF8AP_gAEAAABpYIzMBxCIUBQFCMXJySJsgWIQXZkAAIgAQAAYBAyABhBoAIAQCkEESFATAAAACAAAAIAIAIABAGAAAAAAAQAABAACASAAAgAoIICAAgAIBSAAIAAAAAAAAAAAAAAACAAAAkAAAAAIoWEgABAAAAAAAIAAAAAABAgAAAAAAAAAAAAAAgCAAAAAAAAAAAAAAABAwSAIAHMAz4CVQGCAGhICgACwAKgAeABBADIANAAiABMADeAH4AQkAiACJAGAAMqAdwB3gD9AJEAj0BeYDJAGThQAIAcwgAIAjgBKR0BsABYAFQAQQAyADQAIgATAAxABvAD9AIgAiQBgADKAGjAO4A7wB-gEWAJEAdQBF4CPQEyALZAXmAyQBk4DLAH9jgBAA6ACEAERAI4ASkBMQDBAGTEIBQACwAxABvAGBAO4A7wCUgHUAR6AycB_ZAAEARwBghKAcAAsAIgATAAxQCIAIkAYAA7wDqAIvAR6AvMBkgDJwGWEgAYA7gCOAJiKQGQAFgAVABBADIANAAiABMADEAH6ARABEgDAAGUANEAd4A_QCLAEiAOoAicBF4CPQF5gMkAZOAywB_ZQAOAO4AjgBKQC6gJiAYIAyYtACAGAAO4sADAI4Aj0BMQAA.f_wACAAAAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479274603
+                    }
+                ]
+            },
+            "_gd1725479275526_sharedId": {
+                "name": "_gd1725479275526_sharedId",
+                "domain": ".www.rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479275528,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479275527
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479275529
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".www.rtl.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725479268083,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725486467.071197,
+                        "expiry": 7199.0711970329285,
+                        "value": "9B38D2EFC9F14F8A0047A75EA8396592~000000000000000000000000000000~YAAQZtEnF1GIBo2RAQAAki6Uvhkz3i8ccnwk/jE8lSA0oVyNuxYb8YaYnxbDbIqA8DWqq+Dlqdb662TVWlgHx59rAPPlLGQ5a1NWoO/nMcMVAht/pvaUhlsG2tXPZRYo7wbUew08WxenF7mNm9kPd8A6ltL+DqD/FSh6hf21JcqkF5m/rio4xvOn3ZDxmKGs3V7h8RptFQBvxdrqi/DgFe7ry1Wa6LuosVQ1qOboqwKGS4X4YVLA5Yk80sr8r6NWVHOy0xsHtkUGXH2CH6DRknOcd1kLRQ4lZeFPd/rVewr2e8I9hjJFUu/oB3m5V4ORLd+COPQ7232ucjp2w/JtsuA1JeytTuy0BSkU1ghVVjlpnOPLjIteTCLxv51+N4hVfwDA+/Yu7wa37nI=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479268074
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.327756881714,
+                        "value": "343B33DE4A47C559603557C2392C48C4~000000000000000000000000000000~YAAQZtEnF1WIBo2RAQAAUDKUvhkkOsdiDBWzStIPffSwMuTb9Hybna8MbhI54jWKK1ySsthMfASiJni6OxR2Ll021rORFylyeT1IehV5tPLP153s5P9DyRTXMJd512Un/1NJRzcIMEuqzAf3aUs6jGdmKkgbBnZGwRo0I+I93tIC/426NNmbebhIKpmsCm4iBVLROiy389aJ//worwt/xZve3DEW9Kr3JP/hbMR31655h4qz2rDcH76yc+/HUNZ8NlQNy+7wCGtZclOV6X7d193Yz8zArrsqVI+HwmKm0pCy9z7gWv1wInbWl1WQIIf57q9BeBEuIKYG0ojIjTcGEX7Z7egoYpx555mKebQYv2ZYejTHLWrPOLdgVCquMhZOL3hJOHBwvzT/RUf5N/1NHL9JFkxIB4sCWjRzq4o8eGt5kz9lG0s=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479269331
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.027667045593,
+                        "value": "343B33DE4A47C559603557C2392C48C4~000000000000000000000000000000~YAAQZtEnF1aIBo2RAQAANzaUvhlc8s2W1qUf8SV2flRYbm3QIf0mwf7YfXsa/zcM0dZItYKH6kOYteh1qVbDZtPeXI3X6y7nEj+DM7/vIOIXrxPWUbJCfMH3nYW7egYhpX3VV/J91vvr2TLlZpinJ1s9UqletLk/Ln5oG9taYOLIaK6iOPH8CXEm/MYzpogHB+tGtAttg/3TfbU6T9NEfGW81NsEnU3cVaU2Bk/E07EXyf28x6lVQoRjJoKM1HdVfx2dpyeQDYyqIKBjeRlZa9q6v4iuHzkymAqXtQlC/q2vKxh8dw+uDmh753gV0jMnQga/9eNACxDaEREcvXLGJf8O1glRkjE5/Uxi4rgD+tE7vFa7ZEh+nIJ3chiyFuNfVk0A04xJi2S8lkbuOHOKVrZ7PbpztRxfO6ComTRA7Yy0FskYpYzeVEGiZys2lwa+HQq6JOic8KRZOKX1KA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479270028
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.04433298111,
+                        "value": "343B33DE4A47C559603557C2392C48C4~000000000000000000000000000000~YAAQZtEnF1eIBo2RAQAASDaUvhnb+4J4wL03wQla33+SDE5CFnTTVcDsUZbAB+j8qlSohia37uoGi2c1fjxf9IWqX5razLnRHu5eWU+ATCCwv+G5iSTFEGn5TMuzq8GYc/nOgBW4LYRdCEcJ9Tlm7b/PqvLEbxZGTgWpG2DyOz/soWF3P8hQilW/KhIBto3jwbUF8heIEVQMZ0CQjV3oRCqMRagdoR9rBLUM8jERztHs360MoDVsH8ty7J56kVDI4XZXAFH1aLY5Glw5J20Pr6sksf1YwvPVv+8XANzJi+aW9qQBRtuDqmM8oua/XnrOXJhow1RY/6Bqw7Tg/APPqGkoU9kz/a/0t+0HowUfGXbX2qhj2BCU+CqEVGRQr97YOl+paQbaxKCF/NJ7TMOdOrQHch3xu6+nfRI7Lf3MejoNAOknlVB1ZitSfO8EGjsopA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725479270044
+                    }
+                ]
+            },
+            "_sotmpid": {
+                "name": "_sotmpid",
+                "domain": "www.rtl.nl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479272691,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760039272.687888,
+                        "expiry": 34560000.68788791,
+                        "value": "0:m0o9t3ot:3Hpije3Sn2EIhWx8Y8y3N54fvhVpGLbg",
+                        "same_site": "strict",
+                        "timestamp": 1725479272690
+                    }
+                ]
+            },
+            "_sotmsid": {
+                "name": "_sotmsid",
+                "domain": "www.rtl.nl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725479272690,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725481072.687789,
+                        "expiry": 1800.6877889633179,
+                        "value": "0:m0o9t3ot:VS4PDUDDGthsJOYtnF1bmlTgh4F7idYE",
+                        "same_site": "strict",
+                        "timestamp": 1725479272688
+                    }
+                ]
+            }
+        }
+    },
+    "sxp.smartclip.net": {
+        "/": {
+            "dspuuid": {
+                "name": "dspuuid",
+                "domain": ".sxp.smartclip.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479277626,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728071277.624189,
+                        "expiry": 2592000.6241889,
+                        "value": "43.3732944259413184360",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277625
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.743010044,
+                        "value": "26.e8721e44-2300-4c58-af35-150025c8e3bf:43.3732944259413184360",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277745
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.745987892,
+                        "value": "26.e8721e44-2300-4c58-af35-150025c8e3bf:31.6959501803821120361:43.3732944259413184360",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277748
+                    }
+                ]
+            },
+            "psyn": {
+                "name": "psyn",
+                "domain": ".sxp.smartclip.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479277627,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728071277.624248,
+                        "expiry": 2592000.624248028,
+                        "value": "19970.43",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277626
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.743217945,
+                        "value": "19970.26:19970.43",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277745
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.7461829185,
+                        "value": "19970.26:19970.31:19970.43",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277748
+                    }
+                ]
+            },
+            "uuid": {
+                "name": "uuid",
+                "domain": ".sxp.smartclip.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725479277629,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728071277.624267,
+                        "expiry": 2592000.6242671013,
+                        "value": "fdf78e8f-6cb9-d866-24f7-9d77687b59ee",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277628
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.743295908,
+                        "value": "fdf78e8f-6cb9-d866-24f7-9d77687b59ee",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277746
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.7464458942,
+                        "value": "fdf78e8f-6cb9-d866-24f7-9d77687b59ee",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725479277748
+                    }
+                ]
+            }
+        }
+    }
+}

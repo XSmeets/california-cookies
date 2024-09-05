@@ -1,0 +1,1777 @@
+{
+    "adsrvr.org": {
+        "/": {
+            "TDCPM": {
+                "name": "TDCPM",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474879268,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010879.267301,
+                        "expiry": 31536000.267301083,
+                        "value": "CAEYBSgCMgsI5Lzj9d7Gpj0QBTgB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474879268
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.44666791,
+                        "value": "CAEYBSABKAIyCwjkvOP13samPRAFOAE.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474879447
+                    }
+                ]
+            },
+            "TDID": {
+                "name": "TDID",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474879268,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010879.267264,
+                        "expiry": 31536000.26726389,
+                        "value": "eb9e19d3-a49f-4cc5-a832-ec6b004a52f8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474879267
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.446614027,
+                        "value": "eb9e19d3-a49f-4cc5-a832-ec6b004a52f8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474879447
+                    }
+                ]
+            }
+        }
+    },
+    "amazon-adsystem.com": {
+        "/": {
+            "ad-id": {
+                "name": "ad-id",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474879369,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1743532479.369111,
+                        "expiry": 18057600.36911106,
+                        "value": "AxAcFXTw6EsOksx9P-z7HKw|t",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474879369
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 18057600.605496883,
+                        "value": "AxAcFXTw6EsOksx9P-z7HKw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474879606
+                    }
+                ]
+            },
+            "ad-privacy": {
+                "name": "ad-privacy",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474879606,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760034879.605551,
+                        "expiry": 34560000.605551004,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474879606
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878057,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759170878.055706,
+                        "expiry": 33696000.055706024,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878057
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878056,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759170878.055526,
+                        "expiry": 33696000.05552602,
+                        "value": "2d93cfa1-138b-437d-b88a-ecd43bae59a5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878056
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878696,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760034878.695883,
+                        "expiry": 34560000.695883036,
+                        "value": "AHWqTUn4S9eIztXu-_dReg6NzUtA6Nkfbq_0_LPmTEVO3cXNoJNTeY4uC49Ogw-QUlM",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878696
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878377,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725475778.375676,
+                        "expiry": 900.3756759166718,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878376
+                    }
+                ]
+            }
+        }
+    },
+    "hit.gemius.pl": {
+        "/": {
+            "Gdyn": {
+                "name": "Gdyn",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878875,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602878.873955,
+                        "expiry": 34128000.87395501,
+                        "value": "KlSN8MXGQMQGKS8R6C1SQg9UssGMXP8c25nSGo15hkSIFRxSG7RrGS6GtoGtFlM1YH8PlexaG0F6Sssa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878874
+                    }
+                ]
+            },
+            "Gdynp": {
+                "name": "Gdynp",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878553,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602878.550756,
+                        "expiry": 34128000.55075598,
+                        "value": "f71s8SZe3AbY.ZwqeAztnnpViZcdP7AA.nC2bat68oD.f7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878552
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.873976946,
+                        "value": "9CuxUR_UXmSx6gRI6vklS5gqah5A5_lgERzTePq0_9P.N7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878875
+                    }
+                ]
+            },
+            "Gtest": {
+                "name": "Gtest",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474878552,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726079678.550665,
+                        "expiry": 604800.5506649017,
+                        "value": "KlQVVMMGQMQGKS8R6C1SQg9UssGMXP8c25nSGo15hkSIXBG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878552
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878552,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602878.550641,
+                        "expiry": 34128000.55064106,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878551
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.87388992,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878874
+                    }
+                ]
+            }
+        }
+    },
+    "olx.pt": {
+        "/": {
+            "OTAdditionalConsentString": {
+                "name": "OTAdditionalConsentString",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474875905,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010875,
+                        "expiry": 31536000,
+                        "value": "1~89.318.320.1421.1423.1659.1985.1987.2008.2072.2135.2322.2465.2501.2958.2999.3028.3225.3226.3231.3234.3235.3236.3237.3238.3240.3244.3245.3250.3251.3253.3257.3260.3270.3272.3281.3288.3290.3292.3293.3296.3299.3300.3306.3307.3309.3314.3315.3316.3318.3324.3328.3330.3331.3531.3731.3831.4131.4531.4631.4731.4831.5231.6931.7235.7831.7931.8931.9731.10231.10631.10831.11031.11531.12831.13632.13731.14237.14332.15731.16831.16931.21233.23031.25731.25931.26031.26831.27731.27831.28031.28731.28831.29631.31631.32531.33631",
+                        "same_site": "lax",
+                        "timestamp": 1725474875904
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474875885,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010875,
+                        "expiry": 31536000,
+                        "value": "2024-09-04T18:34:35.883Z",
+                        "same_site": "lax",
+                        "timestamp": 1725474875884
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474860714,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A34%3A33+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=d8b8579c-482b-46b9-97d2-9ea3a3f6b765&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1725474873483
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A34%3A33+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=d8b8579c-482b-46b9-97d2-9ea3a3f6b765&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.pt%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725474873483
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A34%3A33+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=d8b8579c-482b-46b9-97d2-9ea3a3f6b765&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.pt%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725474873654
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A34%3A33+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=d8b8579c-482b-46b9-97d2-9ea3a3f6b765&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.pt%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725474873655
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A34%3A33+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=d8b8579c-482b-46b9-97d2-9ea3a3f6b765&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.pt%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725474873658
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A34%3A33+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=d8b8579c-482b-46b9-97d2-9ea3a3f6b765&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.pt%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725474873660
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A34%3A33+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=d8b8579c-482b-46b9-97d2-9ea3a3f6b765&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.pt%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2Cgad%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725474873663
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A34%3A33+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=d8b8579c-482b-46b9-97d2-9ea3a3f6b765&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.pt%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2Cgad%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725474873664
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A34%3A35+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=d8b8579c-482b-46b9-97d2-9ea3a3f6b765&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2Cgad%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725474875886
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Wed+Sep+04+2024+20%3A34%3A35+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=d8b8579c-482b-46b9-97d2-9ea3a3f6b765&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2Cgad%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725474875906
+                    }
+                ]
+            },
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474875863,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725478475.856505,
+                        "expiry": 3600.856504917145,
+                        "value": "0pb5v01ufhr28c28d85d3gq5f3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474875857
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878395,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741026878,
+                        "expiry": 15552000,
+                        "value": "ID=fe79c8763ad69e7d:T=1725474878:RT=1725474878:S=AA-Afjbdi-MPzD7Gy7GXoHCSfYOK",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878394
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "ID=fe79c8763ad69e7d:T=1725474878:RT=1725474878:S=AA-Afjbdi-MPzD7Gy7GXoHCSfYOK",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878532
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878386,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759170877,
+                        "expiry": 33695999,
+                        "value": "ID=c8624d96e461f6ea:T=1725474877:RT=1725474877:S=ALNI_MaDH0ifpOhDz25oJpB2a6RwqxXj2w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878385
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=c8624d96e461f6ea:T=1725474877:RT=1725474877:S=ALNI_MaDH0ifpOhDz25oJpB2a6RwqxXj2w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878391
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=c8624d96e461f6ea:T=1725474877:RT=1725474877:S=ALNI_MaDH0ifpOhDz25oJpB2a6RwqxXj2w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878527
+                    }
+                ]
+            },
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474877624,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759602877,
+                        "expiry": 34128000,
+                        "value": "42ph40RBfFtksok2JwPPwDnKh8dwNWXRVY6zOfyDQDH.p7|1725474877|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474877623
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878387,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759170878,
+                        "expiry": 33696000,
+                        "value": "UID=00000eebc251ccba:T=1725474878:RT=1725474878:S=ALNI_MbpFbsBvbI55BSgy-7znJI5PZ04bg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878386
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "UID=00000eebc251ccba:T=1725474878:RT=1725474878:S=ALNI_MbpFbsBvbI55BSgy-7znJI5PZ04bg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878391
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "UID=00000eebc251ccba:T=1725474878:RT=1725474878:S=ALNI_MbpFbsBvbI55BSgy-7znJI5PZ04bg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878527
+                    }
+                ]
+            },
+            "__user_id_P&S": {
+                "name": "__user_id_P&S",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474876532,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034876.530284,
+                        "expiry": 34560000.53028393,
+                        "value": "432765682",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474876531
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474878550,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034878.549148,
+                        "expiry": 34560000.54914808,
+                        "value": "GA1.2.170762882.1725474879",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474878549
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.017524004,
+                        "value": "GA1.1.170762882.1725474879",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474879019
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.165971994,
+                        "value": "GA1.1.170762882.1725474879",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474879167
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.18377304,
+                        "value": "GA1.1.170762882.1725474879",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474879185
+                    }
+                ]
+            },
+            "_ga_2GM5QEJ1H6": {
+                "name": "_ga_2GM5QEJ1H6",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474879184,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034879.183485,
+                        "expiry": 34560000.18348503,
+                        "value": "GS1.1.1725474879.1.0.1725474879.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474879184
+                    }
+                ]
+            },
+            "_ga_JLRQS2B4H1": {
+                "name": "_ga_JLRQS2B4H1",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474879018,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034879.017346,
+                        "expiry": 34560000.017345905,
+                        "value": "GS1.1.1725474879.1.0.1725474879.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474879018
+                    }
+                ]
+            },
+            "_ga_L97YMGPQ5R": {
+                "name": "_ga_L97YMGPQ5R",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474879166,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034879.165341,
+                        "expiry": 34560000.1653409,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474879165
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.165653944,
+                        "value": "GS1.1.1725474879.1.0.1725474879.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474879167
+                    }
+                ]
+            },
+            "_gat_clientNinja": {
+                "name": "_gat_clientNinja",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878551,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725474938,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474878551
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878883,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250878,
+                        "expiry": 7776000,
+                        "value": "1.1.1033873811.1725474879",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474878883
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.1033873811.1725474879",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474879232
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474878550,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725561278,
+                        "expiry": 86400,
+                        "value": "GA1.2.196679998.1725474879",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474878550
+                    }
+                ]
+            },
+            "_hjSessionUser_2218927": {
+                "name": "_hjSessionUser_2218927",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474877621,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010877,
+                        "expiry": 31536000,
+                        "value": "eyJpZCI6IjczOWFjY2YzLWI1MDktNTU0ZC1hZjJjLThmYTlkYTFjYjk1NyIsImNyZWF0ZWQiOjE3MjU0NzQ4Nzc2MTksImV4aXN0aW5nIjpmYWxzZX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474877620
+                    }
+                ]
+            },
+            "_hjSession_2218927": {
+                "name": "_hjSession_2218927",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474877622,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725476677,
+                        "expiry": 1800,
+                        "value": "eyJpZCI6ImY5YTAwZjBlLWU4MzUtNDQ0OS1hMzc2LWRkMTVhYjYyMzE3MiIsImMiOjE3MjU0NzQ4Nzc2MTksInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowfQ==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474877621
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "eyJpZCI6ImY5YTAwZjBlLWU4MzUtNDQ0OS1hMzc2LWRkMTVhYjYyMzE3MiIsImMiOjE3MjU0NzQ4Nzc2MTksInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474877623
+                    }
+                ]
+            },
+            "_hjTLDTest": {
+                "name": "_hjTLDTest",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474877616,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": ".olx.pt",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474877615
+                    }
+                ]
+            },
+            "a_access_token": {
+                "name": "a_access_token",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474875869,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034875.857957,
+                        "expiry": 34560000.85795689,
+                        "value": "aa3651e4d98a17d3f4f07d06b94dfc3fb2694818",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474875864
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.8752861,
+                        "value": "aa3651e4d98a17d3f4f07d06b94dfc3fb2694818",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474875875
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.87632489,
+                        "value": "aa3651e4d98a17d3f4f07d06b94dfc3fb2694818",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474875877
+                    }
+                ]
+            },
+            "a_grant_type": {
+                "name": "a_grant_type",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474875871,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034875.858275,
+                        "expiry": 34560000.85827494,
+                        "value": "device",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474875870
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.875520945,
+                        "value": "device",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474875876
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.87655091,
+                        "value": "device",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474875877
+                    }
+                ]
+            },
+            "a_refresh_token": {
+                "name": "a_refresh_token",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474875870,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034875.858125,
+                        "expiry": 34560000.85812497,
+                        "value": "0eedf7b56aa09ab3db4f35ccd27de899572ba70c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474875870
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.875422,
+                        "value": "0eedf7b56aa09ab3db4f35ccd27de899572ba70c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474875875
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.87646294,
+                        "value": "0eedf7b56aa09ab3db4f35ccd27de899572ba70c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474875877
+                    }
+                ]
+            },
+            "ab._gd": {
+                "name": "ab._gd",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474878688,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ab._gd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474878687
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ab._gd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474878688
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474878257,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759170878,
+                        "expiry": 33696000,
+                        "value": "YgrBiV90ZU96S1Z4V0VaRVFyVjhhQSUyRkoyZSUyQnQyam9sJTJCQ0RoVkd1aXJPWHhCRnZiJTJCUiUyRjVLdVFSNFpaY3dDUnBZOEVSeiUyQnBvb3I2WWZHb25MRFNLN2JrNSUyRllVQXYwUDBrNzlGSiUyRmtiS053aGt1VEdDZkNxenpXQkRtMVBTYmJ5RVJ4OVdROGtIcXA3cHFoVzJMcEE0QjMlMkJmM0tiRDRpWGxQUlludldtZDhCUmRJTHUxUUxpejFMejNZRFlmZnlORCUyQktaeQ",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474878255
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "YxFMZ190ZU96S1Z4V0VaRVFyVjhhQSUyRkoyZXl2clQ1ciUyQm5qRWRmT3Zib1UlMkZXeDFqWW9EUDVRdzFTR2xsUzNFazJtMk9LV0xRc05WOVQlMkJpdlZxWDIlMkZzanY4VjQ5U3pPS1c5NFRGTTJkVWglMkZTRkdrUWlWWWFFcWIlMkJkYlgzQTFiNjRsY2VUdm4lMkJac2F4UUlUQkloJTJGVnpSa0NGTng5N05JRWRrRTVWZWlqSDF2eCUyRlg3RllDelI5U3RxMXZnRE9jRXB2bWM4Rw",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474878635
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474877350,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725478477,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474877349
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474878258
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474877349,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725478477,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474877348
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474878058
+                    }
+                ]
+            },
+            "deviceGUID": {
+                "name": "deviceGUID",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474861938,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034861.931535,
+                        "expiry": 34560000.931535006,
+                        "value": "8fca768d-f0a2-4923-b3f8-ac7ad482fea0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474861932
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.276390076,
+                        "value": "801ce6b7-9c81-4bfe-be5b-062b878f0259",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474874276
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474875904,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010875,
+                        "expiry": 31536000,
+                        "value": "CQEa0TAQEa0TAAcABBENBFF8AP_gAAAAAAYgJxNV_G_fbXlj8Xp0aftkeY1f99h7rsQxBhfJk-4FyLuW_JwX32EzNA16pqYKmRIAu3bBIQFlGIDUDUCgaogVrTDMakWMgTNKJ6BEiFMRe2dYCF5vmQFD-QKY5tptd1d52Ret7dr83dzyz4Vnn3Kp_2a1WJCdA5cgAAAAAAAAAAAAAAAQAAAAAAAAAQAIAAAAAAAAAAAAAAAAAAAAF_cAAABQSB-AAgABcAFAAVAA4AB4AEEALwA1AB4AEQAJgAVQA3gB6AD8AISAQwBEgCOAEsAJoAYAAw4BlAGWANkAc8A7gDvgHsAfEA-wD9gH-AgABFICLgIwARoAksBPwFBgKgAq4BcwC9AGKANEAbQA3ABxIEegSIAnYBQ4CjwFIgLYAXIAu8BeYDDYGRgZIAycBlwDMwGcwNXA1kBsYDbwG6gOCAcmA5cIAWAAcACQAI4BBwCOAE0AL6AlYBNoCkAFcgLCAWIAvIBiADFgGQgNGAamA2gBtwDdBwCoABEADgAPAAuACQAH4ARwAoABoAEcAOQAgEBBwEIAIiARwAmgBUADpAIQASsAmIBMoCbQFJwK5ArsBYgC1AF0AMEAYgAxYBkIDJgGjANTAa8A2gBtgDbgG6AOPActA50Dnx0EkABcAFAAVAA4ACCAFwAagA8ACIAEwAKsAXABdADEAG8APQAfoBDAESAJYATQAowBgADDAGUANEAbIA54B3AHeAPaAfYB-gD_gIoAjEBHQElgJ-AoMBUQFXALEAXOAvIC9AGKANoAbgA4gB1AD7AIvgR6BIgCZAE7AKHgUeBSACmgFWALFAWwAt0BcAC5AF2gLvAXmAvoBhoDHoGRgZIAycBlUDLAMuAZmAzkBpsDVwNYAbeA3UBxYDkwHLkACoACAAHgBoAHIARwAsQBfQE2gKTAVyAsQBeQDBAGeANGAamA2wBtwDdAHLAOfIQIAAFgAUABcADUAKoAXAAxABvAD0AI4AYAA54B3AHeAP8AigBKQCgwFRAVcAuYBigDaAHUAR6ApoBVgCxQFogLgAXIAyMBk4DOSUCEABAACwAKAAcAB4AEQAJgAVQAuABigEMARIAjgBRgDAAGyAO8AfkBUQFXALmAYoA6gCJgEXwI9AkQBR4CxQFsALzgZGBkgDJwGcgNYAbeSAIgAXACOAO4AgABBwCOAFQASsAmIBNoCkwGLAMsAZ4A3IBugDlikDkABcAFAAVAA4ACAAGgAPAAiABMACqAGIAP0AhgCJAFGAMAAZQA0QBsgDnAHfAPwA_QCLAEYgI6AkoBQYCogKuAXMAvIBigDaAG4AOoAe0A-wCJgEXwI9AkQBOwChwFIAKsAWKAtgBcAC5AF2gLzAX0Aw2BkYGSAMngZYBlwDOYGsAayA28BuoDggHJlAD4AFwASAAuABkAEcARwA5AB3AD7AIAAQcAsQBdQDXgHbAP-AmIBNoCpAFdgLoAXkAwQBiwDJgGeANGAamA14BugDlg.f_wAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725474875899
+                    }
+                ]
+            },
+            "laquesis": {
+                "name": "laquesis",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474878585,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010878,
+                        "expiry": 31536000,
+                        "value": "aut-3191@b#cars-54958@b#dv-2942@b#erm-1688@a#eucomm-4054@a#jobs-8071@a#oecs-688@a#olxeu-41855@b#olxeu-41938@b#olxeu-41974@b#olxeu-42013@b#search-728@b#tsm-208@a",
+                        "same_site": "lax",
+                        "timestamp": 1725474878584
+                    }
+                ]
+            },
+            "laquesisff": {
+                "name": "laquesisff",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474878586,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010878,
+                        "expiry": 31536000,
+                        "value": "aut-1425#aut-388#buy-2279#buy-2489#de-2724#decision-657#euonb-114#f8nrp-1779#kuna-307#oesx-1437#oesx-2798#oesx-2864#oesx-2926#oesx-3713#oesx-645#oesx-867#olxeu-32943#srt-1289#srt-1346#srt-1434#srt-1593#srt-1758#srt-651#uacc-529",
+                        "same_site": "lax",
+                        "timestamp": 1725474878585
+                    }
+                ]
+            },
+            "laquesissu": {
+                "name": "laquesissu",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474878587,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010878,
+                        "expiry": 31536000,
+                        "value": "733@user_dropped_off_promote_flow|0",
+                        "same_site": "lax",
+                        "timestamp": 1725474878587
+                    }
+                ]
+            },
+            "ldTd": {
+                "name": "ldTd",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474877772,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474937,
+                        "expiry": 60,
+                        "value": "true",
+                        "same_site": "lax",
+                        "timestamp": 1725474877772
+                    }
+                ]
+            },
+            "lqstatus": {
+                "name": "lqstatus",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474878584,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010878,
+                        "expiry": 31536000,
+                        "value": "|||||0",
+                        "same_site": "lax",
+                        "timestamp": 1725474878583
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1725476079|||||0",
+                        "same_site": "lax",
+                        "timestamp": 1725474878584
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1725476079|191be513149x4e57fdb|oecs-688|||0",
+                        "same_site": "lax",
+                        "timestamp": 1725474878614
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1725476079|191be513149x4e57fdb|oecs-688#eucomm-4054|||0",
+                        "same_site": "lax",
+                        "timestamp": 1725474878615
+                    }
+                ]
+            },
+            "observed_aui": {
+                "name": "observed_aui",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474876233,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741026876.232132,
+                        "expiry": 15552000.232131958,
+                        "value": "2a4c901454994ffaab4acbc2c31c4c11",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474876232
+                    }
+                ]
+            },
+            "onap": {
+                "name": "onap",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474877771,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1756578877,
+                        "expiry": 31104000,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-1-1725476678",
+                        "same_site": "lax",
+                        "timestamp": 1725474877770
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-2-1725476678",
+                        "same_site": "lax",
+                        "timestamp": 1725474877774
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-3-1725476678",
+                        "same_site": "lax",
+                        "timestamp": 1725474877777
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-4-1725476678",
+                        "same_site": "lax",
+                        "timestamp": 1725474877777
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-5-1725476679",
+                        "same_site": "lax",
+                        "timestamp": 1725474878540
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-6-1725476679",
+                        "same_site": "lax",
+                        "timestamp": 1725474878585
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-7-1725476679",
+                        "same_site": "lax",
+                        "timestamp": 1725474878587
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-8-1725476679",
+                        "same_site": "lax",
+                        "timestamp": 1725474878614
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31104000,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-9-1725476679",
+                        "same_site": "lax",
+                        "timestamp": 1725474878615
+                    }
+                ]
+            },
+            "user_business_status": {
+                "name": "user_business_status",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474876533,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034876.530532,
+                        "expiry": 34560000.53053188,
+                        "value": "private",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474876532
+                    }
+                ]
+            },
+            "user_id": {
+                "name": "user_id",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474876531,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034876.530186,
+                        "expiry": 34560000.53018594,
+                        "value": "432765682",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474876530
+                    }
+                ]
+            },
+            "user_uuid": {
+                "name": "user_uuid",
+                "domain": ".olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474876532,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760034876.530362,
+                        "expiry": 34560000.53036189,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474876532
+                    }
+                ]
+            },
+            "__rtbh.lid": {
+                "name": "__rtbh.lid",
+                "domain": "www.olx.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474879502,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757018079,
+                        "expiry": 31543200,
+                        "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22MeHqPxYbZEv4fDfWUCR3%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474879501
+                    }
+                ]
+            },
+            "__rtbh.uid": {
+                "name": "__rtbh.uid",
+                "domain": "www.olx.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474879500,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757018079,
+                        "expiry": 31543200,
+                        "value": "%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22unknown%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474879500
+                    }
+                ]
+            }
+        }
+    },
+    "openx.net": {
+        "/": {
+            "i": {
+                "name": "i",
+                "domain": ".openx.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474877755,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010877.753613,
+                        "expiry": 31536000.753612995,
+                        "value": "bad0be36-738e-49d8-b66f-9340d5d3b58d|1725474877",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474877754
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.573813915,
+                        "value": "bad0be36-738e-49d8-b66f-9340d5d3b58d|1725474877",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878575
+                    }
+                ]
+            },
+            "pd": {
+                "name": "pd",
+                "domain": ".openx.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474878576,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726770878.573852,
+                        "expiry": 1296000.5738520622,
+                        "value": "v2|1725474878|vMgavPkWgy",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878575
+                    }
+                ]
+            }
+        }
+    },
+    "teads.tv": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".teads.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474877224,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1756924477.2219,
+                        "expiry": 31449600.221899986,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474877223
+                    }
+                ]
+            },
+            "tt_viewer": {
+                "name": "tt_viewer",
+                "domain": ".teads.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474877223,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1756924477.22182,
+                        "expiry": 31449600.221820116,
+                        "value": "7438abce-3430-40ba-8f56-83a2219f2eb0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474877222
+                    }
+                ]
+            }
+        }
+    },
+    "yahoo.com": {
+        "/": {
+            "A3": {
+                "name": "A3",
+                "domain": ".yahoo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474879291,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757032479.290648,
+                        "expiry": 31557600.290647984,
+                        "value": "d=AQABBD-o2GYCEBTj5DuVRfAFhl6w4Sbi2KEFEgEBAQH52WbiZgAAAAAA_eMAAA&S=AQAAApEDjowInHqbH4amv98IMEI",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474879290
+                    }
+                ]
+            }
+        }
+    },
+    "tracking.olx-st.com": {
+        "/h": {
+            "onap": {
+                "name": "onap",
+                "domain": "tracking.olx-st.com",
+                "path": "/h",
+                "current_label": 1,
+                "label_ts": 1725474878832,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760034878.829739,
+                        "expiry": 34560000.829739094,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-3-1725476678-191be5135abxafecd972-olx-pt_organic_1725474878_1728066878",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878830
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.831707,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-2-1725476678-191be5135abxa6daa53c-olx-pt_organic_1725474878_1728066878",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878833
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.84163809,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-5-1725476678-191be5135b6x90679d89-olx-pt_organic_1725474878_1728066878",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878842
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.981901884,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-7-1725476678-191be5135ffx5fec0210-olx-pt_organic_1725474878_1728066878",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878982
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.98277092,
+                        "value": "191be513149x4e57fdb-1-191be513149x4e57fdb-9-1725476678-191be513601x9d3854b3-olx-pt_organic_1725474878_1728066878",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474878983
+                    }
+                ]
+            }
+        }
+    }
+}

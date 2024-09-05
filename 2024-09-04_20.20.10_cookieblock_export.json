@@ -1,0 +1,446 @@
+{
+    "arukereso.hu": {
+        "/": {
+            "ARUKERESO_SESSION": {
+                "name": "ARUKERESO_SESSION",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473954215,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "80dab2824efaca3ddb48d32aac819c03",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473954207
+                    }
+                ]
+            },
+            "__aku": {
+                "name": "__aku",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473954223,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033954.203063,
+                        "expiry": 34560000.20306301,
+                        "value": "c779b62b3ab32e29e9693ccabc56830d",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473954222
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.11822796,
+                        "value": "c779b62b3ab32e29e9693ccabc56830d",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473961118
+                    }
+                ]
+            },
+            "__akz": {
+                "name": "__akz",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473954221,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725475754.20287,
+                        "expiry": 1800.2028698921204,
+                        "value": "source=(direct)|medium=(none)",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473954216
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473954983,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033954.981166,
+                        "expiry": 34560000.981165886,
+                        "value": "GA1.2.145088377.1725473955",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473954982
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.90218592,
+                        "value": "GA1.1.145088377.1725473955",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473960904
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.13569307,
+                        "value": "GA1.1.145088377.1725473955",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473962138
+                    }
+                ]
+            },
+            "_ga_H8FKE3XRGE": {
+                "name": "_ga_H8FKE3XRGE",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473962137,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033962.135059,
+                        "expiry": 34560000.13505912,
+                        "value": "GS1.1.1725473962.1.0.1725473962.0.0.90910228",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473962137
+                    }
+                ]
+            },
+            "_ga_XYVW6HHJQP": {
+                "name": "_ga_XYVW6HHJQP",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473960904,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760033960.901963,
+                        "expiry": 34560000.901962996,
+                        "value": "GS1.1.1725473960.1.0.1725473960.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473960903
+                    }
+                ]
+            },
+            "_ga_information": {
+                "name": "_ga_information",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473960921,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757009960,
+                        "expiry": 31536000,
+                        "value": "eyJzZXNzaW9uX2lkIjoiMTcyNTQ3Mzk2MCIsInNlc3Npb25fbnVtYmVyIjoxfQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473960920
+                    }
+                ]
+            },
+            "_gat": {
+                "name": "_gat",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473954987,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725474014,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473954986
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473960653,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733249960,
+                        "expiry": 7776000,
+                        "value": "1.1.1949140121.1725473961",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473960652
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725473954985,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725560354,
+                        "expiry": 86400,
+                        "value": "GA1.2.882502270.1725473955",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473954984
+                    }
+                ]
+            },
+            "akcdd": {
+                "name": "akcdd",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473954222,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757009954.20293,
+                        "expiry": 31536000.202929974,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473954221
+                    }
+                ]
+            },
+            "akrwd": {
+                "name": "akrwd",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473959364,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "lg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473959362
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "lg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473959366
+                    }
+                ]
+            },
+            "gtm_exclude_filter": {
+                "name": "gtm_exclude_filter",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473960650,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473960648
+                    }
+                ]
+            },
+            "heureka_information": {
+                "name": "heureka_information",
+                "domain": ".arukereso.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473960922,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757009960,
+                        "expiry": 31536000,
+                        "value": "eyJzZXNzaW9uX2lkIjoiMTcyNTQ3Mzk2MCIsInNlc3Npb25fbnVtYmVyIjoxfQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473960921
+                    }
+                ]
+            },
+            "__rtbh.lid": {
+                "name": "__rtbh.lid",
+                "domain": "www.arukereso.hu",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473961275,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017161,
+                        "expiry": 31543200,
+                        "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22ki9EEYAf7S4rcAo5QXhO%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473961274
+                    }
+                ]
+            },
+            "__rtbh.uid": {
+                "name": "__rtbh.uid",
+                "domain": "www.arukereso.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473961273,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017161,
+                        "expiry": 31543200,
+                        "value": "%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22unknown%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473961271
+                    }
+                ]
+            },
+            "_se20session": {
+                "name": "_se20session",
+                "domain": "www.arukereso.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473961893,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757009961,
+                        "expiry": 31536000,
+                        "value": "ad64091ac0962fd62d03f041ecdd96db",
+                        "same_site": "unspecified",
+                        "timestamp": 1725473961892
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725473962218,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760033962.216233,
+                        "expiry": 34560000.216233015,
+                        "value": "AHWqTUkn7lCGrKyFuZ9xPT73uwbZMa5uysbWYVrwc01pQX_vpTEq1VGkBos-kKiO",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473962217
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725473961553,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474861.54886,
+                        "expiry": 900.5488600730896,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725473961550
+                    }
+                ]
+            }
+        }
+    }
+}

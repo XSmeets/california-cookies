@@ -1,0 +1,847 @@
+{
+    "app.link": {
+        "/": {
+            "_s": {
+                "name": "_s",
+                "domain": ".app.link",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481584035,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757017584.031897,
+                        "expiry": 31536000.031897068,
+                        "value": "lX1cDFmwQkwk%2BKLkk%2FCMXfefc2uUbnixVCQXnFd69k9EYZcf0gjU2Kvfziw016vr",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481584033
+                    }
+                ]
+            }
+        }
+    },
+    "bat.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".bat.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481583584,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726086383.58115,
+                        "expiry": 604800.5811500549,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481583583
+                    }
+                ]
+            }
+        }
+    },
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481583583,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759177583.581055,
+                        "expiry": 33696000.581054926,
+                        "value": "033B027B8510667F07A4168B84FE67B3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481583582
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481583435,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725482483.433835,
+                        "expiry": 900.433835029602,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481583434
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.537791967392,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481583538
+                    }
+                ]
+            }
+        }
+    },
+    "instacart.ca": {
+        "/": {
+            "_ScCbts": {
+                "name": "_ScCbts",
+                "domain": ".instacart.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481584013,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726086384,
+                        "expiry": 604800,
+                        "value": "%5B%5D",
+                        "same_site": "lax",
+                        "timestamp": 1725481584011
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".instacart.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481582479,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733257582,
+                        "expiry": 7776000,
+                        "value": "1.1.1325017895.1725481582",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481582478
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.1325017895.1725481582",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481582811
+                    }
+                ]
+            },
+            "_schn1": {
+                "name": "_schn1",
+                "domain": ".instacart.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481583270,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725481763,
+                        "expiry": 180,
+                        "value": "geex",
+                        "same_site": "lax",
+                        "timestamp": 1725481583268
+                    }
+                ]
+            },
+            "_scid": {
+                "name": "_scid",
+                "domain": ".instacart.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481583274,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759668281,
+                        "expiry": 34186698,
+                        "value": "3d2a36e9-98a8-495d-af19-fb27e9993cb5",
+                        "same_site": "lax",
+                        "timestamp": 1725481583271
+                    }
+                ]
+            },
+            "_scid_r": {
+                "name": "_scid_r",
+                "domain": ".instacart.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481583275,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759668281,
+                        "expiry": 34186698,
+                        "value": "3d2a36e9-98a8-495d-af19-fb27e9993cb5",
+                        "same_site": "lax",
+                        "timestamp": 1725481583274
+                    }
+                ]
+            },
+            "_uetsid": {
+                "name": "_uetsid",
+                "domain": ".instacart.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481583403,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567983,
+                        "expiry": 86400,
+                        "value": "f3f4c1f06afb11ef98301797545401c6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481583401
+                    }
+                ]
+            },
+            "_uetvid": {
+                "name": "_uetvid",
+                "domain": ".instacart.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725481583404,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759177583,
+                        "expiry": 33696000,
+                        "value": "f3f4c4606afb11ef94a4338cbfd7ba1b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481583403
+                    }
+                ]
+            },
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".www.instacart.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481574027,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725483374.006168,
+                        "expiry": 1800.0061678886414,
+                        "value": "XJR3kp6kkON_EfGYdjvzD_SUjNaxbUZnIb6x2IZWv3Y-1725481573-1.0.1.1-psp0.bZi1kICr6dT9R_gctoiHXgZG1Jo6h3Xdx5qgI3PGjk5W4BXvw20wGH9njo_6Z3_1Wh9ehjAkzk6wjbUtA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481574027
+                    }
+                ]
+            },
+            "_cfuvid": {
+                "name": "_cfuvid",
+                "domain": ".www.instacart.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481574028,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "BXyW7_YJOtIwQY1R5keLex4ubhe3fBW59Tj7fFXigfY-1725481573854-0.0.1.1-604800000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481574027
+                    }
+                ]
+            },
+            "ajs_anonymous_id": {
+                "name": "ajs_anonymous_id",
+                "domain": ".www.instacart.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725481575869,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757017575,
+                        "expiry": 31536000,
+                        "value": "0f54bc0d-cc6e-49e7-963d-fb6b36f384fe",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481575868
+                    }
+                ]
+            },
+            "aws-waf-token": {
+                "name": "aws-waf-token",
+                "domain": ".www.instacart.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481577197,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 345600,
+                        "value": "56d44b8b-7490-46ab-9e1d-5e9b16605c55:EQoApD+OxSByAAAA:ZcG5hf34IffqhaBbYY5aT784Ss79g/xk0HIapKJcxT4vUCHMUQZ03kB7agXH3VAW0aUXbMhtpo125Vh3z44aQWUZ1XCkrZg/i6zRE4JwL7/z63TnoTCeD3LBtjXe+Wc5i0s/R1GXAb/6Mpq0CKo13QimfpqJlPS0wq0rTqm1U7d5hqi0DLz7I9Gb4wcFKCV41cDYImjSy8Ve+fs0LTuDe2E+9hqSYdNbW1Yzn2SpMJaZfgx/0kfPKsSmVLfgx+A3BD4HXf+7ZQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725481577779
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 345600,
+                        "value": "56d44b8b-7490-46ab-9e1d-5e9b16605c55:EQoAoAaOwlN0AAAA:xf8wJGAuS9rwZnbv2sOuHeJ67yabILaVzkl7oWgTdTM7BivuF4nFCmnZ9NC8QKtmWDMuhdKWz5YXeWYf8gvUUOMVQSwPZlvfkBfGJwmAcgTQut3t61z/egZQvnq8dKVwWYmNnx5Fzu+zXWQNfJa8rZQlspodhKnmEbZcXqNx1rmL6DF6Xj4hWVB/eOSoPYR7GTrdBgtxJU6pM6WRcg/KPGktjvkdd4vnqRVUimTiPy49XKttr4nP6Bb+W7/XG+Hq1So2upKLTw==",
+                        "same_site": "lax",
+                        "timestamp": 1725481578115
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 345600,
+                        "value": "56d44b8b-7490-46ab-9e1d-5e9b16605c55:EQoAq3GOxzdwAAAA:MaVI6U+jbVYrPv+RemW1wLAqI+TNp1kabc79RFDEOEdoSlLDY6wWmEPawPLQPGsU5+3rOs3tIujFDOu3rn1v+HC2ruYJGTwA3JaDx0WfhxOt4QrXX7+ZQwB6v9c5J6+kzMryPhsVPmOwLQfAYlnzOReXeJKv2IYOOh6SxIfY37kNVjwyOv6aCIn/RZ7cVgp/Xl4eP09rnBqEb0JhLlzJ3ukPCTuzlc/bpIPM6kX6LWjFfRaLDVqaGgG2P2tWHSS6SBAvzzpicQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725481578444
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 345600,
+                        "value": "56d44b8b-7490-46ab-9e1d-5e9b16605c55:EQoAYaWOxq1xAAAA:HIvLFeE2lIBNyugQ8wQTZNZSDylJK65wAKWbznMFoZd6tAFhkmdyB96S+WIm4q4TZKJtEWyBryMrYWWUYHWH/OIU9g5hawVukF16CeP+vIAXCfvobduP2qcNowT500Ip4HklN+Ua9+I9XBigvyymyvdK/t2PPMPwt51mWkENqXDT4lwaMu1b/YYX9TAOtmu6GrmLxarV4xT/khx5d8akOo50vwFAnoYZNPky0/Fl4vKVP39wtEySzNjfmgQxnuXhgeKhSmkRJg==",
+                        "same_site": "lax",
+                        "timestamp": 1725481578783
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 345600,
+                        "value": "56d44b8b-7490-46ab-9e1d-5e9b16605c55:EQoAq3GOx1xwAAAA:GszUPMmZNbW6NRmdJKBddEphl9oK8fPxNPBW4cgqp6LT86CYrE75Zwet6d0vfAGF3j3fJNBW82s/9w1CYa9rkBb2txXFObrm7owiXqchzJwUAETD4XtLjF3n/UN76JfthYoJi9lpGAddGdzyod6Th4xKvZqHSd6j6Uclp9Y+2t13QqfRnx0f2tTi2mredKjHTpAiaFwYOxSgcK3x0pTxTQEHqxHf9LgUDRLCCryQ57+U1hTUzTZceN9xVWQsQiSjnG7d4ctueA==",
+                        "same_site": "lax",
+                        "timestamp": 1725481579212
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 345600,
+                        "value": "56d44b8b-7490-46ab-9e1d-5e9b16605c55:EQoAZR+OxNlxAAAA:loSIweyiGaSvIkR98fAs/UPz/etUWMxPEilGlaSzXc/i+ueTWDkUB/utu6//XUAJlV8hXIsB+XyM2noPEuTpOibyMaYqnSClBa8VVmWy/eLk1uxddlbXG/IRjSMihb/DgV9ju1nfRaEgo66pygJ3+I5crK5vINo6WpKcNO0hgM5Zd2W8JR3tRDUOt++GkLsmGPDedoyhZ4kI6DRZtjQNwgvgO8F0gQNK4o7sg80tuqJl/tPo5DXmSuAf76T8TjhAN+N8ygUB7g==",
+                        "same_site": "lax",
+                        "timestamp": 1725481579837
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 345600,
+                        "value": "56d44b8b-7490-46ab-9e1d-5e9b16605c55:EQoAib2OxBhyAAAA:zu1cN7fQ1mgstfyh2iES3AfBEYe7LcBUVOHdmBS84NuZKame4XeXENjtYEv4ZHcmOdQ5bYRJTu40f8a+qSSPOrecWWMJDSPa32kbJY1kbEqXzuVbfNiBiI0H5lFetB5xSSG1neQWHTzbikdunjX7h5+520CwD1Zg81NrjjqPbcs/4OsDUbqGLlX5fKD5l81N9fjh6orzwhHzbx8ZfDugCssVrj0HPVYyjaESBhRoz6684wKaPPGIpW24kZa2ci4McMVGSDYyPQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725481580875
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 345600,
+                        "value": "56d44b8b-7490-46ab-9e1d-5e9b16605c55:EQoAfAuOxIxyAAAA:0xCfBSjSojfMrQMDmxt0YY89YKI9r39shwa+1f71MXzsYL6ppoln2lP4TtYsxPJtwoCiP5EwO66+iDSaAueiyuGvwTTz4kkZsymlZ3iT87N1DJh0hVgzSIzi4Ln/z4NnpZ1cZV2hSNUdb8oSPEVaVDuTnusuFbSitIA/+UpOAEY3wb0jh6LemPJyzicNi0U571Je7Z8Sz+b6hBQlUo/APG/sc9KcHRY7zhcLdvYd4HBl2IJvD8IfleP2pd2Cemepsad5GopPTQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725481581910
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 345600,
+                        "value": "56d44b8b-7490-46ab-9e1d-5e9b16605c55:EQoAvryOwsZ0AAAA:EVfMCsq2WJTaTl/IFKFJsBOK3Boct8fRRISZTWgM6MIhhVBuDGZhfgEZKcsa1ZOZtI288uEwJZ/kDCT3QEhJLqDKZTk/9WXo6lOBmUnjbjfvNDzsE1Qz0rNUj8LE3RRA2cKH9f221VPBARs1q/FwuZrn5cgtAvEBhgpXHRcR26h7mhfQ0skZOTup3hXqu/wVrRFkPF6xjADQkIbW9dQAUBd4EUC54UwfrYiXiu2w8Wc8yKnyXQv0MMKGNcdFGjoNFiucCPaiNQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725481582941
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 345600,
+                        "value": "56d44b8b-7490-46ab-9e1d-5e9b16605c55:EQoAuS2OxT9zAAAA:s2dG3GN2x0DmH5ndGtuszC8IJq8M9iIk28seR91b5WC1hv8RGYWQMP3O6c+6E4ANjh6pg0JOAv7SQukyZqqO2zforRM6RYqtXudNCl2e9F54t0yAT//3NNNFfyg+Ke82OneayB5zBZVFhYPzb/r+J9ZMTt9+z2RbGqxok4IwT1KKuys0TVOp2LUP28Np40wiIDmzmmZsz1jCBFPkfZd70o91NUTw91HgIMYwigub3VROb+J+fwsqGUL+b2gW7QGBjZbzXqtYVQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725481583976
+                    }
+                ]
+            },
+            "ahoy_track": {
+                "name": "ahoy_track",
+                "domain": "www.instacart.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481574025,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481574024
+                    }
+                ]
+            },
+            "ahoy_visit": {
+                "name": "ahoy_visit",
+                "domain": "www.instacart.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481574026,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14400.864363908768,
+                        "value": "4E1678BC-10ca-4dd8-a426-a2ac70bcc42b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481575865
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14400.090598106384,
+                        "value": "4E1678BC-10ca-4dd8-a426-a2ac70bcc42b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481576095
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14400.613771915436,
+                        "value": "4E1678BC-10ca-4dd8-a426-a2ac70bcc42b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481576614
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14400.619488954544,
+                        "value": "4E1678BC-10ca-4dd8-a426-a2ac70bcc42b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481576619
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14400.625936031342,
+                        "value": "4E1678BC-10ca-4dd8-a426-a2ac70bcc42b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481576626
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14400.62919998169,
+                        "value": "4E1678BC-10ca-4dd8-a426-a2ac70bcc42b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481576629
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14400.631865024567,
+                        "value": "4E1678BC-10ca-4dd8-a426-a2ac70bcc42b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481576632
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14400.949662923813,
+                        "value": "4E1678BC-10ca-4dd8-a426-a2ac70bcc42b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481576950
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14400.099910974503,
+                        "value": "4E1678BC-10ca-4dd8-a426-a2ac70bcc42b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481577101
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14400.101974010468,
+                        "value": "4E1678BC-10ca-4dd8-a426-a2ac70bcc42b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481577105
+                    }
+                ]
+            },
+            "ahoy_visitor": {
+                "name": "ahoy_visitor",
+                "domain": "www.instacart.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481574027,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760041574.006152,
+                        "expiry": 34560000.006151915,
+                        "value": "7713C54A-d30d-4565-b405-df895dad6af7",
+                        "same_site": "unspecified",
+                        "timestamp": 1725481574026
+                    }
+                ]
+            },
+            "build_sha": {
+                "name": "build_sha",
+                "domain": "www.instacart.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481576095,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "8e4d94397e12c9fcd268dede7726dc68ea1db6a8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481576091
+                    }
+                ]
+            },
+            "device_uuid": {
+                "name": "device_uuid",
+                "domain": "www.instacart.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481574024,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760041574.006062,
+                        "expiry": 34560000.00606203,
+                        "value": "84af6b09-10af-44c5-9709-523867e5ece4",
+                        "same_site": "lax",
+                        "timestamp": 1725481574019
+                    }
+                ]
+            }
+        }
+    },
+    "snapchat.com": {
+        "/": {
+            "sc_at": {
+                "name": "sc_at",
+                "domain": ".snapchat.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725481583900,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759177583.897045,
+                        "expiry": 33696000.8970449,
+                        "value": "v2|H4sIAAAAAAAAAAXBgQ3AMAgDsIuQCJCVnbNSegXHzw5WwVdKKynxPa/k9iuEWtsttYMZLGMkmD76Ax9avj8yAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481583898
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.84241295,
+                        "value": "v2|H4sIAAAAAAAAAE3GwRGAIAwEwIoycxdyEO1GA1RB8X7d14aq2EbagmTx9MvybdtE+PJd8MnDwM3hiqQyzq/4APeQm1hAAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481584844
+                    }
+                ]
+            }
+        }
+    },
+    "instacart.com": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".www.instacart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481574626,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725483374.624554,
+                        "expiry": 1800.6245539188385,
+                        "value": "Kny97MBMgR78Yy9dVw2rE7KYoe1m2kodDJ3tBcm24Z4-1725481574-1.0.1.1-OiR1gPGqFWTq0uNt5EnGn9HyRd6yJpAAOd4B6sKnzUeAWW4YEyCgx5QTYt3nM3deFBSPeQhMlmLKTk4r_Pq5jQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481574625
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.6271789073944,
+                        "value": "Byn8g_92cN4x8V80aKl6PWiciUCo.Gr8FA87AJ0iE6E-1725481574-1.0.1.1-C1IAX1ZrXfzSlq2fpCUb3dMXonsRAVJY9xlAfAPfRTcBJxQCeQugjXpYR0vjOfe90vEJiYreK5_fQQS9ncVb.g",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481574631
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.7690200805664,
+                        "value": "uOeyJAAoJMfMAKRFU3qOWQxyVX_oOcf2Spzr62wt.VQ-1725481574-1.0.1.1-1lYnnWbmPeGjHFPOCGzVizDARiRE5cHi589KF7oy3hN7dTjYYMOkjD4Gr9J6COYF4SEAlV2jHzQPkIaIoJkGmw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481574770
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.8145790100098,
+                        "value": "H7ZyksVAaet6T2KbllmNIfIlxhtPYEiXnHb5LHULm1U-1725481574-1.0.1.1-AIS3yXSS38sxdIsMrHB2QRFZW78ot5ODTQVxZeeCabBiI4L363YAegHnjcSdcbgfaSq9MBOUAYGzo0GKjrcnIw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481574817
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.9087789058685,
+                        "value": "MRCWXk6eIQKHKoYl2Arn_YaekcqxsTJlRimZzH9O75M-1725481574-1.0.1.1-KeyP7QS3r4ONb2qIAmAoB4Mvgo0eBF75U926xtMNajRS1uNNSwMCS.TlTYeCYKH.tw97EYTN4VMc0PQCvBtIQQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481574909
+                    }
+                ]
+            },
+            "_cfuvid": {
+                "name": "_cfuvid",
+                "domain": ".www.instacart.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725481574627,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "d6MZ3CyHQdWaHyXQzDcgPnCvpJKMRU8PCnSxSoIH.zE-1725481574474-0.0.1.1-604800000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481574626
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "d6MZ3CyHQdWaHyXQzDcgPnCvpJKMRU8PCnSxSoIH.zE-1725481574474-0.0.1.1-604800000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481574631
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "pO4XIFlsS8ccOEAT47JxinCPnqjQ_WCVUhZAfjSDZ8c-1725481574478-0.0.1.1-604800000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481574770
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ADzxK6Ubyi95kVUp8cBOEvl8WoVz5Df3G0YExtCofuY-1725481574663-0.0.1.1-604800000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481574817
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "8cnZGfg97UHyfdOgM2tqsbwd3JjNb.6Eu_fSW4NVMhA-1725481574485-0.0.1.1-604800000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481574910
+                    }
+                ]
+            }
+        }
+    },
+    "sc-static.net": {
+        "/scevent.min.js": {
+            "X-AB": {
+                "name": "X-AB",
+                "domain": "sc-static.net",
+                "path": "/scevent.min.js",
+                "current_label": 2,
+                "label_ts": 1725481583189,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725567983.186565,
+                        "expiry": 86400.18656492233,
+                        "value": "e59866ee5f5943139024f795ccfd5cb5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481583187
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/recaptcha": {
+            "_GRECAPTCHA": {
+                "name": "_GRECAPTCHA",
+                "domain": "www.google.com",
+                "path": "/recaptcha",
+                "current_label": 0,
+                "label_ts": 1725481582242,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741033582.241108,
+                        "expiry": 15552000.24110794,
+                        "value": "09AIXqFLp_CeGNQrvKrW351nikPXDiPHHkl6I-biziY8DI6PcSzJ_E6bzd-K8Daew0v7QNygTd2nekVFKV9M_ufu0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725481582241
+                    }
+                ]
+            }
+        }
+    }
+}

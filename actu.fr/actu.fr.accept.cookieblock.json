@@ -1,0 +1,1201 @@
+{
+    "3lift.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474479488,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250479.48791,
+                        "expiry": 7776000.487910032,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479488
+                    }
+                ]
+            },
+            "tluid": {
+                "name": "tluid",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479489,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250479.487952,
+                        "expiry": 7776000.487951994,
+                        "value": "1648006659559514757920",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479488
+                    }
+                ]
+            }
+        }
+    },
+    "4dex.io": {
+        "/": {
+            "uids": {
+                "name": "uids",
+                "domain": ".4dex.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474479417,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730658479.416161,
+                        "expiry": 5184000.41616106,
+                        "value": "eyJzeW5jcyI6eyJpbXByb3ZlZGlnaXRhbCI6IjIwMjQtMDktMDRUMTg6Mjc6NTkuNTQwODQxMzk2WiIsIm9uZXRhZyI6IjIwMjQtMDktMDRUMTg6Mjc6NTkuNTQwODM3NDI3WiIsInB1Ym1hdGljIjoiMjAyNC0wOS0wNFQxODoyNzo1OS41NDA4NDM3ODdaIiwicnViaWNvbiI6IjIwMjQtMDktMDRUMTg6Mjc6NTkuNTQwODQwODc2WiJ9LCJ1aWRzIjp7ImFkYWdpbyI6eyJ1aWQiOiI5MzM1ZjcxOS1kYTUyLTQ4ZjAtOTg1MC1hY2Y1NWI4NWFjZTgiLCJleHBpcmVzIjoiMjAyNC0xMS0wM1QxODoyNzo1OS40MTI0NzA3NDlaIn19LCJiZGF5IjoiMjAyNC0wOS0wNFQxODoyNzo1OS40MTIyOTc1MjlaIn0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479416
+                    }
+                ]
+            }
+        }
+    },
+    "actu.fr": {
+        "/": {
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".actu.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474471178,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474501,
+                        "expiry": 30,
+                        "value": "m0o6y6tjxg29ep",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474471177
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".actu.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474478790,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250478,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725474478788.724873668909234372",
+                        "same_site": "lax",
+                        "timestamp": 1725474478789
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725474478788.724873668909234372",
+                        "same_site": "lax",
+                        "timestamp": 1725474479026
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.149476051,
+                        "value": "fb.1.1725474479059.1290680939",
+                        "same_site": "lax",
+                        "timestamp": 1725474479150
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".actu.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474471192,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602471,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0o6y6ts18nmwdi4%22%2C%22_t%22%3A%22mgclvo5y%7Cm0o6y6ty%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725474471191
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".actu.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474471194,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602471,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAOYBjVADdKAVgBeAH34AGSgDYAnsvzSQAXyA",
+                        "same_site": "lax",
+                        "timestamp": 1725474471192
+                    }
+                ]
+            },
+            "cto_bidid": {
+                "name": "cto_bidid",
+                "domain": ".actu.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479828,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759177678,
+                        "expiry": 33703199,
+                        "value": "VWabRV9uQnBuMiUyRkFSbDVIRW1DNzMyVTlCTGVKdDVJWkE0a3F0ZEJQZ0hlZE9vVFc2d2YlMkJnMjltT3ZaRWllYjJJOEI1cHZ0RTJaQlF4c0hYRU51aFMlMkY0enlkeEppVGtubUlrJTJGdWc5RlNPUjV4NlBZJTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474479828
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".actu.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479827,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759177678,
+                        "expiry": 33703199,
+                        "value": "j_lEZ19FVkNlMlNGME5VJTJCWU1oQjhXbzFYSFJiNDNKTk0xWmluYXBEeXUzcSUyRk1MU0JOTFNicHFBOWowcVVyVjQyOTJwODJHYXkxJTJCcWZiUzV1YWZIQjJqam1wZW1yT3VkYlVMS2dFc00zaURoZiUyRmt5b011TFRTUkZUdmxLTFhmcHVma2ZQdkhWNEgwQjZRb21DZXk4MDVkaGRuMDd2NjZUWEZVUFZ4aiUyRnF4JTJGJTJCJTJGV1JZJTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474479826
+                    }
+                ]
+            },
+            "datadome": {
+                "name": "datadome",
+                "domain": ".actu.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474479151,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010479.149708,
+                        "expiry": 31536000.149708033,
+                        "value": "GRISUUYu9mPQsJUdxy8611ssNypETamP5iaSEAlvCAheqgp~IdmFTAIZeFCDXZb43kR5an9vFj_VrHWLeZk7YBwSG_w3K_mVEuBd0jEy6fqrokegwCRB2~VTKvbUUFk8",
+                        "same_site": "lax",
+                        "timestamp": 1725474479150
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".actu.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474470388,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741289270,
+                        "expiry": 15814800,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU0YWYtOWVmNi02ZmNkLWFhMjAtYzA2YjlkYzkzNzM4IiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTg6Mjc6NTAuMzgzWiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE4OjI3OjUwLjM4M1oiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474470384
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15814800,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU0YWYtOWVmNi02ZmNkLWFhMjAtYzA2YjlkYzkzNzM4IiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTg6Mjc6NTAuMzgzWiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE4OjI3OjU3LjU1NloiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzptZXN1cmVkYS1aYzl6dDhMOCIsImM6cHJvbW90aW9ucy1Id0VZZjRUQyIsImM6eWFob28tYWQtZXhjaGFuZ2UiLCJjOnB1YmxpaGViZG8tM1FORWNnRjQiLCJjOnB1YmxpaGViZG8tSE40Z1hhWDYiLCJjOnB1YmxpaGViZG8tWk1iWDI2a1IiLCJjOnlhaG9vLWdlbWluaS1hbmQtZmx1cnJ5IiwiYzpwdWJsaWNpdGUtSGlLR0ZDNGEiLCJjOnB1YmxpaGViZG8tR0huUW1Ea0YiLCJjOnV0aXEtaHpaYkJNcWsiXX0sInB1cnBvc2VzIjp7ImVuYWJsZWQiOlsiZGV2aWNlX2NoYXJhY3RlcmlzdGljcyIsImdlb2xvY2F0aW9uX2RhdGEiLCJtZXN1cmVkYS14M3RjOEdhRSIsInByb21vdGlvbnMtUXhHY0dBelIiLCJjb250ZW51c2MtUlp3ZlhKTVEiLCJjb250ZW51c2QtNzJWVFRjN2UiLCJjb250ZW51c3YteXhOUVc5YjgiLCJwdWJsaWNpdGUtRFJGbVRXdEciLCJwdWJsaWNpdGUtYmIzQzRkNHoiXX0sInZlcnNpb24iOjIsImFjIjoiQ0JxQUNDQm8uQUFBQSJ9",
+                        "same_site": "lax",
+                        "timestamp": 1725474477572
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".actu.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474477574,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741289277,
+                        "expiry": 15814800,
+                        "value": "CQEbF4AQEbF4AAHABBENBFFsAP_gAAAAAAAAJutV9G__bWlrcXr36ftkeY1X91h77sQhBBOJE-4FyDuW_JwHk2EwJA06pKIKmBIAsTZBIQFlGADUBVAgSoAFpzDMYEGUgRIIJ6BEAEMRY2ZYCAxvGQFjMQIY5Po9UlIw2ResaNr8Rdjiz4FlCzQJJGIlUICdA58tBbksRRKK-5IGZuxUHwp0cMdjAiXaRVk9tMMgoB4uQkAzUVU-kaAAAAYJABgACCmo6ADAAEFNSEAGAAIKakoAMAAQU1KQAYAAgpqWgAwABBTU.f_wAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725474477573
+                    }
+                ]
+            },
+            "nli": {
+                "name": "nli",
+                "domain": ".actu.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474478746,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602478.745437,
+                        "expiry": 34128000.74543691,
+                        "value": "5b355c9d-38ee-9c95-c775-6401f17fccf0",
+                        "same_site": "strict",
+                        "timestamp": 1725474478745
+                    }
+                ]
+            },
+            "pa_privacy": {
+                "name": "pa_privacy",
+                "domain": ".actu.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474471189,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602471,
+                        "expiry": 34128000,
+                        "value": "%22exempt%22",
+                        "same_site": "lax",
+                        "timestamp": 1725474471188
+                    }
+                ]
+            },
+            "tkCiblage": {
+                "name": "tkCiblage",
+                "domain": ".actu.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474470334,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759661168,
+                        "expiry": 34186698,
+                        "value": "{\"pv\":1,\"sessions\":1,\"pvSession\":1,\"lastTimeStamp\":1725474467396,\"lastActiveDay\":\"2024|9|4\",\"NoRefresh\":1,\"gtmRollingJA\":1,\"NBActiveDays\":1,\"NbArticles\":0,\"NbPaidArticles\":0,\"Exp\":\"1759661168328\"}",
+                        "same_site": "lax",
+                        "timestamp": 1725474470329
+                    }
+                ]
+            },
+            "a-ppid-gam": {
+                "name": "a-ppid-gam",
+                "domain": "actu.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474478377,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741199278,
+                        "expiry": 15724800,
+                        "value": "c470e4d1f254eac5ffd92915a140fbbf31020110",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474478376
+                    }
+                ]
+            },
+            "mcaCutPost": {
+                "name": "mcaCutPost",
+                "domain": "actu.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474477622,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741026477,
+                        "expiry": 15552000,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474477621
+                    }
+                ]
+            },
+            "trc_cookie_storage": {
+                "name": "trc_cookie_storage",
+                "domain": "actu.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479556,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010479,
+                        "expiry": 31536000,
+                        "value": "taboola%2520global%253Auser-id%3D301df274-0c6e-4a13-a329-1d32eaca9b5a-tuctdd22c2f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474479556
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "taboola%2520global%253Auser-id%3D301df274-0c6e-4a13-a329-1d32eaca9b5a-tuctdd22c2f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474479558
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479422,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250479.421506,
+                        "expiry": 7776000.421505928,
+                        "value": "c0BLPhHKmzK7BmtsRq7819DXnU37mYXiju-nOklOaw6DmxDGMG6htWCNDb-SYiHqNG4aTY3vIZb2S05N8o75yvWMWtjXX29GyWZCgXP2_OM.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479421
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.606072903,
+                        "value": "rph9-eBhi49kJkTK8UzMCGcufd7CT4mdpV06OIlb07Q5RKvv3Wkn7Zg6EMye8Q3R9E5-rLKvm-5JeG-zvlc9X1YxDX2DF3AeLYHP_tboZSk.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479606
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.697945118,
+                        "value": "tXjYLT2T0-vGFJxv1iU5qGCa4AVj54uzOU0COG3jb9cMJYFiaoTUroqwTjui6lhOwFsbNDg5ek1TpoTJVPG1x3eGV-3DRXVdlRm7ajnSp4o.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479698
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479422,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250479.421536,
+                        "expiry": 7776000.421535969,
+                        "value": "ChgImvFcEAoYASABKAEwr83itgY4AUABSAEQr83itgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479422
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.60611701,
+                        "value": "ChgIhfh1EAoYASABKAEwr83itgY4AUABSAEQr83itgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479606
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.697989941,
+                        "value": "ChgIkv5kEAoYASABKAEwr83itgY4AUABSAEQr83itgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479698
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479422,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760034479.421561,
+                        "expiry": 34560000.421561,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479422
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.60613394,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479606
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.69804001,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479698
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479423,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250479.421589,
+                        "expiry": 7776000.421588898,
+                        "value": "208638327024272769",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479423
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.606163025,
+                        "value": "8350202803577238186",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479606
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.6981709,
+                        "value": "8835610376809507807",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479698
+                    }
+                ]
+            }
+        }
+    },
+    "adsrvr.org": {
+        "/": {
+            "TDID": {
+                "name": "TDID",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479231,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010479.230409,
+                        "expiry": 31536000.230408907,
+                        "value": "c8c512df-c0d8-4753-a41e-ddfc23190956",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479230
+                    }
+                ]
+            }
+        }
+    },
+    "api.mediego.com": {
+        "/": {
+            "executed_actions": {
+                "name": "executed_actions",
+                "domain": ".api.mediego.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725474479996,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479996
+                    }
+                ]
+            },
+            "mediego-uid": {
+                "name": "mediego-uid",
+                "domain": ".api.mediego.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479227,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741026479.226367,
+                        "expiry": 15552000.226366997,
+                        "value": "2577467575148706517",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479226
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474479438,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010479.438001,
+                        "expiry": 31536000.438000917,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479438
+                    }
+                ]
+            }
+        }
+    },
+    "rubiconproject.com": {
+        "/": {
+            "audit": {
+                "name": "audit",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474479357,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010479.355116,
+                        "expiry": 31536000.35511589,
+                        "value": "1|iVcdDQ/JV7lKnUiz1Xdk6ktAdO6oL148m+3XSeM+WCM/ujXYYW9Y2JFPMljW4pPLIvmEBe9plWmo01/LBJmKmdTApLl14r/6HLW8VjNb5u6Oy9QJ73LP3S74o4hSQLqLVOgoFmGYBeYNzB7PHnRLJj52YYtiK86KSQiiYTiS4Pqt5mTz6dC048rzTjnqdFd5KxF7VPqsh2jSy75C6WfxG4dohg0IqMl+8sroCmSmtkmiXKBQHciBL2EVHHRK4t6PpGTIJ86ObAZ9FWX8w/t+bDfRFwgLhRhO6BLqqf/TTWS/z2fSzVQFDAT9K50Q/uz1WNYbr4fD88G2jlhzNhRLTkSkq5QZbtR+9/31BM3rwkqlaP3ZCWLm/IS8Ej1UipsRlT0FFpBCcTeWMsb4NzsiRAjilV2hbXM90pA78/6Wrk7w9zrgOyRsXxbKzcT29oZvC8jgiHbotwdYHZU7VBg+mN1f0zYINeMflp38kTuBZ5XQ61DcGBY0Zzfl554vrnzBvsVAPbIH/+GyqVI1k5poNA==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.383294106,
+                        "value": "1|iVcdDQ/JV7ntxgEMj3lpQUtAdO6oL148m+3XSeM+WCM/ujXYYW9Y2JFPMljW4pPLIvmEBe9plWmo01/LBJmKmdTApLl14r/6HLW8VjNb5u6Oy9QJ73LP3S74o4hSQLqLVOgoFmGYBeYNzB7PHnRLJj52YYtiK86KSQiiYTiS4Pqt5mTz6dC048rzTjnqdFd5KxF7VPqsh2jSy75C6WfxG4dohg0IqMl+8sroCmSmtkmiXKBQHciBL2EVHHRK4t6PpGTIJ86ObAZ9FWX8w/t+bDfRFwgLhRhO6BLqqf/TTWS/z2fSzVQFDAT9K50Q/uz1WNYbr4fD88G2jlhzNhRLTkSkq5QZbtR+9/31BM3rwkqlaP3ZCWLm/IS8Ej1UipsRlT0FFpBCcTeWMsb4NzsiRAjilV2hbXM90pA78/6Wrk7w9zrgOyRsXxbKzcT29oZvC8jgiHbotwdYHZU7VBg+mN1f0zYINeMflp38kTuBZ5XQ61DcGBY0Zzfl554vrnzBvsVAPbIH/+GyqVI1k5poNA==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479383
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.390942097,
+                        "value": "1|iVcdDQ/JV7mv1Jt0/GBqe0tAdO6oL148m+3XSeM+WCM/ujXYYW9Y2JFPMljW4pPLIvmEBe9plWmo01/LBJmKmdTApLl14r/6HLW8VjNb5u6Oy9QJ73LP3S74o4hSQLqLVOgoFmGYBeYNzB7PHnRLJj52YYtiK86KSQiiYTiS4Pqt5mTz6dC048rzTjnqdFd5KxF7VPqsh2jSy75C6WfxG4dohg0IqMl+8sroCmSmtkmiXKBQHciBL2EVHHRK4t6PpGTIJ86ObAZ9FWX8w/t+bDfRFwgLhRhO6BLqqf/TTWS/z2fSzVQFDAT9K50Q/uz1WNYbr4fD88G2jlhzNhRLTkSkq5QZbtR+9/31BM3rwkqlaP3ZCWLm/IS8Ej1UipsRlT0FFpBCcTeWMsb4NzsiRAjilV2hbXM90pA78/6Wrk7w9zrgOyRsXxbKzcT29oZvC8jgiHbotwdYHZU7VBg+mN1f0zYINeMflp38kTuBZ5XQ61DcGBY0Zzfl554vrnzBvsVAPbIH/+GyqVI1k5poNA==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479391
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.395612955,
+                        "value": "1|iVcdDQ/JV7lfq2uEQqzAY0tAdO6oL148m+3XSeM+WCM/ujXYYW9Y2JFPMljW4pPLIvmEBe9plWmo01/LBJmKmdTApLl14r/6HLW8VjNb5u6Oy9QJ73LP3S74o4hSQLqLVOgoFmGYBeYNzB7PHnRLJj52YYtiK86KSQiiYTiS4Pqt5mTz6dC048rzTjnqdFd5KxF7VPqsh2jSy75C6WfxG4dohg0IqMl+8sroCmSmtkmiXKBQHciBL2EVHHRK4t6PpGTIJ86ObAZ9FWX8w/t+bDfRFwgLhRhO6BLqqf/TTWS/z2fSzVQFDAT9K50Q/uz1WNYbr4fD88G2jlhzNhRLTkSkq5QZbtR+9/31BM3rwkqlaP3ZCWLm/IS8Ej1UipsRlT0FFpBCcTeWMsb4NzsiRAjilV2hbXM90pA78/6Wrk7w9zrgOyRsXxbKzcT29oZvC8jgiHbotwdYHZU7VBg+mN1f0zYINeMflp38kTuBZ5XQ61DcGBY0Zzfl554vrnzBvsVAPbIH/+GyqVI1k5poNA==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479396
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.39856291,
+                        "value": "1|iVcdDQ/JV7nQp8Nx9JLSUktAdO6oL148m+3XSeM+WCM/ujXYYW9Y2JFPMljW4pPLIvmEBe9plWmo01/LBJmKmdTApLl14r/6HLW8VjNb5u6Oy9QJ73LP3S74o4hSQLqLVOgoFmGYBeYNzB7PHnRLJj52YYtiK86KSQiiYTiS4Pqt5mTz6dC048rzTjnqdFd5KxF7VPqsh2jSy75C6WfxG4dohg0IqMl+8sroCmSmtkmiXKBQHciBL2EVHHRK4t6PpGTIJ86ObAZ9FWX8w/t+bDfRFwgLhRhO6BLqqf/TTWS/z2fSzVQFDAT9K50Q/uz1WNYbr4fD88G2jlhzNhRLTkSkq5QZbtR+9/31BM3rwkqlaP3ZCWLm/IS8Ej1UipsRlT0FFpBCcTeWMsb4NzsiRAjilV2hbXM90pA78/6Wrk7w9zrgOyRsXxbKzcT29oZvC8jgiHbotwdYHZU7VBg+mN1f0zYINeMflp38kTuBZ5XQ61DcGBY0Zzfl554vrnzBvsVAPbIH/+GyqVI1k5poNA==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479398
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.437079906,
+                        "value": "1|iVcdDQ/JV7lzw0C8CdW1zEtAdO6oL148m+3XSeM+WCM/ujXYYW9Y2JFPMljW4pPLIvmEBe9plWmo01/LBJmKmdTApLl14r/6HLW8VjNb5u6Oy9QJ73LP3S74o4hSQLqLVOgoFmGYBeYNzB7PHnRLJj52YYtiK86KSQiiYTiS4Pqt5mTz6dC048rzTjnqdFd5KxF7VPqsh2jSy75C6WfxG4dohg0IqMl+8sroCmSmtkmiXKBQHciBL2EVHHRK4t6PpGTIJ86ObAZ9FWX8w/t+bDfRFwgLhRhO6BLqqf/TTWS/z2fSzVQFDAT9K50Q/uz1WNYbr4fD88G2jlhzNhRLTkSkq5QZbtR+9/31BM3rwkqlaP3ZCWLm/IS8Ej1UipsRlT0FFpBCcTeWMsb4NzsiRAjilV2hbXM90pA78/6Wrk7w9zrgOyRsXxbKzcT29oZvC8jgiHbotwdYHZU7VBg+mN1f0zYINeMflp38kTuBZ5XQ61DcGBY0Zzfl554vrnzBvsVAPbIH/+GyqVI1k5poNA==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479437
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.43921089,
+                        "value": "1|iVcdDQ/JV7nJEkXJnO35KEtAdO6oL148m+3XSeM+WCM/ujXYYW9Y2JFPMljW4pPLIvmEBe9plWmo01/LBJmKmdTApLl14r/6HLW8VjNb5u6Oy9QJ73LP3S74o4hSQLqLVOgoFmGYBeYNzB7PHnRLJj52YYtiK86KSQiiYTiS4Pqt5mTz6dC048rzTjnqdFd5KxF7VPqsh2jSy75C6WfxG4dohg0IqMl+8sroCmSmtkmiXKBQHciBL2EVHHRK4t6PpGTIJ86ObAZ9FWX8w/t+bDfRFwgLhRhO6BLqqf/TTWS/z2fSzVQFDAT9K50Q/uz1WNYbr4fD88G2jlhzNhRLTkSkq5QZbtR+9/31BM3rwkqlaP3ZCWLm/IS8Ej1UipsRlT0FFpBCcTeWMsb4NzsiRAjilV2hbXM90pA78/6Wrk7w9zrgOyRsXxbKzcT29oZvC8jgiHbotwdYHZU7VBg+mN1f0zYINeMflp38kTuBZ5XQ61DcGBY0Zzfl554vrnzBvsVAPbIH/+GyqVI1k5poNA==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479439
+                    }
+                ]
+            },
+            "khaos": {
+                "name": "khaos",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479356,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010479.355085,
+                        "expiry": 31536000.355084896,
+                        "value": "M0O6YD6N-O-7FMX",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479355
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.38326192,
+                        "value": "M0O6YD6P-A-EL3G",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479383
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.39090991,
+                        "value": "M0O6YD6P-21-JGQU",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479391
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.39559388,
+                        "value": "M0O6YD6O-1N-KPYP",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479395
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.39854288,
+                        "value": "M0O6YD6Z-19-8YMM",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479398
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.437026978,
+                        "value": "M0O6YD6O-7-J6I4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479437
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.439186096,
+                        "value": "M0O6YD6R-1Q-5U49",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479439
+                    }
+                ]
+            }
+        }
+    },
+    "taboola.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479555,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010479.553901,
+                        "expiry": 31536000.553900957,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479555
+                    }
+                ]
+            },
+            "t_gid": {
+                "name": "t_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474480163,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010480.162797,
+                        "expiry": 31536000.162796974,
+                        "value": "301df274-0c6e-4a13-a329-1d32eaca9b5a-tuctdd22c2f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474480163
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.163723946,
+                        "value": "301df274-0c6e-4a13-a329-1d32eaca9b5a-tuctdd22c2f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474480165
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.18548107,
+                        "value": "301df274-0c6e-4a13-a329-1d32eaca9b5a-tuctdd22c2f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474480186
+                    }
+                ]
+            },
+            "t_pt_gid": {
+                "name": "t_pt_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474480165,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010480.163744,
+                        "expiry": 31536000.163743973,
+                        "value": "301df274-0c6e-4a13-a329-1d32eaca9b5a-tuctdd22c2f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474480165
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.185615063,
+                        "value": "301df274-0c6e-4a13-a329-1d32eaca9b5a-tuctdd22c2f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474480186
+                    }
+                ]
+            }
+        },
+        "/actufr-actufr/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/actufr-actufr/",
+                "current_label": 0,
+                "label_ts": 1725474479555,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_d9871b78cceb240239807f31bcf71efd_301df274-0c6e-4a13-a329-1d32eaca9b5a-tuctdd22c2f_1725474479_1725474479_CIi3jgYQx91HGIC3rPKbMiABKAEw4QE4kaQOQIuwDkiLo9kDUKMGWABgAGi7xcTSmar-r0ZwAQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479555
+                    }
+                ]
+            }
+        }
+    },
+    "teads.tv": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".teads.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479365,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1756924079.364108,
+                        "expiry": 31449600.364108086,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479365
+                    }
+                ]
+            },
+            "tt_viewer": {
+                "name": "tt_viewer",
+                "domain": ".teads.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479364,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1756924079.364075,
+                        "expiry": 31449600.364074945,
+                        "value": "47fb49ec-d839-40f6-995f-604930ec8537",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479364
+                    }
+                ]
+            }
+        }
+    },
+    "auth.actu.fr": {
+        "/": {
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "auth.actu.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474471920,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726079270.915014,
+                        "expiry": 604799.9150140285,
+                        "value": "5HZQ9LfmgBR/2Q/dFriSQN6Ox60s/bnL4V33D5+gH6c8Dn77nZdVDmhmrKoVn1vrU4VTHYALcg/5t+r/31R4aMthLAFjmmM5AiLtEIYcP4PDbWNgk3ZZPaGJrNTj",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474471915
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.2501590252,
+                        "value": "65exilAJBAMSZHk+cRUdZtpwYCdYO07mbFIxmFPBlFQ8+0091xPcJRUeQ5A3PkZbnNkpY3k6nVvIqCrsXGJOMHl7dBNlbz8UaHaVzkhsG76/IhWEoDza/BLle8K9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474472251
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.5976018906,
+                        "value": "Yc2ENpeuIbhX33nwIyPEyvKQHC199ICFM9nNnT3W05lE4HBbdUNEyDtCY5t1E4qwYo+wx2PjZ/4D+sjCODY2ZDn/Fe45ZVIrVQ0KAe9vvjBlW9pJkhqZpK3d+8Xf",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474472600
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604799.9429810047,
+                        "value": "MF/tFfi4jDcQbrUIP2MaGSm17aOBjjN0KLgaYuVSqsyU415ETjLb78RVXTFAV6vZBpHYOlMaEs+4NbrkOe2BYLGZe314CVYriIw5RdEaONijztGTHDEimRUtvfgk",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474472944
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "auth.actu.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474471923,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726079270.915148,
+                        "expiry": 604799.9151480198,
+                        "value": "5HZQ9LfmgBR/2Q/dFriSQN6Ox60s/bnL4V33D5+gH6c8Dn77nZdVDmhmrKoVn1vrU4VTHYALcg/5t+r/31R4aMthLAFjmmM5AiLtEIYcP4PDbWNgk3ZZPaGJrNTj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474471921
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.2503008842,
+                        "value": "65exilAJBAMSZHk+cRUdZtpwYCdYO07mbFIxmFPBlFQ8+0091xPcJRUeQ5A3PkZbnNkpY3k6nVvIqCrsXGJOMHl7dBNlbz8UaHaVzkhsG76/IhWEoDza/BLle8K9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474472252
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.59770298,
+                        "value": "Yc2ENpeuIbhX33nwIyPEyvKQHC199ICFM9nNnT3W05lE4HBbdUNEyDtCY5t1E4qwYo+wx2PjZ/4D+sjCODY2ZDn/Fe45ZVIrVQ0KAe9vvjBlW9pJkhqZpK3d+8Xf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474472601
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604799.9431629181,
+                        "value": "MF/tFfi4jDcQbrUIP2MaGSm17aOBjjN0KLgaYuVSqsyU415ETjLb78RVXTFAV6vZBpHYOlMaEs+4NbrkOe2BYLGZe314CVYriIw5RdEaONijztGTHDEimRUtvfgk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474472944
+                    }
+                ]
+            }
+        },
+        "/auth/realms/actu-fr/protocol/openid-connect/3p-cookies": {
+            "KEYCLOAK_3P_COOKIE": {
+                "name": "KEYCLOAK_3P_COOKIE",
+                "domain": "auth.actu.fr",
+                "path": "/auth/realms/actu-fr/protocol/openid-connect/3p-cookies",
+                "current_label": 0,
+                "label_ts": 1725474471927,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725474531.921589,
+                        "expiry": 60.92158889770508,
+                        "value": "supported",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474471926
+                    }
+                ]
+            },
+            "KEYCLOAK_3P_COOKIE_SAMESITE": {
+                "name": "KEYCLOAK_3P_COOKIE_SAMESITE",
+                "domain": "auth.actu.fr",
+                "path": "/auth/realms/actu-fr/protocol/openid-connect/3p-cookies",
+                "current_label": 0,
+                "label_ts": 1725474471925,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474531.92137,
+                        "expiry": 60.92137002944946,
+                        "value": "supported",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474471924
+                    }
+                ]
+            }
+        }
+    },
+    "trc.taboola.com": {
+        "/": {
+            "t_pid": {
+                "name": "t_pid",
+                "domain": "trc.taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474479554,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010479.553856,
+                        "expiry": 31536000.553855896,
+                        "value": "301df274-0c6e-4a13-a329-1d32eaca9b5a-tuctdd22c2f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474479554
+                    }
+                ]
+            }
+        }
+    }
+}

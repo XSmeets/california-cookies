@@ -1,0 +1,944 @@
+{
+    "360yield.com": {
+        "/": {
+            "tuuid": {
+                "name": "tuuid",
+                "domain": ".360yield.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474405132,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250405.118271,
+                        "expiry": 7776000.118271112,
+                        "value": "5847f4a0-f80f-4f01-ae80-79f5e43fe148",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405132
+                    }
+                ]
+            },
+            "tuuid_lu": {
+                "name": "tuuid_lu",
+                "domain": ".360yield.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474405133,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250405.118306,
+                        "expiry": 7776000.118305922,
+                        "value": "1725474405",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405133
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474404959,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250404.9582,
+                        "expiry": 7776000.958199978,
+                        "value": "80qYs_6d95Yf3Tv87YovU65mUPj55Z_5SG6zJ3BVDxpMfe-p0ecg0HRaAZPIRoxq3hJoCjk9yeK9y_ErFS3d0ymKmMZyRUqtcBInN_LP8to.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404958
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.997823,
+                        "value": "dE4BaIjGdMgAwC5yY8F9Yuy2Hl2vvrtro1tD12r7Yn_WGuAsy1Qysc9sSo4b7AGC06C8ujvbwUY-SlSeC2FFuaLKMPCqxZqiDq2iPrQjRwc.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.0426568985,
+                        "value": "SGTGBiEwBNjQxCDMXxtZyD0LwFeg5G_niJi5YUWVMtvP3E2TyREAN1w2yxTcjsgkgD5wLxxgl_arEIWiLe1EMV2okyeA6N7hYfP9PNQEixc.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405043
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.176858902,
+                        "value": "mW8fZkBRNNW1fL8p40nAXX4IgXxUF4C1rOnj9-zZMwq2t_05MPdjHBRUZ-AbRJUG0ZmjkBHyhdv3iokI53VP1gzQ1WF2ccXu_edF2UWovHU.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405177
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.215747118,
+                        "value": "QDF9v7MIS-FFTxC0S8wAuOumOoLiYsx-F0DJ1sVLdeHW7p61WzkRCZlLUvj6fo5pCdvFQ8epgTMXbFkQlJb6ECdA_xZPvjbv3nri_Blu1gc.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405216
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474404959,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250404.958245,
+                        "expiry": 7776000.958245039,
+                        "value": "ChgI7cpHEAoYASABKAEw5czitgY4AUABSAEQ5czitgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404959
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.997889042,
+                        "value": "ChgI9ftYEAoYASABKAEw5czitgY4AUABSAEQ5czitgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.0427110195,
+                        "value": "ChgImJ5hEAoYASABKAEw5czitgY4AUABSAEQ5czitgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405043
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.176894903,
+                        "value": "ChgImJ5hEAoYASABKAEw5czitgY4AUABSAEQ5czitgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405177
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.215785027,
+                        "value": "ChgI9ftYEAoYASABKAEw5czitgY4AUABSAEQ5czitgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405216
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474404960,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760034404.958274,
+                        "expiry": 34560000.95827389,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404959
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.99791002,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.04273391,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405043
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.17690992,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405177
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.21580601,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405216
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474404960,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733250404.958294,
+                        "expiry": 7776000.958293915,
+                        "value": "4687569957304565588",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404960
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.99792695,
+                        "value": "1306812995209777348",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.0427520275,
+                        "value": "7633968060635018419",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405043
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.176940918,
+                        "value": "2300707616311080673",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405177
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.215822935,
+                        "value": "7784387570958421221",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405216
+                    }
+                ]
+            }
+        }
+    },
+    "ouest-france.fr": {
+        "/": {
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474393686,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474423,
+                        "expiry": 30,
+                        "value": "m0o6wj11b12l2w",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474393685
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474404183,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733250404,
+                        "expiry": 7776000,
+                        "value": "1.1.968944337.1725474404",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474404183
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.968944337.1725474404",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474404648
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474393694,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602393,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0o6wj15rygbe93k%22%2C%22_t%22%3A%22mgclu0d8%7Cm0o6wj18%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725474393693
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474393695,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602393,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAOYBjVGAAMrAJwAffuMoA2AO4ArAIxSQAXyA",
+                        "same_site": "lax",
+                        "timestamp": 1725474393694
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474393215,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741289193,
+                        "expiry": 15814800,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU0OWMtYzc3Zi02MTY4LWJiNjAtNTMyMDYyNmNkOTI3IiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTg6MjY6MzMuMjA3WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE4OjI2OjMzLjIwN1oiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725474393208
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15814800,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYmU0OWMtYzc3Zi02MTY4LWJiNjAtNTMyMDYyNmNkOTI3IiwiY3JlYXRlZCI6IjIwMjQtMDktMDRUMTg6MjY6MzMuMjA3WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA0VDE4OjI2OjQyLjMwMloiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzpwb29vbC1WeWhDaXQ3TiIsImM6cmVzZWF1eHNvLVpXWEhrZ2ZlIiwiYzpzaXBhb3Vlc3QtS1Z4Z0hnZFEiLCJjOnNpcGFvdWVzdC1NTFI4Wm55VyIsImM6c2lwYW91ZXN0LURKck5iakhXIiwiYzpnb29nbGVhbmEtNFRYbkppZ1IiLCJjOmFidGFzdHljLU1ZVUpyd2VVIiwiYzpzaXBhcHVibGktNnFoOWl6Y24iLCJjOnNpcGFvdWVzdC1EaEc3azlLYiIsImM6dXRpcS1Ebm1aQzJmUCJdfSwicHVycG9zZXMiOnsiZW5hYmxlZCI6WyJkZXZpY2VfY2hhcmFjdGVyaXN0aWNzIiwiZ2VvbG9jYXRpb25fZGF0YSIsImFuYWx5dGljcy16RnJueW1ERSIsImF1dG9wcm9tby1WNFdENDlGdCIsInBhcnRhZ2Vzcy14WFpEd1lpaiIsImFmZmljaGVyZC1IYWJ5SFpmZCIsImFmZmljaGVyZC05N3dOQ2ttNCIsImNvbnRlbnVzYy16TWVnaUZLQiIsInB1YmxpY2l0ZS05bUtCQTZkQyIsInB1YmxpY2l0ZS1OV1hpcHo2TSIsInV0aWxpc2F0aW8tZktrZFZ4TEEiXX0sInZlcnNpb24iOjJ9",
+                        "same_site": "lax",
+                        "timestamp": 1725474402324
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474402327,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741289202,
+                        "expiry": 15814800,
+                        "value": "CQEbF4AQEbF4AAHABBENBFFsAP_gAAAAAAAAJvFB5C_cTWFicHJn4PskSYVWwEhSqMAhBAIJASwBCAoAtIwHlmAiIAmAgKAKABIAICZAAQBlCABABAAAQIABITCAIEGQABAAIKBAAAIRQgJACAxBGQAAMAIQgNJQEAAAkAeACBqoQFhACQAgigAQIAIlAICFAgAABBAgAAAIcQAAQmwQEgBAcAcCAADARFE8EMAhoAwCAAADEUA-ERAAAAMEgAwABBTUdABgACCmpCADAAEFNSUAGAAIKalIAMAAQU1LQAYAAgpq.f_wAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725474402324
+                    }
+                ]
+            },
+            "pa_privacy": {
+                "name": "pa_privacy",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474393692,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759602393,
+                        "expiry": 34128000,
+                        "value": "%22exempt%22",
+                        "same_site": "lax",
+                        "timestamp": 1725474393691
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%22optin%22",
+                        "same_site": "lax",
+                        "timestamp": 1725474402380
+                    }
+                ]
+            },
+            "ppid-1": {
+                "name": "ppid-1",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474402383,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741199202,
+                        "expiry": 15724800,
+                        "value": "L7RBtDZtfe6vLC3EPifPI7rz1sLzLHJBZSa",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474402382
+                    }
+                ]
+            },
+            "Wysistat": {
+                "name": "Wysistat",
+                "domain": "www.ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474393638,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759602393,
+                        "expiry": 34128000,
+                        "value": "0.9463803264281392_1725474393629%C3%AF%C2%BF%C5%931%C3%AF%C2%BF%C5%931725474393629%C3%AF%C2%BF%C5%931%C3%AF%C2%BF%C5%931725474393%C3%AF%C2%BF%C5%930.9463803264281392_1725474393629%C3%AF%C2%BF%C5%931759602393629",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474393634
+                    }
+                ]
+            },
+            "WysistatAC": {
+                "name": "WysistatAC",
+                "domain": "www.ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474393633,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728066393,
+                        "expiry": 2592000,
+                        "value": "WysistatAC",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474393629
+                    }
+                ]
+            },
+            "trc_cookie_storage": {
+                "name": "trc_cookie_storage",
+                "domain": "www.ouest-france.fr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725474404791,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757010404,
+                        "expiry": 31536000,
+                        "value": "taboola%2520global%253Auser-id%3D6fd53a11-9661-4ca3-aa68-67af122317ac-tuctdd22be4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474404790
+                    }
+                ]
+            }
+        }
+    },
+    "smartadserver.com": {
+        "/": {
+            "TestIfCookieP": {
+                "name": "TestIfCookieP",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474405098,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010406.096814,
+                        "expiry": 31536001.096813917,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405097
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.102330923,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405102
+                    }
+                ]
+            },
+            "pbw": {
+                "name": "pbw",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474405097,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010406.096753,
+                        "expiry": 31536001.096752882,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405097
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.102230072,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405102
+                    }
+                ]
+            },
+            "pid": {
+                "name": "pid",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474405098,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010406.096839,
+                        "expiry": 31536001.09683895,
+                        "value": "6766680345087300204",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405098
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.102468014,
+                        "value": "8577380489123058365",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405103
+                    }
+                ]
+            },
+            "sasd2": {
+                "name": "sasd2",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474405099,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560806.096891,
+                        "expiry": 86401.09689092636,
+                        "value": "q=%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6&c=1&l&lo&lt=638610712052198880&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405098
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.10263895988,
+                        "value": "q=%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6&c=1&l&lo&lt=638610712052197606&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405104
+                    }
+                ]
+            },
+            "sasd": {
+                "name": "sasd",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474405099,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725560806.096919,
+                        "expiry": 86401.09691905975,
+                        "value": "%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405099
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.10279393196,
+                        "value": "%24qc%3D1312892624%3B%24ql%3DMedium%3B%24qpc%3D90013%3B%24qt%3D152_2199_14041t%3B%24dma%3D803%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474405104
+                    }
+                ]
+            }
+        }
+    },
+    "taboola.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474404783,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010404.781849,
+                        "expiry": 31536000.781848907,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404783
+                    }
+                ]
+            },
+            "t_gid": {
+                "name": "t_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474404782,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010404.781795,
+                        "expiry": 31536000.781795025,
+                        "value": "6fd53a11-9661-4ca3-aa68-67af122317ac-tuctdd22be4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404782
+                    }
+                ]
+            },
+            "t_pt_gid": {
+                "name": "t_pt_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725474404783,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757010404.781828,
+                        "expiry": 31536000.781827927,
+                        "value": "6fd53a11-9661-4ca3-aa68-67af122317ac-tuctdd22be4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404782
+                    }
+                ]
+            }
+        },
+        "/ouest-france-ouest-france/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/ouest-france-ouest-france/",
+                "current_label": 0,
+                "label_ts": 1725474404784,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_87b667688a3796a6d2dc26fa507b9ced_6fd53a11-9661-4ca3-aa68-67af122317ac-tuctdd22be4_1725474404_1725474404_CIi3jgYQuZ5BGJjtp_KbMiABKAEw4QE4kaQOQIuwDkiLo9kDUKMGWABgAGi7xcTSmar-r0ZwAQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404783
+                    }
+                ]
+            }
+        }
+    },
+    "auth.ouest-france.fr": {
+        "/": {
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "auth.ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474404626,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726079204.624622,
+                        "expiry": 604800.6246221066,
+                        "value": "vhohlqCP89dfhdHfaMGM93an5RHC2uaPWlOdkB1VGTeK6Ayii+DT5tUWF5IdaPEX/DGtIEFX7Sx7cuE4hLGRQJX0rZFJ650MnLiJS4YN42LFCG6QnucfhA5Zw0Vx",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474404625
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604799.9475650787,
+                        "value": "gVRIah7ic2KyWCtxIvIZNOJAj4R3uBd0SIJ/9Mv2ydFJuBRBVyDsaDN5w0zkqPRvxoplgbM04oh4C3DZ48Wz79uEzsfbGmhVHWzL45173pudSSnqmGEvFSM7+mGj",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474404948
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "auth.ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474404628,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726079204.624683,
+                        "expiry": 604800.6246829033,
+                        "value": "vhohlqCP89dfhdHfaMGM93an5RHC2uaPWlOdkB1VGTeK6Ayii+DT5tUWF5IdaPEX/DGtIEFX7Sx7cuE4hLGRQJX0rZFJ650MnLiJS4YN42LFCG6QnucfhA5Zw0Vx",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404627
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604799.9476399422,
+                        "value": "gVRIah7ic2KyWCtxIvIZNOJAj4R3uBd0SIJ/9Mv2ydFJuBRBVyDsaDN5w0zkqPRvxoplgbM04oh4C3DZ48Wz79uEzsfbGmhVHWzL45173pudSSnqmGEvFSM7+mGj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404949
+                    }
+                ]
+            }
+        },
+        "/auth/realms/sipa/protocol/openid-connect/3p-cookies": {
+            "KEYCLOAK_3P_COOKIE": {
+                "name": "KEYCLOAK_3P_COOKIE",
+                "domain": "auth.ouest-france.fr",
+                "path": "/auth/realms/sipa/protocol/openid-connect/3p-cookies",
+                "current_label": 0,
+                "label_ts": 1725474404630,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725474464.628113,
+                        "expiry": 60.62811303138733,
+                        "value": "supported",
+                        "same_site": "unspecified",
+                        "timestamp": 1725474404629
+                    }
+                ]
+            },
+            "KEYCLOAK_3P_COOKIE_SAMESITE": {
+                "name": "KEYCLOAK_3P_COOKIE_SAMESITE",
+                "domain": "auth.ouest-france.fr",
+                "path": "/auth/realms/sipa/protocol/openid-connect/3p-cookies",
+                "current_label": 0,
+                "label_ts": 1725474404629,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725474464.628038,
+                        "expiry": 60.62803792953491,
+                        "value": "supported",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474404628
+                    }
+                ]
+            }
+        }
+    },
+    "cdn.taboola.com": {
+        "/": {
+            "abLdr": {
+                "name": "abLdr",
+                "domain": "cdn.taboola.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725474403373,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725485203.370777,
+                        "expiry": 10800.370776891708,
+                        "value": "26",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725474403371
+                    }
+                ]
+            }
+        }
+    }
+}
